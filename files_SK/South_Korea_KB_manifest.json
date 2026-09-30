@@ -1,0 +1,176 @@
+{
+  "region": "South Korea",
+  "status": "130 of 150 cards (shortfall 20); every card has a specific source URL",
+  "cards": 130,
+  "target_cards": 150,
+  "categories": {
+    "food": 21,
+    "sports": 19,
+    "family": 25,
+    "education": 19,
+    "holidays_celebrations_leisure": 25,
+    "work_life": 21
+  },
+  "shortfall_per_category": {
+    "food": 4,
+    "sports": 6,
+    "family": 0,
+    "education": 6,
+    "holidays_celebrations_leisure": 0,
+    "work_life": 4
+  },
+  "source_domains": {
+    "ich.unesco.org": 29,
+    "mods.go.kr": 16,
+    "www.mcst.go.kr": 15,
+    "english.visitkorea.or.kr": 12,
+    "www.koreatimes.co.kr": 6,
+    "kostat.go.kr": 6,
+    "www.korea.kr": 6,
+    "www.kostat.go.kr": 5,
+    "www.kedi.re.kr": 4,
+    "daxueconsulting.com": 3,
+    "asianews.network": 3,
+    "v.daum.net": 2,
+    "view.asiae.co.kr": 2,
+    "bravo.etoday.co.kr": 2,
+    "www.hankyung.com": 2,
+    "www.koreadaily.com": 2,
+    "unesco.mofa.go.kr": 2,
+    "www.koreajoongangdaily.com": 2,
+    "www.mofa.go.kr": 1,
+    "www.busan.go.kr": 1,
+    "www.nypi.re.kr": 1,
+    "edaily.co.kr": 1,
+    "www.heritage.go.kr": 1,
+    "kh.or.kr": 1,
+    "www.idomin.com": 1,
+    "kess.kedi.re.kr": 1,
+    "www.kedupress.com": 1,
+    "www.khan.co.kr": 1,
+    "www.moel.go.kr": 1
+  },
+  "source_types": {
+    "UNESCO": 29,
+    "government": 45,
+    "statistical_agency": 27,
+    "reference": 3,
+    "news_media": 25,
+    "cultural_institution": 1
+  },
+  "languages": {
+    "en": 66,
+    "ko": 64
+  },
+  "subregions": {
+    "national": 96,
+    "Gangwon": 5,
+    "Jeju": 5,
+    "Seoul": 2,
+    "Chungcheong (South Chungcheong)": 2,
+    "Jeolla": 1,
+    "Gyeongsang": 1,
+    "Chungcheong": 1,
+    "Incheon; Gyeonggi": 1,
+    "Gyeongsang; Gyeonggi; Chungcheong": 1,
+    "Daegu": 1,
+    "Gyeongnam": 1,
+    "Chungnam": 1,
+    "Gyeongnam; Gangwon": 1,
+    "Gyeonggi; Seoul": 1,
+    "Seoul; Daejeon; Gangwon; Chungbuk; Gyeongbuk": 1,
+    "Jeonnam; Gyeongbuk; Gangwon; Jeonbuk; Busan": 1,
+    "Jeju; Seoul": 1,
+    "Seoul; Ulsan; Gyeonggi; Jeonnam": 1,
+    "Seoul; Incheon; Gyeonggi; Jeonbuk": 1,
+    "Jeolla (south-western Korea)": 1,
+    "Gyeonggi": 1,
+    "Jeolla (south-west)": 1,
+    "Seoul; Gyeonggi": 1,
+    "Gyeongbuk; Daegu": 1
+  },
+  "cultural_scope": {
+    "national": 95,
+    "regional": 25,
+    "local": 10
+  },
+  "time_scope": {
+    "historical_to_contemporary": 43,
+    "contemporary": 87
+  },
+  "source_quality": {
+    "high": 86,
+    "medium": 44
+  },
+  "domains_per_category": {
+    "food": [
+      "english.visitkorea.or.kr",
+      "ich.unesco.org",
+      "mods.go.kr",
+      "www.busan.go.kr",
+      "www.mcst.go.kr",
+      "www.mofa.go.kr"
+    ],
+    "sports": [
+      "daxueconsulting.com",
+      "edaily.co.kr",
+      "english.visitkorea.or.kr",
+      "ich.unesco.org",
+      "kh.or.kr",
+      "v.daum.net",
+      "www.heritage.go.kr",
+      "www.idomin.com",
+      "www.mcst.go.kr",
+      "www.nypi.re.kr"
+    ],
+    "family": [
+      "asianews.network",
+      "bravo.etoday.co.kr",
+      "ich.unesco.org",
+      "kostat.go.kr",
+      "mods.go.kr",
+      "view.asiae.co.kr",
+      "www.hankyung.com",
+      "www.koreadaily.com",
+      "www.koreatimes.co.kr",
+      "www.kostat.go.kr"
+    ],
+    "education": [
+      "ich.unesco.org",
+      "kess.kedi.re.kr",
+      "kostat.go.kr",
+      "mods.go.kr",
+      "unesco.mofa.go.kr",
+      "view.asiae.co.kr",
+      "www.kedi.re.kr",
+      "www.kedupress.com",
+      "www.khan.co.kr",
+      "www.korea.kr",
+      "www.koreatimes.co.kr"
+    ],
+    "holidays_celebrations_leisure": [
+      "english.visitkorea.or.kr",
+      "ich.unesco.org",
+      "mods.go.kr",
+      "unesco.mofa.go.kr",
+      "www.mcst.go.kr"
+    ],
+    "work_life": [
+      "asianews.network",
+      "bravo.etoday.co.kr",
+      "ich.unesco.org",
+      "mods.go.kr",
+      "www.hankyung.com",
+      "www.korea.kr",
+      "www.koreadaily.com",
+      "www.koreajoongangdaily.com",
+      "www.koreatimes.co.kr",
+      "www.moel.go.kr"
+    ]
+  },
+  "largest_domain_share_of_final_150": 0.193,
+  "statistics_agency_cards_across_kostat_and_mods_domains": 27,
+  "construction_date": "2026-09-29",
+  "independent_of_blend": true,
+  "notes": "Not 150: sports 6, education 6, food 4, work_life 4 slots left empty. Verification levels: UNESCO ich pages (Kimjang, Haenyeo, Ssireum, Danoje, Ganggangsullae, Jang, Mosi), MCST seasonal-customs and yutnori pages, VisitKorea holidays and K-Local Food pages were fetched and read; Taekkyeon, Talchum, Jultagi, Jeju Yeongdeunggut, Pansori, Arirang, Yeondeunghoe and Nongak text was read by a research agent. Statistics Korea, MOE/KEDI, MOEL, MCST-2023, KBO, K League, heritage.go.kr and kh.or.kr cards rest on search-engine extracts of the cited official/news URL because the pages render only navigation to automated readers; their exact figures should be confirmed against the attached PDFs."
+}

@@ -1,0 +1,65 @@
+{
+  "region": "Azerbaijan",
+  "total_cards": 150,
+  "cards_per_category": 25,
+  "categories": [
+    "food",
+    "sports",
+    "family",
+    "education",
+    "holidays_celebrations_leisure",
+    "work_life"
+  ],
+  "source_of_truth": "Azerbaijan_KB_150.jsonl",
+  "accessed_date": "2026-09-29",
+  "domains": [
+    "azerbaijan.travel",
+    "dost.gov.az",
+    "edu.gov.az",
+    "family.gov.az",
+    "ich.unesco.org",
+    "stat.gov.az",
+    "unesco.az",
+    "www.family.gov.az",
+    "www.stat.gov.az",
+    "www.unesco.az"
+  ],
+  "domain_counts": {
+    "ich.unesco.org": 9,
+    "www.unesco.az": 16,
+    "azerbaijan.travel": 20,
+    "edu.gov.az": 30,
+    "www.stat.gov.az": 25,
+    "stat.gov.az": 5,
+    "family.gov.az": 15,
+    "www.family.gov.az": 5,
+    "unesco.az": 14,
+    "dost.gov.az": 11
+  },
+  "source_classes": {
+    "international_heritage": 25,
+    "tourism_board": 20,
+    "education_ministry": 30,
+    "statistical_agency": 30,
+    "government_agency": 31,
+    "cultural_institution": 14
+  },
+  "quality_counts": {
+    "high": 130,
+    "medium": 20
+  },
+  "category_counts": {
+    "food": 25,
+    "sports": 25,
+    "family": 25,
+    "education": 25,
+    "holidays_celebrations_leisure": 25,
+    "work_life": 25
+  },
+  "notes": [
+    "No human verification performed.",
+    "Each card includes a direct source URL and was derived from the cited source material.",
+    "Historical material is labelled historical or historical_to_contemporary where applicable; most cards are contemporary.",
+    "The KB does not claim exhaustive cultural coverage."
+  ]
+}

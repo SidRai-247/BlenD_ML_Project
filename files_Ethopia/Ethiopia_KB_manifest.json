@@ -1,0 +1,155 @@
+{
+  "country": "Ethiopia",
+  "status": "PARTIAL - 140 of 150 verified cards; 10 not written",
+  "total_cards": 140,
+  "target_cards": 150,
+  "cards_per_category": {
+    "food": 25,
+    "sports": 22,
+    "family": 25,
+    "education": 23,
+    "holidays_celebrations_leisure": 25,
+    "work_life": 20
+  },
+  "shortfall_per_category": {
+    "food": 0,
+    "sports": 3,
+    "family": 0,
+    "education": 2,
+    "holidays_celebrations_leisure": 0,
+    "work_life": 5
+  },
+  "languages": [
+    "en"
+  ],
+  "language_counts": {
+    "en": 131
+  },
+  "regions": [
+    "Addis Ababa",
+    "Afar; Somali; Benishangul-Gumuz; Gambela; pastoralist woredas of Oromia, SNNP and SWEP",
+    "Arsi; Shewa",
+    "Cushitic-language communities",
+    "Dawro (Tercha and Tocha woredas)",
+    "Ethiopian Highlands",
+    "Ethiopian Orthodox communities",
+    "General accounts (multi-ethnic overview)",
+    "Harari",
+    "Multiple regions (traditional games)",
+    "National",
+    "Oromia",
+    "Oromo",
+    "Orthodox Christian and Muslim communities",
+    "Orthodox Christian communities",
+    "Sidama",
+    "Somali Region",
+    "Somali-Issa communities",
+    "Southern and western Ethiopia",
+    "Study communities (rural village, Addis Ababa)",
+    "Tigray; Amhara; Oromia; North Shewa",
+    "Wolaita"
+  ],
+  "source_domains": {
+    "ess.gov.et": 29,
+    "ich.unesco.org": 26,
+    "www.everyculture.com": 20,
+    "moe.gov.et": 18,
+    "rsc.byu.edu": 8,
+    "www.dhsprogram.com": 6,
+    "pmc.ncbi.nlm.nih.gov": 5,
+    "capitalethiopia.com": 5,
+    "ethio.post": 5,
+    "www.fao.org": 4,
+    "ethiopianbusinessreview.net": 4,
+    "research.brighton.ac.uk": 3,
+    "agris.fao.org": 2,
+    "www.cafonline.com": 2,
+    "sciencepg.com": 2,
+    "inside.fifa.com": 1
+  },
+  "source_classes": [
+    "academic",
+    "government",
+    "international_organization",
+    "news_media",
+    "reference",
+    "sports_federation"
+  ],
+  "source_class_counts": {
+    "international_organization": 30,
+    "academic": 20,
+    "government": 58,
+    "reference": 20,
+    "sports_federation": 3,
+    "news_media": 9
+  },
+  "cultural_scope": {
+    "community": 59,
+    "national": 67,
+    "regional": 8,
+    "local": 6
+  },
+  "time_scope": {
+    "historical_to_contemporary": 56,
+    "contemporary": 83,
+    "historical": 1
+  },
+  "source_quality": {
+    "high": 85,
+    "medium": 55
+  },
+  "domains_per_category": {
+    "food": [
+      "agris.fao.org",
+      "ess.gov.et",
+      "ich.unesco.org",
+      "pmc.ncbi.nlm.nih.gov",
+      "rsc.byu.edu",
+      "www.everyculture.com",
+      "www.fao.org"
+    ],
+    "sports": [
+      "capitalethiopia.com",
+      "ethio.post",
+      "ethiopianbusinessreview.net",
+      "inside.fifa.com",
+      "research.brighton.ac.uk",
+      "sciencepg.com",
+      "www.cafonline.com"
+    ],
+    "family": [
+      "ess.gov.et",
+      "ich.unesco.org",
+      "rsc.byu.edu",
+      "www.dhsprogram.com",
+      "www.everyculture.com"
+    ],
+    "education": [
+      "ess.gov.et",
+      "ich.unesco.org",
+      "moe.gov.et",
+      "www.everyculture.com"
+    ],
+    "holidays_celebrations_leisure": [
+      "ess.gov.et",
+      "ich.unesco.org",
+      "rsc.byu.edu",
+      "www.everyculture.com"
+    ],
+    "work_life": [
+      "ess.gov.et",
+      "moe.gov.et",
+      "rsc.byu.edu",
+      "www.dhsprogram.com",
+      "www.everyculture.com"
+    ]
+  },
+  "largest_domain_share_of_final_150": 0.193,
+  "construction_date": "2026-09-29",
+  "independent_of_blend": true,
+  "discovery_sources_not_used_as_evidence": [
+    "FrameNet-Cultures (GitHub README read; built from EveryCulture, not BLEnD; data CSVs not opened)",
+    "AddisGPT-Amharic-Instruction (Hugging Face; LLM-assistant outputs; not used)",
+    "Muller01/amharic-conversations (not opened)"
+  ]
+}
