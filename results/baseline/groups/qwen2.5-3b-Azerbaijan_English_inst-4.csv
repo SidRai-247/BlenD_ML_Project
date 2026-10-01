@@ -1,0 +1,505 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-01,Food,Pancakes (Kapse),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-02,Food,Plov (Azerbaijani pilaf),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-04,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-06,Food,Plov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-08,Food,Nuts,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-09,Food,Pul-bura,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-16,Education,4,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-17,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-18,Education,Mathematics,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-19,Education,English,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,No specific celebrations for Halloween exist in Azerbaijan.,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,Attend New Year's Eve parties and fireworks displays,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,蛋糕 (cake),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,None provided,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-02,Education,university cafeterias,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-08,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-09,Education,6,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-35,Sport,Nurbek Nigmatov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-36,Sport,FC Astana,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-43,Sport,Sports arenas and stadiums,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-06,Food,Breakfast,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-08,Food,pomegranate,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-09,Food,künefe,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-11,Food,Saturday,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-14,Food,espresso,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Beer,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,7,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Fire-watching (Yegəlbakmaş),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-38,Family,"Typical type of house for a family in Azerbaijan often includes a yurt or a qanat (a traditional underground water channel). However, modern houses are also common. Given the options provided and focusing on the most commonly used structure, the answer would be:
+
+yurt",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-41,Family,Assyrene,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-42,Family,14,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-43,Family,4,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-45,Family,Beach resort,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-05,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-06,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-07,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-08,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-09,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-11,Sport,Ice Hockey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-15,Sport,Football,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-16,Family,4,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-18,Family,3,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-31,Education,9,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-32,Education,9,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-33,Education,7,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-40,Education,13:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-41,Education,0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-02,Work life,Friday,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-03,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-07,Work life,Berkovits Group,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-09,Work life,Nalchik (a type of flatbread),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-14,Work life,Crude oil,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-15,Work life,1.0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-16,Family,maternity ward,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-19,Family,Rose,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-22,Family,Jewelry,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-24,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-25,Family,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-26,Family,"1. Starting school
+2. Leaving home for higher education
+3. Entering the workforce",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-27,Family,None-given,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-28,Family,January 1st,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-29,Family,Senior citizens' (often considered 60+ years old) birthdays,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-31,Education,Tallinn,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-33,Education,cinema,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-34,Education,by bus,1,0.75
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-35,Education,Private schools,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-36,Education,Math,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-37,Education,Formal attire or uniforms,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-38,Education,Engineering,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-39,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-40,Education,I cannot provide an accurate answer as break times can vary significantly between schools and may not be standardized across all high schools in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-41,Education,Sneakers,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-42,Education,"Mathematics, Physics, Chemistry, Biology, and History",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-44,Education,Baku,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-45,Education,university spirit,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-01,Sport,Football (Soccer),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-02,Sport,Taflay (also known as Tafl or Shatranj),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-09,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-13,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-14,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-18,Work life,15,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-19,Work life,Jude (or Goybashen),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-21,Work life,13:00,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-31,Education,13:00,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-32,Education,Volleyball,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-36,Education,4,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-37,Education,4,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-43,Education,4,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-01,Food,Forks,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-04,Food,Coca-Cola,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-06,Food,Rakı,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-07,Food,1.8,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-09,Food,19:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-12,Food,Chicken soup,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-13,Food,shirin jadab (sweet pastry),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-15,Food,Fish,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,New Year's Day,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Bus,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Nauryz,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-37,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-38,Sport,None of the options provided,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Swimming,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Playing football (soccer),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-46,Work life,1.0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-48,Work life,馕 (naan),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-50,Work life,30,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-51,Work life,car,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-54,Work life,30,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-56,Work life,60,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-57,Work life,60,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-58,Work life,Doctor,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-61,Work life,Teacher,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-62,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-17,Education,university,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-24,Education,Russian,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-30,Education,Friday,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-32,Food,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-34,Food,tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-36,Food,Turkey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-39,Food,plov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-40,Food,Kebabs,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-43,Food,Palamu,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-51,Work life,14:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,New Year's Day,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"Watching parades and fireworks displays, attending cultural events, and honoring national heroes.",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Coffin,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,"The question as stated does not specify which type of pregnancy celebration or ceremony (e.g., baby shower, naming ceremony) or the specific cultural context within Azerbaijan. Therefore, no definitive answer can be provided without additional details.",,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Englez,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Nuts,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Gown and cap,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-16,Food,Hot tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-17,Food,banana,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-24,Food,Bread,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-31,Sport,Karate,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-35,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-36,Sport,Rustam Mammadov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-37,Sport,FC Astana vs FK Qarabag,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-38,Sport,FC Astana vs FK Karpat,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-40,Sport,Rustam Mammadov,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-41,Sport,Nargiz Aliyeva,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-44,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-45,Sport,"Football (Soccer), basketball courts, volleyball courts, tennis courts, and track and field areas",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-02,Food,espresso,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-04,Food,"There isn't specific information about the preferred hangover cure food for people from Azerbaijan, so no definitive answer can be provided.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-05,Food,plov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-07,Food,羊肉 (Yáng Ròu),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-08,Food,梨 (Jǐ),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-09,Food,Pilau (Rice),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-11,Food,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-15,Food,Kebab (specifically Azeri kebab),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-16,Sport,Rustam Mammadov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-17,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-18,Sport,Volleyball,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-19,Sport,Nargiz Aliyeva,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-20,Sport,Olympic Games,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-22,Sport,Russia,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-23,Sport,Ice hockey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-24,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-25,Sport,"Traditional sports include relay races, tug of war, and javelin throw.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-26,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-28,Sport,Nurbek Nigmatov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-29,Sport,Ruslan Mammadov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-30,Sport,Counter-Strike: Global Offensive (CS:GO),,
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Kapsemoke,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Gold jewelry,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,handkerchief,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,1,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,flowers,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Meat dishes,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,Eat traditional breakfast dishes,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,2017-08-30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,New Year's Day,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,kebabs,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,mosque,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-16,Work life,Saturday,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-17,Work life,08:00,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-18,Work life,13:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-20,Work life,Software Developer,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-25,Work life,Engineering,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-26,Work life,Baku Turkish Gas Company (BTG),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-31,Food,Qabuli lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-32,Food,bread,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-33,Food,12:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-34,Food,salt,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-36,Food,Khashlama,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-37,Food,Banana,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-38,Food,nuts,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-39,Food,KFC,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-43,Food,cookies,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-44,Food,drinks,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-02,Food,Plov (also known as Pilau or Vatna),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-04,Food,None辣椒酱,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-08,Food,Bread,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-15,Food,plov,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-27,Sport,Ruslan Mammadova,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-34,Education,classrooms,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-41,Education,10,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-53,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-54,Work life,Nakhchivan自治区,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-59,Work life,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-60,Work life,donkey,1,0.4
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-72,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-73,Family,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-74,Family,"The Most Popular Talk Show in Azerbaijan varies depending on the year and source of data, as popularity can fluctuate. Without specific recent data, it's challenging to pinpoint an exact title.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Nauroz,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-81,Holidays/Celebration/Leisure,7,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-83,Holidays/Celebration/Leisure,ney,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-01,Food,cotton,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-02,Food,Bread,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-05,Food,Turkish coffee,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-07,Food,Kebabs,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-14,Food,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-15,Food,Iced tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-20,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-29,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-30,Sport,Football (Soccer),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-58,Work life,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-64,Family,New Year's Day,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-76,Holidays/Celebration/Leisure,Gel (a type of board game) and Tafl (a variant of chess),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Turban and袷袍 (a type of robe),,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-89,Holidays/Celebration/Leisure,Turban,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-05,Food,Göygombe,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-11,Food,Watermelon,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-12,Food,Göyceqlı (Black Sea Region),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-21,Sport,Göyazdyar,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-26,Sport,Narman Ergashev,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-27,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-39,Education,United States,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-60,Family,nanny,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Raki,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Turkish coffee,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-73,Holidays/Celebration/Leisure,50,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-01,Food,羊肉,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-02,Food,07:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-04,Food,"Nuts, cheese, pita bread with various fillings, and baklava.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-05,Food,Qabtagh (Spicy Lamb Stew),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-07,Food,Nuts,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-08,Food,sumac,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-09,Food,Hot soup,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-13,Food,Absolut Vodka,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-14,Food,soup,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-15,Food,Pasta,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-16,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-17,Sport,Base jumping,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-18,Sport,100 meters,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-19,Sport,Aerials,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-23,Sport,Rustam Mammadov,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-26,Sport,Figure skating,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-27,Sport,Gennady Golovkin,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-30,Sport,Ruslan Gasimov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-31,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-32,Work life,Microsoft Office,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-38,Work life,Baku,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-39,Work life,Online platforms,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-44,Work life,3 months,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-45,Work life,Technology and e-commerce,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-49,Family,Video calls,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-51,Family,Hotel,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-54,Family,Apple,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-64,Education,20,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-70,Education,"Mathematics, Physics, and General Education Courses",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-71,Education,25,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-72,Education,Computer Science,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-73,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-74,Education,Hostels and dormitories,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-75,Education,45,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,Playing chess,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,Eid al-Fitr,1,0.75
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,Cakes,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,14:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-01,Food,Pretzel,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-02,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-04,Food,Narmin Gasimova,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-05,Food,Plov (Azerbaijani pilaf),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-07,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-10,Food,Brie,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-11,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-12,Food,falafel,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-17,Sport,Flags,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-18,Sport,Tickets,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-19,Sport,Baku Olympic Stadium,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-23,Sport,Nurbek Mansurov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-26,Sport,"""Zaza Zaza""",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-38,Work life,Technology and IT Industries,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-41,Work life,Rustam Ibrohimov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-47,Family,flowers,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-49,Family,The Baku-Talysh Mountains,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-50,Family,Abdullayev,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-55,Family,Islam,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-56,Family,English,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-59,Family,United States,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-68,Education,Suspensions or expulsions,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-69,Education,"Nurbergen Narzullaev, Vagif Mustafazade, and Elchin Ismayilov",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-70,Education,2,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-72,Education,Azerbaijan TLD (az) Wikipedia,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-75,Education,15,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Baku International Airport,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-87,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-90,Holidays/Celebration/Leisure,Four Seasons,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-05,Food,Toast,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-06,Food,Pizza,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-08,Food,Raki,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-13,Food,tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-15,Food,Khashlama,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-21,Sport,Table tennis,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-24,Sport,100m sprint,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-29,Sport,Olympic Games,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-58,Work life,Nurse,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Turkish coffee,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-07,Food,lagman,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-08,Food,rice,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-09,Food,pan,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-13,Food,Tomato,1,0.75
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-19,Sport,horse,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-66,Family,Unknown,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-01,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-03,Food,Shashlik,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-33,Work life,Nakhchivan,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-34,Work life,Caspian Region,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-62,Education,Baku State University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-63,Education,Baku Medical University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Credit card,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-80,Holidays/Celebration/Leisure,Baku Tourism Park,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-01,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-02,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-03,Family,Wheels on the Bus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-04,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-05,Family, dolls,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-06,Family,The Tale of Shahroud,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,conciliation hand抱拳,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-08,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-09,Work life,Unknown,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-10,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-02,Food,Nargileh (water pipe) cigarettes,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-06,Food,Shirin (or Shirni),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-11,Food,cumin,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-16,Sport,Golfing,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-20,Sport,Water polo,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-45,Work life,4-day workweek,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-47,Family,05/09,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-49,Family,Mosque,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-53,Family,Cakes and flowers,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-54,Family,Flowers,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-59,Family,3,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-65,Education,9,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-66,Education,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-74,Education,4000 EUR,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Picnicking,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,Baku International Film Festival,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,Tarokk,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Paris,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Gobustan Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-01,Food,grasshopper,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-04,Food,wine,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-05,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-15,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-27,Education,Secondary education,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-37,Education,Doctor,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-60,Family,Friday,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-65,Family,Fireworks,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-68,Family,Water,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,"""Adagad""",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-01,Food,Cookies,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-09,Food,olive,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-10,Food,pilaf,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-15,Food,Chay (Azerbaijani tea),1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-17,Sport,"Multi-use sports fields, playgrounds, walking/biking trails, tennis courts, basketball courts, football (soccer) fields, and sometimes swimming pools.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-21,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-24,Sport,None specifically listed,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-28,Sport,White,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-33,Education,There is no specific common dress code for school teachers in Azerbaijan; it varies depending on the institution and personal preference.,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-34,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-42,Education,Islam,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-45,Education,09/24,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-50,Work life,Shepherds,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-51,Work life,Fishermen,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-57,Work life,cattle,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-58,Work life,"Cattle, sheep, goats, horses, and donkeys",1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-59,Work life,None of the above,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-60,Work life,Unknown,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-71,Family,Candy,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-75,Family,Sedan,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-77,Holidays/Celebration/Leisure,candy,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-81,Holidays/Celebration/Leisure,Tuxedo or formal suit,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-82,Holidays/Celebration/Leisure,White wedding dresses,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Khash (a lamb soup),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Hip hop/Rap,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-02,Education,13:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-03,Education,18,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-12,Education,Baku State University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-13,Education,24,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-15,Education,14,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-20,Work life,18,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-21,Work life,16,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,There is no traditional Christmas meal in Azerbaijan as it is not widely celebrated there.,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"""Oohrigan Oohrigan""",,
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-06,Education,10/05,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-11,Education,07:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-20,Family,06/01,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-40,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-1,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-13,Food,Falafel,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-16,Sport,FC Astana,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-22,Sport,Baku State University,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-31,Family,Dog,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-32,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-37,Family,Clue,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-6,Food,Kabob (kebab),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-7,Food,"Nuts, pita bread with various fillings, and shashlik (grilled meat)",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-9,Food,Fish and chips,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-10,Family,30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-11,Family,25,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-13,Family,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-17,Sport,Ice Hockey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-21,Sport,streets,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-22,Sport,Walking,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-23,Sport,Walking,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-25,Sport,FC Astana vs FK Karpat,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-29,Sport,"None of the sports mentioned (hockey, football, basketball) have been confirmed as having the highest-paying professional leagues in Azerbaijan. The most accurate information would require checking current data on salaries and contracts for professional athletes in Azerbaijan.",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-30,Sport,"""Sports Today""",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,October 10,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure, bells,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Kapseşə (Stuffed Grape Leaves),1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Kapsemöy (a type of pudding),,
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-01,Sport,Water polo,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-03,Sport,Azerbaijan Premier League,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-05,Sport,FC Astana,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-09,Sport,Baku Chess Classic,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-11,Sport,Rustam Mamedov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-12,Sport,Ice Hockey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-15,Sport,Ice hockey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-19,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-21,Work life,Flexible working hours,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-22,Work life,1990s,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-27,Work life,Oil and Gas Industry,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-35,Family,dinner,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-36,Family,Going to the zoo,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-38,Family,Nauryz,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-39,Family,Ticket to Ride,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-41,Family,31,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-43,Family,2,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-44,Family,Plov (Rice with Veggies and Meat),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-45,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-48,Education,Gold Medal,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-49,Education,Azerbaijan High School Leaving Certificate Examination (AYAS),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-51,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-53,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-58,Education,Calculus,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-01,Education,university campus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-02,Education,Bus,1,0.6
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-04,Education,play,0,0

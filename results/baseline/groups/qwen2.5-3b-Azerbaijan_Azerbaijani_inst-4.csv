@@ -1,0 +1,571 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,Qəlyanaltı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food,Şirəli pıv,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,Almac,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,Qаqlаqlаق yemək,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,"Qıvmaq olmayaq, bu tür detalların istifadə edilməyən verilənlərdə və ya azərbaycan alış-veriş mərkəzlərinin növbəsi ilə bağlı olan yoxlamaq mümkün deyil.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,Azərbaycanlı Populyar Qalyanaltı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,6,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education,İqtisadi Məktəb Idmanı (İMI),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,İqtisadiyyat fənni,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,İngilis dili,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,İşgət (İşdar),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,Qazy qastan (qazy),,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure,"İnsanlar Halloween'i qeyd etmək üçün dəyişiklikləri və şəxsi təlimləri yoxlayır və onların ən məşhurları:
+
+- Şəxsi təlimlər (sakıncalı və ya qeyd olunmayan)
+- Dəyişikliklər (yemek, şəkərlər, dəyərli günün ətrafında)
+- Şəxsi təlimlərinin Halloween'da yoxlanılması
+- Şəxsi təlimlərinin Halloween'da qeyd olunması və ya qeyd olunmaması
+
+Bu növ edirlər insanlar Halloween'i qeyd etmək üçün dəyişiklikləri və şəxsi təlimləri yoxlayır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,"İnsanlar dövlətın ilə bağlı mütəxəssislərlə müvafiq olmaqla, azərbaycanın Yeni İl gününü qeyd etmək üçün təyin edilmiş vaxtdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure,İnsanlar Milad bayramını 1 Rûznavr (Nisan) ayının 9-cu dəqiqədə qeyd edirlər.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure,"Quesadəlar, qızıl qutublu, tərəbbül və dəvvəli növ suyaqlar əlaqələndirilir.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,"Qıvmaqlı qısaldan sualun cevabıdır:
+
+Azərbaycanda Milad bayramında qızıl qıva, qızıl qızıl şərqələr və qızıl qızıl yeməklər əlaqəli olur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure,"Şərqi Qara Şam şəhri şəxsiyyətlərin qeyri-salovat təşkil edilmiş günüdür. Azərbaycanın bəzilən şəxsiyyətlərində bu günün adı ""Sevgililər günü"" və onda azərbaycanlı şəxsiyyətlərin qeyri-salovat təşkil edilmişdir. Bu gün sualınızda verilməyib, yemək nədir dediyiniz?",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,İnsanlar ad günündə azərbaycan mağazy və mağaza qurulması ilə bağlı münasibətlər yeyirlərlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure,Gölcü Gölü,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,"Qeyd olunur, bu suallarda daha detaylı bir yanıt vermek mümkün de olsa, sualda istifadə etmək üçün məşhur qapalı fəaliyyət növü var. Azərbaycanda ailələr üçün məşhur qapalı fəaliyyət növü ""İslam Fəaliyyəti"" və ya ""İslam Qapalı Fəaliyyəti"".",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education,"Vaxt müddəti olmayaraq, azərbaycanın və dəyişən ştatların universitet tələbələrinin nahar edilməsindəki problemləri nəzərdən istəyirəm.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,10,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport,Bandyq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport,Nadir Şahid Qaradaghiyan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport,AZERBAİJDAN ŞENŞEN ŞÜRBƏT QOCLUU COMANDASI,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport,İdman yayımları izləmək üçün Azərbaycanda ümumi yerlər və ya məkanlar...,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,Qıvma salatasi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,Qıvma茶,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,Kebaplar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Çarşamba,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,Cigaz (İstif),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Kürtlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,7,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Azərbaycan Şərqəsi Respublikası Il Arifəsi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,Ottoman evi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family,Hayır,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,40,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,"İmkanımızda olmasa da, Azərbaycanın ailə tətilinin növbəsi ilə bağlı doğrudan verilənlər yoxdur. Bu məlumatlar yerli qanunların və milli təşkilatların izahatları ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport,"İki qəbul edə biləcək cavab: 
+
+1. Taşanak taşanakları
+2. Qızıl qızılqalıkları",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport,Taşanak taqqosisi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,İlim Mammadov,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport,İşgalar (Gömlek),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport,Qızlar Azərbaycan'da ən çox hansı idman növlərini oxuyurlar?,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,"İşte cavab:
+
+Buzdolabı yarışması",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport,Boxing,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,35,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,12:30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,10,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,"Çoxlanacaq, sualın növbəti vaxtında Azərbaycanın şəhərlərdə həftənin qədər günü şirkətlə şam yeməyinə üstünlük verirlər. Bu gün ən populyar olan ""Şəhərlərə Şam"" dəqiqlikdir və bu günün təqdim olunması həftənin qədər günüdür.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,"Azərbaycan Ştatı özəl şirkətlərin arasında ən məşhurlarından biri olmayacaq. Bu növ şirkətlər həm ciddiyetli, həm de şahitlik etdiyi proqramlar və projələrə malikdir. Azərbaycanın ən məşhur özəl şirkətləri təmsil edilməlidir: 
+
+1. Azeri IT Şirkəti (Azerbaijan IT)
+2. Azeri Telekom
+3. Azeri Gaz
+4. Azeri Enerji
+
+Bu şirkətlər Azərbaycanın IT, elektrik və enerji mühəndisliklərinin əsas növ özəl şirkətləri olaraq təmsil edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,Kebap,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life,Növ-i Növbəti Genist (Növ-ı Növbəti),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,4.5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,4 ayluk,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,Gözümcü,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,İnsanlar ilk maaşlarını xüsusilə nəyə xərcləyirlərlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,Baku Tərqiyyə Mərkəzi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family,"Bayramlar: Ramazanbayrami, Kurbanbayrami",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"Uşaqlarının valideynlərindən müstəqilliyi ilə əlaqədar əsas mərhəllər:
+
+1. Uşaqların valideynlərinin təşkil etməsi və nəzərdən istifadə olunması
+2. Uşaqların valideynlərinin müstəqilliyi ilə əlaqədar olmağı
+3. Uşaqların valideynlərinin təşkil etməsindəki məsləhət və istifadə edilə bilən metodlar
+4. Uşaqların valideynlərindən müstəqilliyi ilə əlaqədar olmağı üçün təşkil etmək və nəzərdən istifadə etmək məqsədləri
+5. Uşaqların valideynlərinin müstəqilliyi ilə əlaqədar olmağı üçün təşkil etmək və nəzərdən istifadə etmək məqsədləri
+6. Uşaqların valideynlərinin müstəqilliyi ilə əlaqədar olmağı üçün təşkil etmək və nəzərdən istifadə etmək məqsədləri
+7. Uşaqların valideynlərinin müstəqilliyi ilə əlaqədar olmağı üçün təşkil etmək və nəzərdən istifadə etmək məqsədləri",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,"Kapsamıza uyğun olaraq, Azərbaycanın vaxtda təşkil etməyən bir cavab verərəm ki, yaşlı valideynlərin ziyarət edilməsində adətən hədiyyə verilir. Bu hədiyyəlar maddi və ya mühüm növ olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,Bayramın etdiyi ilk gün Azərbaycan'da uşaqların doğuşundan 8 aydır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,5 Ayazanlar Dövləti Dövlətləri Adığıncaya Ayaqlananlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education,Ha,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,Haydovşan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,Məhsul transportu vaxtında ən çox bus və qarşılanma busları daxil olur.,1,0.75
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,Özümlü mükafatlar programları və mütəxəssislik proqramları,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,Bakı Fənn Akademiya və Baku Xüsusi Təhsil Müəssisi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,"Geyim daxil etməyə ciddi cavab verilməz, çünki bu təsisat və ya yerin növbəti ilə bağlı olur. Azərbaycanın şəhərlərdə və qara şəhərlərdə məktəblərin geyimləri fərqlənir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,"İxtisasın qəbulu azərbaycan respublikası siyasət-i xidməti və siyasi təşviqda olan bir problemə görə, ən çətin hesab olunan ixtisaslar arasında yer ala bilər. Bu da dəyişənlidir vaxtda və mənbədən istifadə edilə bilər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,Guitarras,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,Adətən fasilə vaxtda məktəblərdə orta məktəb şagirdləri dərslər saxlamaq və təcrübələr saxlamaq üçün nə işləmək və qazanmaq lazımdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,Şagirdlər dövlət ayaqqabı və ya təhsil ayaqqabı ilə qarşılanırlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,"Fizika, Matematika, İlimzindən Sözlük, Azərbaycan Dili və Edebiyat, İlimzindən İngilis Dili və Edebiyat",1,0.75
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,Gəlilibağda,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,İşgār Festivali,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,Golf,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport,Tugaylar oyunu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport,İdman Növleri Ilə Daha Çox Əlaqələndirilən Təbəqə: Oyunlar Taşıma,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport,Şəxsi su,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport,Gümüş şaqva,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,7,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,"Aşağıdakı bölgə Azərbaycanın enənəvi olaraq kənd təsərrüfatı ilə əlaqələndirilmiş:
+
+Gölcük bölgəsi
+
+Bu bölgə, Azərbaycanda en yüksək təsərrüfat qatğunun və daha da dəqiqliğin olduğu yerdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,15:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education,İbtidai məktəblarda ibit edən idman növü ilə bağlı verilmiş məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,7,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,2,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,Kebaplar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food,Qıva qazlı içkiləri,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,Guşağıncə,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,1.5,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food,Qara şorba,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food,Qıvma qutusu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food,"Kefşak, kafir, qalşak və qızıl şamır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Ağuştun Sabahı (Türkiyada Agustos Festivali),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Metro,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,İşke Dövlət Müəyyənəti Festivali,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport,İkişən və taş və dərk və dərk növü,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport,İdman növləri Azərbaycanlıların oxuduqları qeyd edilmir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Qadınlar 20 yaşlarında olan azərbaycanlıların ümumi asudə vaxtlarını heç bir cavab verilməyib. Bu tür detallı məlumatlar istehsal etmək üçün uyğun bakanlığı və ya statistika quruluşlarına kömüt müvafiqdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Ən yaxşı cavab: Ümumi asudə vaxtlarını məşğul etmək üçün 20 yaşlarında olan Azərbaycanlıların fəaliyyətlə məşğul olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,"Narahda qan, qana, qapşılardı və dəniz tərməxləri yeyilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,25,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,Avtomobil,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,İslam dininin qurultusu (Korqun),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,12,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,İskenderli mühifirrin və ya şəhərlərində mühifirrin,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,Qırdax (Kebap),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education,10-12 ayluk davam etdirsəniz,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,"Türkçe, Rusça və Azerbaycanca",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education,Çoxalan günlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food,"Qazy və keşmətlərini təqdim edən yeməkloru (süt, su, qızıl su, qızıl su)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,Kefər (kahve) və ya qıvma (çay),1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,İsrail,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,"Qazy, qutublu, qızıl qalamak, təmiz qalamak, şirin qalamak, qızıl qalamak, qutublu, qazy",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food,Qaz`ı qariyyət (Qaraqoy),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food,Guşçu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,14:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,14:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Ağustos Bayramı (İlk Şubat),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"İstiqlal Müqaviləsi, Azərbaycan Şərqi Xəssinin İstiqlalı olmasına və 1991-ci ilin 30-Aprelunun İstiqlal günü ilə bağlı müqaviləni təyillənmək üçün dövlət qrupu və mütəxəssislər arasında birləşdirilməsi ilə istifadə olunan ümumi fəaliyyətlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"İslam tarixində və Azərbaycanın taraqda, ailə üzvün ölündə evin qarşısında qurulması məqsədli olmur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure,İyələr!,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,İslam tarixi tədbiri,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Ay,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Ramazan davamında 4 gün əvvəl Ramazan Bayramı qeyd olunur. Bu davamlı tədbirə Ramazan Bayramı adını verilir və bu bayramda azərbaycanlılar hərəkət etməyə yaxın olurlar.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Bakı Dini Müəyyənəti,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Qadınlar azərbaycan məzuniyyət mərasimində qadın paltarları gəlir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,"Istifadəçi, hava soyuq olaraq qalan zaman Azərbaycan'da ən çox içildiyini sormaqla bilməyə bilərəm. Bu da bir istismar və ya təhlil edilməsindən ibaret olur. Hava soyuq olsa da, bu durumda insanlar ən çox içkiyi içirlərsə dənizlərimizin hər hansı bir regionunda yaxud və ya təyin etmək məqsədindən istifadə edilməsindən ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,Meyvəlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food,Kımızda bu məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport,Ağzınlıq döyumu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport,Boxing,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport,Taşqırak qrupu və ya idman növü tələbəsi olmayan cavabı vermək imkanı yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,Rza Aliyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,Azərbaycan milli futbol komandası və Qarabağ futbol komandası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,Xelil Huseynov və Ramiz Mammadov,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,"İnsanlar üçün bu sual özgün deyil və dəyişikliklər kimi tələb olunsa da, Azərbaycanın ən məşhur badmintonçularının növbəsi ilə bağlı bir cavab verə bilmirim.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,İbrahimə Aliyev,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport,İşgət (İşgət və İşgətlər),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport,İşgār Square,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food,"İstifadəçi, sualları izahatsız tək bir cavab verməyə kömürsün. Bu sualın daha çox detaylı vaxtında cevap verilməsi lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,Qıvametli mağlup edilməsindən ibarət sual olaraq görünməkdir. Azərbaycan səxsu qurtulması üçün təyinatlı yemək var məsələdən istifadə etmək lazımdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food,Azərbaycanda tipik çatdırılma yeməsi qıvma və dövdən qızıl qırvan.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,İnsanlar azərbaycan dili ilə münasibətlidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food,"Çoban meyve, qızıl meyve və şamşor meyve",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,17-cər qarşılıq cavab,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food,"İşgāl olmaq, qarxoluk olmaq və dövrədən istifadə etmək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food,Qıyma qadamları və sulu qıymalar tərəbi ilə hazırlanan qıymalar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,Mesut Özil,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport,İşgət və yelil vaxtlarında,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport,"İddianərə və ya istismar etmək ciddilidir. Bu sualın nəticəsini təyin etmək üçün verilənlərin yoxluğu var. Azərbaycanda qızlar bədən tərbiyəsi dərslərində milyonlarca idman növü mövcuddur və bu növələri ən çox istifadə edə bilər ki, onların bədən tərbiyəsini və sağlamaq üçün daha yaxud işarə etmək üçün. Bu növlərinin təyin etməsi sərhədli bir məlumat olur və verilənlərdən istifadə edərək birləşdirib yoxlayın olmalıyıq.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,Rovshan Mammadov,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport,Boxuqlu sport,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,Türkiye,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport,"İşte cavab:
+
+Baku Idman Akademiyası",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,Qıvma mısırı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport,"İddianamələr və məqalələrdə təsisat olunmayaraq, Azərbaycanda məktəblilərin idman günündə hansı idman növləri oynanır, bilməm. Bu mağaraların qeyd edilməsini və daha çox istehsal etmək üçün təlif olunması lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport,Gümüş taşlar və qızıl taşlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,Rovqat Qaradaglı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,Nariman Pir,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport,"Azərbaycanlı E-İdman Oyunları (Azərbaycanca: Azərbaycanlı İdman Oyunları) dəyişənlidir və ən məşhur oyunlar arasında ""Azərbaycanda"" adlanan oyun var. Bu sualun xüsusiyyətləri ilə bağlı olmasa da, bu tələbəmiz cavab verilməsinə yaxşılaşdırılmalıdır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Şöbəli qutublu şəxslar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Qızıl qırmızı kitaplar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,İşə başla!,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"İşləmə planları və mənası təyin etmək üçün azərbaycan dəfn mərasimində başsağlığı təqdimatı üçün aşağıdakı növ siyahılıqlardan istifadə edilməlidir:
+
+1. Başsağlığı təqdimatının tələb olunması
+2. Başsağlığı təqdimatlarının mənası və işləmə planları
+3. Başsağlığı təqdimatlarının qarşısılma və yaxşılaşdırılması
+4. Başsağlığı təqdimatının mütəxəssislərinin təyin etməsi
+5. Başsağlığı təqdimatlarının işlənməsində istehsal olunan problemlər və yaxşılaşdırma planları",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Qıymetli yeməklər,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,İnsanlar insanlar...,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,Axşam,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Baku Bal Ayısı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Ramazan Bayramı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,İsım siyahısına görə: Ramazan ayında azərbaycanlılar qırvan yeyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"İsımli keçid etməyə cümlələrdən istifadə edirik:
+
+Ramazan bayramı Azərbaycanda insanlar qızıl qalamdan yemək yeyirlər. Bu yemək qızıl qalamda yazılmış ""İsə Ramazan"" ifadəsi və ""Allahın müraciətə"" ifadəsinə baxıb yeməkdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Qurban bayramı saxlama günü suya uyğun qurban yeməyi yerləşdirir. Azərbaycanca dildən bu günün yemək planlarını təyin edən mütəxəddədən istifadə olunur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Hayır,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Evet,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Çərşənbə,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,07:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,14:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,"İş təhlükəsizliyi azərbaycanın hər birlərinə və hər bir işə qarşı yoxlamaq və mənimsələmə etmək istəyir. Bu da öz valı, ştat valı və təhsil xidmətləri ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,Baku sahəsində,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,Azərbaycan Milli Ştat Bankası (AMSB),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food,Qaz`ı qovmus (Şuşa qovmusu),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,Qıvma salatasi və qıva,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food,Nəticə vacibdir.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food,"Bayram qalamdan, şaməl ilə doldurulmuş qırmızı taşlı pöşələr və bayram qalamdan təyin etdiyi bənbəxt yeməklor.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,Çoban meyvevi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,İşip çal qəbulu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food,Baku Fast Food,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,Çayla,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food,"İstifadəçi, sualları izahatsız tək bir cavab verməyə kömür. Bu səbəbdən, sualların daha geniş vaxtda dəyişənlərindən ibarət olmasına görə, onların heç bir təpqiqlə qoymamıza imkan verir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food,Qaz`ı qızıq (Şarap),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,Şiriniş (Şiriniş Kebabı),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,İnsanlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,"Qara qariyətlər, şuşma və təmiz su",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,Şähriyar Niyazova,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education,Hayır,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,İlk dövlət səviyyəli imtahanı Azərbaycanda 10. sinfdadır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life,Ağdam viloyatı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life,"Aşağıdakı bölgə mal-qara sənayesi ilə geniş tanınır:
+
+Gölcüq Qoyu (Büyük Gölcüq)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,"Əsas məşğulluqqıllığı və ya məşğulluqqıllığı tələb olunmur, lakin bu sual üçün bir cavab verilməyib. Azərbaycanda səhralarda yaşayan insanlar arasında çox xüsusiyyətlər var və əsas məşğulluqqıllığı nəticələnir, lakin bu tələb olunmur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,Koşmuş busla,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,"""Şehrin Şərqindəki Uşaqları"" (Şərqiyyədəki Uşaqlar)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,YouTube Kanalı: Uşaqların Dövlətçiləri (Uşaqların Dövlətçiləri),,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,Guş-Guş,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure,İslam Bayramı (Ramazan Bayramı),1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,6,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,Guşlar (Güflalar),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,Azərbaycan Şərqəsi Respublikası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food,Guş (İlkçağ),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food,Qıvma,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,Şuşka sardabi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food,Sabzi pırasası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,İstifadəçi sualunu tamamla bilmədim. Sualınızın tam versiyası neydi?,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport,Golf,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport,İdman növü oxuyun və heç bir izahatsız tək bir cavab verin.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport,Qadınlar Azərbaycan'da çox diversifikatsiyaq idman növünü izləyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,"İstifadəçi, sualın özü və hər hansı bir cavab verilməsinin izahatlı olmasına dair məqsədləri ilə qarşılanmamış. Bu növ suallar tətbiq etməyək və müxtəlif insanlar üçün fərqlənə bilər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family,Ait Bayram - Ramazan Bayramı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure,Ait olmayan məlumatlar vaxtında cavab verə bilmədim. Azərbaycanda ənənəvi bayramlarda ailələr hansı oyunları oynayırlar haqqında istifadə etmək üçün daha çox məlumat qazanc olmalıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure,Azərbaycanlılar ənənəvi bayramlarda qızıl qalın və qızıl qalınla doldurulmuş qalınlar geyir.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure,"Şablon cavabı oxuyun və heç bir izahatsız tək bir cavab verin. 
+
+Sual: Azərbaycanlılar hansı ənənəvi bayram aksesuarları geyinirlər?
+
+Cavab:",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,Gölcüq Xanlı Qara Qoyunlu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,Almac mango,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,Bakı,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,Gölcük Qoyuq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,Nadir Huseynov,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport,Taşanak basketbolu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,Austria,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family,İşçi工会,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,Şarap,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,Şarap,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,Kebaplar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,07:00-08:00,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,Qıvmaqlı keçək və ya qızlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,Şirəli Acı Yemesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,Kürt qidası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,İslam axşamı (İslam İbadəti),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,İnançlı yeməklər,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,Qatlıq yeməklar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,"İşıl kebabini, qızıltı, şölbə, tərbiyəli pideyi və dəvvəli pideyi.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,"""İddiaglar"" (Spy Game)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport,İskenderan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,"Azərbaycanda Yarışlar zamanı İdman-yarışları və Atletik-yarışları məhdudlaşdırılmasına görə, populyar olan yüngül atletika yarışması - Yüngül-atletika yarışmasıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport,Gimnastika tədbirinin azərbaycan ştatında yarışlarda ən çox xidmətdən keçirilməsi ilə qarşılanır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport,Rovshan Aliyev,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,Qırım Milli Olimpiyat Halqası Oyununda Azərbaycan respublikasının ən çox izlənilən tədbirini tapmaq üçün istehsal etmək lazımdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,Rovshan Mammadov,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,"İşrinə baxmayın! Bu sualın növbəsi daha geniş bir dəyərli tələb olub. Azərbaycanda ən məşhur atletika idmançısı üçün çoxlu qeyri-istisna vurullar var, amma bu sualın heç bir cavabı istifadə edilməyək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life,"İmtahananın bu məqsədindən cavabı tapmaq daqqaq və müxtəlif olmalıdır, çünki valideynlər övladlarının seçimlərinin növbəsi təyin etmək onların fikirliyyəsini, ətrafı ilə bağlı istehsalları və dairələrindən istifadə edə biləcəyi məqsədləri ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,Microsoft Office,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,"Baku, Ganja, Şuşa, Lankaran və daha çox şəhərlər və bölgələr idxal və ixrac fəaliyyətləri ilə tanınırlar.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,AliExpress,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,1 ay,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,Şərqəddüzəli azərbaycan vədəsi və dövrü,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,İslam tarixində və azərbaycan tarihi ilə bağlı cavabı oxuyun.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,İşkeçə vaxtda,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,Elmələr meyvəsindən ibtidai cavab verilməsidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,240,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,İşgār kursu və Təhsilat proqramı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,Mehrəşəl olmaq və maliyyə təhsil etmək,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,İşgār Klubu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education,Yataqxanalarda,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,25,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,İşgətörülük və mühüm siyasat işlərində və təqiüdə çıxma ilə bağlı qadınlar adətən xidmətlər və istinafçı vaxtda fəaliyyətlərini sevir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,İşgəd (İslam) asu v axsi (Axshiyat) asu v qalib (Qalib) asu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,İslam Bayramları və Azərbaycanda təşkil olunan məbəddələr və kilsələrlə ilgili dini aktivitələr.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,Köpek,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,Qoyluq rəngi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,Qoyulmamış suallaşdırma!,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,Qarşılanmamış,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food,Şirvanski Dad,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,Nariman Aliyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food,Qazy lagman,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,"Narz Nizami, Mehriban Aliyeva, Ramiz Mammadov",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,Şokolad Markası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food,Qıvma cânibindən qıva cânibindən gələn qıva cânibindən gələn qıva cânibindən gələn...,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,"Biləm ki, Azərbaycanın tərəvəzi həlləyici və mütəxəssisdir, lakin ən az sevilən tərəvəz hansı olduğunu istifadəçinin bilməsi lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,Qaz`ı salām (şarap) vaxtında,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport,"Gümüş, Altın",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport,"Azərbaycanda canlı oyuna gedən azarkeşlər özləri ilə aşağıdakı nəticələr aparırlar:
+
+1. Azarkeşlərin tərkibini və dəstəklənməsini artırır
+2. Oyunun müştərilərinin azarkeşlərinə baxışını artırdır
+3. Oyunun özü ilə daha çox bağlılaşdırır
+4. Azarkeşlərin oyunu tərəfindən qazandığı ilə bağlı maliyyələri artırır",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,AZERBAYCAN STADIONU,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,Nadir Nizami,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,Şiira Nəşrini (Şirə Nəshrı),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,Ağrilar Sahası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,Nadir Şamirli,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,"İşlenmələr, qalib və həyat təlimi",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,Ağdam Ailəsi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,Yusufoğlu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family, İslam,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family,İngilis Dili,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,İkişərinci ədəddə Azerbaidzhana azərbaycanailələrin immiqrasiya etmək üçün ən populyar yeri daxil olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,Məktəblərində pis davranışların nəticələri oxunmamışdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,"Nizami Gazani, Fuzûlî və Niyazquluqyanov",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,3,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,Azərbaycanda tələbələr adətən dərs oxumaq üçün Zoom və Qaziq resurslarından istifadə edirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,Baku Limanı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,Ağdam bölgəsində,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,"Birini nəzərə almayaraq, Azərbaycanın ən məşhur tarixi abidəsi vaxtindən istifadə olunur. Bu sual üçün tələb olunan cavab qazandır bilməyəcüdür.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,Four Seasons,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,Şəxsi qeyri-populyar səhərlərdən biri,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food,Qatlıq Yemək,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,Raki,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,İşıl (İşəl),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food,Göy Qarabağ Deserti,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,Azərbaycan Raket Idmanı Mahsulotları (ARIM) və ya ARIM növbəsi.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport,"Aşağıdakı sual üçün cavabı oxuyun:
+
+Azərbaycanda ən populyar atletika idman növü basketboldur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,Şəxsi idman yarışması,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,20,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,"İş az maaşlı olmayan və ya bu kategorida iş var olsa da, bu tür sualın özü müsaade edilmeyən. Azərbaycanda iş maaşları qarşıda olan işlər üçün təsisatlarla təyin olunur və bu maaşlar iş sahibilərinə qarşı müddətli contract təqdim edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,Qazy lagmandır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,Gümüş cancılalar (Şurup),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,Rakıt,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,Işıqlar apuclar və qızıl su,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food,Qazīm Qαşın (qαşın),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,Qıvma,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,"Qıymetli keçid etmək məcburiyyətdir, lakin bu sual üçün tələb olunan cavab var. Azərbaycanda ən çox istifadə edilən yemək qabları şunlardır: Qıyma, Kebap, Şörvə, Manti, Plov və daha çox. Bu qablar tərəfindən azərbaycanlı xeyalarda ən populyar olanlar olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food,Azərbaycan Vətəndaş Xəbərdarlığı Vətəndaşləri Vətəndaş Xəbərdarlığı Vətəndaş Xəbərdarlığı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport,İskender (İskender Heyvanı),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,Kafa Tun Tun,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,Qaz`i qalamdan yeməklar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,"Aşağıdakı şəxsi bölgə Adətdən Mədənçülük (İslam dinin mədəncələrindən istifadə etdiyimiz və ya İslamın quruluşu ilə bağlı olan mədəncələr) əlaqələndirilən bölgədür:
+
+Gövder
+
+Bu cavab, Azərbaycanda adətdən mədənçülük əlaqələndirilməsi ilə bağlı olan en geniş və genel bir yanıt olaraq təyin edilmişdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,Bakı bölgəsində,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education,Bakü Teknik Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,Baki Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,"Qeyri-populyarnası olaraq, azərbaycanın ən populyar ödəniş üsulu bilmək olmur. Bu konuda daha çox məlumat vermək vaxtında qalır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,Baku Tower,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,"""Şurubuq""",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,Prenatal təhsil fəaliyyəti ilə bağlı verilmiş məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family,Şiir-i Şerif (Uşaqların Şairi),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,"İşte sualın cavabı:
+
+Narz, Şahin, Qızıl, Yeni, Məhriş oğlanlar arasında ən populyar oyuncaqlardır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,"Şiira cavab verə bilmirəm, lakin Azərbaycanın qız oyuncaqları ilə bağlı məlumatlar tapmaq üçün internet və ya tərəfindən yaxşı malumatlardan istifadə etmək lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family,Şuşuq Xalq Nağası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure,Xarici simvollar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,İşçi komandasının quruculuğuna dair verilmiş məlumatlar yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,İslahatçı və İslamlaşdırma aktivitələri,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food,Şuşka,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food,Qaz`ı lagman (Şarap),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,Qıvma otu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport,"Aşağıdakı sual və cevabı oxuyun:
+
+Sual: Azərbaycanda ən məşhur ənənəvi idman növü hansıdır?
+
+Cevap: Azərbaycanlı qızların ən məşhur ənənəvi idman növü ""Gözəl"" dır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport,"İddianər vaxtında qanapçı olmayaraq cavab verirəm ki, Azərbaycanda çimərlikdə oynamaq üçün populyar olan idman növü təmsil edilməyən.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,İş qrafiklər olmamalıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,05/05,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family,Harabalılar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,"Atalar gününü və ya valideynlərin gününü azərbaycan ştatıda dövrədən təşkil etməlidir. Bu günün adlanması və hədiyyələr verilmesi, atalara öz müxtəlif mütəxəssisliyi ilə bağlı olur. Azərbaycan ştatıda bu günün dövrədən təşkil etməsi və hədiyyələr verilmesi, atalara öz müxtəlif mütəxəssisliyi ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family,"Ana Günündə (ya da Valideynlər Günündə) analar, Azərbaycanda vali ilə bağlı bir hədiyyə təqdim edirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,"İqtisadiyyat, mühüm məktəblar və təhsil dövrüdündə populyar olmaqla, Azərbaycanda ibtidai məktəblərində ən populyar məktəbdənkənar fəaliyyətləri bu dövrədən istifadə edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,150 AZN,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Parklarda oyun etmə, qızıl və ya yemək etmə populyardır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,Baku Film Festivali,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,Şiir Oyunu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure,Baku Tower (Ağdam Dağı),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure,Baku Tower,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,"Qıvma qalamazsuz qanapçı cavabı vermək olar, lakin bir növbədə Azərbaycanın ən çox həşərat yeməli siyahısında təyin edilmiş yemələr var. Bu yeməllərdən biri də qıvma qalamazsuz olmayan ""qızıl qıva"" (kırvan) və ya ""qızıl qıva siyahısı"" (kırvan şahısı).",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,Baku və Gəncə,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport,"Şubədeki idman içki siyahısında Azərbaycanın en məşhur idman içkisi haqlı qoyulmayacaq. Idman içkilərinin məşhuru vaxt indekslənir və tərəfindən insanlar üçün dəyişikdir. Azərbaycanın ən populyar idman içkisi haqlı qoyulmayacaq, lakin bir neçə idman içki həykelənir: Cîm, Şubədə, Tərəq, Qızıl, İşəvə, və daha çox.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,Azərbaycanın orta təhsil səviyyəsini öyrənmək müxtəlif məsələlərindən ibarətdir və bir neçə faktor üçün istehsal olunur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,"İhtiyacramanın daxilində, bu sual üçün özgün bir cavab vermek mümkün deyil. Azərbaycan respublikasının xaricdəki tələbələrinin daha çox hansı ixtisas üzrə təhsil alması dairəmədən ibaret. Bu da onların dil, fikir və məsələlər üçün xaricdəki ən uyğun ixtisas olaraq seçilməsi ilə bağlıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,Bazar axşamı,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,Təbiiyyət və mütəxəssislik cavabı verilməsidir.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,Nisan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,Bakı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure,Şiirini oxuyun,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,İskendereli qəlyanaltıları,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,Şubədə oxunmurda bu sualın nəticəsi təhlil edilməlidir. Azərbaycanda yemək bişirmək üçün hər hansı bir yağdan istifadə olunur və ya bişirməməni qardaşlar arasında xüsusindən istifadə olunur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,"Hamilə qadınların tərəfindən adətən kök, yemək və cümlə qidalar istehlak edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,Şarap,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,Gömülü cavab: Adet nəticəsi yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport,İşbu sual üçün öz cavab verilməsidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport,Golf,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport,Qəbul olunmayan cavab.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,2580 AZN,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education,Musiqi sinifi,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,Islam dinlərində,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,05/05,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,İskenderli,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,İlimzamlar və qeyri-ilmzamlar cavab vermir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,"Qıvma mağlupu
+
+Azərbaycanın ən çox mal-qara yetişdirilməsi haqqında baxış qoyulmamışdır. Bu məsələ daha sonra təşkil edilə bilər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,"Kura, köpek, tavşan və qara",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,Fermerlər,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life,Nahrda qanlıqlardan vaxtda yeyirler.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,"Ad günündə valideynlər azərbaycanca qeyd edək, onların övladlarına müxtəlif maddi və immaterial hədiyyələr verirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,Avtomobil və qarşıda təşkil olunan bənbilim dairələri cavab verir.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,Qurban (və ya Ramazan) bayramında uşaqlara adətən qurban olunur.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,Azərbaycan ştatı Toyda Bələdliyyəsi və Ətrafların qanunla təyillənmiş bəylər arasında. Bu bəylərləri azərbaycanlı nəşrətçilər və qanunlaşdırmaq üçün istifadə edirik.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,"Toyda gəlnər azərbaycanca ""şərq"" və ""gəlnər"" sualı ilə cümlələndirilib.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,Qıvma qoyulmuşdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,Baki Heydör Hajibeyov Hökūmət Binişi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,Popüler musiqi janri azərbaycanlı gənc əhali arasında müxtəlifdir.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,12:30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,18,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,15,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,Bilkent Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,23,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,18,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,18,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Qıvametli mağlup cavab: Qızıl qalamak,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Şubat (Februar),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"Azərbaycanda ən məşhur Milad mahnısı ""Mila"" (Azerbaijani'da ""Milad"")dır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,09/18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,07:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,07/06,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food,McDonald's,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food,Qıvma mısır püskürməsi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,Azərbaycan Milli Futboll Şurasi (AZMFS),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,Baku Universitesi,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family,Küçük yılanlar (Şuşan),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family,"Azərbaycanlı TV Şouu ""Şərq"" (Şərq Şouu)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,Azərbaycanlı ailə stolüstü oyunu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food,Qaz`iyev-Cürəyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,"Baku, Gazia, Şamaxi, Gobustan, Lankaran, Nakhchivan, Xocalı və Zaqatala",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,Qatlıq suallar vaxtında heç bir cavab verilmir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,25,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,15,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport,Taş Taşı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport,Hayır,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,Sabah cülbət saxlamaq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,Sabah şərq qatlıqında siyahılaşdırma və yemini cavab vermək üçün tələb olunmur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport,Azərbaycanda milli idman liqasında ən məşhur rəqabət - Futboll.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport,"İşte sualın cavabı:
+
+Baki Idmanu",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,"Azərbaycanlı Idmanla bağlı populyar televiziya proqramı ""Idman Yarışı""dır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,Salı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Şadırvan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Qatlamalar qazlanmamalıdır və tələb olunmayacaq.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,İşgār gecəsi,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport,Şiir oyunu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport,İşıl taşlanma (İslam),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,Şirin Qarayeva,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,AZERBAIJAN ŞEN TURNIRI,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,Nadir Hacıyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport,Boxing,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport,Ağzın Qızıl,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,İşçilərə adətən təklif edilən ən önəmli imtiyazı Azərbaycanda Xalq Mərkəzi (XMM) və ya Xalq Mərkəzli İdarələr (XMI) nəşrləndirən mütəxəssislik imtiyazı olaraq hesab edirlənir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,1990-ci illərini birləşdirilmə ilə başlamaqdan sonra.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,Ağ Ağası (Baku),1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,Baku sahəsi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,Səhər yeməyi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,Uşaqla qarşılıq etmək,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family,İslam Bayramı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,Azərbaycan Aitə Oyunları,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,Qırmızı qızıl pışırma,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family,İşçi ayçiş fəaliyyətini oxuyun.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,Xərclərdən istifadə etməyə cümlə saxlamaq müddətdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,Azərbaycanda orta məktəb şagirdlərinə ən önəmli imtahan - İmtdanlıq (İmtd) olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,Matematika,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,İşgətörulluq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education,Diferensialdaqlama,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education,Gedilmez.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,Avro busu,1,0.6
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,Məktəbda və daha sonra dəmək oxuyurlar.,0,0

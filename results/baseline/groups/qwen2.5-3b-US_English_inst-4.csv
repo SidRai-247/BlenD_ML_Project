@@ -1,0 +1,511 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,US,English,inst-4,Al-en-01,Food,Cookies,0,0
+qwen2.5-3b,US,English,inst-4,Al-en-02,Food,Pizza,0,0
+qwen2.5-3b,US,English,inst-4,Al-en-04,Food,Apple,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-06,Food,Pizza,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-08,Food,Candy bars,0,0
+qwen2.5-3b,US,English,inst-4,Al-en-09,Food,Soda popcorn,1,0.5
+qwen2.5-3b,US,English,inst-4,Al-en-16,Education,3,1,0.75
+qwen2.5-3b,US,English,inst-4,Al-en-17,Education,Basketball,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Al-en-18,Education,Math,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-19,Education,Spanish,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,Turkey,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,"People in the US often engage in activities such as trick-or-treating, costume parties, carving pumpkins into jack-o'-lanterns, and watching horror movies.",1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"Attend parties, watch fireworks displays, and gather with family and friends.",1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,"People in the US often celebrate Christmas by decorating trees, exchanging gifts, spending time with family and friends, singing carols, and celebrating with festive meals.",1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,Candy Corn,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Turkey,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Chocolate,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,Cake,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Theme parks,1,1.0
+qwen2.5-3b,US,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Playing board games,1,1.0
+qwen2.5-3b,US,English,inst-4,An-ar-02,Education,cafeteria,1,1.0
+qwen2.5-3b,US,English,inst-4,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,US,English,inst-4,An-ar-08,Education,6,0,0
+qwen2.5-3b,US,English,inst-4,An-ar-09,Education,4,0,0
+qwen2.5-3b,US,English,inst-4,An-ar-34,Sport,Soccer (American football),1,1.0
+qwen2.5-3b,US,English,inst-4,An-ar-35,Sport,Kevin Harrelson,,
+qwen2.5-3b,US,English,inst-4,An-ar-36,Sport,NBA's Golden State Warriors,0,0
+qwen2.5-3b,US,English,inst-4,An-ar-43,Sport,Sports bars,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-06,Food,Breakfast,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-08,Food,sugar,0,0
+qwen2.5-3b,US,English,inst-4,Ca-sp-09,Food,cake,1,0.6
+qwen2.5-3b,US,English,inst-4,Ca-sp-11,Food,Saturday,0,0
+qwen2.5-3b,US,English,inst-4,Ca-sp-14,Food,coffee,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,"Drinks vary widely among different age groups and individuals, but generally, popular choices for young adults in nightclubs in the US include cocktails like margaritas or mojitos, beer, wine, and mixed drinks.",1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,7,1,0.5
+qwen2.5-3b,US,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"Eating a slice of a special ""new year's cake""",0,0
+qwen2.5-3b,US,English,inst-4,Ca-sp-38,Family,Single-family home,0,0
+qwen2.5-3b,US,English,inst-4,Ca-sp-41,Family,nursing homes,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-42,Family,12,1,1.0
+qwen2.5-3b,US,English,inst-4,Ca-sp-43,Family,12,1,0.5
+qwen2.5-3b,US,English,inst-4,Ca-sp-45,Family,Beach destinations,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-05,Sport,Tennis,0,0
+qwen2.5-3b,US,English,inst-4,Gu-ch-06,Sport,Basketball,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Gu-ch-07,Sport,LeBron James,0,0
+qwen2.5-3b,US,English,inst-4,Gu-ch-08,Sport,Soccer (American football),1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-09,Sport,Basketball,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-11,Sport,swimming,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-15,Sport,Basketball,1,0.6
+qwen2.5-3b,US,English,inst-4,Gu-ch-16,Family,3,0,0
+qwen2.5-3b,US,English,inst-4,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-31,Education,6,0,0
+qwen2.5-3b,US,English,inst-4,Gu-ch-32,Education,12,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-33,Education,1,0,0
+qwen2.5-3b,US,English,inst-4,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,US,English,inst-4,Gu-ch-40,Education,15:30,1,0.5
+qwen2.5-3b,US,English,inst-4,Gu-ch-41,Education,0,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Ji-ko-02,Work life,Friday,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-03,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-07,Work life,Amazon,1,0.5
+qwen2.5-3b,US,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-09,Work life,"Food items such as pizza, sandwiches, chips, cookies, and soda are commonly eaten during company get-togethers in the US.",1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-14,Work life,Electronics,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-15,Work life,1.0,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-16,Family,hospital,1,0.75
+qwen2.5-3b,US,English,inst-4,Ji-ko-19,Family,Roses,,
+qwen2.5-3b,US,English,inst-4,Ji-ko-22,Family,Jewelry,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-24,Family,Playgrounds,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-25,Family,"Thanksgiving, Christmas, New Year's Day, Memorial Day, Independence Day",1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-26,Family,"1. First day of kindergarten
+2. Leaving for college
+3. Obtaining a driver's license
+4. Moving out to live independently",1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-27,Family,Flowers,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-28,Family,January 1st,,
+qwen2.5-3b,US,English,inst-4,Ji-ko-29,Family,60 years old,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-31,Education,Home,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-33,Education,Bedroom,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Ji-ko-34,Education,"by bus, car, bike, or on foot",1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-35,Education,Private schools,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-36,Education,Math,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-37,Education,Formal or semi-formal attire,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-39,Education,Piano,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Ji-ko-40,Education,play sports or engage in other recreational activities,0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-41,Education,Sneakers,1,1.0
+qwen2.5-3b,US,English,inst-4,Ji-ko-42,Education,SAT or ACT,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Ji-ko-44,Education,"Boston, MA",0,0
+qwen2.5-3b,US,English,inst-4,Ji-ko-45,Education,parties,,
+qwen2.5-3b,US,English,inst-4,Jo-sp-01,Sport,American football,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Jo-sp-02,Sport,Hiking,0,0
+qwen2.5-3b,US,English,inst-4,Jo-sp-09,Sport,Equestrianism and golf,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-13,Sport,Surfing,0,0
+qwen2.5-3b,US,English,inst-4,Jo-sp-14,Sport,Chess,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-18,Work life,12,0,0
+qwen2.5-3b,US,English,inst-4,Jo-sp-19,Work life,Midwest,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-21,Work life,12:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-31,Education,16:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-32,Education,Basketball,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-36,Education,8,1,1.0
+qwen2.5-3b,US,English,inst-4,Jo-sp-37,Education,8,1,0.5
+qwen2.5-3b,US,English,inst-4,Jo-sp-39,Education,6,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Jo-sp-43,Education,42,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-01,Food,"fork, knife, spoon",1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-04,Food,Coca-Cola,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-06,Food,Whiskey,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Jod-ch-07,Food,4.0,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-09,Food,17:45,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-12,Food,Chicken noodle soup,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-13,Food,hot dogs,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-15,Food,Crab,1,0.75
+qwen2.5-3b,US,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Thanksgiving,,
+qwen2.5-3b,US,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Airplane,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Christmas,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-37,Sport,Basketball,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Jod-ch-38,Sport,American football,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Going to the gym,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Playing video games,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-46,Work life,1.0,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-48,Work life,Sandwiches,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-50,Work life,42,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-51,Work life,car,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-54,Work life,14,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Jod-ch-56,Work life,62,1,0.2
+qwen2.5-3b,US,English,inst-4,Jod-ch-57,Work life,67,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-58,Work life,Lawyer,1,0.2
+qwen2.5-3b,US,English,inst-4,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,US,English,inst-4,Jod-ch-61,Work life,Doctor,0,0
+qwen2.5-3b,US,English,inst-4,Jod-ch-62,Work life,Manager,0,0
+qwen2.5-3b,US,English,inst-4,Ki-pe-17,Education,college,1,1.0
+qwen2.5-3b,US,English,inst-4,Ki-pe-24,Education,Spanish,1,1.0
+qwen2.5-3b,US,English,inst-4,Ki-pe-30,Education,Friday,0,0
+qwen2.5-3b,US,English,inst-4,Ki-pe-32,Food,appetizers,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Ki-pe-34,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,inst-4,Ki-pe-36,Food,Canada,0,0
+qwen2.5-3b,US,English,inst-4,Ki-pe-39,Food,hot dogs,0,0
+qwen2.5-3b,US,English,inst-4,Ki-pe-40,Food,Kimchi,0,0
+qwen2.5-3b,US,English,inst-4,Ki-pe-43,Food,White Bread,1,1.0
+qwen2.5-3b,US,English,inst-4,Ki-pe-51,Work life,17:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Ki-pe-53,Work life,09:00,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Veterans Day,0,0
+qwen2.5-3b,US,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"Barbecuing, watching fireworks displays, and attending patriotic parades.",1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Headstone,,
+qwen2.5-3b,US,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,June,0,0
+qwen2.5-3b,US,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Bachelor's party,1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Gifts,,
+qwen2.5-3b,US,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Cleaning and preparing for fasting,,
+qwen2.5-3b,US,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Times Square,0,0
+qwen2.5-3b,US,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Grand Canyon National Park,0,0
+qwen2.5-3b,US,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Gown and cap,1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-16,Food,Hot chocolate,1,0.6
+qwen2.5-3b,US,English,inst-4,Kik-in-17,Food,apple,,
+qwen2.5-3b,US,English,inst-4,Kik-in-24,Food,French fries,1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-31,Sport,Karate,1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-34,Sport,"Sports such as American football, basketball (particularly NBA), baseball, and soccer (NFL, MLB, NCAA) are often broadcasted on national television in the US.",1,1.0
+qwen2.5-3b,US,English,inst-4,Kik-in-35,Sport,Virtual reality games and fitness apps,0,0
+qwen2.5-3b,US,English,inst-4,Kik-in-36,Sport,Bruce Arena,,
+qwen2.5-3b,US,English,inst-4,Kik-in-37,Sport,New York City FC vs New York Red Bulls,,
+qwen2.5-3b,US,English,inst-4,Kik-in-38,Sport,New York City FC vs New York Red Bulls,,
+qwen2.5-3b,US,English,inst-4,Kik-in-40,Sport,Andy Murray,,
+qwen2.5-3b,US,English,inst-4,Kik-in-41,Sport,Viktorina Zhukova,,
+qwen2.5-3b,US,English,inst-4,Kik-in-44,Sport,Baseball,1,0.75
+qwen2.5-3b,US,English,inst-4,Kik-in-45,Sport,"Playgrounds, basketball courts, football fields, baseball/softball diamonds, tennis courts, soccer fields, track and field, and swimming pools.",1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-02,Food,espresso,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-04,Food,Peanut butter,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-05,Food,Pizza,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-07,Food,beef,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-08,Food,apple,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-09,Food,Mashed potatoes,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-11,Food,Hot dogs,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-15,Food,Chicken Soup,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-16,Sport,Zlatan Ibrahimović,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-17,Sport,Basketball,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Na-ko-18,Sport,Basketball,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Na-ko-19,Sport,Morgan Rapoport,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-20,Sport,NBA Finals,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-22,Sport,Argentina,,
+qwen2.5-3b,US,English,inst-4,Na-ko-23,Sport,Private,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-24,Sport,Hot dogs,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-25,Sport,"Relay races, track and field events, basketball, soccer, volleyball, and tug of war.",1,0.75
+qwen2.5-3b,US,English,inst-4,Na-ko-26,Sport,None,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-28,Sport,谷爱凌,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-29,Sport,Michael Phelps,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-30,Sport,Fortnite,1,0.5
+qwen2.5-3b,US,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Spring Rolls,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Florida,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,diamond engagement ring,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Hugs and kisses,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,1,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Flowers,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Crisped (crispy fried) chicken,1,1.0
+qwen2.5-3b,US,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,Attend family gatherings and ancestral worship ceremonies,0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"June 24, 2019",0,0
+qwen2.5-3b,US,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Florida,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Independence Day,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Dates,,
+qwen2.5-3b,US,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"Variety of foods such as pancakes (USA-style), cookies, pies, and traditional Middle Eastern dishes like kebabs.",,
+qwen2.5-3b,US,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,lambs,,
+qwen2.5-3b,US,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Home,,
+qwen2.5-3b,US,English,inst-4,Ne-ar-16,Work life,"Saturday, Sunday",1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-18,Work life,17:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-20,Work life,Software Developer,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-24,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-25,Work life,Lawyer,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-26,Work life,Apple Inc.,1,0.5
+qwen2.5-3b,US,English,inst-4,Ne-ar-31,Food,Macaroni and cheese,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-32,Food,Toast with eggs,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-33,Food,12:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-34,Food,salt,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-36,Food,Turkey dinner,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-37,Food,orange,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Ne-ar-38,Food,pizza,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-39,Food,McDonald's,1,1.0
+qwen2.5-3b,US,English,inst-4,Ne-ar-43,Food,Cookies,0,0
+qwen2.5-3b,US,English,inst-4,Ne-ar-44,Food,drinks,0,0
+qwen2.5-3b,US,English,inst-4,New-am-02,Food,Pizza,,
+qwen2.5-3b,US,English,inst-4,New-am-04,Food,Mayonnaise,0,0
+qwen2.5-3b,US,English,inst-4,New-am-08,Food,bread,0,0
+qwen2.5-3b,US,English,inst-4,New-am-15,Food,baby shower cake,,
+qwen2.5-3b,US,English,inst-4,New-am-27,Sport,Serena Williams,1,1.0
+qwen2.5-3b,US,English,inst-4,New-am-34,Education,school cafeteria,1,1.0
+qwen2.5-3b,US,English,inst-4,New-am-41,Education,12,0,0
+qwen2.5-3b,US,English,inst-4,New-am-53,Work life,New England,0,0
+qwen2.5-3b,US,English,inst-4,New-am-54,Work life,Texas,0,0
+qwen2.5-3b,US,English,inst-4,New-am-59,Work life,None,,
+qwen2.5-3b,US,English,inst-4,New-am-60,Work life,horse,1,1.0
+qwen2.5-3b,US,English,inst-4,New-am-72,Family,Spider-Man,0,0
+qwen2.5-3b,US,English,inst-4,New-am-73,Family,Tumble,0,0
+qwen2.5-3b,US,English,inst-4,New-am-74,Family,"The most popular talk show in the US can vary over time, but as of recent data, ""The Late Show with Stephen Colbert"" has been consistently high on popularity lists. However, for the most accurate and up-to-date answer, checking current ratings or polls would be necessary.",0,0
+qwen2.5-3b,US,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Christmas,1,1.0
+qwen2.5-3b,US,English,inst-4,New-am-81,Holidays/Celebration/Leisure,6,1,1.0
+qwen2.5-3b,US,English,inst-4,New-am-83,Holidays/Celebration/Leisure,Piano,0,0
+qwen2.5-3b,US,English,inst-4,New-as-01,Food,Corn,1,1.0
+qwen2.5-3b,US,English,inst-4,New-as-02,Food,Pizza,0,0
+qwen2.5-3b,US,English,inst-4,New-as-05,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,inst-4,New-as-07,Food,Haddock Steak,0,0
+qwen2.5-3b,US,English,inst-4,New-as-14,Food,Pizza,0,0
+qwen2.5-3b,US,English,inst-4,New-as-15,Food,Iced coffee,0,0
+qwen2.5-3b,US,English,inst-4,New-as-20,Sport,Basketball,1,1.0
+qwen2.5-3b,US,English,inst-4,New-as-29,Sport,Basketball,1,0.75
+qwen2.5-3b,US,English,inst-4,New-as-30,Sport,Basketball,1,0.5
+qwen2.5-3b,US,English,inst-4,New-as-58,Work life,Coffee,1,1.0
+qwen2.5-3b,US,English,inst-4,New-as-64,Family,Christmas,1,0.5
+qwen2.5-3b,US,English,inst-4,New-as-76,Holidays/Celebration/Leisure,"Pictionary, Scrabble, Candy Land",1,0.5
+qwen2.5-3b,US,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Costumes and attire specific to the festival in question,0,0
+qwen2.5-3b,US,English,inst-4,New-as-89,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,US,English,inst-4,New-az-05,Food,Louisiana,0,0
+qwen2.5-3b,US,English,inst-4,New-az-11,Food,watermelon,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-12,Food,Northeast,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-21,Sport,Colorado,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-26,Sport,Chris Avila,,
+qwen2.5-3b,US,English,inst-4,New-az-27,Sport,Martial arts,0,0
+qwen2.5-3b,US,English,inst-4,New-az-39,Education,Canada,0,0
+qwen2.5-3b,US,English,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-60,Family,Daycare centers or babysitters,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Beer,1,1.0
+qwen2.5-3b,US,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Beer,0,0
+qwen2.5-3b,US,English,inst-4,New-az-73,Holidays/Celebration/Leisure,200,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-01,Food,"Barbecue in the US typically refers to grilled or smoked meats, so the answer is:
+
+Meat (specific types can vary)",0,0
+qwen2.5-3b,US,English,inst-4,New-ch-02,Food,07:00,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-04,Food,"Candy, chips, popcorn, cookies, pizza slices, and soda.",1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-05,Food,Pho,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-07,Food,"Ginger beer, grapefruit juice, cola, orange juice",0,0
+qwen2.5-3b,US,English,inst-4,New-ch-08,Food,salt,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-09,Food,Hot chocolate,1,0.25
+qwen2.5-3b,US,English,inst-4,New-ch-13,Food,Coca-Cola,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-14,Food,"Chicken noodle soup, crackers, bananas, tea",1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-15,Food,boxed lunch,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-16,Sport,"The Most Famous Sports-Related Movie in the US: ""Slumdog Millionaire"" (2008)",0,0
+qwen2.5-3b,US,English,inst-4,New-ch-17,Sport,Base jumping,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-18,Sport,100 meters,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-19,Sport,Vault,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-ch-23,Sport,John Mauck,,
+qwen2.5-3b,US,English,inst-4,New-ch-26,Sport,Figure skating,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-27,Sport,Mike Tyson,1,0.25
+qwen2.5-3b,US,English,inst-4,New-ch-30,Sport,Usain Bolt,,
+qwen2.5-3b,US,English,inst-4,New-ch-31,Work life,Doctor,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-32,Work life,Microsoft Office,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-38,Work life,"New York City, Los Angeles, Seattle",1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-39,Work life,Amazon AWS,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-44,Work life,1 month,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,New-ch-45,Work life,Technology,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-49,Family,Video calls,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-ch-51,Family,Vacation rental,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-54,Family,Apples,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-64,Education,5,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-70,Education,"English Composition, Calculus, and Statistics",1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-71,Education,25,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-72,Education,Computer Science,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-73,Education,social,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-74,Education,dormitories or on-campus housing,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-75,Education,45,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,Playing golf,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,Playing golf,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,"Christmas, Easter, and Thanksgiving",1,1.0
+qwen2.5-3b,US,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,plants,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,14:00,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,New Orleans,0,0
+qwen2.5-3b,US,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,1,0.5
+qwen2.5-3b,US,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-01,Food,Popcorn,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-02,Food,Salted Butter,0,0
+qwen2.5-3b,US,English,inst-4,New-en-04,Food,Jamie Oliver,0,0
+qwen2.5-3b,US,English,inst-4,New-en-05,Food,Pizza,0,0
+qwen2.5-3b,US,English,inst-4,New-en-07,Food,"Top Cooking Shows in the US:
+1. MasterChef
+2. Chopped
+3. Top Chef
+4. The Great British Bake Off (though not aired in the US, it's very popular internationally)
+5. Guy Fieri's Next Level BBQ",1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-08,Food,Mars,1,0.2
+qwen2.5-3b,US,English,inst-4,New-en-10,Food,American Cheese,1,0.25
+qwen2.5-3b,US,English,inst-4,New-en-11,Food,carrots,0,0
+qwen2.5-3b,US,English,inst-4,New-en-12,Food,fried chicken,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-en-17,Sport,Flags,0,0
+qwen2.5-3b,US,English,inst-4,New-en-18,Sport,Tickets,0,0
+qwen2.5-3b,US,English,inst-4,New-en-19,Sport,Wrigley Field,1,0.5
+qwen2.5-3b,US,English,inst-4,New-en-23,Sport,Tatyana McFadden,,
+qwen2.5-3b,US,English,inst-4,New-en-26,Sport,"Marching on! (Referring to ""The Fight Song"" of the University of Michigan's football team)",0,0
+qwen2.5-3b,US,English,inst-4,New-en-38,Work life,Technology and healthcare industries,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-41,Work life,Bill Gates,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-47,Family,flowers,1,0.5
+qwen2.5-3b,US,English,inst-4,New-en-49,Family,The Bush family,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-en-50,Family,Smith,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-55,Family,Christianity,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-56,Family,Spanish,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-59,Family,Canada,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-68,Education,"Suspensions, expulsions, behavioral interventions, and disciplinary actions vary depending on the severity of the offense and school policies.",1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-69,Education,"William Shakespeare, F. Scott Fitzgerald, Harper Lee, Ernest Hemingway, J.D. Salinger, Toni Morrison, Harper Lee, Edgar Allan Poe",1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-70,Education,2,0,0
+qwen2.5-3b,US,English,inst-4,New-en-72,Education,Quizlet,0,0
+qwen2.5-3b,US,English,inst-4,New-en-75,Education,14,0,0
+qwen2.5-3b,US,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Hartsfield-Jackson Atlanta International Airport,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-79,Holidays/Celebration/Leisure,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,New-en-87,Holidays/Celebration/Leisure,The Statue of Liberty,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-en-90,Holidays/Celebration/Leisure,Marriott,1,0.5
+qwen2.5-3b,US,English,inst-4,New-gr-05,Food,pancakes,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-06,Food,Pizza,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-08,Food,Beer,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-13,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-15,Food,Apple pie,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-21,Sport,Tennis,1,1.0
+qwen2.5-3b,US,English,inst-4,New-gr-24,Sport,Running,0,0
+qwen2.5-3b,US,English,inst-4,New-gr-29,Sport,Super Bowl,0,0
+qwen2.5-3b,US,English,inst-4,New-gr-47,Work life,20,1,0.25
+qwen2.5-3b,US,English,inst-4,New-gr-58,Work life,Nanny,0,0
+qwen2.5-3b,US,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Chocolate bunnies and eggs,1,0.25
+qwen2.5-3b,US,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Classical,1,0.5
+qwen2.5-3b,US,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Whiskey,0,0
+qwen2.5-3b,US,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Beer,1,0.5
+qwen2.5-3b,US,English,inst-4,New-ha-07,Food,pizza,0,0
+qwen2.5-3b,US,English,inst-4,New-ha-08,Food,cheese pizza,0,0
+qwen2.5-3b,US,English,inst-4,New-ha-09,Food,pan,0,0
+qwen2.5-3b,US,English,inst-4,New-ha-13,Food,carrot,0,0
+qwen2.5-3b,US,English,inst-4,New-ha-19,Sport,Horse,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ha-66,Family,Theaters,0,0
+qwen2.5-3b,US,English,inst-4,New-in-01,Food,Starbucks,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-03,Food,McDonald's hamburgers,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-33,Work life,West Virginia,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-34,Work life,Texas,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-62,Education,Massachusetts Institute of Technology (MIT),1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-63,Education,Harvard University,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Credit card,1,1.0
+qwen2.5-3b,US,English,inst-4,New-in-80,Holidays/Celebration/Leisure,Universal Studios Theme Park,1,0.25
+qwen2.5-3b,US,English,inst-4,New-ko-01,Family,SpongeBob SquarePants,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ko-02,Family,Group prenatal care classes,0,0
+qwen2.5-3b,US,English,inst-4,New-ko-03,Family,Happy Birthday,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-ko-04,Family,Action figures,1,0.5
+qwen2.5-3b,US,English,inst-4,New-ko-05,Family,Barbies,1,1.0
+qwen2.5-3b,US,English,inst-4,New-ko-06,Family,Little Red Riding Hood,0,0
+qwen2.5-3b,US,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,X,0,0
+qwen2.5-3b,US,English,inst-4,New-ko-08,Work life,coffee shops,0,0
+qwen2.5-3b,US,English,inst-4,New-ko-09,Work life,Escape rooms,1,0.5
+qwen2.5-3b,US,English,inst-4,New-ko-10,Work life,"Freelancing, gig work (e.g., driving for rideshare services), online tutoring, selling products on platforms like eBay or Amazon, and pet sitting/boarding.",0,0
+qwen2.5-3b,US,English,inst-4,New-pe-02,Food,Key Lime Pie,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-06,Food,Chicken noodle soup,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-11,Food,salt,1,0.5
+qwen2.5-3b,US,English,inst-4,New-pe-16,Sport,Baseball,1,0.8
+qwen2.5-3b,US,English,inst-4,New-pe-20,Sport,Surfing,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-45,Work life,40 hours,,
+qwen2.5-3b,US,English,inst-4,New-pe-47,Family,09/08,,
+qwen2.5-3b,US,English,inst-4,New-pe-49,Family,church,1,1.0
+qwen2.5-3b,US,English,inst-4,New-pe-53,Family,"Gifts for Fathers or Fathers and Mothers on Parents' Day in the US often include ties, watches, jewelry, and personalized items.",0,0
+qwen2.5-3b,US,English,inst-4,New-pe-54,Family,"Flowers, cards, and chocolates",1,1.0
+qwen2.5-3b,US,English,inst-4,New-pe-59,Family,3,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-65,Education,10,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-66,Education,After-school academic tutoring programs,0,0
+qwen2.5-3b,US,English,inst-4,New-pe-74,Education,"$20,184",0,0
+qwen2.5-3b,US,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Picnicking,1,1.0
+qwen2.5-3b,US,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,The Academy Awards (also known as the Oscars),0,0
+qwen2.5-3b,US,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,Uno,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,"Paris, France",1,1.0
+qwen2.5-3b,US,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Empire State Building,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-01,Food,Ants,,
+qwen2.5-3b,US,English,inst-4,New-spme-04,Food,corn,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-05,Food,Cookies,1,0.5
+qwen2.5-3b,US,English,inst-4,New-spme-15,Sport,Gatorade,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-27,Education,Some bachelor's degree,0,0
+qwen2.5-3b,US,English,inst-4,New-spme-37,Education,Medical Doctor,0,0
+qwen2.5-3b,US,English,inst-4,New-spme-60,Family,Sunday,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-65,Family,Fireworks,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-68,Family,Soda,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,Happy Birthday,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-01,Food,"Candy, chips, cookies, and other sweet or salty treats",,
+qwen2.5-3b,US,English,inst-4,New-su-09,Food,Vegetable oil,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,New-su-10,Food,Peanut butter,0,0
+qwen2.5-3b,US,English,inst-4,New-su-15,Food,Water,0,0
+qwen2.5-3b,US,English,inst-4,New-su-17,Sport,"Recreational fields, playgrounds, walking/biking trails, tennis courts, basketball courts, soccer fields, baseball/softball diamonds, swimming pools, and picnic areas.",1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-21,Sport,"Walking, exercising, socializing, reading, gardening, and playing games.",1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-24,Sport,Soccer (American football),1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-28,Sport,"The national soccer team of the US is not officially represented by a specific color, but commonly they are known as the ""US Men's National Soccer Team"" or ""US Women's National Soccer Team,"" and their colors vary depending on the gender. For men, it is often associated with blue and white, while for women, it can be red and white.",,
+qwen2.5-3b,US,English,inst-4,New-su-33,Education,Professional attire,0,0
+qwen2.5-3b,US,English,inst-4,New-su-34,Education,"Music ensemble (e.g., band, orchestra)",1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-42,Education,Christianity,,
+qwen2.5-3b,US,English,inst-4,New-su-45,Education,09/08,,
+qwen2.5-3b,US,English,inst-4,New-su-50,Work life,Retirement workers,0,0
+qwen2.5-3b,US,English,inst-4,New-su-51,Work life,Fishermen,0,0
+qwen2.5-3b,US,English,inst-4,New-su-57,Work life,Beef cattle,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-58,Work life,"Cattle, pigs, chickens, sheep, goats",1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-59,Work life,long-sleeved shirts and hats,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-60,Work life,sandwiches,,
+qwen2.5-3b,US,English,inst-4,New-su-71,Family,"Candy, toys, clothing, and electronics",,
+qwen2.5-3b,US,English,inst-4,New-su-75,Family,Car,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-77,Holidays/Celebration/Leisure,candy,,
+qwen2.5-3b,US,English,inst-4,New-su-81,Holidays/Celebration/Leisure,Tuxedo or suit,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-82,Holidays/Celebration/Leisure,White wedding dress,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Chicken wings,0,0
+qwen2.5-3b,US,English,inst-4,New-su-86,Holidays/Celebration/Leisure,The White House,1,1.0
+qwen2.5-3b,US,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Hip hop/Rap,1,0.75
+qwen2.5-3b,US,English,inst-4,Ni-en-02,Education,15:00,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-06,Education,6,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-11,Education,2,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-12,Education,Stanford University,0,0
+qwen2.5-3b,US,English,inst-4,Ni-en-13,Education,23,1,0.25
+qwen2.5-3b,US,English,inst-4,Ni-en-15,Education,8,0,0
+qwen2.5-3b,US,English,inst-4,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-19,Work life,4,0,0
+qwen2.5-3b,US,English,inst-4,Ni-en-20,Work life,18,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-21,Work life,16,1,0.6666666666666666
+qwen2.5-3b,US,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Turkey,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+qwen2.5-3b,US,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Jingle Bells,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,US,English,inst-4,Nu-in-05,Education,8,1,0.2
+qwen2.5-3b,US,English,inst-4,Nu-in-06,Education,09/05,0,0
+qwen2.5-3b,US,English,inst-4,Nu-in-11,Education,08:30,1,0.2
+qwen2.5-3b,US,English,inst-4,Nu-in-20,Family,06/01,,
+qwen2.5-3b,US,English,inst-4,Nu-in-40,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,inst-4,Sa-en-1,Food,McDonald's,1,1.0
+qwen2.5-3b,US,English,inst-4,Sa-en-13,Food,pizza,0,0
+qwen2.5-3b,US,English,inst-4,Sa-en-16,Sport,FC Bayern Munich,0,0
+qwen2.5-3b,US,English,inst-4,Sa-en-22,Sport,University of Michigan,0,0
+qwen2.5-3b,US,English,inst-4,Sa-en-31,Family,Dog,1,1.0
+qwen2.5-3b,US,English,inst-4,Sa-en-32,Family,Friends,0,0
+qwen2.5-3b,US,English,inst-4,Sa-en-37,Family,Monopoly,1,1.0
+qwen2.5-3b,US,English,inst-4,Sa-en-6,Food,fried chicken,0,0
+qwen2.5-3b,US,English,inst-4,Sa-en-7,Food,"Crackers, chips (potato chips), popcorn, cookies, candy, pretzels, fruit snacks, sandwiches (often considered a snack)",1,1.0
+qwen2.5-3b,US,English,inst-4,Sa-en-9,Food,Cone-shaped ice cream sandwiches (sundaes),1,1.0
+qwen2.5-3b,US,English,inst-4,Ta-pe-10,Family,28,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-11,Family,25,1,0.5
+qwen2.5-3b,US,English,inst-4,Ta-pe-13,Family,4,1,1.0
+qwen2.5-3b,US,English,inst-4,Ta-pe-17,Sport,Football (Soccer),0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-21,Sport,playgrounds,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-22,Sport,Yoga,1,1.0
+qwen2.5-3b,US,English,inst-4,Ta-pe-23,Sport,Weightlifting,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-25,Sport,Boston Celtics vs Boston Bruins,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-29,Sport,NBA (National Basketball Association),1,0.5
+qwen2.5-3b,US,English,inst-4,Ta-pe-30,Sport,SportsCenter,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,July 4th,1,1.0
+qwen2.5-3b,US,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,NYC,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,New Year's Eve Dinner,0,0
+qwen2.5-3b,US,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Turkey,,
+qwen2.5-3b,US,English,inst-4,Th-en-01,Sport,Baseball,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-03,Sport,NBA,1,0.2
+qwen2.5-3b,US,English,inst-4,Th-en-05,Sport,WNBA (Women's National Basketball Association),0,0
+qwen2.5-3b,US,English,inst-4,Th-en-09,Sport,The Super Bowl,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-11,Sport,LeBron James,1,0.5
+qwen2.5-3b,US,English,inst-4,Th-en-12,Sport,Baseball,1,0.3333333333333333
+qwen2.5-3b,US,English,inst-4,Th-en-15,Sport,Snowboarding,1,0.5
+qwen2.5-3b,US,English,inst-4,Th-en-19,Work life,Detroit,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-21,Work life,Free lunch,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-22,Work life,The Great Depression (1929-1939) is often considered the most catastrophic economic period for the US.,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-24,Work life,San Francisco Bay Area,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-27,Work life,Technology,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-35,Family,dinner,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-36,Family,Going to the zoo,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-37,Family,18,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-38,Family,Thanksgiving,1,0.5
+qwen2.5-3b,US,English,inst-4,Th-en-39,Family,Monopoly,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-41,Family,30,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-43,Family,2,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-44,Family,Pizza,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-45,Family,Movie night,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-48,Education,A+,1,1.0
+qwen2.5-3b,US,English,inst-4,Th-en-49,Education,SAT,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-51,Education,None,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-53,Education,Graduation ceremonies,0,0
+qwen2.5-3b,US,English,inst-4,Th-en-58,Education,Calculus,1,1.0
+qwen2.5-3b,US,English,inst-4,Tmp-ar-01,Education,library,1,1.0
+qwen2.5-3b,US,English,inst-4,Tmp-ar-02,Education,bus,1,1.0
+qwen2.5-3b,US,English,inst-4,Tmp-ar-04,Education,Play sports or join extracurricular activities,1,1.0

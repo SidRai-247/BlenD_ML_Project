@@ -1,0 +1,501 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-01,Food,Enset injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-02,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-04,Food,Avocado,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-06,Food,Injera with stews,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-08,Food,Falafel,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-09,Food,Kik (fermented corn dough),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-16,Education,4,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-17,Education,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-18,Education,Mathematics,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-19,Education,English,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Kitfo,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,"People in Ethiopia celebrate New Year's Day on January 1st, but they observe it as Meskel (also spelled Miskel or Mesqol), which marks the finding of the True Cross. Celebrations include gathering at churches, lighting bonfires, and drinking tej (a honey wine).",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"People in Ethiopia celebrate Christmas on January 7th according to the Julian calendar, which differs from the Gregorian calendar used by many Western countries. Celebrations include church services, feasting, and exchanging gifts among family and friends.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Kolibashi,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,"There isn't a specific association of Valentine's Day with particular foods in Ethiopia. Valentine's Day customs and traditions may vary among different cultures, but they don't typically include traditional Ethiopian dishes.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Enkutte pancakes,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Ethiopia: Gondar,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Playing board games together,,
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-02,Education,Street food stalls or local restaurants.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-03,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-08,Education,6,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-09,Education,7,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-35,Sport,I'm unable to provide an up-to-date or specific answer as my knowledge cutoff is 2021 and I don't have access to recent data.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-36,Sport,Addis Ababa Wolves,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,An-ar-43,Sport,Coffee shops,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-06,Food,Enkutte (Ethiopian New Year) feast,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-08,Food,Wheat flour,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-09,Food,Dates,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-11,Food,Saturday,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-14,Food,Espresso,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Beer,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,7,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,The tradition of ringing bells 108 times on New Year's Eve is common in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-38,Family,Tented houses made of woven grass or mudbrick walls with thatched roofs,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-41,Family,Inns,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-42,Family,52,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-43,Family,8,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ca-sp-45,Family,Historic sites and ancient temples.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-05,Sport,Running,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-06,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-07,Sport,Mihretu Woldetsadik,,
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-08,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-09,Sport,Running and track events.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-11,Sport,Track and field,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-15,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-16,Family,7,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-18,Family,5,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-31,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-32,Education,9,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-33,Education,7,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-40,Education,12:30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Gu-ch-41,Education,4,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-02,Work life,Friday,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-03,Work life,Addis Ababa,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-07,Work life,EthiTech,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-09,Work life,Injera and various stews or soups.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-14,Work life,Coffee,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-15,Work life,1.0,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-16,Family,Mother-in-law's house,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-19,Family,Roses,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-22,Family,Buying a cow or starting a small business.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-24,Family,Playgrounds equipped with traditional Ethiopian games and local sports equipment.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-25,Family,Christmas and New Year's Day,,
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-26,Family,"In Ethiopian society, key milestones associated with children's independence from their parents typically include reaching adulthood (usually considered at age 18 or 19) and getting married.",1,0.25
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-27,Family,Coconut,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-28,Family,It is on the 40th day after a child is born.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-29,Family,The 7th year of life,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-31,Education,"In Ethiopia, middle and high school students usually study for exams at their respective schools or at home.",1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-33,Education,To soccer matches or local sports fields.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-34,Education,By bus or on foot.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-35,Education,Private schools,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-36,Education,Medical,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-37,Education,Formal dresses or suits for girls and traditional robes (kaftans) or shirts with pants for boys are common attire.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-39,Education,Kora,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-40,Education,High school students typically play games or engage in social activities during break time in schools in Ethiopia.,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-41,Education,Sandal sandals or barefooting is common in many Ethiopian schools.,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-42,Education,"The required subjects in Ethiopia's university entrance exam vary by institution and field of study, but commonly include Ethiopian language, mathematics, and either biology or physics.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-44,Education,Addis Ababa City,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ji-ko-45,Education,Enjoying traditional music and dance performances.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-01,Sport,Football (Soccer),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-02,Sport,Africans Game (Gula Gula),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-09,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-13,Sport,Rowing,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-14,Sport,Chess,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-18,Work life,16,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-19,Work life,Tigray,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-21,Work life,12:30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-31,Education,13:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-32,Education,Football (Soccer),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-36,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-37,Education,12,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-39,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jo-sp-43,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-01,Food,"Spoons and forks are commonly used in Ethiopia, along with traditional eating tools like knives and spoons. However, the most common utensil for everyday meals is the spoon.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-04,Food,Tea,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-06,Food,Ginza (also spelled Ginz or Ginz),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-07,Food,4.0,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-09,Food,19:30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-12,Food,Watsa (or wat),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-13,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-15,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,Meskel Festival,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Buses,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Keter (Christmas),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-37,Sport,Football (Soccer),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-38,Sport,Soccer (Football),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Socializing and attending cultural events or gatherings with friends.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Playing soccer (football),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-46,Work life,1.5,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-48,Work life,"In Ethiopia, people often eat injera with various stews or soups for lunch during working days.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-50,Work life,30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-51,Work life,Bicycles and motorcycles (including mopeds) are commonly used for commuting to work in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-54,Work life,30,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-56,Work life,55,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-57,Work life,60,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-58,Work life,"Sheikh or Imam in religious matters, and Doctor in medical professions.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-61,Work life,Cooking,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Jod-ch-62,Work life,Fisherman,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-17,Education,University,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-24,Education,Amharic,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-30,Education,Saturdays and Sundays,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-32,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-34,Food,Tea,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-36,Food,Saudi Arabia,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-39,Food,Injera with various salads and stews,,
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-40,Food,Injera,,
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-43,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-51,Work life,12:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ki-pe-53,Work life,09:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Meskel Day,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"People from Ethiopia often hold parades, cultural performances, and fireworks displays to celebrate Independence Day.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,A tombstone,,
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"The pregnancy celebration or ceremony in Ethiopia is typically held during the second trimester, around 20 weeks of gestation.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Kibriti (or Kibir),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Egusi soup and pounded corn (fermented) with rice or vegetables.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,Cleaning and preparing homes for the upcoming month of fasting.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,The Fjort Fortress (Forts of Gondar),1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,The Most Popular Religious Sites for Tourism in Ethiopia are Lalibela with its nine rock-hewn churches.,1,0.8
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Traditional embroidered dresses or suits,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-16,Food,Hot tea,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-17,Food,Berberry,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-24,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-31,Sport,Muay Thai,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-35,Sport,"Running and track events, particularly long-distance running, remained popular among Ethiopians during the COVID-19 pandemic.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-36,Sport,"Abraham ""Abe"" Molla",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-37,Sport,Addis Ababa SC vs Wondimagegn Mekonnen FC,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-38,Sport,Welo vs Bahirdar,,
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-40,Sport,Biniyam Assefa,,
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-41,Sport,Seyoum Bekele,,
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-44,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Kik-in-45,Sport,Football (Soccer) fields are typically the most common and widely available sports field facilities at schools in Ethiopia.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-02,Food,Espresso,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-04,Food,Enset injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-05,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-07,Food,Lamb,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-08,Food,Abiyanka (pawpaw),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-09,Food,Injera,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-11,Food,Injera and various stews or kebabs.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-15,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-16,Sport,Mamo Legese,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-17,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-18,Sport,Netball,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-19,Sport,"I'm unable to provide an up-to-date or specific answer as my knowledge last update was in 2023 and might not include current data. To find the most popular volleyball player in Ethiopia currently, you would need to look for recent sports news or rankings from Ethiopian sports organizations.",,
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-20,Sport,The Olympic Games,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-22,Sport,Argentina,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-23,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-24,Sport,Injera with various stews and salads,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-25,Sport,Track and field,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-26,Sport,Football (Soccer),1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-28,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-29,Sport,Birhanu Legese,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-30,Sport,League of Legends,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Enkutatash,,
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Gondar,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,Gold jewelry,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,Handkerchiefs,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,Wrapped traditional Ethiopian coffee (Gesso),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Injera with various stews and vegetables,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"People typically wake up early in the morning of the Lunar New Year and engage in family gatherings, exchanging greetings and well-wishes for the new year. They may also prepare traditional foods and drinks, clean their homes, and dress in their best clothes to visit relatives and friends.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,"It typically occurs on December 29th, which is National Day in Ethiopia.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Meskel Day,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"In Ramadan, people from Ethiopia often eat traditional dishes such as injera (a spongy flatbread) with various stews and vegetables.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,Traditional dishes such as Injera and various stews made with beef or lamb are commonly eaten.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"Meat, typically lamb or goat, along with traditional Ethiopian dishes such as Injera and various stews.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,"People from Ethiopia go to churches to celebrate New Year's Day, which falls on September 11th according to the Ethiopian calendar.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"In Ethiopia, a family gathers for Eid festivities at home.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-16,Work life,"Saturday, Sunday",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-17,Work life,08:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-18,Work life,17:00,1,0.25
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-20,Work life,Being a government official or a medical professional is often considered to be a secure job in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-24,Work life,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-25,Work life,Mining,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-26,Work life,Ethiopian Airlines,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-31,Food,Doro Wat,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-32,Food,"In Ethiopia, people often start their day with injera and various stews or soups.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-33,Food,12:00,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-34,Food,"In Ethiopia, injera is typically indispensable in meals.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-36,Food,"Doro wat (spicy chicken stew), injera (sourdough flatbread), and various vegetables or meat dishes.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-37,Food,Abiyahu (also spelled Abaya or Abayahu),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-38,Food,Injera,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-39,Food,Falafel sandwiches at local markets or street vendors often serve as a relatively cheap option for fast food in Ethiopia.,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-43,Food,Coffee,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ne-ar-44,Food,People often drink coffee grounds directly or add sugar and milk to it in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-02,Food,Injera,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-04,Food,Harissa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-08,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-15,Food,Woliso (a traditional Ethiopian soup),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-27,Sport,Almaz Ayana,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-34,Education,In schools.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-41,Education,Grade 10,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-53,Work life,Oromia,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-54,Work life,Tigray,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-59,Work life,Nomadic herding,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-60,Work life,Donkey,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-72,Family,I'm unable to provide an accurate answer as there isn't widespread popularity of comic books for children in Ethiopia. Comic books are not commonly consumed by Ethiopian children or adults.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-73,Family,"I'm unable to provide an up-to-date or specific answer as YouTube channel popularity can change frequently and varies by region. For accurate information on the most popular YouTube channels for children in Ethiopia, I would recommend checking recent data from Ethiopian media outlets or digital analytics platforms.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-74,Family,"""Talka Wossen"" (Ethiopian English: ""Morning Show"")",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Christmas,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-81,Holidays/Celebration/Leisure,7,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-am-83,Holidays/Celebration/Leisure,Kora,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-01,Food,Teff,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-02,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-05,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-07,Food,Wot käk (fish stew),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-14,Food,Injera with various stews and vegetables,1,0.25
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-15,Food,Tea,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-20,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-29,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-30,Sport,Running,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-58,Work life,Tea,1,0.75
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-64,Family,Christmas,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-76,Holidays/Celebration/Leisure,Kikambala and Ganna,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-80,Holidays/Celebration/Leisure,Kilt-style dresses and colorful headscarves are commonly worn during traditional Ethiopian festivals.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-as-89,Holidays/Celebration/Leisure,Kiltas and shawls are common traditional festival accessories worn by people from Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-05,Food,Washet,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-11,Food,Berbere,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-12,Food,Tigray,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-21,Sport,None,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-26,Sport,There isn't a widely recognized or popular martial arts player specifically from Ethiopia that gains international attention.,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-27,Sport,Track and field,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-39,Education,United States,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-49,Work life,3,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-60,Family,Grandparents typically take care of kids when both parents are working in Ethiopia.,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-az-73,Holidays/Celebration/Leisure,50,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-01,Food,Lamb,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-02,Food,07:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-04,Food,Falafel and hummus with pita bread are popular late-night snack options in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-05,Food,Wot injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-07,Food,Tej and tej wine are commonly paired with hard liquor in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-08,Food,Turmeric,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-09,Food,Watsa (stewed vegetables) or tibs (marinated and fried meat) with injera.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-13,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-14,Food,Enkutte (fermented corn) and tej (honey wine) are often consumed.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-15,Food,Peanut butter sandwiches,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-16,Sport,"""Superman: The Movie"" (2017)",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-17,Sport,Base jumping,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-18,Sport,100 meters,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-19,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-23,Sport,I'm unable to provide an accurate answer as there have been no notable Ethiopian table tennis players internationally recognized thus far.,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-26,Sport,Skiing,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-27,Sport,Mengistu Hailemeskel,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-30,Sport,Haile Gebrselassie,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-31,Work life,Doctors and engineers.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-32,Work life,Microsoft Office,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-38,Work life,Addis Ababa and Dire Dawa,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-39,Work life,Jumia,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-44,Work life,3 months,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-45,Work life,Technology and agriculture.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-49,Family,Video calls,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-51,Family,Hostels or guesthouses,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-54,Family,Abiyanka (pomegranate),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-64,Education,5,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-66,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-70,Education,Mathematics and Ethiopian Language (Amharic),1,0.6
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-71,Education,25,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-72,Education,Business Economics,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-73,Education,Social and sports clubs,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-74,Education,Hostels and dormitories provided by universities.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-75,Education,45,1,0.25
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,Playing cards and knitting are common leisure activities among retired women in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,Playing chess and watching football matches.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,Eid al-Fitr and Eid al-Adha are the holidays during which people typically visit religious sites in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Local honey or coffee,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,17:00,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,Addis Ababa,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,Red,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-01,Food,Kik woreda (Ethiopian popcorn),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-02,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-04,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-05,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-07,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-08,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-10,Food,Kik Cheese,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-11,Food,Kale,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-12,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-17,Sport,Flags,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-18,Sport,Tickets,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-19,Sport,Addis Ababa Stadium,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-23,Sport,Tsegay Kebede,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-26,Sport,"""Ethiopia! Ethiopia!""",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-38,Work life,Coffee and tourism industries are known for more flexible working hours in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-41,Work life,Mulugeta Gebrehiwot (also spelled Mulatu Gebrehiwot),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-47,Family,Fruit trees and vegetables.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-49,Family,The Entoto家族,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-50,Family,Wolde,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-55,Family,Christianity,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-56,Family,English,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-59,Family,United States,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-68,Education,"Consequences for bad behavior in schools in Ethiopia can vary but often include warnings, detention, or being required to perform community service.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-69,Education,Fasil Dezafi,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-70,Education,2,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-72,Education,Coursera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-75,Education,16,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Bahir Dar International Airport,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-79,Holidays/Celebration/Leisure,Tigray,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-87,Holidays/Celebration/Leisure,The Mosten Historic Landmark in Ethiopia is the Menelek II Palace.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-en-90,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-05,Food,Injera with tea,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-06,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-08,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-13,Food,Tea,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-15,Food,Kik Wot,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-21,Sport,Table tennis,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-24,Sport,Tossing the weight (Hamsters),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-29,Sport,The Olympic Games,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-58,Work life,Cook,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Injera with various vegetables and lentils,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Traditional Ethiopian folk music,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Kik (fermented milk tea),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-07,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-08,Food,Injera,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-09,Food,Pot,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-13,Food,Wheat,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-19,Sport,Zebra,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ha-66,Family,Addis Ababa City,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-01,Food,Blue Bottle Coffee,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-03,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-33,Work life,Oromia,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-34,Work life,Gondar,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-62,Education,Addis Ababa University,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-63,Education,Addis Ababa University,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Mobile money platforms like M-Pesa and other local equivalents are widely used.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-in-80,Holidays/Celebration/Leisure,There is no famous theme park in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-01,Family,"""Adidas""",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-02,Family,Group prenatal care classes,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-03,Family,"""Kibrit Birhan"" (Ethiopian: ክብረት ተባሂን)",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-04,Family,Soccer balls and toy cars.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-05,Family,Beaded jewelry and dolls made of clay or wood.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-06,Family,The Legend of Wondimagegn Ghebreyesus,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,White cloth or sheet,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-08,Work life,Coffee shops,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-09,Work life,None,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-ko-10,Work life,Craftsmanship and small-scale farming.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-02,Food,Ensete kepro (also known as false banana or cornelian cherry) bread,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-06,Food,Watsa (also spelled wat or wot),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-11,Food,Turmeric,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-16,Sport,Ethiopian distance running,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-20,Sport,Surfing,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-45,Work life,"The usual work schedule during the month of Ramadan in Ethiopia may vary depending on the industry and employer, but many businesses tend to have shorter working hours or staggered shifts to accommodate the fasting period.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-47,Family,07/06,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-49,Family,Churches,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-53,Family,Flowers,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-54,Family,Flowers,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-59,Family,4,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-65,Education,9,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-66,Education,None of these are commonly offered as after-school curriculars in Ethiopian elementary schools.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-74,Education,The average annual tuition fee for public universities in Ethiopia varies but can range from USD 200 to USD 500 per year depending on the institution and program.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Playing chess,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,Addis Ababa International Film Festival,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Kibriti,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,Mengistu Tower,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-01,Food,Termites,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-04,Food,Coffee,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-05,Food,"Kik wondelo (locally known as ""wondie"") and tej are among the most popular sweets in Ethiopia.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-15,Sport,Gatorade,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-27,Education,The average education level for people in Ethiopia varies but can be considered relatively low compared to some other countries.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-37,Education,Engineering,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-60,Family,Friday,1,0.6
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-65,Family,"Massive national celebrations including parades, cultural performances, and fireworks displays in major cities.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-68,Family,Tea,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Wolqaya,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-01,Food,Kik (fermented corn dough) and taita (fried dough) are commonly sold in front of schools in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-09,Food,Shea butter,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-10,Food,Injera with watsa (spiced meat stew) or doro wat (fried chicken stew),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-15,Food,Qishr,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-17,Sport,Basic football (soccer) fields and sometimes small playgrounds for children.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-21,Sport,"Walking, chatting with friends, and playing chess or cards.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-24,Sport,Running,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-28,Sport,Red,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-33,Education,Traditional Ethiopian attire such as the dasha (shirt) and benna (wraparound skirt) or modern clothing like pants and shirts.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-34,Education,Group singing competitions,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-42,Education,Christianity,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-45,Education,07/06,,
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-50,Work life,Farming and herding livestock.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-51,Work life,Fishing,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-57,Work life,Zebu cattle,1,0.75
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-58,Work life,"Cattle, goats, sheep, and donkeys are commonly used for agriculture in Ethiopia.",1,0.2
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-59,Work life,Loops or headscarves made of fabric.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-60,Work life,Injera and various vegetables or stews made with local grains like teff or wheat.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-71,Family,"Traditional Ethiopian gifts for birthdays often include items like clothing, books, or household goods, but specific traditional gifts vary widely and may not be as common as modern presents.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-75,Family,Motorcycle,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Traditional honey balls (Tella) or dates are often given to children during Eid in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-81,Holidays/Celebration/Leisure,Formal suits for the groom.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-82,Holidays/Celebration/Leisure,African wax prints,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Wheat-based dishes such as injera and various stews are commonly served at weddings in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-86,Holidays/Celebration/Leisure,Addis Ababa Cathedral,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,New-su-88,Holidays/Celebration/Leisure,Hip hop,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-02,Education,15:30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-03,Education,18,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-06,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-12,Education,Addis Ababa University,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-13,Education,22,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-15,Education,9,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-20,Work life,18,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-21,Work life,18,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Kolibas (a sweet potato pudding) and tej (a honey wine) are traditionally eaten on Christmas Day in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Meskel Day,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"""Silent Night"" (Stille Nacht)",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-04,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-05,Education,9,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-06,Education,07/06,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-11,Education,07:30,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-20,Family,07/04,,
+qwen2.5-3b,Ethiopia,English,pers-3,Nu-in-40,Work life,Addis Ababa,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-1,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-13,Food,Woliso,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-16,Sport,Addis Ababa Star,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-22,Sport,Addis Ababa University,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-31,Family,Guinea pigs,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-32,Family,"I'm unable to provide an up-to-date answer as preferences for family TV shows can change over time, and I don't have access to current data. However, based on previous trends, ""General Hospital"" was a popular choice among Ethiopian viewers. For the most accurate information, checking recent Nielsen ratings or streaming platform popularity would be necessary.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-37,Family,Senet,,
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-6,Food,Doro Wat,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-7,Food,"Injera and various types of teff-based breads, such as sidr and kocho, are popular snacks in Ethiopia.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Sa-en-9,Food,Fish or seafood grilled on charcoal.,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-10,Family,25,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-11,Family,18,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-13,Family,7,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-17,Sport,Track and field,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-21,Sport,In streets and public squares of Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-22,Sport,Jogging,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-23,Sport,Running,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-25,Sport,Gelana Wodnetu vs Asber Sport Club,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-29,Sport,"None of the sports in Ethiopia have reached the level of professionalism and pay that can be considered ""highest paying"" on a global scale. However, football (soccer) has gained significant popularity and some players earn decent salaries locally.",1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-30,Sport,"I'm sorry, but I don't have up-to-date information on specific sports-related TV programs in Ethiopia as they can vary over time and may not be widely broadcasted or known internationally. For accurate details, it would be best to check current media sources or official Ethiopian broadcasting channels.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,January 1st,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,Enkai (Ethiopian calendar),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Injera with various stews and salads,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Enkutatash (Ethiopian New Year),0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-01,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-03,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-05,Sport,"There isn't a widely recognized or popular women's sports team specific to Ethiopia that competes internationally. Ethiopian sports are generally dominated by men's teams in track and field events like marathon running. Women's participation rates and recognition vary, but there aren't prominent female-only teams comparable to those found in some other countries.",1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-09,Sport,The Blue Bird Cup,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-11,Sport,Mamo Legesse,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-12,Sport,Track and field,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-15,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-19,Work life,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-21,Work life,Health insurance perks are often considered the most important by Ethiopian employees.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-22,Work life,"The most catastrophic economic period for Ethiopia was during the 1980s, particularly influenced by drought and political instability.",0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-24,Work life,Addis Ababa,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-27,Work life,Coffee cultivation and processing,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-35,Family,Lunch,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-36,Family,Visiting a local market and shopping together.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-37,Family,18,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-38,Family,Christmas,1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-39,Family,Kikambala,,
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-41,Family,30,1,0.5
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-43,Family,0,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-44,Family,Injera,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-45,Family,Dinner together as a family,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-48,Education,Bachelor's degree,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-49,Education,The Scholastic Assessment Test (SAT) is considered the most important exam for high school students in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-51,Education,Arabic,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-53,Education,Traditional dance performances,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Th-en-58,Education,Linear algebra,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,pers-3,Tmp-ar-01,Education,University students in Ethiopia usually go to their respective universities or colleges to study for their final exams.,0,0
+qwen2.5-3b,Ethiopia,English,pers-3,Tmp-ar-02,Education,Minibus taxis (also known as matatus),1,1.0
+qwen2.5-3b,Ethiopia,English,pers-3,Tmp-ar-04,Education,Elementary students in Ethiopia often participate in extracurricular activities or homework after school.,0,0

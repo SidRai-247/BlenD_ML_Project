@@ -1,0 +1,501 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,US,English,pers-3,Al-en-01,Food,Cookies,0,0
+qwen2.5-3b,US,English,pers-3,Al-en-02,Food,Poutine,0,0
+qwen2.5-3b,US,English,pers-3,Al-en-04,Food,Apple,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-06,Food,Pizza,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-08,Food,Cheetos and popcorn are among the most commonly eaten snacks at shopping malls in the US.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Al-en-09,Food,S'mores,0,0
+qwen2.5-3b,US,English,pers-3,Al-en-16,Education,4,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-17,Education,Basketball,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Al-en-18,Education,Mathematics,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-19,Education,Spanish,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Turkey,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,"People often dress up in costumes, go trick-or-treating (especially among children), carve pumpkins into jack-o'-lanterns, and participate in costume parties.",1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,"People typically celebrate New Year's Day with parties, fireworks displays, family gatherings, and resolutions. Some also watch the ball drop in Times Square, NY.",1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"People typically decorate their homes with lights and ornaments, exchange gifts, and gather with family and friends for meals and festivities on Christmas Day. Some also attend church services.",1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Candy corn and pumpkin pie.,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Pumpkin pie,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,Chocolate candy,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,"Cakes with candles, one for each year of age, and often frosting or candles are lit during the singing of ""Happy Birthday.""",1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Local parks with playgrounds and picnic areas are very popular.,1,1.0
+qwen2.5-3b,US,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Playing board games and having movie nights together are popular indoor activities for families in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-02,Education,On campus cafeterias or dining halls.,1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-08,Education,7,1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-09,Education,4,0,0
+qwen2.5-3b,US,English,pers-3,An-ar-34,Sport,American football,1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-35,Sport,Kevin Harvick,,
+qwen2.5-3b,US,English,pers-3,An-ar-36,Sport,"The most popular sports team in the US varies by region and sport, but for professional teams, the New York Yankees (Baseball), Los Angeles Lakers (Basketball), and Chicago Bulls (Basketball) are often considered among the top. However, if we consider all levels of play, the popularity can shift based on factors like city size and demographics.",1,1.0
+qwen2.5-3b,US,English,pers-3,An-ar-43,Sport,Sports bars and stadiums,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-06,Food,Breakfast,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-08,Food,Corn淀粉,0,0
+qwen2.5-3b,US,English,pers-3,Ca-sp-09,Food,Cookies or cake.,1,0.6
+qwen2.5-3b,US,English,pers-3,Ca-sp-11,Food,Sunday,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-14,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Beer or cocktails,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,7,1,0.5
+qwen2.5-3b,US,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,Fireworks displays and parties celebrating midnight often featuring champagne toasts.,1,0.5
+qwen2.5-3b,US,English,pers-3,Ca-sp-38,Family,A single-family home or a suburban house.,0,0
+qwen2.5-3b,US,English,pers-3,Ca-sp-41,Family,Nursing homes or assisted living facilities,1,1.0
+qwen2.5-3b,US,English,pers-3,Ca-sp-42,Family,16 Weeks,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Ca-sp-43,Family,12,1,0.5
+qwen2.5-3b,US,English,pers-3,Ca-sp-45,Family,Beach destinations,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-05,Sport,Baseball,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-06,Sport,American football,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-07,Sport,LeBron James,0,0
+qwen2.5-3b,US,English,pers-3,Gu-ch-08,Sport,Soccer (known as football in many American contexts),1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-09,Sport,American football and basketball.,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-11,Sport,Track and field,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Gu-ch-15,Sport,American football,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-16,Family,4,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-31,Education,6,0,0
+qwen2.5-3b,US,English,pers-3,Gu-ch-32,Education,12,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-33,Education,7,1,0.5
+qwen2.5-3b,US,English,pers-3,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,US,English,pers-3,Gu-ch-40,Education,13:50,0,0
+qwen2.5-3b,US,English,pers-3,Gu-ch-41,Education,4,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Ji-ko-02,Work life,Friday,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-03,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-07,Work life,Amazon,1,0.5
+qwen2.5-3b,US,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-09,Work life,"Appetizers and sandwiches, often accompanied by drinks like beer or soda.",1,0.5
+qwen2.5-3b,US,English,pers-3,Ji-ko-14,Work life,Apple iPhones,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-15,Work life,1.0,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-16,Family,Mother rooms or birthing suites in hospitals or birth centers,1,0.75
+qwen2.5-3b,US,English,pers-3,Ji-ko-19,Family,The most commonly given flower on Parents' Day in the United States is typically carnations.,,
+qwen2.5-3b,US,English,pers-3,Ji-ko-22,Family,Luxury goods and experiences such as vacations or personal grooming services.,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-24,Family,Theme parks,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-25,Family,"Thanksgiving, Christmas, and Easter.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-26,Family,"The key milestones associated with children's independence from their parents in the US's society typically include leaving for college, getting a job, and establishing a separate living situation.",0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-27,Family,Candy cane,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-28,Family,The first day people typically celebrate after a child is born in the US is New Year's Day.,,
+qwen2.5-3b,US,English,pers-3,Ji-ko-29,Family,Sixty-five,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-31,Education,"In the US, middle and high school students typically study for exams at home or at their schools during designated exam periods.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-33,Education,Sports fields or gyms,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-34,Education,"Elementary school students in the US typically go to school by bus, car, or on foot, depending on their location and local transportation options.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-35,Education,Private schools.,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-36,Education,Harvard University,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-37,Education,"The type of clothing that middle and high school students wear to school in the US can vary widely depending on the region, school policies, and individual schools' dress codes. However, generally speaking, it often includes a uniform or specific guidelines such as collared shirts, khakis or jeans, and appropriate footwear. Some schools may also allow more casual attire like t-shirts and sweatpants for physical education classes.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-39,Education,Piano,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Ji-ko-40,Education,"High school students typically use break time for activities such as playing sports, hanging out with friends, using computers or tablets to work on homework, eating snacks, and socializing.",0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-41,Education,Sneakers or athletic shoes.,1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-42,Education,"The required subjects in the US's university entrance exams (such as the SAT or ACT) typically include Mathematics, Reading, and Writing/English.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ji-ko-44,Education,"Cambridge, Massachusetts",0,0
+qwen2.5-3b,US,English,pers-3,Ji-ko-45,Education,Partying and socializing with friends.,,
+qwen2.5-3b,US,English,pers-3,Jo-sp-01,Sport,Basketball,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Jo-sp-02,Sport,Horseshoes,0,0
+qwen2.5-3b,US,English,pers-3,Jo-sp-09,Sport,Equestrian and polo are often considered most associated with the upper class in the United States.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Jo-sp-13,Sport,Surfing,0,0
+qwen2.5-3b,US,English,pers-3,Jo-sp-14,Sport,Chess,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-18,Work life,11,0,0
+qwen2.5-3b,US,English,pers-3,Jo-sp-19,Work life,Midwest,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-21,Work life,12:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-31,Education,15:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-32,Education,Baseball,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Jo-sp-36,Education,12,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-37,Education,12,1,1.0
+qwen2.5-3b,US,English,pers-3,Jo-sp-39,Education,6,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Jo-sp-43,Education,12,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-01,Food,"Spoons, forks, and knives.",1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-04,Food,Coca-Cola,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-06,Food,Whiskey,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Jod-ch-07,Food,2.5,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Jod-ch-09,Food,17:00,0,0
+qwen2.5-3b,US,English,pers-3,Jod-ch-12,Food,Chicken noodle soup,0,0
+qwen2.5-3b,US,English,pers-3,Jod-ch-13,Food,Hot dogs,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-15,Food,"People from the US enjoy eating a variety of seafood, including shrimp, crab, lobster, oysters, salmon, and tuna.",1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,The biggest festival in the US is typically considered Thanksgiving.,,
+qwen2.5-3b,US,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Airplanes,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,"The most significant festival in the United States, Christmas, features various decorations and symbols such as Santa Claus, Christmas trees (often adorned with lights and ornaments), wreaths, and poinsettias.",1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-37,Sport,Women in the US often enjoy watching soccer (also known as football in some regions) and basketball the most.,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Jod-ch-38,Sport,American football,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Partying and socializing at bars or clubs.,0,0
+qwen2.5-3b,US,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Partying and socializing at bars or clubs.,1,0.5
+qwen2.5-3b,US,English,pers-3,Jod-ch-46,Work life,1.5,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-48,Work life,"Lunch options in the US can vary widely depending on location and workplace culture, but common choices include sandwiches, salads, pizza, tacos, burgers, and fast food.",1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-50,Work life,42,0,0
+qwen2.5-3b,US,English,pers-3,Jod-ch-51,Work life,"The most common transportation that people take to get to work in the US varies by region and city but often includes cars, public transit (such as buses or trains), biking, and walking. In urban areas with extensive public transit systems, public transport is particularly prevalent.",1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-54,Work life,60,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-56,Work life,62,1,0.2
+qwen2.5-3b,US,English,pers-3,Jod-ch-57,Work life,67,0,0
+qwen2.5-3b,US,English,pers-3,Jod-ch-58,Work life,Doctors,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,US,English,pers-3,Jod-ch-61,Work life,Nurse,1,0.75
+qwen2.5-3b,US,English,pers-3,Jod-ch-62,Work life,Manager or Supervisor,0,0
+qwen2.5-3b,US,English,pers-3,Ki-pe-17,Education,Bachelor's degree,0,0
+qwen2.5-3b,US,English,pers-3,Ki-pe-24,Education,Spanish,1,1.0
+qwen2.5-3b,US,English,pers-3,Ki-pe-30,Education,Schools are typically closed on weekends (Saturday and Sunday) in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,Ki-pe-32,Food,Appetizers and sandwiches are common choices for host families preparing meals for guests in the US.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Ki-pe-34,Food,Coffee or tea,1,1.0
+qwen2.5-3b,US,English,pers-3,Ki-pe-36,Food,China,0,0
+qwen2.5-3b,US,English,pers-3,Ki-pe-39,Food,"Hot dogs and grilled hamburgers, along with potato chips and soda, are commonly prepared for a family picnic in the US.",1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Ki-pe-40,Food,Apples,0,0
+qwen2.5-3b,US,English,pers-3,Ki-pe-43,Food,Bagel,0,0
+qwen2.5-3b,US,English,pers-3,Ki-pe-51,Work life,17:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Ki-pe-53,Work life,09:00,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Veterans Day,0,0
+qwen2.5-3b,US,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"People in the US commonly celebrate Independence Day by enjoying barbecues, fireworks displays, and watching patriotic parades or concerts. Many also visit national parks or historical sites related to American history.",1,1.0
+qwen2.5-3b,US,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,An urn or an urn holder.,,
+qwen2.5-3b,US,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"In the United States, a pregnancy celebration or ceremony is not typically held at a specific time during pregnancy. However, some couples may choose to celebrate when they find out they are pregnant, often with close friends and family, or after the baby is born as part of a welcome home party. There is no standard tradition for celebrating pregnancy in the US.",0,0
+qwen2.5-3b,US,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Bachelor or bachelorette party for the bride and groom respectively,1,1.0
+qwen2.5-3b,US,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Red envelopes containing money.,,
+qwen2.5-3b,US,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,Cleaning and preparing homes for the upcoming month of fasting.,,
+qwen2.5-3b,US,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,The Grand Canyon,1,0.5
+qwen2.5-3b,US,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,The Grand Canyon Lodge at the South Rim of the Grand Canyon National Park is one of the most visited religious sites for tourism in the United States.,0,0
+qwen2.5-3b,US,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Formal dresses or suits.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Kik-in-16,Food,Hot chocolate,1,0.6
+qwen2.5-3b,US,English,pers-3,Kik-in-17,Food,Watermelon,,
+qwen2.5-3b,US,English,pers-3,Kik-in-24,Food,French fries,1,1.0
+qwen2.5-3b,US,English,pers-3,Kik-in-31,Sport,Boxing,0,0
+qwen2.5-3b,US,English,pers-3,Kik-in-34,Sport,"NFL (National Football League) games, NBA (National Basketball Association) games, MLB (Major League Baseball) games, and NCAA basketball tournaments are often broadcasted on national television in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,Kik-in-35,Sport,"Outdoor team sports such as soccer (football) and basketball, as well as individual sports like running and cycling, became more popular among people in the US during the COVID-19 pandemic.",1,0.5
+qwen2.5-3b,US,English,pers-3,Kik-in-36,Sport,Bruce Arena,,
+qwen2.5-3b,US,English,pers-3,Kik-in-37,Sport,New York City FC vs New York Red Bulls,,
+qwen2.5-3b,US,English,pers-3,Kik-in-38,Sport,New York City FC vs New York Red Bulls,,
+qwen2.5-3b,US,English,pers-3,Kik-in-40,Sport,Andy Murray,,
+qwen2.5-3b,US,English,pers-3,Kik-in-41,Sport,Viktorina Zhukova,,
+qwen2.5-3b,US,English,pers-3,Kik-in-44,Sport,Baseball,1,0.75
+qwen2.5-3b,US,English,pers-3,Kik-in-45,Sport,"Sports fields such as football (soccer) fields, baseball diamonds, basketball courts, and track and field areas are typically available at schools in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-02,Food,"Espresso-based drinks, such as lattes and cappuccinos.",1,0.25
+qwen2.5-3b,US,English,pers-3,Na-ko-04,Food,Peanut butter and jelly sandwich,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-05,Food,Pizza,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-07,Food,Beef,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-08,Food,Apples,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-09,Food,French fries,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-11,Food,Hot dogs and popcorn.,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-15,Food,Hamburgers,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-16,Sport,Lionel Messi,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-17,Sport,Baseball,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-18,Sport,Basketball,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Na-ko-19,Sport,Gianna Michele Bertagnoli (also known as Gianna),0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-20,Sport,The Super Bowl,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-22,Sport,Argentina,,
+qwen2.5-3b,US,English,pers-3,Na-ko-23,Sport,Private schools,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-24,Sport,Hot dogs and popcorn,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-25,Sport,"Typical sports played in the US's school sports day include running races (sprint and relay), jumping events (long jump, high jump), throwing events (shot put, discus), and sometimes team sports like soccer or basketball.",1,0.75
+qwen2.5-3b,US,English,pers-3,Na-ko-26,Sport,Basketball and golf are popular among the middle-aged population in the US.,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Na-ko-28,Sport,Connor McDavid,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-29,Sport,Michael Phelps,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-30,Sport,Fortnite,1,0.5
+qwen2.5-3b,US,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Tangyuan,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Disney World in Florida,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,"The most common wedding gift between the bride and groom in the US is typically cash or a cash equivalent, such as a gift card.",0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,"A bouquet of flowers, often roses, or a small gift like chocolates.",1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,Flowers,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Traditional American cuisine such as sandwiches or salads,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,People typically wake up early and spend time cleaning their homes as part of preparing for the Lunar New Year celebrations.,0,0
+qwen2.5-3b,US,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,It typically occurs on Memorial Day weekend.,1,1.0
+qwen2.5-3b,US,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,The Bahamas,1,0.5
+qwen2.5-3b,US,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,The most important national holiday in the US is Thanksgiving.,1,0.5
+qwen2.5-3b,US,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"People from the US may eat traditional American foods during Ramadan, such as pizza, sandwiches, or pasta, while also enjoying halal versions of these dishes. They might also have dates and water to break their fasts.",,
+qwen2.5-3b,US,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"Variety of foods such as pastries, pies, and traditional sweets like cookies and doughnuts.",,
+qwen2.5-3b,US,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"Variety of meats, typically lamb or goat, along with traditional side dishes and desserts.",,
+qwen2.5-3b,US,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,People from the US often go to Times Square in New York City to celebrate New Year's Day.,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,At home,,
+qwen2.5-3b,US,English,pers-3,Ne-ar-16,Work life,Saturday and Sunday,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-17,Work life,09:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-18,Work life,17:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-20,Work life,"A secure job in the US often refers to positions in healthcare, education, and government sectors, as well as roles in finance and law. However, opinions can vary widely based on individual circumstances and market conditions.",0,0
+qwen2.5-3b,US,English,pers-3,Ne-ar-24,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-25,Work life,Finance and related industries such as banking and investment.,1,0.5
+qwen2.5-3b,US,English,pers-3,Ne-ar-26,Work life,Microsoft,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-31,Food,Hamburgers,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-32,Food,"Coffee or tea with possible pastries, cereal, and toast.",1,0.5
+qwen2.5-3b,US,English,pers-3,Ne-ar-33,Food,12:00,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-34,Food,Meat,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-36,Food,"A typical festive meal in the US often includes dishes like turkey on Thanksgiving, ham during Christmas or Easter, and various sides such as mashed potatoes, stuffing, vegetables, and pies.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-37,Food,Grapes,0,0
+qwen2.5-3b,US,English,pers-3,Ne-ar-38,Food,Pies,0,0
+qwen2.5-3b,US,English,pers-3,Ne-ar-39,Food,McDonald's hamburgers often serve as an example of affordable fast food in the United States.,1,1.0
+qwen2.5-3b,US,English,pers-3,Ne-ar-43,Food,Cookies or biscuits.,0,0
+qwen2.5-3b,US,English,pers-3,Ne-ar-44,Food,"People often enjoy breakfast sandwiches, pastries, or doughnuts with coffee in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-02,Food,Pizza,,
+qwen2.5-3b,US,English,pers-3,New-am-04,Food,Barbecue sauce,0,0
+qwen2.5-3b,US,English,pers-3,New-am-08,Food,Pancakes,0,0
+qwen2.5-3b,US,English,pers-3,New-am-15,Food,Chicken and dumplings or chicken soup,,
+qwen2.5-3b,US,English,pers-3,New-am-27,Sport,Simone Biles,0,0
+qwen2.5-3b,US,English,pers-3,New-am-34,Education,"In the US, most elementary school students prepare for their exams at home.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-41,Education,Eleventh grade,0,0
+qwen2.5-3b,US,English,pers-3,New-am-53,Work life,New England,0,0
+qwen2.5-3b,US,English,pers-3,New-am-54,Work life,The Midwest,1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-59,Work life,Ranching and farming,,
+qwen2.5-3b,US,English,pers-3,New-am-60,Work life,Horse,1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-72,Family,"""Spider-Man"" comics",0,0
+qwen2.5-3b,US,English,pers-3,New-am-73,Family,"The most popular YouTube channel for children in the US is likely **TikTok** (formerly known as TikTok), although it should be noted that this can change over time.",0,0
+qwen2.5-3b,US,English,pers-3,New-am-74,Family,"The most popular talk show in the US varies over time but currently, some of the top-rated shows include ""The Late Show with Stephen Colbert,"" ""The Tonight Show Starring Jimmy Fallon,"" and ""Jimmy Kimmel Live!.""",1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Christmas,1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-81,Holidays/Celebration/Leisure,6,1,1.0
+qwen2.5-3b,US,English,pers-3,New-am-83,Holidays/Celebration/Leisure,"The most popular traditional musical instrument in the United States varies widely depending on regional and cultural backgrounds, but some common examples include the banjo (particularly in bluegrass music), the fiddle (for old-time or country music), and the acoustic guitar. However, without a more specific region or context, it's challenging to pinpoint one single most popular traditional instrument nationwide.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-01,Food,Corn,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-02,Food,Pancakes,0,0
+qwen2.5-3b,US,English,pers-3,New-as-05,Food,Coffee or tea,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-07,Food,Gulf Coast-style seafood boils or shrimp boil,0,0
+qwen2.5-3b,US,English,pers-3,New-as-14,Food,Hot dogs and grilled cheese sandwiches.,1,0.5
+qwen2.5-3b,US,English,pers-3,New-as-15,Food,Iced coffee or iced tea,1,0.5
+qwen2.5-3b,US,English,pers-3,New-as-20,Sport,Basketball,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-29,Sport,American football,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-30,Sport,Women in the US often enjoy watching soccer (known as football in many American contexts).,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-58,Work life,Coffee,1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-64,Family,Christmas,1,0.5
+qwen2.5-3b,US,English,pers-3,New-as-76,Holidays/Celebration/Leisure,"Traditional games that families might play during holidays in the United States include Candy Cane Tag at Christmas, Easter Egg Roll at Easter, and Trick or Treat on Halloween.",0,0
+qwen2.5-3b,US,English,pers-3,New-as-80,Holidays/Celebration/Leisure,"It varies widely depending on the specific festival and region, but common attire includes formal dresses for weddings and historical reenactments, festive costumes for Halloween, and themed outfits for cultural festivals.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-as-89,Holidays/Celebration/Leisure,"Costumes and hats associated with specific holiday themes, such as Santa Claus or Easter Bunny for Christmas and Halloween respectively.",,
+qwen2.5-3b,US,English,pers-3,New-az-05,Food,Louisiana,0,0
+qwen2.5-3b,US,English,pers-3,New-az-11,Food,Watermelon,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-12,Food,New England,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-21,Sport,Colorado,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-26,Sport,Bruce Lee,,
+qwen2.5-3b,US,English,pers-3,New-az-27,Sport,Hockey,0,0
+qwen2.5-3b,US,English,pers-3,New-az-39,Education,United Kingdom,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-60,Family,Nannies and babysitters often take care of kids when both parents are working in the US.,0,0
+qwen2.5-3b,US,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Beer,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Wine,1,1.0
+qwen2.5-3b,US,English,pers-3,New-az-73,Holidays/Celebration/Leisure,200,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-01,Food,Hot dogs and hamburgers are commonly eaten during barbecues in the US.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-ch-02,Food,07:00,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-04,Food,"Candy, chips, popcorn, and cookies are common late-night snack options in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-05,Food,Spicy hot wings,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-07,Food,"Appetizers and snacks such as cheese plates, crackers, nuts, and olives.",0,0
+qwen2.5-3b,US,English,pers-3,New-ch-08,Food,Salt,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-09,Food,Poupy soup and hot dogs with mustard.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-13,Food,Jack Daniel's,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-14,Food,Chicken noodle soup,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-15,Food,"Pizzas, sandwiches, and frozen meals.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-16,Sport,"""Rocky""",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-17,Sport,Baseball,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-18,Sport,The 100-meter sprint is the most popular track and field event to watch during competitions in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-19,Sport,The most popular gymnastics event to watch during competitions in the US is typically the all-around competition for women.,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-23,Sport,Ming Gong (also known as Mike Ming),,
+qwen2.5-3b,US,English,pers-3,New-ch-26,Sport,"Skiing and snowboarding events, particularly freestyle skiing and snowboarding competitions.",0,0
+qwen2.5-3b,US,English,pers-3,New-ch-27,Sport,Muhammad Ali,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-30,Sport,Usain Bolt,,
+qwen2.5-3b,US,English,pers-3,New-ch-31,Work life,Theoretical physicist,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-32,Work life,Microsoft Office,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-38,Work life,"New York City, Los Angeles, Chicago, Houston, Miami, Seattle, San Francisco (San Jose), Newark, Philadelphia",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-39,Work life,Amazon,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-44,Work life,One month.,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-45,Work life,Technology and software development.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-49,Family,Video calls using platforms like Zoom or FaceTime.,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-ch-51,Family,Airbnb or hotels,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-54,Family,Apples,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-64,Education,15,1,0.5
+qwen2.5-3b,US,English,pers-3,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-70,Education,"Core courses such as Calculus, English Composition, and Statistics are often required for university students in the United States.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-71,Education,15,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-72,Education,Computer Science or Computer Engineering,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,New-ch-73,Education,Fraternities and sororities.,1,0.5
+qwen2.5-3b,US,English,pers-3,New-ch-74,Education,"University students in the US often live in dormitories or on-campus housing, as well as off-campus apartments and houses.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-75,Education,45,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,"Gardening, knitting, reading, and volunteering are common leisure activities for retired women in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,"Golfing, fishing, and playing cards are popular leisure activities among retired men in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,Christmas and Easter,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Candles and plants are common housewarming gifts in the US.,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,17:00,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,New Orleans,0,0
+qwen2.5-3b,US,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,White or light-colored dresses for women and tuxedos for men are common choices for wedding attire in the United States.,1,0.5
+qwen2.5-3b,US,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-01,Food,Popcorn,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-02,Food,Salt and vinegar,0,0
+qwen2.5-3b,US,English,pers-3,New-en-04,Food,Gordon Ramsay,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-05,Food,Pizza,0,0
+qwen2.5-3b,US,English,pers-3,New-en-07,Food,"The most popular cooking shows in the US include ""MasterChef,"" ""Chopped,"" and ""Food Network Star.""",1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-08,Food,The most popular chocolate brand in the US is Hershey's.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-10,Food,American Cheese,1,0.25
+qwen2.5-3b,US,English,pers-3,New-en-11,Food,Brussels sprouts,0,0
+qwen2.5-3b,US,English,pers-3,New-en-12,Food,French fries and burgers,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-en-17,Sport,Flags and banners.,0,0
+qwen2.5-3b,US,English,pers-3,New-en-18,Sport,"Flags, jerseys, and memorabilia.",1,0.5
+qwen2.5-3b,US,English,pers-3,New-en-19,Sport,Wrigley Field,1,0.5
+qwen2.5-3b,US,English,pers-3,New-en-23,Sport,Tatyana McFadden,,
+qwen2.5-3b,US,English,pers-3,New-en-26,Sport,"""Whoa-nee-hee-hee!""",0,0
+qwen2.5-3b,US,English,pers-3,New-en-38,Work life,Technology and creative industries such as advertising and media.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-41,Work life,Bill Gates,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-47,Family,A vegetable garden or flowers.,1,0.5
+qwen2.5-3b,US,English,pers-3,New-en-49,Family,"The concept of ""the most famous family"" can vary widely and often depends on personal or cultural perspectives. There isn't a universally recognized or accepted list of the ""most famous families"" in the United States, as fame can be subjective and can change over time. Some might consider the Kennedy family due to their political influence and media attention, while others might point to the Trumps for their business success and public profile.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-50,Family,Smith,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-55,Family,Christianity,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-56,Family,Spanish,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-59,Family,Canada,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-68,Education,"Consequences for bad behavior in schools in the US can vary widely depending on the severity of the offense and the school district policies, but common measures include warnings, detentions (both in-school and out-of-school), suspensions, expulsions, or referrals to guidance counselors or law enforcement.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-69,Education,"Fictional works by authors such as Mark Twain, F. Scott Fitzgerald, Ernest Hemingway, Harper Lee, and Toni Morrison are frequently studied in American literature classes. Non-fictional works by authors like Malcolm X and James Baldwin also often feature in curricula.",1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-en-70,Education,2,0,0
+qwen2.5-3b,US,English,pers-3,New-en-72,Education,Coursera or Udemy,0,0
+qwen2.5-3b,US,English,pers-3,New-en-75,Education,16,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Hartsfield-Jackson Atlanta International Airport,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-79,Holidays/Celebration/Leisure,New York City,1,1.0
+qwen2.5-3b,US,English,pers-3,New-en-87,Holidays/Celebration/Leisure,The Statue of Liberty,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-en-90,Holidays/Celebration/Leisure,Marriott,1,0.5
+qwen2.5-3b,US,English,pers-3,New-gr-05,Food,Coffee with pastries or a muffin.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-06,Food,Mexican cuisine,0,0
+qwen2.5-3b,US,English,pers-3,New-gr-08,Food,Beer,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-13,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-15,Food,Apple pie,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-21,Sport,Tennis,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-24,Sport,The most popular track and field sport in the US is typically the 100-meter dash.,1,0.5
+qwen2.5-3b,US,English,pers-3,New-gr-29,Sport,Super Bowl,0,0
+qwen2.5-3b,US,English,pers-3,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-58,Work life,Cashier,0,0
+qwen2.5-3b,US,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Hot cross buns,0,0
+qwen2.5-3b,US,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Country音乐,1,1.0
+qwen2.5-3b,US,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Whiskey,0,0
+qwen2.5-3b,US,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Beer,1,0.5
+qwen2.5-3b,US,English,pers-3,New-ha-07,Food,Pizza,0,0
+qwen2.5-3b,US,English,pers-3,New-ha-08,Food,Apples,0,0
+qwen2.5-3b,US,English,pers-3,New-ha-09,Food,Electric mixer,0,0
+qwen2.5-3b,US,English,pers-3,New-ha-13,Food,Tomato,0,0
+qwen2.5-3b,US,English,pers-3,New-ha-19,Sport,Tiger,0,0
+qwen2.5-3b,US,English,pers-3,New-ha-66,Family,Grand hotels and resorts,0,0
+qwen2.5-3b,US,English,pers-3,New-in-01,Food,Starbucks,1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-03,Food,Cheeseburger with fries and a milkshake,1,0.25
+qwen2.5-3b,US,English,pers-3,New-in-33,Work life,The Appalachian region,1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-34,Work life,Texas,1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-62,Education,Massachusetts Institute of Technology (MIT),1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-63,Education,Harvard University,1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Credit cards and debit cards are the most popular payment methods in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Disneyland,1,0.25
+qwen2.5-3b,US,English,pers-3,New-ko-01,Family,Sesame Street,0,0
+qwen2.5-3b,US,English,pers-3,New-ko-02,Family,Prenatal yoga classes,0,0
+qwen2.5-3b,US,English,pers-3,New-ko-03,Family,"""Happy Birthday to You""",1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-ko-04,Family,"Sports-related toys such as basketballs, footballs, baseballs, and toy sports equipment like bats and balls. Lego is also very popular among boys.",1,0.5
+qwen2.5-3b,US,English,pers-3,New-ko-05,Family,Barbies,1,1.0
+qwen2.5-3b,US,English,pers-3,New-ko-06,Family,"""The Little Red Riding Hood""",0,0
+qwen2.5-3b,US,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,The customary symbol of condolence used at funerals in the US is the sympathy card or bouquet.,1,0.25
+qwen2.5-3b,US,English,pers-3,New-ko-08,Work life,Coffee shops,0,0
+qwen2.5-3b,US,English,pers-3,New-ko-09,Work life,Outdoor team-building exercises and retreats are commonly practiced in US-based companies.,0,0
+qwen2.5-3b,US,English,pers-3,New-ko-10,Work life,"Gig economy work such as driving for rideshare services, delivering food, or freelancing on platforms like Upwork and Fiverr.",0,0
+qwen2.5-3b,US,English,pers-3,New-pe-02,Food,Key lime pie,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-06,Food,Chicken and dumplings,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-11,Food,Cumin,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-16,Sport,Baseball,1,0.8
+qwen2.5-3b,US,English,pers-3,New-pe-20,Sport,Surfing,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-45,Work life,"During the month of Ramadan in the United States, many people adjust their work schedules to align with the fasting hours, typically refraining from eating and drinking from sunrise to sunset. This can lead to shorter working days or flexible scheduling arrangements to accommodate the daily fast.",,
+qwen2.5-3b,US,English,pers-3,New-pe-47,Family,09/02,,
+qwen2.5-3b,US,English,pers-3,New-pe-49,Family,Churches,1,1.0
+qwen2.5-3b,US,English,pers-3,New-pe-53,Family,"Gifts for Fathers on Father's Day or for Parents on Parents' Day in the US can vary widely but are often items like clothing, watches, jewelry, and home goods. Some popular choices include ties, wallets, and kitchen appliances.",1,0.5
+qwen2.5-3b,US,English,pers-3,New-pe-54,Family,Flowers and cards are common gifts for mothers on Mother's Day in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-pe-59,Family,3,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-65,Education,11,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-66,Education,Karate,0,0
+qwen2.5-3b,US,English,pers-3,New-pe-74,Education,"The average annual tuition fee for public universities in the US can vary widely depending on the institution and location, but it typically ranges from $10,000 to $20,000 USD per year.",1,0.5
+qwen2.5-3b,US,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Picnicking and playing sports such as basketball or frisbee.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,The Academy Awards (also known as the Oscars),0,0
+qwen2.5-3b,US,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Uno,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,"Paris, France",1,1.0
+qwen2.5-3b,US,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,The Empire State Building,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-01,Food,Ants,,
+qwen2.5-3b,US,English,pers-3,New-spme-04,Food,Corn (maize),1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-05,Food,"Cookies, cakes, cupcakes, and ice cream are some of the most popular sweets in the US.",1,0.5
+qwen2.5-3b,US,English,pers-3,New-spme-15,Sport,Gatorade,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-27,Education,The average education level for people in the US varies widely but generally falls within a range of high school graduates to college-educated individuals.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-37,Education,Engineering,1,0.5
+qwen2.5-3b,US,English,pers-3,New-spme-60,Family,Sunday,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-65,Family,Fireworks displays and parades.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-68,Family,Soda,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Washington D.C.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Happy Birthday,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-01,Food,Popcorn and baked goods like cookies and cupcakes.,,
+qwen2.5-3b,US,English,pers-3,New-su-09,Food,Vegetable oil,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,New-su-10,Food,"Pork sandwiches or ""pigs in blankets"" are often consumed by pregnant women in the US as a comforting and easy-to-eat snack.",0,0
+qwen2.5-3b,US,English,pers-3,New-su-15,Food,Coffee,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-17,Sport,"Sports facilities such as baseball diamonds, soccer fields, basketball courts, tennis courts, and playgrounds are commonly available in parks in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-21,Sport,"Senior citizens often engage in various activities such as walking, gardening, playing chess or cards, and using fitness equipment in US parks.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-24,Sport,Baseball,1,0.5
+qwen2.5-3b,US,English,pers-3,New-su-28,Sport,White,,
+qwen2.5-3b,US,English,pers-3,New-su-33,Education,Business casual or professional attire,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-34,Education,Playing guitar or piano,0,0
+qwen2.5-3b,US,English,pers-3,New-su-42,Education,Christianity,,
+qwen2.5-3b,US,English,pers-3,New-su-45,Education,06/19,,
+qwen2.5-3b,US,English,pers-3,New-su-50,Work life,Farming and forestry are common occupations in mountainous areas in the US.,0,0
+qwen2.5-3b,US,English,pers-3,New-su-51,Work life,Fishermen and related maritime industries.,0,0
+qwen2.5-3b,US,English,pers-3,New-su-57,Work life,Cattle,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-58,Work life,"Horses, cattle (including beef and dairy cows), pigs, chickens, and sheep are commonly used for agriculture in the US.",1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-59,Work life,Wide-brimmed hats and long-sleeved shirts are common attire for farmers working in hot conditions in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-60,Work life,Sandwiches,,
+qwen2.5-3b,US,English,pers-3,New-su-71,Family,Candy or small toys,,
+qwen2.5-3b,US,English,pers-3,New-su-75,Family,Sedan轿车,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Gifts or candy,,
+qwen2.5-3b,US,English,pers-3,New-su-81,Holidays/Celebration/Leisure,Formal attire such as tuxedos or西装 for men.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-82,Holidays/Celebration/Leisure,White wedding dresses.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Hamburgers and cake are often served at weddings in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The most famous government building in the US is the Capitol Building in Washington D.C.,1,0.4
+qwen2.5-3b,US,English,pers-3,New-su-88,Holidays/Celebration/Leisure,Hip hop/rap,1,0.75
+qwen2.5-3b,US,English,pers-3,Ni-en-02,Education,13:50,0,0
+qwen2.5-3b,US,English,pers-3,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-06,Education,6,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-11,Education,2,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-12,Education,Stanford University,0,0
+qwen2.5-3b,US,English,pers-3,Ni-en-13,Education,22,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-15,Education,8,0,0
+qwen2.5-3b,US,English,pers-3,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-20,Work life,18,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-21,Work life,16,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"Turkey with stuffing, mashed potatoes, cranberry sauce, and pie.",1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+qwen2.5-3b,US,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,Jingle Bells,1,0.3333333333333333
+qwen2.5-3b,US,English,pers-3,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,US,English,pers-3,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,US,English,pers-3,Nu-in-06,Education,10/10,0,0
+qwen2.5-3b,US,English,pers-3,Nu-in-11,Education,08:30,1,0.2
+qwen2.5-3b,US,English,pers-3,Nu-in-20,Family,06/01,,
+qwen2.5-3b,US,English,pers-3,Nu-in-40,Work life,New York City,1,1.0
+qwen2.5-3b,US,English,pers-3,Sa-en-1,Food,McDonald's,1,1.0
+qwen2.5-3b,US,English,pers-3,Sa-en-13,Food,Pizza,0,0
+qwen2.5-3b,US,English,pers-3,Sa-en-16,Sport,Nike FC,0,0
+qwen2.5-3b,US,English,pers-3,Sa-en-22,Sport,University of Michigan,0,0
+qwen2.5-3b,US,English,pers-3,Sa-en-31,Family,Dogs,1,1.0
+qwen2.5-3b,US,English,pers-3,Sa-en-32,Family,Seinfeld,0,0
+qwen2.5-3b,US,English,pers-3,Sa-en-37,Family,Monopoly,1,1.0
+qwen2.5-3b,US,English,pers-3,Sa-en-6,Food,Chinese cuisine,1,0.25
+qwen2.5-3b,US,English,pers-3,Sa-en-7,Food,"Popular snacks in the US include chips and salsa, popcorn, cookies, crackers, candy, pretzels, sandwiches (often with various toppings), and fruit slices.",1,1.0
+qwen2.5-3b,US,English,pers-3,Sa-en-9,Food,"Sandwiches, chips, and cold drinks like sodas or lemonade.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-10,Family,25,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Ta-pe-11,Family,23,0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-13,Family,4,1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-17,Sport,Football (Soccer),0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-21,Sport,Yard or backyard,0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-22,Sport,Yoga,1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-23,Sport,Weightlifting,0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-25,Sport,New York Yankees vs Boston Red Sox in Major League Baseball (MLB).,1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-29,Sport,NBA (National Basketball Association),1,0.5
+qwen2.5-3b,US,English,pers-3,Ta-pe-30,Sport,SportsCenter,0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,July 4th,1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,Fireworks,0,0
+qwen2.5-3b,US,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,"Roast turkey with stuffing, mashed potatoes, cranberry sauce, and pie.",1,1.0
+qwen2.5-3b,US,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Turkey,,
+qwen2.5-3b,US,English,pers-3,Th-en-01,Sport,Baseball,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-03,Sport,National Football League (NFL),1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-05,Sport,"The most popular women's sports team in the US varies by sport, but for basketball, it would be the U.S. Women's National Basketball Team (WNBA). For soccer, it could be the United States Women's National Soccer Team (USWNT).",1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-09,Sport,Super Bowl,0,0
+qwen2.5-3b,US,English,pers-3,Th-en-11,Sport,LeBron James,1,0.5
+qwen2.5-3b,US,English,pers-3,Th-en-12,Sport,American football,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Th-en-15,Sport,Snowboarding,1,0.5
+qwen2.5-3b,US,English,pers-3,Th-en-19,Work life,Detroit,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-21,Work life,Flexible work hours or remote work options,0,0
+qwen2.5-3b,US,English,pers-3,Th-en-22,Work life,The Great Depression of the 1930s was considered the most catastrophic economic period for the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-24,Work life,Silicon Valley,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-27,Work life,Technology and Information Technology (IT) industries.,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-35,Family,Dinner,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-36,Family,Going to the park or having a picnic together is a popular family activity on weekends in the US.,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-37,Family,18,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-38,Family,Christmas,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-39,Family,Uno,1,0.5
+qwen2.5-3b,US,English,pers-3,Th-en-41,Family,30,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-43,Family,2,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-44,Family,Hamburgers,1,0.75
+qwen2.5-3b,US,English,pers-3,Th-en-45,Family,Dinner at home,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-48,Education,Summa Cum Laude,1,0.6666666666666666
+qwen2.5-3b,US,English,pers-3,Th-en-49,Education,The SAT or ACT is generally considered the most important exams for high school students in the US when applying to colleges.,1,1.0
+qwen2.5-3b,US,English,pers-3,Th-en-51,Education,Mathematics,1,0.5
+qwen2.5-3b,US,English,pers-3,Th-en-53,Education,"Sports events and sports-related activities such as games, tournaments, and cheerleading competitions are often the most popular extracurricular social events at schools in the US.",0,0
+qwen2.5-3b,US,English,pers-3,Th-en-58,Education,Calculus,1,1.0
+qwen2.5-3b,US,English,pers-3,Tmp-ar-01,Education,University students in the US typically go to their school's library or designated exam rooms on campus to study and take their final exams.,1,1.0
+qwen2.5-3b,US,English,pers-3,Tmp-ar-02,Education,Bus or shuttle service provided by the university.,1,1.0
+qwen2.5-3b,US,English,pers-3,Tmp-ar-04,Education,"Play sports, participate in clubs, or complete homework.",1,1.0

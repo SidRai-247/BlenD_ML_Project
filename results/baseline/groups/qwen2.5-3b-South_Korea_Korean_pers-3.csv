@@ -1,0 +1,563 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-01,Food,"사과와 초콜릿, 브나덕 등 다양한 간식들이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-02,Food,"맥주와 잘 어울리는 음식 중 하나로는 김치, 돈까스, 치킨 등이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-04,Food,사과입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-06,Food,"김치찌개, 우동, 비빔밥, 김밥, 파스타 등 다양한 한국 요리들이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-08,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-09,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-16,Education,6,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-17,Education,축구,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-18,Education,"대한민국의 초등학생들이 사교육을 받는 주요 과목으로는 수학, 영어, 그리고 한국语(한국어)가 있습니다. 이 외에도 일부 학생들은 과학, 사회, 음악, 미술 등 다양한 분야에서 사교육을 받기도 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-19,Education,영어,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-21,Education,과학과 수학입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-32,Holidays/Celebration/Leisure,中秋节时，韩国人通常会吃黏豆包和八宝饭等传统食品。不过，考虑到您是来自中国的背景，可能更熟悉的是中国传统的中秋节食物如月饼、汤圆等。如果您需要关于韩国中秋节的特别食物，请告诉我！,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-33,Holidays/Celebration/Leisure,"대한민국 사람들은 외국인처럼 할로윈을 직접 기념하지는 않지만, 해외에서의 트렌드를 따라 다양한 이벤트와 활동을 즐깁니다. 하지만 특정 행위가 정해져 있는 것은 아닙니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-34,Holidays/Celebration/Leisure,"대한민국 사람들은 새해 첫날을 설날(설夕, 설) 또는 설날(설夕, 설)이라고 합니다. 이 날은 한국의 전통적인 명절 중 하나로, 주로 한복을 입고 가족들이 모여团圆을 하며 음식과 함께 즐거운 시간을 보내는 것을 특징으로 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-35,Holidays/Celebration/Leisure,"대한민국에서는 크리스마스를 일반적으로 공휴일로 취급하지만, 일부 사람들과 가족, 친구들 사이에서 특별한 시간을 보내기도 합니다. 이는 종교적 행사가 아니기 때문에 모든 사람들이 동참하지는 않습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-36,Holidays/Celebration/Leisure,"대한민국에서는 외국의 할로윈과 같은 전통적인 음식은 별로 없습니다. 하지만 일부 사람들이 할로윈을 위해 특별히 준비하거나, 해외 관광객들이 방문할 때 제공하는 경우가 있습니다. 예를 들어, 크리스마스트리를 연상시키는 디저트인 '크래프트 카카오 바'나, 다양한 색깔의 과자를 준비하는 경우도 있습니다. 하지만 이러한 음식들은 전통적인 한국 음식과는 다른 특별한 의미를 가지고 있지 않습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-37,Holidays/Celebration/Leisure,"대한민국에서는 크리스마스와 직접 연관되지 않은 음식들이 주로 즐겨먹습니다. 하지만 일부 가정에서는 동일하게 크리스마스를 축하하기 위해 특별히 준비하는 음식들을 먹기도 합니다. 예를 들어, 감자 튀김이나 치즈 트림 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-38,Holidays/Celebration/Leisure, chocolates,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-39,Holidays/Celebration/Leisure,떡볶이,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-40,Holidays/Celebration/Leisure,"대한민국에서는 다양한 자연과 문화적 요소를 가진 아름다운 장소들이 있습니다. 예를 들어, 경기도의 파주시에 위치한 청계산은 어린 자녀와 함께 즐길 수 있는 좋은 선택입니다. 이곳에는 청계천이蜿蜒流淌하며, 다양한 야외 활동을 제공합니다. 또한, 서울 근처의 산책로인 강서공원이나 경복궁 주변도 아름다운 자연과 함께 어린 자녀와的美好时光를 보내기에 좋습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-43,Holidays/Celebration/Leisure,"대한민국에서는 가족들이 실내에서 즐기는 활동으로는 영화 감상, 게임 ( particularly 콘솔 게임이나 모바일 게임 ), 요리 만들기, 그리고 함께 읽거나 책을 들으며 이야기하는 경우도 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-02,Education,"대학생들이 점심을 먹는 장소는 다양합니다. 학교 근처의 음식점, 카페, 학원 등이 일반적입니다. 또한, 학생들이 많이 모이는 대형 식당이나 학교 내에서 제공하는 식당도 있습니다. 일부 학생들은 가족집에서, 친구 집에서 점심을 먹기도 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-03,Education,5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-08,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-09,Education,2,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-34,Sport,배구,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-35,Sport,김현수,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-36,Sport,K-pop 슈퍼스타 FC,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-43,Sport,"대한민국에서는 다양한 장소에서 스포츠 방송을 볼 수 있습니다. 가장 일반적으로 찾을 수 있는 곳은 TV와 스마트폰, 태블릿 등 개인 기기입니다. 또한 일부 지역에는 스포츠 방송을 위한 특별한 공간인 '스포츠 팬데믹'이 존재하며, 이곳에서는 다양한 스포츠 경기를 시청할 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-06,Food,"중餐 (중식, jungsik)입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-08,Food,김 (된장)입니다.,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-09,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-11,Food,금요일,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-14,Food,김치찌개 우유,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,맥주,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,7,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"새해 전날, 한국에서는 설날(설夕)이라고 불리는 '설날 밤'이라는 특별한 시간이 있습니다. 이 날은 가장 중요한 명절 중 하나로, 가족들이 모여团圆을 하며团圆饭를 먹습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-38,Family,"집단 주택, 특히 다세대 건물이나 아파트에서 가족들이 함께 살 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-41,Family,"대한민국에서 돌봄이 필요한 노인들이 주로 사는 곳은 다음과 같은 특징들을 가집니다:
+
+1. **어rier(어르신 거주지)**: 정부가 지원하는 공공 복리 시설입니다.
+2. **아파트 단독주택**: 일반적으로 노인들이 살 수 있는 가장 흔한 주택 형태입니다.
+3. ** communal living facilities ( communal residence)**: 공동 생활 시설로, 가족이나 친구와 함께 사는 경우가 많습니다.
+
+이러한 환경들은 노인들의 건강과 안전을 보장하며, 돌봄 서비스를 제공하는 등 다양한 지원을 받을 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-42,Family,60,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-43,Family,12,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-45,Family,"대한민국에서 가족 휴가를 보내면 다양한 지역으로 여행을 즐길 수 있습니다. 예를 들어, 경상도와 전라도는 자연과 함께하는 여유로운 시간을 즐길 수 있는 좋은 장소입니다. 한강변이나 강원도의 아름다운 자연风光은 가족들과 함께 사진 찍기와 산책을 즐기는 데 이상적인 곳입니다. 또한, 서울에서는 다양한 문화적 관광지와 맛집으로 가족과 함께 즐길 수 있습니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-05,Sport,"대한민국의 노인들이 가장 좋아하는 스포츠 중 하나로는 배구와 축구가 있습니다. 하지만 이는 개인의 취향과 연령 등에 따라 다르므로, 정확히 모든 노인들이 좋아하는 스포츠는 아닙니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-06,Sport,K-pop!,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-07,Sport,김상형 (Kim Sang-hyung),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-08,Sport,배구입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-09,Sport,女足,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-11,Sport,육상,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-15,Sport,"K-pop 음악과 관련된 스포츠나 활동, 혹은 K-pop 팬 문화와 연관된 스포츠를 좋아하는 경우가 많습니다. 하지만 일반적으로 가장 많이 언급되는 것은 축구입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-16,Family,3,1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-18,Family,5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-31,Education,6,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-32,Education,6,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-33,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-40,Education,05:30,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-41,Education,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-02,Work life,금요일,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-03,Work life,서울,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-07,Work life,삼성그룹,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-08,Work life,40,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-09,Work life,"대한민국 사람들은 보통 회식할 때 다양한 음식을 즐깁니다. 주로 김치찌개, 돈까스, 불고기 등 한국 전통 요리가 인기이며, 외식 메뉴에서는 샌드위치, 피자, 치킨 등 해외에서도 잘 알려진 음식도 많이 찾습니다. 회식 중에는 또한 과일이나 디저트를 즐기는 경우도 많습니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-14,Work life,"Samsung Electronics, Hyundai Motor Company, Kia Motors, Hyundai Heavy Industries 등이 포함된 기계류와 전자제품, 건축재료, 섬유制品, 음식과 화장품 등이 대한민국의 대표적인 수출 품목입니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-15,Work life,12.0,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-16,Family,"산모들은 일반적으로 병원에서 출생 후 24시간 내에 입원하여 출산 후의 회복과 치료를 받습니다. 특히, 자연출산이나 수술적 출산을 통해 출산한 산모는 더 많은 시간이 필요할 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-19,Family,장수,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-22,Family,"첫 월급은 일반적으로 가족에게 생활비를 지원하거나, 부모님의 건강 관리를 위해 사용되거나, 예전에는 결혼이나 장례 등 중요한 사항에 대한 준비金也. 하지만 최근에는 개인 투자와 재테크에도 활용되고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-24,Family,"대한민국 어린이들은 주로 공원, 야외 활동장, 체육관, 그리고 모험형 놀이터를 선호합니다. 또한, 스마트폰이나 태블릿을 활용한 게임 및 테크놀러지 관련 놀이 시설도 인기입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-25,Family,"대한민국의 가족 관련 공휴일에는 설날, 추석 등이 있습니다. 이들은 한국에서 가장 중요한 가족 모임과 전통적인 음식을 즐기는 기간입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-26,Family,대한민국에서는 일반적으로 20세가 되면 대학 졸업 또는 학위 취득 후 부모로부터 독립합니다. 하지만 이는 개인의 선택과 상황에 따라 다릅니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-27,Family,"귀중하고 개인적인 선물을 준비하는 것이 일반적입니다. 예를 들어, 책, 티셔츠, 음악 CD 등이 있습니다. 하지만 가장 중요한 것은 부모님의 취향을 고려하여 선택하는 것입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-28,Family,태어난 후 1주일째인 '태아 축구' 또는 '태아 축하날'입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-29,Family,두 번째 생일입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-31,Education,대학교나 고등학교 등 공립 학교에서 진행되는 교육 공간인 교실에서 합니다.,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-33,Education,대학이나 카페에서 커피를 마시러 갈 것입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-34,Education,"대한민국의 초등학교에서는 대부분 버스, 자전거 또는 걸어서 학교로 등교합니다. 일부 지역에서는 교통 편의성을 위해 오토바이를 이용하는 경우도 있습니다. 또한 최근에는 도보와 자전거 등 교통 수단을 활용한 '걷고자움' 프로그램도 진행되고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-35,Education,"대학교시化进程과 함께 대한민국에서는 학업 성취도를 높이고, 대학 진학률을 증가시키기 위해 많은 부모들이 자녀들에게 사교육을 제공합니다. 특히 초등학교와 중학교에서 가장 흔한 사교육은 수능(수학능력测验)과 영어 교육입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-36,Education,대한민국의 중고등학교에서는 수학과 영어가 가장 인기 있는 학원 과목으로 여겨집니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-37,Education,대한민국의 중고등학교 학생들은 일반적으로 학교복을 입습니다. 이는 학교에서 정해진 형태와 색상으로 제작된 의복입니다. 하지만 최근에는 개인화된 옷도 일부 학생들이 선택하고 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-38,Education,경제학,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-39,Education,"대한민국 초등학교에서 가장 흔히 배우는 악기는 피아노와 건반악기입니다. 하지만, 이는 지역과 학교에 따라 다를 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-40,Education,"대한민국의 고등학생들이 쉬는 시간에는 다양한 활동을 즐깁니다. 주로 공부를 계속하거나 친구들과 놀거나, 운동을 하거나, 취미 활동을 하는 경우가 많습니다. 하지만 특정 활동은 학생마다 다르며, 개인의 취향과 시간 관리 능력에 따라 다릅니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-41,Education,"학생들은 일반적으로 학교 내에서 운동화를 많이 신어요. 하지만 일부 학교에서는 슬랙스와 양말을 권장하기도 하며, 특히 여학생들이 더 자주 양말을 신는 경우가 많습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-42,Education,"대학교 입시에서는 일반적으로 수학, 영어, 한국语(또는 한글), 사회 또는 과학 중 하나를 필수 과목으로 선택해야 합니다. 이 외에도 다른 과목을 추가로 선택할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-44,Education,서울市,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-45,Education,"대학 축제에서는 다양한 활동과 즐길 수 있는 기회들이 있지만, 가장 일반적으로 기대되는 것은 아마도 체육竞技, 음악 공연, 문화 전시, 그리고 대학생들의 창의적인 프로젝트들일 것입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-01,Sport,농구,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-02,Sport,축구입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-09,Sport,그것은 축구입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-13,Sport,帆船（帆板）입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-14,Sport,K-pop竞猜游戏和围棋,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-18,Work life,15,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-19,Work life,"경상북도와 경상남도가 전통적으로 농업과 밀접하게 연관되어 왔습니다. 이 두 도는 한국의 주요 농산물 생산지로, 특히 쌀, 무, 고구마 등의 작목이 잘 자라는 지역입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-21,Work life,12:00,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-31,Education,16:00,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-32,Education,"대한민국의 초등학생들은 일반적으로 축구, 배드mintle, 유니버설 스포츠 등 다양한 종목의 운동을 배웁니다. 하지만 가장 흔히 접할 수 있는 것은 축구입니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-36,Education,6,1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-37,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-39,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-43,Education,2,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-01,Food,筷子 (chì zi) 입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-04,Food,"우리나라 사람들은 다양한 음료를 즐깁니다. 특히 커피와 차가 인기 있으며, 최근에는 레몬차와 같은 과일 차도 많이 찾습니다. 또한 건강을 생각하는 사람들이 많아 비건 카페와 유기농 차 등이 인기가 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-06,Food,"메타데이터로는 알 수 없는 정보지만, 대한민국에서 가장 인기 있는 전통 술 중 하나로는 막걸리가 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-07,Food,2.5,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-09,Food,18:30,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-12,Food,"대한민국 사람들은 다양한 종류의 국을 즐깁니다. 특히, 김치국과 된장국은 가장 대표적인 국으로 여겨집니다. 이 외에도 여러 지역에서 특색 있는 국들이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-13,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-15,Food,"대한민국 사람들은 다양한 해산물을 즐겨먹습니다. 특히 김치鱼와 같은 연어, 참치마늘_salmon과 같은 참치, 그리고 오징어와 같은 다양한 어종이 인기 있습니다. 또한, 갈치와 같은 갑각류도 매우 사랑받는 해산물 중 하나입니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,평창 동계올림픽축제,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-28,Holidays/Celebration/Leisure, Subway,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,"설날(음력 1월)의 불상사시estival, 즉 설날 축제는 대한민국에서 가장 큰 축제 중 하나입니다. 이 축제에서는 다양한 장식과 상징이 사용되는데, 그 중에서도 가장 대표적인 것은 화려한 불꽃놀이나 불꽃축제입니다. 이러한 불꽃놀이는 전통 문화와 현대 문화가 조화를 이루는 예술적 표현으로서, 특히 설날 축제에서는 큰 의미를 가집니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-37,Sport,"K-pop 음악과 관련된 경기 또는 행사는 아니지만, 대한민국에서는 여성이 많이 관람하고 즐기는 스포츠 중 하나로 축구와 농구가 있습니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-38,Sport,K League Classic 또는 프로축구联赛,1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"대한민국의 20대 여성들은 다양한 여가 활동을 즐깁니다. 그 중에서도 예술적 활동, 스포츠, 여행, 음악 및 문화 축제 등이 인기입니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"대한민국의 20대 남성들은 다양한 여가 활동을 즐깁니다. 대표적으로는 야외 활동, 스포츠, 음악과 문화 행사, 게임 및 온라인 콘텐츠 시청 등이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-46,Work life,2.0,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-48,Work life,"김밥, 우동, 파스타 등 다양한 음식이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-50,Work life,45,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-51,Work life, Subway,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-54,Work life,7,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-56,Work life,60,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-57,Work life,60,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-58,Work life,의사,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-61,Work life,"대한민국 여성들의 직업 선호도는 다양합니다. 그러나 일반적으로 보면, 교육 분야와 의료 분야가 여성이 많이 선택하는 분야입니다. 또한 기업에서의 경영 역할이나 연구 업무 등 전문직 분야에서도 많은 여성들이 취업하고 있습니다. 하지만 특정 직업이 가장 선호되는 것은 아니며, 개인의 관심과 능력에 따라 varies합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-62,Work life,"대한민국 남성들의 직업 선호도는 다양합니다. 그러나 일반적으로 인기 있는 직업으로는 경영, 법률, 의료, 과학 등이 있습니다. 하지만 특정 직업을 가장 선호하는 것은 개인의 취향과 능력에 따라 다르므로 정확히 설명하기 어렵습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-17,Education,대학교,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-24,Education,"한국의 초등학교에서는 대개 한국어와 영어 두 가지 언어를 배웁니다. 중학교부터는 영어, 독일어, 프랑스어, 이탈리아어, 스페인어 등 다양한 외국어를 선택하여 배울 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-30,Education,"월요일부터 금요일까지 열리므로, 토요일과 일요일에는 학교가 닫히지 않습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-32,Food,"대한민국에서는 손님을 맞을 때 일반적으로 따뜻하고 맛있는 음식들을 준비합니다. 특히, 간단하면서도 맛있는 음식들이 많이 선호되며, 그 중에서도 김치찌개와 비빔밥이 대표적입니다. 또한, 다양한 지역의 특산물과 전통음식을 포함한 다양한 요리를 제공하기도 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-34,Food,"우유 또는 빵과 함께 커피를 즐겨 마십니다. 하지만 개인의 취향이나 지역, 시즌 등에 따라 다양한 음료를 선택합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-36,Food,韓国料理は人気がありますが、特に注目を集めているのは日本の料理です。日本料理は見た目も美しいし、味も豊かで、多くの人々に親しまれています。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-39,Food,"우리는 가족 소풍 때 다양한 음식들을 준비합니다. 일반적으로는 간단하고 손쉽게 만드는 음식들이 많습니다. 예를 들어, 과일이나 채소로 만든 샐러드, 냉면, 김밥, 파스타 등이 있습니다. 또한, 가족 모두가 좋아할만한 맛있는 간편식도 준비합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-40,Food,불고기입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-43,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-51,Work life,20:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-53,Work life,10:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-01,Holidays/Celebration/Leisure,설날 (Chuseok),1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"대한민국에서는 광복절을 기념하기 위해 다양한 활동이 있습니다. 주요 활동으로는 국기 raising, 국민의례, 그리고 역사적 의미를 되새기는 특별 프로그램들이 포함됩니다. 또한, 이날에는 전통 문화와 예술 행사가 열리며, 많은 사람들이 광복절을 기념하는 축제나 행사를 즐깁니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-04,Holidays/Celebration/Leisure,촛불,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"대한민국에서는 일반적으로 임신 6개월 이후부터 출산 전까지 다양한 형태의 축하 행사를 즐깁니다. 특히, 임신 8개월이 되면 '임신 축복 파티' 또는 '임신 축하 파티'라고 불리는 특별한 파티가 열립니다. 이 때는 가족과 친구들이 함께 모여 축하하고, 임산부에게 좋은 출생을 기원합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-06,Holidays/Celebration/Leisure,"대한민국에서는 결혼식 전에 다양한 이벤트들이 있습니다. 가장 일반적인 것은 '결혼식 준비회' 또는 '준비회'라고 불리는 행사입니다. 이 행사는 신랑과 신부의 가족 및 친구들이 함께 즐기는 파티로, 주로 결혼식 당일보다 일주日前에 열립니다. 이 때는 신부와 신랑이 각자의 부모님을 초대하고, 서로의 가족들과 함께 시간을 보내며 준비를 돕습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-07,Holidays/Celebration/Leisure,떡값입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"대한민국 사람들은 라마단이 시작되기 몇 일 전부터 식수와 음식을 제한합니다. 이 기간 동안 대부분의 사람들이 물과 간단한 음료를 마시며, 고기나 채소 등 특정 음식들을 피합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-10,Holidays/Celebration/Leisure,제주도,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-11,Holidays/Celebration/Leisure,제주 불도사,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-15,Holidays/Celebration/Leisure,"대한민국에서 여성 학생들이 졸업식에 입는 주요 옷은 일반적으로 청바지와 레이스 또는 스트라이프 패턴의 티셔츠, 그리고 가벼운 재킷이나 맨투맨으로 구성됩니다. 이러한 옷들은 깔끔하면서도 예쁘게 보이는 것을 목표로 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-16,Food, kettle hot chocolate,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-17,Food,사과,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-24,Food,쌀饭,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-31,Sport, kettle drum,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-34,Sport,"K리그 경기와 한국 축구 대회, 그리고 각종 승마 및 육상 경기 등이 포함될 것입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-35,Sport,비대면으로 진행되는 온라인 경기에 대한민국 사람들이 관심을 보였습니다. 특히 팀 스포츠와 게임들이 인기를 끌었습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-36,Sport,비서 김준수,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-37,Sport,"K League Classic의 강호들인 FC서울과 울산 현대로, 그리고蔚山現代와의 갈등은 한국 축구에서 가장 잘 알려진 라이벌 관계 중 하나입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-38,Sport,K League Classic 대 K League Classic,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-40,Sport,김건우,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-41,Sport,김연아,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-44,Sport,축구,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-45,Sport,"대한민국의 학교에서는 일반적으로 축구 경기장을 찾을 수 있습니다. 하지만, 일부 초등학교와 중학교는 야구 경기장이나 배드mint 경기장도 설치할 수 있습니다. 또한, 최근에는 요가나 테니스 등의 특화된 스포츠 시설이 학교에 도입되고 있는 추세입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-02,Food,아메리카노,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-04,Food,김치찌개입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-05,Food,"김밥, 짜장면, 불고기 파스타, 탕수육, 김치찌개, 두부찌개, 순대 등이 대표적인 배달음식입니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-07,Food,삼겹살,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-08,Food,"감사합니다, 하지만 이 질문에는 직접적인 답변이 필요하지 않습니다. 대한민국의 가을철과 가장 잘 어울리는 과일 중 하나는 사과입니다. 사과는 따뜻한 날씨와 함께 맛있게 먹히며, 건강에도 좋습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-09,Food,김 (된장),1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-11,Food,"대한민국 사람들은 축구 경기 시 관중들이 종종 먹는 음식으로는 초밥, 피자, 치킨 등이 있습니다. 또한 과일이나 커피도 인기 있는 선택입니다. 하지만 가장 대표적인 음식은 막대형 구운 감자와 함께하는 '감자튀김'입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-15,Food,삼계탕,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-16,Sport,"비유명화된 이 문제에는 직접적인 답변이 어렵습니다. 하지만, 대한민국 축구 역사와 문화를 고려할 때, 최고의 축구 선수로는 루크 스타fel(루크 슈틸러)과 김영권 등이 있습니다. 그러나 가장 유명한 선수는 개인에 따라 다릅니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-17,Sport,"대학생들이나 성인 남성들의 경우, 점심 시간에는 대체로 운동이나 스트레칭을 즐기는 경향이 있습니다. 하지만 특정 스포츠를 즐긴다는 것은 일반적이지 않습니다. 대부분의 학교에서는 점심시간에 여유롭게 식사를 하고, 이후에는 자유롭게 활동하거나 휴식을 취합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-18,Sport,女足,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-19,Sport,김건우 선수입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-20,Sport,K-pop!,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-22,Sport,브라질,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-23,Sport,축구학원입니다.,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-24,Sport,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-25,Sport,육상 경기,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-26,Sport,농구,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-28,Sport,김연아,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-29,Sport,Lee Sang-hwa,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-30,Sport,KPL (King of Glory) 또는 League of Legends (LoL),1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-33,Holidays/Celebration/Leisure,떡)||(,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-37,Holidays/Celebration/Leisure,제주도,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-38,Holidays/Celebration/Leisure,"귀중한 선물을 주고 받는 것은 대한민국에서도 매우 중요한 부분입니다. 신랑과 신부가 주고받는 가장 흔한 예물 중 하나로는 '신부의 가방'이 있습니다. 이 가방에는 신부가 결혼 후 필요한 물건들이 담겨 있으며, 특히 신부가 새로운 생활을 시작할 때 필요한 작은 것들을 준비해 줍니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-39,Holidays/Celebration/Leisure,"귀중하지 않은 선물이나 개인적인 추억을 담은 소품들이 일반적으로 선호됩니다. 예를 들어, 한국 음식 팬케이크, 한복 패션 사진 등입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"애도를 표하기 위한 준비물은 개인의 취향과 상황에 따라 다릅니다. 하지만 일반적으로는 다음과 같은 것을 고려해볼 수 있습니다:
+
+1. 장례식장에서 제공하는 기본적인 애도용품: 종이봉투, 종이컵 등.
+2. 친구나 가족에게 직접 전달할 애도용품: 초콜릿, 과일 등 간단한 선물.
+3. 개인 취향에 따라 특별히 준비할 수 있는 애도용품: 사진첩, 장례식장에서 제공하는 종이札紙.
+
+하지만 가장 중요한 것은 참석자 모두가 서로를 존중하고 이해하며 애도하는 마음을 가지고 있다는 것입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"대한민국 장례식에서는 다양한 음식들이 제공되지만, 가장 대표적인 음식으로는 '장례식장 특별 음식'이 있습니다. 이 음식들은 장례식의 성격과 참석자들의 선호도에 따라 다양하게 준비됩니다. 주로 제공되는 음식 중 하나인 '장례식장 특별 음식'은 일반적으로 밥, 김치, 돈육 등이 포함되며, 이 외에도 다양한 지역의 전통음식이나 참석자들의 선호도에 따라 추가로 준비됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-43,Holidays/Celebration/Leisure,떡 stuffing,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-44,Holidays/Celebration/Leisure,5월 1일,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-45,Holidays/Celebration/Leisure,제주도,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,"대한민국에서 가장 중요한 국경일 중 하나로는 5월 1일의 Liberation Day(해방절)과 6월 10일의 Independence Movement Day(독립유공자기념일)이 있습니다. 이 외에도 다양한 날들이 중요하지만, Liberation Day와 Independence Movement Day는 특히 국가적 의미가 깊습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"대한민국 사람들은 라마단 기간 동안 fasts(fasting)를 실천합니다. 즉, 아침과 저녁 식사 시간 사이에는 음식을 섭취하지 않습니다. 하지만 이 기간 중에는 다양한 음식들을 즐길 수 있습니다. 특히 라마단이 시작되는 달 초월의 마지막 날인 '라마단 모하메드 요일'에는 전통적인 음식들이 많이 제공됩니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,대한민국 사람들은 이드 알피트르에 한국 음식을 먹습니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,김치,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,"대한민국 사람들은 새해 첫날을 기념하기 위해 설坛(설) 또는 설祭(설祭)이라고 불리는 전통적인 풍습을 따르며, 주로家中에서 family members와 함께团圆을 즐깁니다. 이때는 음식과 함께 다양한 전통 의상을 입고, 가족 간의 사랑과团结을 강조합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"대한민국 가족들은 이드 축제를 위해 주로 집 근처 또는 가까운 공원, 시장 등에서 모입니다. 이드 축제는 지역마다 조금씩 다르지만, 대부분의 경우 가족들이 함께 즐기는 장소가 바로 자신의 생활 속에 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-16,Work life,화요일,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-17,Work life,10:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-18,Work life,17:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-20,Work life,"경제적으로 안정적인 직업으로는 의사, 변호사, 대학 교수 등이 있습니다. 또한 공무원, 은행 및 금융 기관의 관리자, 연구소에서 일하는 과학자들도 경제적 안정성을 느낍니다. 하지만 이는 개인의 능력과 노력에 따라 달라질 수 있으며, 다양한 직업들이 사회적으로 인정받고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-24,Work life,서울,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-25,Work life,IT 및 IT컨설팅 분야의 산업 종사자들의 평균 급여가 가장 높다고 볼 수 있습니다.,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-26,Work life,삼성集团,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-31,Food,김치입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-32,Food,"우유와 과일 주스, 그리고 다양한 빵류를 포함하는 간단하고 영양가 있는 아침 식사를 즐깁니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-33,Food,12:00,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-34,Food,김치,1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-36,Food,김치,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-37,Food,사과,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-38,Food,비빔밥,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-39,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-43,Food,우유,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-44,Food,우유와 설탕을 주로 곁들여 먹습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-02,Food,bibimbap (비빔밥),1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-04,Food,김치소스입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-08,Food,무getOption,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-15,Food,"대한민국에서 산후에는 다양한 음식들이 추천되지만, 특히 육류와 채소가 많이 들어간 음식들이 인기입니다. 예를 들면, 삼겹살이나 돈까스 같은 고기 요리, 김치찌개나 된장찌개 같은 채소 요리 등이 있습니다. 또한, 산후 회복을 돕는 특별한 음식들도 있지만, 개인의 건강 상태와 의사의 조언에 따라 선택해야 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-27,Sport,김연아,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-34,Education,"대한민국의 초등학교에서는 대부분 학교 내에서 시험 준비를 합니다. 하지만 일부 경우, 집이나 공공 장소에서도 시험이 이루어질 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-41,Education,10학년입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-53,Work life,제주도입니다.,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-54,Work life,"울릉군과 도ng산군, 그리고 경상북도의 영덕군 등이 대한민국에서 축산업으로 유명한 지역입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-59,Work life,"대한민국에는 사막이나 고원 지역이 없습니다. 대신, 우리는 산지와 호수, 그리고 다양한 농업 지대를 가지고 있습니다. 하지만 특정 지역에서 특별히 유명해진 직업을 말씀해주셨다면 알려주시면 감사하겠습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-60,Work life,馬 (ma) 입니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-72,Family,마블 comics,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-73,Family,KakaoTalk,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-74,Family,KBS2TV의 '뉴스One'입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-77,Holidays/Celebration/Leisure,설날 (Chuseok),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-81,Holidays/Celebration/Leisure,5,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-83,Holidays/Celebration/Leisure,태gsung (태평소) 입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-01,Food,"대한민국에서는 다양한 농산물을 생산합니다. 주요 농산물에는 쌀, 무, 고구마, 감자, 오이 등이 있습니다. 또한 야채류와 과일도 다양하게 재배되고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-02,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-05,Food,"우리는 손님에게 차 또는 커피를 주는 경우가 많습니다. 특히 차는 다양한 종류로 제공되며, 그 중에서도 녹차와 죽 matters가 인기입니다. 또한 일부 가정에서는 맥주나 위스키 같은 술도 손님들에게 제공할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-07,Food,"대한민국에서 가장 인기 있는 생선 요리 중 하나로는 '갈치요리'가 있습니다. 갈치는 다양한 형태의 요리를 만들어내며, 그 중에서도 '갈치볶음', '갈치국수', 그리고 '갈치김치' 등이 특히 인기가 높습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-14,Food,쌀국,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-15,Food,"열심히 먹고 힘차게 일하는 동안, 대한민국에서는 일반적으로 설탕이 많이 들어간 냉饮 (사과주스 또는 맥주)을 즐깁니다. 하지만 최근에는 더운 날씨에 적합한 차와 과일 주스도 인기입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-20,Sport,배구입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-29,Sport,K-pop 음악과 관련된 스포츠 콘서트를 보는 것을 좋아하는 대한민국 남성들이 많습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-30,Sport,"대한민국의 여성들이 선호하는 스포츠는 다양합니다. 하지만 일부에서는 축구와 농구, 그리고 요즘에는 여자농구가 인기가 많습니다. 또한 테니스와 배드mint는 여성이 많이 즐기는 종목입니다. 최근에는 여자 아이 Hockey도 인기를 얻고 있습니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-58,Work life,커피입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-64,Family,설날,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-76,Holidays/Celebration/Leisure,윷놀이,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-80,Holidays/Celebration/Leisure,"대한민국의 전통 축제에서는 사람들이 주로 한복을 입습니다. 한복은 한국의 전통 의상으로, 축제나 중요한 행사 때는 더욱 특별하게 차려입기도 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-89,Holidays/Celebration/Leisure,"대한민국 사람들은 전통 축제에서 다양한 아름다운 액세서리를 착용합니다. 예를 들어, 한복을 입은 경우 금색 또는 은색의 목걸이와 귀걸이가 일반적입니다. 또한 팔찌나 손목 레더 등도 많이 사용됩니다. 하지만 축제마다 특성과 지역에 따라 액세서리의 종류와 색상이 다릅니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-05,Food,제주도,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-11,Food,사과,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-12,Food,제주도,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-21,Sport,제주도,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-26,Sport,김치esan,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-27,Sport,K-pop 스타들의 글로벌 인지도와 K-스포츠의 확산으로 최근 10년간 대한민국에서 가장 빠른 속도로 성장한 스포츠 중 하나는 아마도 축구일 것입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-39,Education,싱가포르,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-49,Work life,5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-60,Family,"아이들이 돌봄을 받는 경우, 일반적으로 다음과 같은 방법들이 있습니다:
+
+1. 가족 구성원: 대부분의 경우, 부모님은 아이들을 돌봅니다.
+2. 외戚 또는 친구: 가족 구성원이 없거나 부담스러울 때, 외戚나 친구가 아이를 돌보기도 합니다.
+3. 일용雇用 caregivers: 일부 가정에서는 일용 caregivers를 고용합니다.
+4. 어린이집이나 유치원: 아이들이 학교에 다닐 수 있는 나이부터는 어린이집이나 유치원을 이용하기도 합니다.
+
+하지만 모든 가정은 다르며, 돌봄 방법은 개인의 상황과 선택에 따라 달라질 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-69,Holidays/Celebration/Leisure,맥주,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-70,Holidays/Celebration/Leisure,"대한민국 여성들은 다양한 종류의 술을 선호하지만, 주로 맥주와 소주가 인기입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-73,Holidays/Celebration/Leisure,200,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-01,Food,"대한민국에서는 바베큐 시즌에는 다양한 종류의 고기가 많이 사용되지만, 특히 돼지고기와 닭고기가 가장 흔합니다. 닭갈비, 돈까스, 불고기 등이 인기 있는 메뉴입니다. 또한 해산물도 바베큐에 잘 어울리며, 채소류를 추가하면 더욱 건강하고 다양한 맛을 즐길 수 있습니다.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-02,Food,06:30,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-04,Food,"김밥, 짬뽕, 불고기 파면 등 다양한 음식들이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-05,Food,김치찌개입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-07,Food,"무엇을 안주로 선택하는 것은 개인의 취향과 맥주의 종류에 따라 다르지만, 일반적으로는 쫄깃하고 고소한 음식들이 많이 선호됩니다. 예를 들어, 김치와 함께 마시는 경우가 많으며, 갈riot나 소고기 등이 잘 어울립니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-08,Food,"장류와 고추膏, 간장을 비롯한 다양한 재료들이 한국 요리를 특징짓는 중요한 요소들입니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-09,Food,寒冷時，韓國人通常會吃熱食來保暖，比如泡菜湯（泡菜찌개）、姜汁炒年糕（shownamul gujeolpan）和鍋物（鍋物）。這些食物都能夠提供必要的熱量以抵抗寒冷。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-13,Food,"맥주로는 맥스웰(Maxwell), 캐나다맥주(Cananda), 그리고 소주로는 한라일(Raewill)과 같은 브랜드들이 대표적입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-14,Food,"대한민국에서 아플 때 일반적으로 먹는 음식은 다양한 종류가 있습니다. 예를 들어, 간편하고 속이 부드러운 음식들이 많이 찾ается입니다. 비빔밥이나 김치찌개 같은 국수 요리와 함께 채소나 과일을 섭취하는 경우도 많습니다. 또한, 아픈 상태에 따라 약膳이나 진통제를 포함한 간편한 음식들도 선택됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-15,Food,"김치, 파스타 소스, 즉석된 찌개 재료, 빵, 치즈, 그리고 다양한 음식용 가공제품들이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-16,Sport,"""기생충""",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-17,Sport,"대한민국 사람들이 일반적으로 가장 해보고 싶어하는 익스트림 스포츠 중 하나로는 스노클링과 스쿠버-diving이 있습니다. 또한, 바람을 타고 서핑이나 비행기 레저 활동도 인기가 많습니다. 하지만 직접적인 익스트림 스포츠에 대한 답변은 어렵지만, 이러한 활동들이 한국에서도 즐길 수 있는 다양한 선택지 중 하나임을 알려드리겠습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-18,Sport,약속 marathon ( marathon ),1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-19,Sport,그물竞技,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-23,Sport,김연아,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-26,Sport,"설명 없이 단일 답변으로는 다음과 같이 대답할 수 있습니다.
+
+冬奥会에서 가장 인기 있는 종목은 ice skating (icerink)입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-27,Sport,박정환 (Park Jin-hwan),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-30,Sport,김치esan,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-31,Work life,"대한민국의 부모들은 자녀가 어떠한 직업을 가졌든 진정으로 행복하고 성공적인 삶을 살기를 바라며, 그들의 선택에 대해선 큰 제약 없이 지원합니다. 하지만 일반적으로 사회에서 인정받고 존경받는 직업이나 전통적으로 더 많은 경제적 보장을 제공하는 직업은 자녀들에게 선호됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-32,Work life,KoBo (KR),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-38,Work life,서울,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-39,Work life,"KakaoTmall, NAVER Shopping, Coupang",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-44,Work life,4주,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-45,Work life,"대한민국의 청년들이 창업 시 가장 많이 선택하는 분야는 다양합니다. IT, 스타트업, 테크놀러지, 디자인, 브랜드 커뮤니케이션 등 다양한 산업과 분야가 있습니다. 하지만 최근에는 환경 친화적인 제품이나 서비스를 제공하는 기업들이 증가하고 있으며, 특히 에너지 효율성 향상, 재생에너지, 지속 가능한 소재 활용 등의 분야에서 창업이 활발하게 이루어지고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-49,Family,Skype,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-51,Family,"대한민국에서 가족 여행 시 일반적으로 예약하는 숙박시설은 다음과 같습니다:
+
+1. **호텔**: 다양한 레벨과 서비스를 제공하며, 특히 아웃렛이나 관광지 근처에서는 호텔 객실을 선택합니다.
+2. **펜션/숙박형 리조트**: 자연과 가까운 곳에서 편안하게 쉬며, 가족 여행에 적합합니다.
+3. **캠핑장**: 자연 속에서의 체험을 원하는 경우, 특히 가족들과 함께 캠핑을 즐길 때 유용합니다.
+4. **펜션형 리조트**: 아늑하고 따뜻한 분위기로 가족 여행객에게 인기가 많습니다.
+5. **民宿/집 숙박**: 지역 주민들이 직접 운영하는 집에서의 숙박은 더욱 특별하고 개인적인 경험을 제공합니다.
+
+이러한 다양한 형태의 숙박시설 중 선택에 따라 가족 여행의 특색과 목적에 맞게 예약할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-54,Family,사과,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-64,Education,20,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-66,Education,25000,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-70,Education,"대학생들이 공통적으로 듣는 필수 과목 중 하나로는 한국어와 사회과학(사회학, 정치학 등)이 있습니다. 또한 경제학과 기초과학 분야의 과목들도 많이 배우게 됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-71,Education,25,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-72,Education,"경제학, 경영학, 정보통신기술(IT) 분야, 마케팅 등 다양한 전공들이 취업 시 좋은 기회를 제공합니다. 하지만 최근에는 데이터 사이언스와 비즈니스 인텔리gence(BI) 분야가 특히 높은 관심을 받고 있습니다. 또한 사회과학과 humanities 분야의 전공도 취업 시점에서 다양성을 보여줄 수 있는 긍정적인 요소입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-73,Education,"대학생들이 가장 인기 있는 동아리는 다양합니다. 하지만 일반적으로는 학과 관련 동아리, 스포츠 동아리, 문화 예술 동아리 등이 인기가 많습니다. 예를 들어, 경영학과 학생들은 '경영인협회'와 같은 동아리를 찾고, 운동을 좋아하는 학생들은 '대학원 체육회', 그리고 다양한 문화 활동에 관심 있는 학생들은 '국악동아리', '춤동아리', '영화동아리' 등이 인기가 많습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-74,Education,"대학생들이 주로 거주하는 유형의 거주지는 다양합니다. 일반적으로는 학교 주변이나 도시 중심부에서 집을 빌려住, 또는 학과 관련 지역으로 이사가는 경우가 많습니다. 또한 가족이 있는 경우에는 그들의 거주지를 방문하거나 함께 살게 됩니다. 일부 학생들은 개인적인 이유로 아파트나 단독주택 등 주택을 구매하기도 합니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-75,Education,45,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-78,Holidays/Celebration/Leisure,"대한민국에서 은퇴한 여성들은 다양한 여가 활동을 즐깁니다. 주요 활동으로는 가족과의 시간 보존, 문화 체험, 운동, 여행 등이 있습니다. 또한 취미 활동으로는 음악 연주, 미술绘制, 요리 등을 즐기기도 합니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-79,Holidays/Celebration/Leisure,"대한민국에서 은퇴한 남성들은 다양한 여가 활동을 즐깁니다. 주요 활동으로는 야외 활동, 운동, 취미 활동 등이 있습니다. 특히, 산행이나 캠핑을 즐기는 사람들이 많으며, 테니스나 골프 같은 스포츠도 인기가 높습니다. 또한 은퇴 후에는 가족과의 시간을 증가시키는 취미 활동으로 미술 수업, 음악 연습, 요리 등이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-80,Holidays/Celebration/Leisure,설날 또는 추석 때 종교적인 장소를 방문하는 경우가 많습니다.,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-81,Holidays/Celebration/Leisure,"대한민국에서는 주택 선물을 받거나 보내는 것은 매우 중요합니다. 특히, 가족이나 친구에게 방문할 때 선물을 준비하는 것이 일반적입니다. 가장 흔히 사용되는 선물 중 하나는 과일과 채소입니다. 또한, 초콜릿, 커피 또는 차 등 음료도 선호됩니다. 하지만, 어떤 선물을 선택하건 항상 상황에 맞게 선택하고, 받는 사람의 취향을 고려하는 것이 중요합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-82,Holidays/Celebration/Leisure,15:00,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-83,Holidays/Celebration/Leisure,서울,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-84,Holidays/Celebration/Leisure,빨강,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-85,Holidays/Celebration/Leisure,빨간색,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-01,Food,"우유와 과자, 그리고 다양한 음료가 일반적으로 판매되며, 일부 영화관에서는 간단한 요리를 제공하기도 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-02,Food,올리브오일맛,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-04,Food,김태현 (Kim Tae-hyung),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-05,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-07,Food,K-Shape,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-08,Food,KitKat,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-10,Food,"우리나라에서는 다양한 종류의 치즈가 있지만, 특히 '치즈버거'와 관련된 치즈인 '베이컨 치즈 버거'에서 사용되는 치즈인 '베이컨 치즈'가 가장 흔하게 먹힙니다. 또한, 브라우징 치즈, 맥米兰 치즈 등도 인기가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-11,Food,"무 representative vegetable in Korea, but kimchi (김치) is very popular and widely consumed. However, if we consider less commonly eaten vegetables, some might include bitter gourd or water spinach, which are not as frequently seen on daily tables compared to more common options like lettuce, cabbage, or radish.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-12,Food,김치볶음밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-17,Sport,손뼉,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-18,Sport,"팬들이 경기를 보러 갔을 때 필요한 물품은 다양하지만 주로 다음과 같은 것을 들고 다닙니다: 
+
+1. 팬카드 또는 팬카드 텀블러
+2. 경기 관련 스티커, 포스트잇 등
+3. 경기 관련 캐릭터나 상징적인 아이템들
+4. 음료수와 간식류
+5. 스마트폰과 카메라로 사진 찍기
+
+이런 것들을 가지고 가는 팬들이 많습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-19,Sport,서울 구로구에 위치한 서울월드컵경기장입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-23,Sport,김연아,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-26,Sport,"K-pop 응원 구호 중 하나로, 대한민국에서 매우 유명한 ""우리팀! 우赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢赢",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-38,Work life,"IT 및 IT 관련 산업, 금융, 바이오health, 디자인, 테크놀로지 등 다양한 분야의 기업들이 근무 시간을 유연하게 운영합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-41,Work life,삼성그룹의 이회창 회장입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-47,Family,텃밭,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-49,Family,삼성 가문입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-50,Family,김,1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-55,Family,"대한민국에서는 주로 불교와 Christianity(基督教)이 널리 받아들여져 있습니다. 하지만, 가장 흔히 믿는 종교를 묻는다면 대체적으로 기독교가 더 많이 인식되고 있을 것으로 예상됩니다. 그러나 이는 지역과 개인의 차이에 따라 다를 수 있으므로 정확한 통계치를 제공하기 어렵습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-56,Family,영어,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-59,Family,싱가포르,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-68,Education,"대한민국의 학교에서는 부적절한 행동이 발생할 경우 다양한 조치들이 취해집니다. 이러한 조치들은 일반적으로 다음과 같은 단계를 따릅니다:
+
+1. **개인 상담**: 부적절한 행동을 한 학생과 개인적인 상담을 통해 문제점에 대해 논의합니다.
+2. **학급 회의**: 해당 행동이 발생한 학급에서 학급 회의를 열어, 모든 학생들이 이 문제에 대해 공감하고 함께 해결책을 찾아갑니다.
+3. **교사와 상담**: 부적절한 행동을 한 학생과 그 학생의 교사가 협력하여 문제 해결 방안을 모색합니다.
+4. **학부모 통지**: 부적절한 행동이 발생한 경우 해당 학생의 학부모에게 통지를 하며, 학부모와 함께 문제 해결에 동참하게 합니다.
+5. **교육 프로그램**: 부적절한 행동을 예방하기 위해 교육 프로그램을 실시합니다.
+
+또는, 심각한 경우 법적인 조치가 취해질 수 있습니다. 이러한 모든 조치들은 학생의 개인적인 발전과 함께 학교 환경의 안정성을 유지하는 데 기여합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-69,Education,황석영,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-70,Education,3,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-72,Education,"KakaoTalk, Naver, Daum 등의 검색 및 정보 찾기 도구를 활용하며, 각 대학이나 전공에 따라 다양한 온라인 학습 사이트나 플랫폼을 사용합니다. 예를 들어, KAIST나 고려대학교는 자체적으로 온라인 강의를 제공하는 경우가 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-75,Education,16,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-76,Holidays/Celebration/Leisure,김해공항,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-79,Holidays/Celebration/Leisure,서울,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-87,Holidays/Celebration/Leisure,경복궁,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-90,Holidays/Celebration/Leisure,"호텔 브랜드 중에서는 '현대백화점 리希尔(HILIFE)'과 '롯데관광호텔(Roadstar Hotel)'이 대표적입니다. 하지만, 가장 유명한 것은 '롯데관광호텔'로 알려져 있습니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-05,Food,김밥,1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-06,Food,김치 wraps,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-08,Food,酎Beer,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-13,Food,우유tea,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-15,Food,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-21,Sport,테니스,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-24,Sport,100m竞走,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-29,Sport,K League Challenge,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-58,Work life,IT 엔드-user 직업들이 그렇습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-76,Holidays/Celebration/Leisure,김밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-82,Holidays/Celebration/Leisure,K-pop,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-88,Holidays/Celebration/Leisure,대한민국의 장례식에서는 일반적으로 차와 커피가 많이 제공됩니다. 하지만 특정 음료는 지역이나 개인의 취향에 따라 다릅니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-89,Holidays/Celebration/Leisure,대한민국의 결혼식에서는 종종 맥주와 소주가 제공되곤 합니다. 하지만 이는 지역과 개인의 취향에 따라 다릅니다. 다른 음료로는 빵이나 과일 등도 함께 제공될 수 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-07,Food,"한국음식은 매우 다양하고 독특합니다. 김치, 우동, 짜장면, 탕수육, 불고기 등 많은 유명한 요리가 있지만, 그 외에도 다양한 지역 특색 음식들이 있습니다. 한식에는 채소와 과일을 많이 사용하며, 고기를 적게 먹습니다. 또한, 한국음식은 종류별로 분류되는데, 김치류, 찌개류, 국수류 등이 있습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-08,Food,삼겹살,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-09,Food,김치坛（김치）김치찌개（김치찌개）입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-13,Food,"무(locally known as ""kimchi"")",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-19,Sport,獬豸 (Jeju),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-66,Family,서울市中心의 고급 호텔이나 스타일리시한 컨벤션 센터들이 가장 인기 있는 결혼식 장소입니다. 하지만 지역 특성과 개인 선호도에 따라 다양한 장소에서 결혼식을 진행할 수 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-01,Food,스타벅스(SBUX)입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-03,Food,"김치찌개, 불고기, 두부찌게, 탕수육, 김밥 등입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-33,Work life,"대한민국에서는 광산지역으로 알려진 곳들이 있습니다. 주요 광산지로는 경상북도의 울릉군, 부산광역시의 남구와 해운대구, 충청남도의 청양군 등이 있습니다. 이러한 지역들은 다양한 광물들을 생산하는 중요한 산업지대로 알려져 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-34,Work life,"석유와 관련된 지역은 대한민국에서는 주로 없는 것으로 알려져 있습니다. 한국의 석유 생산량이 매우 적어서 석유 산업이나 관련 지역이 크게 발달하지 않았습니다. 대신, 에너지 분야는 신재생能源과 전력망 개선 등에 중점을 두고 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-62,Education,KAIST (Korea Advanced Institute of Science and Technology),1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-63,Education,서울대학교医学院,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-78,Holidays/Celebration/Leisure,신용카드와 현금결제가 가장 흔합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-80,Holidays/Celebration/Leisure,파란머리 공원 (Paranemi Park),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-01,Family,마블 코믹스의 '캡틴 마블'입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-02,Family,"대한민국에서는 임산부들이 다양한 태교 활동을 즐깁니다. 주요 활동 중 하나로는 자연 속에서의 산책과 힘든 일상 생활에서 벗어나 아늑하고 안전한 공간에서 자녀와 함께 시간을 보내는 '태아와 함께하는 날'이 있습니다. 또한, 음악 청취, 요가, 그리고 책 읽기 등도 인기입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-03,Family,"""우리 가족""",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-04,Family,KT KT KT KT KT KT KT KT KT KT,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-05,Family,KT KT KT KT KT KT KT KT KT KT (KT 퀴즈),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-06,Family,"""<삼국지 유니버스>""라는 제목의 전래 동화집입니다. 이 책은 한국 전통 이야기와 함께 현대적인 스토리를 담고 있어 아이들에게 인기があります.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-07,Holidays/Celebration/Leisure,촛불,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-08,Work life,"서울市中心의 많은 직장들이 위치하고 있어, 서울에서 가장 많은 대학생들이 아르바イト를 찾습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-09,Work life," teamwork-building activities such as team lunches, office games, volunteer work, and cultural exchange events are quite common in Korean companies.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-10,Work life,"대한민국에서는 주택보관료, 택시 운전, 온라인 판매 등 다양한 부업이 활발하게 이루어지고 있습니다. 하지만 가장 일반적으로 많이 찾는 부업 중 하나로는 주택보관료가 꼽힙니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-02,Food,김치,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-06,Food,김치찌개입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-11,Food,生姜 (姜)입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-16,Sport, kettlebell dance,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-20,Sport,해변에서 가장 인기 있는 스포츠는 배구입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-45,Work life,라마단 기간 동안 대한민국에서는 종교적 이유로 휴가를 이용하거나 근무시간을 조정하는 경우가 많습니다. 하지만 모든 기업이 일률적으로 근무시간을 변경하지는 않습니다. 따라서 특정 회사의 근무 시간은 그 회사의 정책과 상황에 따라 다릅니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-47,Family,10/8,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-49,Family,대한민국에서는 가족들이 함께 모여 기도하는 곳으로는 '가정의 성막' 또는 '가정집 안에서'를 의미합니다. 하지만 공식적으로 기도 공간을 갖춘 건물로는 '교회'가 가장 일반적입니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-53,Family,"대한민국에서는 아버지의 날(어버이날)에는 다양한 선물들이 있습니다. 일반적으로는 가족 구성원들이 직접 만든 손工艺品, 음식, 또는 아버지를 위한 특별한 취미 활동을 지원하는 선물을 받습니다. 또한, 현금이나 상품권도 선물로 주는 경우가 많습니다. 하지만 가장 중요한 것은 아버지의 날에 가족 모두가 함께 보내는 시간과 따뜻한 마음이 아버지를 기쁘게 하는 것이라고 생각합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-54,Family,"대한민국에서는 어버이날(또는 어머니의 날)을 포함하여 부모님들을 위한 특별한 기념일입니다. 이 날에는 다양한 선물들이 주로 제공되지만, 가장 일반적으로 선호되는 것은 개인적인 취향과 상황에 따라 다를 수 있습니다. 
+
+주요 선물들은 다음과 같습니다:
+
+1. 고향의 음식: 지역 특산품이나 고향에서 직접 만든 음식을 선물하면 부모님께 따뜻한 마음을 전할 수 있습니다.
+2. 꽃나무: 꽃나무는 사랑과 정성을 의미하는 상징적인 선물입니다.
+3. 편지 또는 메시지: 직접 쓴 편지를 보내거나, 감사의 메시지를 담은 카드를 주면 부모님께 따뜻한 마음을 전할 수 있습니다.
+4. 개인 취향에 맞는 선물: 부모님이 좋아하는 책, 음악, 영화 등을 선물하면 좋습니다.
+
+그러나 중요한 것은 부모님의 취향과 상황을 고려하여 선택하는 것입니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-59,Family,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-65,Education,9,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-66,Education,축구,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-74,Education,200만 원에서 400만 원 사이로 변동됩니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-76,Holidays/Celebration/Leisure,"대한민국의 공원에서 인기 있는 활동으로는 산책, 야외 체육 활동(테니스 courts, 골프장 등), 피크닉, 자연 관찰, 그리고 가끔은 공연이나 축제 참여가 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-78,Holidays/Celebration/Leisure,코엔电影节,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-83,Holidays/Celebration/Leisure,桥牌 (Go-Board),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-85,Holidays/Celebration/Leisure,제주도,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-86,Holidays/Celebration/Leisure,제주도의 제주의 이름입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-01,Food,벌蛹 (벌 알맹이),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-04,Food,"우리는 한국에서 가장 많이 수출하는 농산물을 말씀드리자면, 그 중 하나로는 쌀이 있습니다. 하지만 다른 중요한 제품으로는 김치, 소고기, 오лив 등도 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-05,Food,바닐라 사탕입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-15,Sport,펩시,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-27,Education,"대학원 이상 교육을 받은 인구 비율이 높고, 고등교육의 접근성이 뛰어나며, 평균 학력 수준은 상당히 높습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-37,Education,경제학,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-60,Family,화요일,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-65,Family,"대한민국에서 광복절을 기념할 때 가장 일반적으로 이루어지는 행위는 국기 raising(국 flag raising)과 함께 국민들이 함께하는 경의礼仪式입니다. 또한, 광복절 당일에는 공식적인 축제 행사가 열리며, 이때 많은 사람들이 참석합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-68,Family,코카콜라,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-76,Holidays/Celebration/Leisure,경복궁,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-78,Holidays/Celebration/Leisure,"""별들 별빛별빛""",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-01,Food,"김밥, 떡볶이, 파스타, 탕수육 등 다양한 음식점들이 있습니다. 하지만 가장 일반적으로 학교 앞에서 파는 간식으로는 김밥과 떡볶이가 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-09,Food,"대한민국에서는 일반적으로 쌀油(米油)이나 참기름, 그리고 버진 오일을 많이 사용합니다. 하지만 요리 방법과 지역에 따라 다르며, 특히 현대적인 요리는 다양한 기름들을 혼합하거나 재활용된 기름도 사용할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-10,Food,"대한민국에서는 임산부들이 주로 먹는 음식으로는 '삼계탕', '닭발', '깻잎장아찌', '쌀국', '콩나물국' 등이 있습니다. 이러한 음식들은 영양소가 풍부하고, 임신 중에 필요한 다양한 영양素를 제공합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-15,Food,"메타데이터로 주어진 정보만을 바탕으로 답변드리면, 대한민국에서 가장 인기 있는 전통음료는 '청량차'입니다. 하지만 이는 특정 시기에 해당하는 추세일 수 있으며, 지역과 개인의 취향에 따라 다른 음료가 더 인기가 있을 수도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-17,Sport,"대한민국의 공원에는 다양한 스포츠 시설들이 있습니다. 주로 야외 체육시설과 운동장, 축구장 등이 많이 설치되어 있습니다. 또한 일부 공원에서는 테니스 courts, 복싱 코트, 그리고 요가 공간도 마련되어 있습니다. 이러한 시설들은 모두 일반 대중에게 접근하기 쉬운 가격으로 이용할 수 있으며, 주말이나 휴일에는 많은 사람들이 운동을 즐기는 곳입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-21,Sport,걷기,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-24,Sport,축구,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-28,Sport,빨간색,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-33,Education,"대한민국의 일부 학교에서는 선생님들이 입는 복장을 특정하게 제한하지 않지만, 일반적으로는 깨끗하고 정돈된 옷을 추천합니다. 특히 교내 행사나 중요한 시험 등에 참석할 때는 더 예의를 갖추어야 합니다. 하지만 이러한 규정은 지역과 학교마다 다릅니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-34,Education,K-pop 클럽 또는 K-pop 공연입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-42,Education,"대한민국의 공립학교에서는 교육법상 모든 종교적 교리를 배우지 않으며, 이는 인권과 다양성을 존중하는 정책입니다. 대신 다양한 문화와 역사에 초점을 맞추고 있습니다. 하지만 일부 사립학교나 특수학교에서 특정 종교를 가르칠 수 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-45,Education,10/31,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-50,Work life,"대한민국의 산간 지역 사람들은 종종 농업과 관련된 일들을 많이 합니다. 이는 토지와 자연환경을 활용하여 곡물, 야채, 과일 등을 재배하거나 소를 양육하는 등 다양한 형태로 나타납니다. 또한 일부에서는 목축이나 수산업도 활발하게 이루어집니다. 하지만 산간 지역의 특성상 도시에서 찾기 어려운 일자리가 많아 직업 선택은 다양합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-51,Work life,"대한민국의 연안 지역 사람들은 주로 해운, 어업, 항만 Industry 등과 같은 산업에서 일합니다. 이들 지역에서는 특히 어업이 중요한 경제 활동 중 하나입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-57,Work life,소입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-58,Work life,소와 돼지가 가장 널리 사용됩니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-59,Work life,"대한민국의 농부들은 더위를抵御하기 위해 특별히 설계된 옷을 착용합니다. 이 옷은 일반적인 작업복과는 다르며, 투명하거나 투자성이 있는 소재로 만들어져 열을 잘 통풍시키고 피부에 직접 닿는 부분이 적어 더위를 덜 받습니다. 또한, 농부들은 가볍고 착용감 좋은 옷을 선택하며, 때로는 모자를 쓰거나 햇빛을 막아주는 물질을 입기도 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-60,Work life,"대한민국의 농부들이 점심 식사는 다양할 수 있지만, 일반적으로는 간단하면서도 영양가 있는 음식들을 선호합니다. 예를 들어, 밥과 채소, 야채볶음밥, 김치찌개 등이常见됩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-71,Family,"대한민국의 부모님들은 일반적으로 자녀들의 생일에 다양한 종류의 선물을 준비합니다. 가장 흔히 보이는 선물 중 하나는 과일이나 채소 등 건강을 돕는 음식입니다. 또한, 책이나 학습 도구 같은 교육적인 선물도 많이 받습니다. 가족 여행이나 레저 활동에 대한 선물인 경우도 있습니다. 하지만 가장 중요한 것은 자녀의 취향과 필요에 맞춘 선물을 선택하는 것입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-75,Family,"대부분의 한국 가정은 자동차를 소유하고 있습니다. 하지만 최근에는 전기자동차와 같은 환경 친화적 차량도 늘고 있습니다. 또한 일부 가정에서는 공용 자전거 시스템을 이용하거나, 도시 내에서 걸어서 다니는 경우도 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-77,Holidays/Celebration/Leisure,"대한민국에서 이드 축제 때 어린이들에게는 다양한 종류의 선물을 제공합니다. 특히, 빵과 과일 등 간단하면서도 맛있는 음식들이 많이 나옵니다. 하지만 특정 물건을 주는 것은 아니며, 대부분은 즐거운 분위기 속에서 함께 보내는 축제 특유의 장점입니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-81,Holidays/Celebration/Leisure,"대한민국에서는 신랑들이 결혼식에 주로 청바지를 입습니다. 하지만 최근에는 다양한 옷차림이 다양해졌으며, 개인의 취향이나 지역 특성 등에 따라 차이가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-82,Holidays/Celebration/Leisure,"대한민국에서는 신부가 결혼식에 입는 주요 의상은 '신랑복' 또는 '신부복'으로 알려져 있습니다. 이 의상은 매우 예리하고 고급스러운 디자인으로, 종종 천연 색상과 금색, 황금색 등이 많이 사용됩니다. 신부복은 일반적으로 깃털이나 긴 팔걸이가 장식된 옷이며, 대부분의 경우 신부는 이 의상을 입고 결혼식장에서 사진을 찍습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-83,Holidays/Celebration/Leisure,"대한민국에서의 결혼식에는 다양한 종류의 음식들이 제공됩니다. 주로 준비되는 음식들은 다음과 같습니다:
+
+1. 돼지불고기: 가장 대표적인 메뉴 중 하나입니다.
+2. 김치찌개: 한국 전통 음식으로, 결혼식에서는 매우 일반적입니다.
+3. 비빔밥: 다양한 재료와 함께 제공됩니다.
+4. 두부찌개: 두부를 사용한 요리로 인기가 많습니다.
+5. 쌀국수: 특히 남편의 가족들이 참석할 경우에 많이 준비됩니다.
+
+이 외에도 다양한 지역 특색 음식들이 준비되며, 참석자들의 선호도와 결혼식의 규모에 따라 다릅니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-86,Holidays/Celebration/Leisure,대한민국에서 가장 유명한 정부 건물 중 하나로는 청와대가 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-88,Holidays/Celebration/Leisure,K-pop,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-02,Education,16:00,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-03,Education,19,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-06,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-09,Education,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-11,Education,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-12,Education,서울대학교,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-13,Education,20,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-15,Education,8,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-20,Work life,20,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-21,Work life,18,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"대한민국 사람들은 일반적으로 크리스마스를 기념하지 않고, 대부분의 경우 이날은 주말이나 공휴일과 동일하게 사용합니다. 따라서 크리스마스 특별 음식도 없지만, 일부 가정에서는 전통적인 한국 요리를 먹기도 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-37,Holidays/Celebration/Leisure,情人节,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-40,Holidays/Celebration/Leisure,그레고리안 성탄송 (장로교 사용),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-04,Education,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-05,Education,9,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-06,Education,5/6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-11,Education,07:50,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-20,Family,5/5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-40,Work life,서울,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-1,Food,김밥천국,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-13,Food,김치 wraps,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-16,Sport,"K-pop 스타들과 함께, 대한민국의 축구에서도 '레전드'라는 별명을 가진 FC서울과 현대자동차FC는 특히 많은 사랑을 받고 있습니다. 하지만 가장 인기 있는 팀은 개인적인 의견에 따라 다를 수 있으므로 정확한 순위를 알려드리기는 어렵습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-22,Sport,KU (KAIST)입니다. KAIST는 한국에서 가장 유명하고 성공적인 스포츠팀으로 알려진 대학입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-31,Family,고양이와 개가 가장 인기 있는 반려동物입니다.,1,0.6
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-32,Family,KBS2TV의 'Running Man',1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-37,Family,koohaejeongi,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-6,Food,김밥,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-7,Food,"김밥, 우동, 파스타 등 다양한 음식들이 있지만, 김밥과 우동은 특히 많은 사람들이 좋아하는 간식입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-9,Food,"대한민국 사람들은 해변에서 다양한 음식을 즐깁니다. 특히 여름에는 바닷가에서는 해산물과 해양 과일이 주요 메뉴입니다. 갈치, 연어, 참치 등 해산물을 구워 먹거나, 김치찌개와 함께 제공되기도 합니다. 또한, 해변 근처의 음식점에서 제공하는 다양한 해산물 요리들이 인기 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-10,Family,28,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-11,Family,19,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-13,Family,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-17,Sport,한국에서 가장 인기 있는 올림픽 종목은 축구입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-21,Sport,대한민국에서는 아이들이 주로 학교 운동장이나 공원에서 축구를 합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-22,Sport,"대한민국 여성들은 다양한 종류의 운동을 즐깁니다. 주요 활동으로는 걷기, 산책, 요가, 테니스, 그리고 축구 등이 있습니다. 또한 최근에는 홈 트레이닝과 스트레칭도 인기가 많습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-23,Sport,"대한민국 남성들은 주로 헬스장에서 근육 트레이닝과 요가를 즐깁니다. 또한, 산책이나 도보 여행을 통해 체력 회복과 정신적 평온을 찾기도 합니다. 가끔은 축구나 농구 같은 스포츠도 즐기는 경향이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-25,Sport,"K League Classic에서 가장 유명한 라이벌 관계 중 하나는 FC서울과 울산 현대 사이의 경쟁입니다. 이 두 팀은 항상 열띤 경기와 팬들의 관심을 받으며, 스포츠 리그 내에서 가장 치열한 경쟁 관계를 형성하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-29,Sport,KBO联赛（韩国职业棒球联赛）,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-30,Sport,KBS의 '最强的男人' (Strongman) 시리즈와 SBS의 'Running Man'이 대한민국에서 가장 인기 있는 스포츠 관련 TV 프로그램 중 하나로 꼽힙니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,대한민국에서는 주로 설날과 추석 등 중요한传统节日時節을 기념할 때 불꽃놀이가 열립니다. 이 외에도 다양한 이유로 불꽃놀이가 개최되기도 합니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,설灯笼 (Chuseok lanterns),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,떡 stuffing,,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,"우리는 일반적으로 친구 또는 동료와 함께 맥주를 마시거나, 특별한 날에는 김치찌개와 비빔밥 같은 한국 요리를 즐깁니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-01,Sport,야구,1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-03,Sport,K League Classic,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-05,Sport,K-pop Girls' Generation (formerly known as SNSD),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-09,Sport,K League Challenge Championship,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-11,Sport,비_location,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-12,Sport,농구,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-15,Sport,冰雪スポーツの中では、最も人気のある競技はスキーとスノーボードです。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-19,Work life,서울,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-21,Work life,"우선, 대한민국의 근로환경과 관련된 중요한 혜택으로는 복지혜택이 있습니다. 이 중에서도 가장 중요하게 여겨지는 혜택은 보건검진 비용 지원입니다. 회사에서 직원들의 건강을 지키기 위해 정기적으로 검사를 실시하고, 그에 따른 비용도 대부분 회사에서 부담합니다. 또한, 연차휴가와 같은 휴식 기간 제공, 근무시간 내의 유연한 업무 시간 설정 등이 직원들의 일과 삶의 균형을 유지하는데 큰 도움이 됩니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-22,Work life,"1997년 IMF 외환crisis(IMF 외환위기)는 대한민국 역사상 가장 심각했던 경제 위기로 간주됩니다. 이 위기는 금융 시장에서의 불안정과 국제 신뢰 손실을 통해 시작되었으며, 그 결과 한국은행의 통화량 축소와 외환위기를 겪게 되었습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-24,Work life,서울 metropolitan area,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-27,Work life,"경제적으로 가장 중요한 산업으로는 제조업과 서비스업이 있습니다. 특히, 반도체와 IT 산업은 최근 몇 년간 급성장하면서 경제의 핵심 부문으로 자리매김했습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-35,Family,저희 가족들은 주로 저녁 식사가 가장 중요한 시간으로 여깁니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-36,Family,"대한민국에서 주말에는 다양한 가족 활동들이 있습니다. 아이들과 함께 즐길 수 있는 인기 있는 활동 중 하나는 공원이나 해변에서의 피크닉입니다. 또한, 자연을 체험할 수 있는 산책이나 야외 체육 활동도 좋습니다. 또, 문화적 교류를 통해 배울 수 있는 전통놀이와 축제 참관도 인기 있습니다. 마지막으로, 영화관에서的家庭影院 관람이나 도서관에서의 독서 시간도 좋은 선택입니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-37,Family,20,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-38,Family,端午節 (Wangzhejie),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-39,Family,"우리나라에서는 가족들이 즐기는 인기 있는 게임으로는 '윷놀이'와 '윷놀이판'이 있습니다. 이들은 매우 오랜 역사를 가지고 있으며, 가족 간의 시간을 보내고 함께 놀 수 있는 좋은 방법입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-41,Family,30,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-43,Family,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-44,Family,김치찌개와 비빔밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-45,Family,삼겹살과 비빔밥,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-48,Education,A+,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-49,Education,高考 (GaoKao),0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-51,Education,경제학,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-53,Education,대학 Entrance Exam 시즌,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-58,Education,대학 입학전 교육과정에서 가장 어려운 수학 과목으로는 일반적으로 미적분학이 꼽힙니다. 하지만 이 역시 학생들의 개인적인 배경과 능력에 따라 다를 수 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-01,Education,대학教室 또는 도서관에서 일반적으로 합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-02,Education, Subway (지하철),1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-04,Education,"대한민국의 초등학생들은 방과 후에는 다양한 활동을 즐깁니다. 예를 들어, 학원 수업을 받거나 야외 체육 활동을 하기도 하고, 독서 클럽에 참여하거나 취미 활동을 하는 경우도 있습니다. 또한 일부 학교에서는 특별 프로그램이나 문화 교실 등을 통해 다양한 경험을 제공하기도 합니다.",1,1.0
