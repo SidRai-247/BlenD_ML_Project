@@ -1,0 +1,778 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,"İlk 4-5 senede öğrenen öğrencilerin üçün tipik qəlyanaltı Azərbaycanda məktəbədər ""Qur'an Dili"" və ""Azərbaycan Dili"" dirlikləri olarak okundur. Sonra, 6-7 senede öğrenen öğrencilerin üçün tipik qəlyanaltı ""Tarix"", ""Rubat"", ""Matematika"", ""Fizika"", ""Kimya"" və ""Cemiyyet"" dirlikləri olarak okundur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food,"Çoban salatası, Azərbaycanın popüler yeməkləri arasında bir təcrübədür. Bu yemek, yerli tozgöbələrden, kisir, çeburek, pivə və sosların birleşmesiyle hazırlanır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,Ən populyar meyvə Azərbaycanda nar dır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,"İçindeki şəhsiyatın özgünlüğü ve təsdiqlərinin saxlama üçün, bu sualda izahatsız cavab verilməz. Ancak, Azərbaycanda məktəb yeməkxanasında tipik olaraq şarap, qazma, böyük qutuq, piti, khinkalı, çorba və tərəfinden birçok yemək verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,"İndeks, Metro, Baku Mall, 28 Mall ve Park Bulvar. Bu alış-veriş mərkəzlər Azərbaycanda en çox ziyaret edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,"Çocukların popüler qeyd edilən oyunluğu Azərbaycan əyləncə parkında ""Toy-train"" (Qoçul-tren) dir. Bu, bir dövlətli yolun üzünü alan bir trendir, qoruyucuların və ya çocukların istifadə edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,6,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education,"İdman növü, Azərbaycan Milli Idman Federasiyası (AMIF) tarafından tanımlanan ""Futbol""dır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,"İbtidai sınıf öğrencilerinin Azərbaycan'da öğrendikleri fənn, Türk dili ve yazısıdır.",1,0.2
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,İkinci popüler dildan Rusca düşünülür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,Ən vacib fənn Azərbaycanda istedadlı təhsil üçün dünya standartlarına müasir olmaq üçün matematika və lisans dili (ingilis) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,"Şükran günü Azərbaycanın əsas yeməyi, pilaf (pilav) dir. Pilaf, azərbaycanda çox sınımlı bir yemekdir və çox çeşitliliyi saxlaqda təzim edilir. Pilafın əsas maddeleri un, yangın, növü ve maydanozlar dır. Fərqli tarixlarda fərqlı pilavlar qurulur, orada bazı tarixlarda kərim, təbburiyət və ya şişlik da pilafın maddelerindən bir parçası olabilir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure," Azərbaycanda Halloween'a çox seviliyən bir təcrübə deyil. Bu yöndəki insanlar, yaxşılıqla ilgili qadim tarixi və məsəlihət tarixi üzrə qeyd edirlər.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanın bir yeni ilini qeyd etmək üçün, onun adını ve konsistensiya ile yazılı belgelerde yer almasını, yararlı olaraq və müştəriyə uyğun olaraq təhlil edilmis bir adres sisteminde yer almasını, onun hər şəhərdən bir qeydiyyatının varmasını və bu qeydiyyatların yararlı olaraq təhlil edilmis bir səhifəsində yer almasını isteyirik.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda Milad bayramını yaxşil bir şekilde qeyd edirler. Bayramın sonunda, 27 Ocak günü, küçələr, ayrıca böyük düyüşməklər və ya bayrağlar ile yerini keçirir. Milad bayramı, Azərbaycanın tərəfindəki İslamın bir öz bayramıdır.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure,"İnançlı Bayraqlar Azərbaycan'da Hellouin bayramına özgün yeməkleri yoxdur. Bu bayram, azərbaycan döşbəşləri tarafından İran'dan getirilmişdir və onların yerli tərəfində yeməklərlə əlaqələndirilir. Ancak, Hellouin bayramının sonunda azərbaycanlarda genellikle küçük bir sebzələr və təzgähliklər (şeftali, şalgam, qovurma) və yarım-qazma göndərilir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,"İnançlı Bayramlarda, Azərbaycan Milli Bayramı (Milad) bayramında, küçük şeker halvada, pakhlava, börek, pilaf və yarşığı gözleme sıklıdır. Fidanlar da Milad bayramının özel təlimatlı yeməkləri olar.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure,"İstifadəçi daxil edilməyib, bu sehvdir. Məsələn, Azərbaycanda Sevgililər günü ilə əlaqələndirilən yeməkler birçok olur, ancak cavabın tək olması mümkündür:
+
+- Pilaf (Pilav)
+- Kebab (Şiş kebab, Adana kebab və ya Şaxı kebab)
+- Dolma (Börek dolması, Nohut dolması və ya Kabak dolması)
+- Tovuq (Tovuq kebab, Tovuq pilavı)
+- Kebablaşı (Kebablaşı şiş, Kebablaşı pilavı)
+- Göyələ (Göyələ pilavı, Göyələ kebab)
+- Dövərləq (Dövərləq pilavı, Dövərləq kebab)
+- Şah pilavı (Şah pilavı və ya Şirin pilavı)
+- Künef (Künef pilavı)
+- Piti (Piti pilavı)
+- Tovuqlama (Tovuqlama pilavı)
+- Gözleme (Gözleme və ya Lahmacun)
+- Börek (Börek və ya İmam bayildı)
+- Kebabçı şiş (Kebabçı şiş pilavı)
+- Tovuq kebabı (Tovuq kebabı və ya Tovuq pilavı)
+- Göyələ kebabı (Göyələ kebabı və ya Göyələ pilavı)
+- Dövərləq kebabı (Dövərləq kebabı və ya Dövərləq pilavı)
+- ",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,"İnsanlar Azərbaycananda ad gününde şüphelələr, sebze-fruktov veya balıqla təz və ya çorba yeyirilir. Örneğin, ""Yolcu"" adında bir insan ad gününde ""Yolcu görmüşüm"" (I saw a traveler) sebze-fruktov təzini yeyirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure,"Çox şükür. Azərbaycanda ailələrin kiçik uşaqlarla əylənə biləcəkləri məşhur açıq hava yeri Baku'da, İçi Qala (Inner City) bölümünde bulunan Fətih Bəyovvosu Parkıdır.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,Çocuk Oda (Kindergarten),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education," Evvel ki, universitet tələbələri azərbaycan respublikasında harada nahar edilməzdir. Fakat, universitetlərin çalışma və öğrenme zamanları axtarışmasının yerine, universitetlərin birçokının çalışma saatleri şu anda sabah-yaxşı saatlarında başlayır və yaxşı saatlarında bitirilir. Bu, universitetlərin çalışma zamanlarının özgünlüğünü koruyur ve tələbələri daha keyfiyyətli öğrenmə mümkün olmasını sağlayır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,3-Ayda final imtahanlar keçirilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,8 saat vaxtı Azərbaycanda şagirdlər liseydə keçirirlər.,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,2 dildə təhsil alır. (Azərbaycanca ve bir diğer dil),1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport, Azərbaycanda məktəbdə komanda ilə oynanılan en populyar idman növü futbol (football) dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport,İdman şərhçisi Azərbaycan'da Heydar Aliyev dəstəyindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport,İdman komandası Azərbaycan'da en popüler olan Fütbol (Football) komandası şu anda Qarabağ FK'dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport," Azərbaycanda insanların adətən idman yayımlarını izləmək üçün toplaşdığı ümumi yerlər və ya məkanlar şunlarıdır:
+
+1. Bakü Olimpiya Stadionu (Baku Olympic Stadium) - Bu stadion, 2015 Azerbaijan Grand Prix Formulu 1 yaradışmasında kullanıldı.
+2. Tofiq Bəhramov Stadionu (Tofiq Bahramov Stadium) - Bu stadion, Azərbaycan Milli Futbol Federasiyasının merkezi olup, Azərbaycan Milli Futbol Səbəfleri Şəxsiyyatında dünyanın birçok futbol sektsiyonunun adresidir.
+3. AZAL Arena (AZAL Arena) - Bu stadion, Azərbaycan Milli Futbol Federasiyasının 2018-2019 sezonu sonunda başladığı Azərbaycan Premyer Liqasında futbol yaradışmasında kullanılır.
+4. Şəhər Stadiumu (City Stadium) - Bu stadion, Bakü şəhəri döyməsi altında bulunur ve Azərbaycan Milli Futbol Federasiyasının 2018-2019 sezonu sonunda başladığı Azərbaycan Premyer Liqasında futbol yaradışmasında kullanılır.
+5. AZAL Arena 2 (AZAL Arena 2) - Bu stadion, Azərbaycan Milli Futbol Federasiyasının 2018-2019 sezonu sonunda başladığı Azərbaycan Premyer Liqasında futbol yaradışmasında kullanılı",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,"1
+
+Açıklama: Azərbaycanda insanlar yerli adətlerden bir tərəfində yemək yeyirlər. Bu sebeplərdən birisi, adətlərin şəxsiyyət və müstəqil olmasıdır. Böyük adətlerin yanında kicik adətlər (misal: qarabag, qazmaq) da yer alır. Bu cavabda, yalnızca bir tək adət (1) göstərilmişdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,"Çox azalıqla, pilaf (pilav) dür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,"İstifadə edilən mümkün olduğunda her bir inqredientin azadlığı və təknik şartların sahəsindedir. Azərbaycanın pəhrizində en çox istifadə olunan inqrediyent, yaxşil olaraq, bu sözlüyü oxuyurken belələr təknik şartları sahəsində qeyd edilməyib və ya qeyd edilmişdir. Fakat, birçok yemek haqqında azadlıqla müştəriyasının istifadə edilməsi dəstək olunur. Bu nəzarətda, bu inqrediyentin adını təklif etmək çok azalır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,"İnsanlar Azərbaycan'da şüphelələr, yerli tərləri və böyük şeftaları yoxudur. Bu sebeplərdən birində desert üçün yeməklər yoxdur. Ancak, insanlar bu alanda yaxşı su tahmini və kullanımı əməkdaar olmalıdır. Bu nəzarət edən insanlar, desert üçün yeməklər yerine yerli tərləri, yaxşı su tahmini və kullanımı əməkdaar olmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Çarşamba (Wednesday),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,Çay (Chai) azərbaycanlarda en popüler isti içki olmasıdır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,"İçirdikleri müzik türleri həmçinin olmayabilir, ama azərbaycan döyüşdürülmüş pop, rap, rock və elektronik müzik türleri çox sıkır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,12 ayda bir kez teyit edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"İstanbul Park, Baku World Trade Center ve Heydar Aliyev Center tərcüb edilmişdir. Bu yerlər Azərbaycanda Yeni İl arifəsində vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,"Çox şaxsi, Azərbaycan'da ailə üçün tipik ev tipi qeydiyyatlı bir evdir. Bu ev, bir qəsəməyə, bir qəsəməyə və bir qəsəməyə qeyd edilmiş bir evdir. Böyük bir yerda çatısız bir yerdeki bir qəsəmə, bir qəsəməyə və bir qəsəməyə qeyd edilmiş bir evdir. Bu evlər, ailənin çox şaxsi müasir olmaqla uygunluğunu saxlayan bir yerdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family," Evvel ki, adətən harada yaşayan yaşlılar Azərbaycanda vardır. Fakat, bu yöndə çox sınıflandırılmayan bir cümle olarak ifadəlidir. Adətən harada yaşayan yaşlılar Azərbaycanda adətən hərəkət edirik, yani adətən harada yaşamış olanların adətdən hərəkət etməsini ifadə edirik. Bu cümlenin çox sınıflandırılmayan olduğunu unutmayın.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,1918-dan keçirilmişdir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,1918-dan sonra,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,"İstifadəçilər adresindeki azərbaycanrespublikası.az sayfasında, Azərbaycan Respublikasının Ailə Tətili Həqiqətinə Əlavə olunan Adətlərin və Müsavatlarının Dövlətindən İstifadə Edilməsi Haqqında Yasa adlı yasadır. Bu yasa, Azərbaycan Respublikasının Ailə Tətili haqqında təyinatlarının yer aldığı yasadır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport," Azərbaycanda yaşlılar en çox futbol, keçiboyuncu idmanları ve təkküvat və zirbazı idmanları xoşlayırırlar.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport," Azərbaycanda, futbol (football) ən çox müştəriyası vardır. Ancak, birçok kişi yalnızca sportların bağlı olduğunu düşünməyib, bütün idman növləriləri ən çox müştəriyası vardır. Örneğin, futbol, basketbol, voleybol, güreş, atletika, taekwondo və birçok başka idman növləri ilə müşahid olmağa çox ən çox xoş baxılır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,İlham Zakiyev (Anıl Müştəri),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport, Azərbaycanda uşaqlar arasında en popüler idman növü futbol (football) dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport, Azərbaycan'daki qadınlar en çox sport növlərindən birindisidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,İdman yarışında azərbaycan olimpiyadasında en çox qızıl medalı artırma yüzey idmanlarında (swimming) qazanıldı.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport," Azərbaycanda universitetdə tələbə oğlanlar ən çox futbol, basketbol və vüsualar idman növlərini oynamağı xoşlayırlar.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,36 (18 + 18 + 2),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,30 cütlük olur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,8,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,8,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,6 yaşından öyrənməyə başlayırlar.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,4 yıllıq,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,İbtidai sinif şagirdləri Azərbaycanda 12:30-14:00 saatleri arasında bitirirlər.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,3,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,Çarşamba (Wednesday),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,"İstanbul Bankası, Pasha Bank, Yapi Kredi Bank ve İnsan Kaynakları Bankası (İKB) Azərbaycanda en çox rayonda/şəhərdə var.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,İstanbul Malli Bankası (İşbank) azərbaycan dövlətində en məshhür özəl şirkətdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,"5
+
+Açıqlama: Azərbaycanda hafta içinde 5 gün işləyirik. Bütün 5 günü birbirine eşit aralığa vererek, her gün 8 saat işləyirik. Bu nəzarətda, haftada toplam 40 saat (5 gün * 8 saat) işləyirik.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,"İnsanlar Azərbaycananda şirkət toplantıları zamanında şarabla, çayla, kahvaltiya və ya obəkləri yerləşdirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life, Azərbaycanın təmsil ediliyişi Milli Majlis (Milli Məclis) olar.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,12,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,"İnsanlar Azərbaycanın birçok yerindedir ve yönetilmiş bir şekilde analar sağlanmaq üçün müddət harada qalmayacaklardır. Bu konuda, yasadığı yerin hukuk və qonuşmalarına göz atılmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,"İstifadəçi, Azerbaycan'daki Valideynlər Günündə en çox gül verilən gülümüzü təyin etmək mümkün olmayır. Bu sebeplərdən birisi, bu sözlükde yer alan ""en çox"" kriteri üzrəki, Azerbaycan'daki bütün güllerin ölçülməsi və ya verilmiş olmaqla uyğun olmayacaqdır. Böyüksehirlərdən birindən kiçik bir şəhərdən gül verilmiş olmaqla uyğun olmaqla da fərqlə vardır. Yoxsa, bu sözlükde yer alan ""en çox"" kriteri üzrəki, bir gülün özgünlüyüsü, seviliyini, mənfiyini və təbih edilməsi nəzarətindən bağımlı olmaqla uyğun olmayacaqdır. Bu yüzəndən birisi, Azerbaycan'daki her gül müasir və ya tərəfindən seviliyi var. Böyüksehirlərdən birindən kiçik bir şəhərdən gül verilmiş olmaqla uyğun olmaqla da fərqlə vardır. Bu yüzəndən birisi, Azerbaycan'daki her gül müasir və ya tərəfindən seviliyi var. Böyüksehirlərdən birindən kiçik bir şəhərdən gül verilmiş olmaqla uyğun olmaqla da fərqlə vardır. Bu y",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,"İnsanlar Azərbaycan cəmiyyətində ilk maaşlarını çalışma zamanına göre verilir. Bu zaman, yaratıcılığının yüksək olması dəyərlidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,"İstanbul Park, Azərbaycan Respublikası Formula 1 Grand Prix-inin merkezi.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family," Azərbaycanda ailə ilə bağlı bayramlar şunlardır: Novruz Bayramı, Şükrü Bayramı (Ramazan Bayramı), Kurban Bayramı, İd al-Fitr ve İd al-Adha.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"Çox önemli mərhələlər Azərbaycan cəmiyyətində uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsas olmaqlaşır:
+
+1. Uşaqların özgün kimliyeti və hüquqlarını korumaq.
+2. Uşaqların müstəqil bir yaşadığını saxlaq.
+3. Uşaqların çox səbəbilər və tələb-həmmlərini görüşdürülməsindən əvəz olunmasını çekmək.
+4. Uşaqların özgün adını və soyadını korumaq.
+5. Uşaqların müstəqil bir yaşadığını, özgün kimliyetini və hüquqlarını korumaq çox önemlidir. Bu mərhələlər uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsasdirilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,"İstifadəçi, bu sualda yanlış sözcük kullandı. ""Valide"" sözcüğü bir erkek olan adamın anaşını ifade edir. Azərbaycan'daki yaşlı kadınları ziyarət edərkən, onların annaları olmayabilir, annaların yerine babaların, anabeledileri, annaların yanında yaşamış kadınlar və ya diğer sebablarla ziyarət edilir. Bu nümayənin hədiyyəsi, ziyarətçinin öncülüyüsünü təşkil etmək üçün bir məktub və ya yazılı belgelerdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,"İlk bayram, 5. gündür (Birinci Yüzyıl Bayramı).",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,"İstifadəçi, bu sebətdə bir cavab verməyə cəhd edilməz. Bu seçimlər həmçinin müştəri şəhədə olduğunu düşünürük. Mən sizlə istifadə edəcəyim, fikirlərim və yaradılması üzrə bütün seçimləri yerləşdirə bilərəm.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education," Evet, azərbaycanda orta və ali məktəb şagirdləri adətən imtahanlara hazırlaşırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,8-yıl öğretim bitirib sonra. (Orta məktəb şagirdləri 8-yıl öğretim bitirib sonra adətən hara gedirir.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,"İbtidai məktəb şagirdları Azərbaycan Respublikası Məktəb Konsuliusyunu (ARMK) tarafından qeyd edilir. ARMK, çox yaxşı məktəblər və özgün məktəb-məlumat sistemleri sahəsindedir. Məktəb şagirdlarının qeyd edilməsi üçün ARMK'nin bir sertifikası göndərilir, bu sertifikanın sayfasında məktəb şagirdının adı, soyadı, doğum tarixi, mezunluq tarixi və müəllif məktəbi göstərilir. Məktəb şagirdlarının qeyd edilməsi üçün ARMK'nin bir sertifikası göndərilir, bu sertifikanın sayfasında məktəb şagirdının adı, soyadı, doğum tarixi, mezunluq tarixi və müəllif məktəbi göstərilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,İnönü Felseferi (İnönü Lycee),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,İnğilis dil akademiyasına ve matematika-fizika təhsil müəssisəsinə çox cəhd edir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,"İndeks sinifları (orta ve yüksek) öğrenciler Azərbaycan Milli Məktəbləri (AMM) şagidelərinde genellikle bir geyimde gedirlər. Bu geyim, məktəbənin və ya öğrençilərin istifadəsindəki standartları uygun olmalıdır. Özgünlük ve kültürlük şekillərdən ibarat edilir, ancak mümkün olduğunda renkli geyimler daha çox tercih edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,"İxtisasların azərbaycanlarda qəbulü en çox yerel xidmətlər, ticarət və sanatdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,"İbtidai sınıf öğrencilerinde Azərbaycan'da en çox öyründüyü, pianon alatıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,İndirməq və yazmaq.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,"Şagirdlər Azərbaycan məktəblərində tək bir cavab verilməzdir. Əgər bir cavab vəsitəsi varsa, bu cavabın heç bir izahatsız olmasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,"Ətraflarınızda, azərbaycan dövlətində Ali Məktəblərə Qəbul Imtahanında şu fənlərlər tələb olunur:
+
+1. Azərbaycanca dilin özgün sözcətləri (Azərbaycan Dili)
+2. Azərbaycan Dili Müessisəsi (ADM) nəzarətindən çıxan fikirlər və məlumatlar
+3. Tarih, siyasət və kültür təcrübəsizlikləri
+4. Matematika və rəqeb
+5. Fizika və kimya
+6. İncəsənətlər və biyoloji
+7. Teknoloji və mühim təcrübələr
+8. İngilizce dilin özgün sözcətləri (English Language)
+9. Rəsmi dövlət təşkilatlarında istifadə olunan bilgiler və məlumatlar
+10. İnsani Hakları və Adalət Təcrübəsizlikləri
+11. Müzik, sanat və rəqəbələr
+12. Tədris və tədrisi yaradışması
+13. İnformatika və mühim təcrübələr
+14. İnsanlar arası ilişkələri və siyaset
+15. Ticaret və şirkətlər
+16. İnşaat və mühendislik
+17. İnşaat və mühendislik təcrübəsizlikləri
+18. İnsanların sağlıqı və yaşam qadarı
+19. ",1,0.75
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,İstanbul (Türkiyə) ve Moskva (Rusiya) bir-birindən daha az academik hevsiyi verir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,"İnsanlar azərbaycanda keçirilən universitet festivallarında en çox konserler, təkliflər və yaratıcılıq olan etməkleri gözləyirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,İkinci en popüler idman növü Azərbaycan'da futbol (football) dır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport," Azərbaycanda popüler olan sport, futbol (football) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport," Azərbaycan Respublikasının Milli Idman Komitasi (Azerbaijan National Olympic Committee, ANOC) tarafından yönetilməyən idman növləri üzrə çox əlaqələndirilir. Bu idmanlar:
+
+1. Dövüşsəz İdmanlar (Borçlu, Yarım Borçlu, Yarım Borçlu Vurma, Yarım Borçlu Kürek)
+2. Görüşülməz İdmanlar (Yarım Borçlu Kürek, Yarım Borçlu Vurma, Yarım Borçlu, Borçlu)
+3. Kurash
+4. Kürek
+5. Kürek-Köyük
+6. Gürcü (Gürcü Zərbə, Gürcü İstilahı)
+7. Yarım Borçlu Vurma
+8. Yarım Borçlu
+9. Böyük Vurma
+10. Kürek-Köyük-Vurma
+11. Kurash-Görüşülməz
+12. Kurash-Yarım Borçlu
+13. Kurash-Borçlu
+14. Gürcü Zərbə-Gürcü İstilahı
+15. Kürek-Köyük-Vurma-Kurash
+16. Kürek-Köyük-Vurma-Kurash-Görüşülməz
+17. Kürek-Köyük-Vurma-Kurash-Yarım Borçlu
+18. Kürek-Köyük-Vurma-Kurash-Borçlu
+19. Gürcü Zərbə-Gürcü İstilahı-Görüşülməz
+20. Gürcü Zərbə-Gürcü İstilahı-Yarı",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport, Azərbaycanda en populyar idman növü futbol (football) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport, Azərbaycanda en populyar zehni idman növü futbol (football) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,20 gün,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,"İçindeki sualda verilmiş olduğu gibi, Azərbaycanda bir kend təsərrüfatı ilə əlaqələndirilmək üçün ənənəvi olaraq Qazax rayonunun bir bölgəsi verilmiştir. Bu bölgə, Qazax rayonunun Qazax shəhəri ilə sınırlanır və ""Qazax kəndi"" adına tanınmır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,İşdən çıxırma vaxtları Azərbaycanda 9:00-18:00 dir. (HH:MM formatında təqdim edilmiştir.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,"Çox genel olaraq, Azərbaycanda orta məktəb şagirdləri 08:30-16:00 və ya 08:45-16:15 vaxtlarında tərk edirlər. Fakat bu sınifların müəllimlərinin seçib və yaradılan bir röportajda göstərilmiş olduğunda, orta məktəb şagirdləri 08:30-15:45 vaxtlarında tərk edirlər. Bu vaxtlar HH:MM formatında təqdim edilir (misal olarak, 08:30 ve ya 08:45).",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education,"İbtidai məktəb şagirdları Azərbaycan Respublikasında müzik, sport və sanat idman növləri ilə məşgul olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,5,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,5,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,6,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,"2 dil öyrünüş: 1, 2",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,"İnsanlar Azərbaycan üzəndə çatdırmaq, qaralamaq, kesmək və sökmək vəbəfli yemək alətləri istifadə edirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food," Azərbaycanda insanlar əncə yaxşı qazlı içkileri xoş bakılır, bu halda şüphesiz şirəz, müstəqil çöxməyə göyük olunur. Bir örneğin, doğru qazlı içki doğal çöxməyə göyük olunur, bu halda şirəz, müstəqil çöxməyə göyük olunur. Bizim örneğimiz doğru qazlı içki yaxşı bir şeydir, ancak müstəqil çöxməyə göyük olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,Ən məşhur ənənəvi spirtli içki Azərbaycanda Rakıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,12.0 saat,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,23:59 (Yaxşi cavab: 00:00),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food,"İlk olaraq, Azərbaycan insanların şorbaları haqqında sevimli olduğunu oxuyur. Ancak, heç bir özgün sözcük olmayacaktır ki, ""hansı növ"" şorba içməyi xoşlayırlar. Azərbaycan'daki şorbaların türleri çox vahiddir ve her birinin seviliyini bir-birinden farklı olabilir. Örneğin, ""Pilaf Şorbası"", ""Nohut Şorbası"", ""Karfiol Şorbası"" və ""Dökmendere Şorbası"" gibi türler vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food," Azərbaycanlılar küçə yeməklərindən çox sınıflarda yaxşil seçimlər saxla bilir. Ancak, bazı yeməklər daha önceki cavabların işarət edildiği görmüş olunur. Örneğin, küçə pilaf, dolma, küçə kebab, küçə qutab, küçə şargı və küçə börek sizinle çox yaxşil seçimlər saxlayabilir. Ancak, bu yeməklərlər həmçinin müştəriyası olmayan bir şey de yer alır: Azərbaycanlılar küçə yeməklərdən daha önceki cavabların işarət edildiği görmüş olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food," Azərbaycanlılar çox əsas olaraq, bahar-xərəq və sonrasında küçük balıqları, kömək, təbbərlik, sardel, şirin, çöyük, qamur, qorğun, qapıq, qabuç, qayalar və başqa dəniz məhsulları yeməklər. Ancak, bazı növ dəniz məhsulları (örneğin, korkut) Azərbaycanlıların yeməyi xoş görümüz olmayabilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,İnternational Müzik Məsəlisindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"Şunun üzrük, Azərbaycan'da şəhərlərarası səyahət zamanı insanlar tərəfindən ən çox istifadə olunan ictimai nəqliyyat vasitəsi hava yolu (airway) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure," Azərbaycanın ən böyük festivalı, Baku International Jazz Festival'dir. Bu festivalda, birçok simvol ve dekorasiya kullanılır. Örneğin, jazz notları, saxofonlar, pianolar və diğer müzik aletleri simvolları, şehrin adını iftiracak bir yazıyla yazılan ""Baku"" ve ""International Jazz Festival"" yazısı, jazz müziğinin renkleri (mavi, kırmızı və siyah) kullanılmayacaktır. Ayrıca, festivalda kullanılan dekorasiyalar da birçok renk ve stil kullanılarak tasarlanır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport," Azərbaycanda qadınlar en çox futbol, voleybol ve basketbol növləriniz izləməyi xoşlayırlar.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport," Azərbaycanda, futbol (football) idman növləri en çox izlənməyi xoşlayan kişilərdir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"20 yaşındaki Azərbaycan respublikasında qadınların ümumi asudə vaxtları çalışma, ödənişlər, okula görmək, evde yaşamak və yaşamaya çox zaman vermək məşgul olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"20 yaşindaki Azerbaycan respublikasında, özgün asudə vaxtlarının yaxşil bir kimi, şunlardan ibarat edir:
+
+1. Okulda öğrenme (Orta öğretim veya lisans öğretim)
+2. İştehsil təhditləri (diploma, sertifikaların alma və ya yeniləməsi)
+3. İşlər (bir iştərəcisi olma, bir işçi olma və ya bir müştəri olma)
+4. Təhsil və eğitim dövlətləri (dövlət təhsillik və eğitim kurumlarında çalışma)
+5. Yaratıcılıq və biznes (yeni bir iş, yaratıcılık və ya biznes proyektleri başlatma)
+6. Spor və rekreasiya (spor olma və ya spor təlimi alma)
+7. Sosial aktivitlər (sosial toplumda yerini bulma, sosyal proyektlerde çalışma və ya sosial zaman geçirma)
+8. Sağlıq və təhsil (sağlıqlıq təhlükəsiz olma və ya sağlıq təhsillik kurumlarında çalışma)
+9. Sosial zaman geçirma (dostlarınla, ailasınınla və ya yararlı topluluklarla sosyal aktivitlərde geçirma)
+10. İnsan hakları və qanunların tədqiqatı (insan hakları və qanunların tədqiqat",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,8 saat,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,"İş günlərində Azərbaycan'da insanlar çocuklarına özgün olmayan yemekler yeyirirler. Örneğin, pilaf, dolma, kebap və börek.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,35.2,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,İnşaat vasitəsindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,30,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,18,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,18,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,"İnsanların özü olan her şey, dünyada ve Azərbaycan da çox hörmət edilir. Ancak, Azərbaycanda, tərəfindəki mədəniyyət və mirası, yerli müzik və rəhbärlər, yerli tarix və kültür, yerli yemek və şarablar, yerli adamların özgünlikleri və təkniyatları, yerli hayatda yaşanmaq və yerli tərəfində yaşamak çox hörmət edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,9:00 - 18:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,"İşte sualın cavabi, ""Azərbaycanda qadınlar arasında ən çox üstünlük verilən peşə, ""azadlıq""dur. Bu, Azərbaycan Respublikasının milli dövlətliyi və müstəqilliyini təklif edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,"İnsanlar arasında azərbaycan dövlətində en çox üstünlük verilən peşə, ""Əhrəq"" (respekt)dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education,İbtidai ve orta məktəb təhsilləri üçün Azərbaycanın ortalama olaraq 10-12 yıl davam edirirlər.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,"İngilis dildir, Azərbaycan Məktəbləri'nda başqa dillər tədris edilməyir. Fakat, çox önemli diller arasından Rusca, Türkçe ve Farsca derslər tədris edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education, Azərbaycanda məktəblər hafta-i cümə axşamı (Cəmi-Şanba) və hafta-i çərşənbə (Çarşamba) günlərdir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food,"İndiyimiz Azerbaycan dövlətində, ev sahibləri qonaqlar üçün şüphesiz yaxşil bir yemək hazırlamak istəyirik. Bazı yeməklər, məsəl, pilaf (pilav), dolma, kebab, şorba və salatlar dövlətimizin evlərin üçün yaxşı bir seçimdir. Fakat, bu yeməklər həmçinisi mümkündür, çünki her yemək hazırlamada fikriyi, maliyi və zamanınızı düşünməlisiz.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,"İçilməyə görməz, Azərbaycan səhər yeməyində adət olmayan bir şey yoxdur. Adətlər sizlərle əlaqədərdir və içilmək üçün səhərdə mümkündür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,İngilizce yeməkləri Azərbaycanda daha populyar olmasıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,"İçindeki yeməklərlər həmçinin fərqli olabilir, ama azərbaycanda piknik üçün hazırlanan yeməklərlər şunlar daxil olurlar:
+
+1. Piti (pita) - Azərbaycanın popüler yemeksiyi, yerli yemeksiyi.
+2. Kebab - Lokal yemeksiyilerden birisidir.
+3. Dolma - Yarşığı dolması və qutab dolması daxil olurlar.
+4. Pilaf - Azərbaycanın popüler pilafları, şaxsı pilaf və göyəl pilaf daxil olurlar.
+5. Salatlar - Yerli salatalar, şəkbət, qazmaq, soslu salatlar və böyük salatlar daxil olurlar.
+6. Şirəb - Azərbaycanın popüler şirəbi, yerli şirəbi.
+7. Nabiz - Yerli nabizlər, çöğəl, qazmaq və böyük nabizlar daxil olurlar.
+8. Sütlü Şakar - Azərbaycanın popüler sütlu şakarları, yerli sütlu şakarlar.
+9. Nuri - Yerli nuri, kahvaltı və piknik için hazırlanır.
+10. Ağzıq Kebab - Azərbaycanın popüler yemeksiyisi, yerli yemeksiyi.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food,"Çox az şeylər vardır, ama Azərbaycanın üzümü (nar) dünya tərəfindən iyrənc hesab olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food,"Çörəynin adı ""Qarabağ"" dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,09:00 (dövlət qurumlarının iş vaxtı bitir),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure,"İlkülfəz, Azərbaycan Respublikasında en uzun müddətli milli bayram ""İstisnad Bayramı"" (Şəb-i Əyrəm) dir. Bu bayram 12 gün olan ve 27 Shaban ilə 8 Ramazan ayları arasında geçirilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"İstiqlal Gününü qeyd edən Azərbaycan insanlarının ümumi fəaliyyətlərində, şunlar vardır:
+
+1. Dövlət birinci tarafında təklif olunan bayraq-zirvəlilik və qoruyucuların bayraqlarını səbəfləyib, şəhərdər və müstəqillik bölgələri yaxşil tutulmasını təklif edin.
+2. Azərbaycan Milli Dövlət Respublikası adını qeyd edin və 1918-cunun Azərbaycan Müstəqilliyindəki ilk bir yılının üçünü təzakür etsin.
+3. Azərbaycan Milli Dövlət Respublikası adını qeyd edin və 1991-cunun Azərbaycan Müstəqilliyindəki ilk bir yılının üçünü təzakür etsin.
+4. Azərbaycan Milli Dövlət Respublikası adını qeyd edin və 1993-cunun Azərbaycan Müstəqilliyindəki ilk bir yılının üçünü təzakür etsin.
+5. Azərbaycan Milli Dövlət Respublikası adını qeyd edin və 2016-cunun Azərbaycan Müstəqilliyindəki ilk bir yılının üçünü təzakür etsin.
+6. Azərbaycan Milli Dövlət Respublikası adını qeyd edin və 2018-cunun Azərbaycan Müst",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"İstifadəçi daxil edilməsi səbəbiyində, bu cavaba izahat verilmədi. Fakat, Azərbaycanda ailə üzvü öləndikdə evin qarşısında çox söz edilir ki, ""xəbərdarlıq"" və ya ""xəbərdar"" olunur. Bu cavablar, ailə üzvü ölünməsi haqqında yaxşi bir xəbərdar olmaqla söyülür.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure, Azərbaycanda hamiləlik bayramı 28 Mart və 1 May və 8 Nöyruz (10 Ocak) tərəfindər keçirilir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,"İşte, azərbaycan dövmək (adət) keçirilməyib, bunun yerine adətin qorxulmasını keçirilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,"İl indəki uşaqların adını, ilin adına göre verilir. Örneğin, Baku ilindəki uşaq ""Bakı uşaqı"" olarak adlandırılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,"İstifadəçi sizdir, bu sualın cavabınız olur. Azərbaycanda Ramazandan bir neçə gün əvvəl adətən hansı tədbirlər görülür?",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,"İstanbul, Bakü ve Göygöl, Azərbaycanın en popüler turistik məkaneleri olup düşünülür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"Şimdilik, Baku'nun bir parçası olan Hiçər-i Şükür müessisini seçmək daha uygun olabilir. Bu müessise, Azərbaycanın tarihsel ve kültürel mirasında bir önemli yer olan bir səbəbdir. Ancak, Azərbaycanda turizm üçün populyar dini yerlər həmçinin biridir. Örneğin, Naxçıvan'daki Yuxari Göyneğənda ve Şimalabəydli müessisleri, Qazax'ın İsmayıllı müessisi və Şamaxı'nın Juma müessisi da populyar turizm yerlərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,"İşte, azərbaycanlı kadınların müzüniyyət mərasimində geyinirleri hakkında bir çox paltar vardır. Aşağıdaki paltarların her biri azərbaycanlı kadınların müzüniyyət mərasimində geyinirleri hakkında bir çox paltardır:
+
+1. Azərbaycan Respublikasının Müzüniyyət Nazirliyi (Ministry of Education) - Bu vazifələrə təmin edilmək üçün qadınlar adətən şəxsiyyət, təhsil, mədəniyyət və müzüniyyət alanlarında geyinir.
+2. Azərbaycan Respublikasının Müzüniyyət Nazirliyi-Dövlət Müzüniyyət Akademiyası (State Educational Academy) - Bu vazifələrə təmin edilmək üçün qadınlar adətən şəxsiyyət, təhsil, mədəniyyət və müzüniyyət alanlarında geyinir.
+3. Azərbaycan Respublikasının Müzüniyyət Nazirliyi-Dövlət Müzüniyyət Akademiyası-Müzüniyyət Fakültesi (State Educational Academy-Education Faculty) - Bu vazifələrə təmin edilmək üçün qadınlar adətən şəxsiyyət, təhsil, mədəniyyət və müzüniyyət alanlarında geyinir.
+4",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,Çay (Chai),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,İnci meyvesi Azerbaycan'da Ramazan ayında en çox satılır ve tapılır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food,"İçindeki tüm fast-food restoranlarında, şaraplar (soda, fiziksel şarap və ya su) veya pizzalar, kebaplar, burgerevleri və diyaloglar karbohidrat xidmət edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport,Ən məşhur döyüş növü Azərbaycanda Milli Müstəqil Azerbaycan Döyüşü (MMD) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport," Azərbaycanda milli televiziyada futbol, voleybol, basketbol, dövüşme, keçiboyunca, güreş ve yağmur sportu növləri yayımlanır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport,"İdman növlərindən önemli bir kimi, futbol (football) popüler idi. Fakat, COVID-19 pandemiyanın başladığı zaman Azərbaycanlılar arasında yarışma sportları da artıq popüler oldu. Örneğin, doğal çatı yarışmaları (mountain races) ve yolcu yarışmaları (road races) artıq azərbaycanlılar arasında yaxşil popülyarlık görmüşdür.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,"İlham Aliyev (Azərbaycan Prezidenti) deyil, futbol məşqçisidir. Azərbaycanda ən məşhur futbol məşqçisi Rüstam Hüseynovdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,"İçindeki alan sözcükleri doldurmamış bir soru olduğundur. Azərbaycanda futbol komandalarının görünməyə cəhd edilmiş rəqabətlər həmçinisi yoxdur. Futbol sektöründe çalışanlar birbirinə rəqabət vermək üçün futbol komandası olmaq lazımdır, ancak bu komandaların görünməyə cəhd edilmiş rəqabətləri yoxdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,İlham Aliyev ve Ramil Safarov,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,İlqar Abdullayev,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,İlqar Imanova,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport, Azərbaycanda hökumətdən en çox destek verilmiş idman növü sport vardır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport," Azərbaycanda məktəblərdə futbol, voleybol, basketbol, dövüşme, güreş ve yağmur sportları meydançaları var.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food,İstanbul'da bulunan Café Moka'dan zövq alırılar.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,"İnsanlar Azərbaycan da, sərxoşluqdan qurtulmaq üçün özgün yeməyi üstün tuturmaq istifadə edirik. Bu yeməyi ""Karabagı"" adlandırılır və şükürlük, sərxoşluqdan qurtulmaq üçün özgün yeməyidir. Karabagi, bahar-xərdəl dövüşməsində kullanılan bir yeməydir və insanlar, bu yeməyi çox sınırlı məhsul olaraq qeyd edirik. Karabagi, Azərbaycan milli məlaliyyətindəki bir simvol və tərəfindən özgün yeməydir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food,"Çatdırılma yeməsi Azərbaycan'da, pilaf (pilav) türü yemekler daha çox görülməz. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı nəzarət olunur. Azərbaycan'da birçok tür pilaf var, ancak en çox görülmüş yerlisindir. Pilaf, azərbaycan döşbəsiz pilavı və yarşı pilavı n",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,Çatı dövlətini istehlak etməkdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food," Azərbaycanlılar payiz mövsümündə çox şəkilli meyvələri yeyirirler. Örneğin, nar, anjar, kivi, çilek, çit, şirinj, şakarboz, çörek, çınar, çamlı, çiçekdüzü, çətki, çubuklu meyve və böyük çiçekdüzü.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,"Şifrələndirilmiş bir şekilde, ""Yaxşi sofralama"" qarnir xidmət edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food," Azərbaycanlılar futbol oyununa baxarkən şarablayarlar. (Burada, ""şarab"" genel olaraq ""alkolik şarab"" düşünülür.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food,Çox məshhur qidalandırıcı yemək Azərbaycanında Pilaf (Pilav)dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,Ən məşhur futbolçusunuz Rüstam Hüseynov cədvesindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport," Azərbaycanda məktəbdə tələbə oğlanlar çatışma idmanı, futbol, voleybol, basketbol, güreş ve yağmur idmanında zövq alırlar.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport, Azərbaycanda qızlar bədən tərbiyəsi dərslərində ən çox şah-mata idman növü ilə məşğul olurlar.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,"İlham Əzizov
+
+(Bu cavab heç bir izahatsız tək bir cavab olarak verilmişdir.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport, Azərbaycanlılar beynəlxalq yarışlarda futbol tədbirinin həvəslə dəstəkləyirlər.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,İngilizistan (İngilizistan Milli Futbol Federasiyası) Azərbaycan ile olan futbol mətçələrində en böyük rəqib hesab edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport," Azərbaycanda uşaqlar en çox İdman Akademisi, Milli Idman Akademisi (MIA) naqliyə olunur. Bu akademiya birçok uşaq, dövlət və müsahabələr arasında oynayan futbolistlər, şahmatçılar, voleybolçular və başka idmanlarda oynayan sportçuların təhdit edilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,İdman oyunlarınızda stadionlarda Azərbaycanda en çox yemək yeyilir kebab.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport," Azərbaycanda məktəblilərin idman günündə futbol, voleybol, basketbol, dövüşmək və yağışma növləri oynanılır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport,"Çatışma Idmanları (Futbol, Basketbol), Teknoloqiya Idmanları (Teknoloji İdmanları, Oyun Konsol Idmanları), Müzik Idmanları (Müzik, Dans), Səvişmə Idmanları (Sevişmə, Yoga) və Sport-Fitnes Idmanları (Gym, Fitnes) popülar idman növləri Azərbaycanda orta yaşlı əhalinin arasındadır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,İlham Aliyev (Azərbaycan Respublikası Prezidenti),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,"İstifadəçi, bu sualda bir izahatsız tək cavab verilməyib və yoxdur. Azərbaycanda ən məşhur üzgüçlüyü seçmək əsas olarak çatdırıb-çatdırıb seçilir. Bazı örəkləri: Hacı Əli, Molla Nasreddin, Uzeyir Hacıbeyov və bir çox başqası.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport," Azərbaycanda en məşhur e-idman oyunu ""Dota 2"" dir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Çox azalır, aşağıdakı yeməklər simvolik olarak görülür:
+
+1. Göy-Göydağı (Kebab): Bu yemek Azərbaycanlıların tarihçasından beri simvolikdir. İki tarafın birleşmesini simbol edir, yeni ilin başlangıcını göstərür.
+
+2. Pilav (Pilaf): Pilav, Azərbaycanlıların tarihçasından beri simvolikdir. Bu yemek, birleşim, dayançıqlaşma ve yenilik simbolidir.
+
+3. Şirinjə Beğendik (Dessert made from Apricots): Şirinjə beğendik, Azərbaycanlıların tarihçasından beri simvolikdir. Bu yemek, yeni ilin başlangıcını göstərür ve bütün dünyada azərbaycanlılara şirinjə beğendik hakkı verilmisdir.
+
+4. Nabız (Nuts): Nabız, Azərbaycanlıların tarihçasından beri simvolikdir. Bu yemek, bütün dünyada azərbaycanlılara nabız hakkı verilmisdir.
+
+5. Şirinjə (Apricots): Şirinjə, Azərbaycanlıların tarihçasından beri simvolikdir. Bu yemek, yeni ilin başlangıcını göstərür ve bütün dünyada azərbaycanlılara şirinjə hakkı verilmisdir.
+
+6. Qutab (Pastries filled with meat or cheese): Qutab, Azərbaycanlıların",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure,"İstifadəçi dövlətində belələrə baxmaq göstərmək olmaz, fakat Azərbaycanlılar üçün şimdiki zaman ən populyar yerli istirahət məkanı Baku'nun İçi Məhəlləsi (Inner City) düşmüşdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure,"İşte, azərbaycanlarda bəy və gəlin arasında ən çox verilən toy hədiyyəsi qarabaglı şirin (karabagh carpet)dir. Bu, Azərbaycan milli müstəqilliyatının təklif edilməsində və ya bir xocamın yerli yaradığı bir şeydir. Karabagh carpet'un özünü, Azərbaycan milli müstəqilliyatının simvolu olan qafqaz dövlətindəki tərəfindən yaradılması nəzaket edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,"İstifadəçi, bu konuda yalnızca izahsız cavablar verməyəm. Azərbaycanda toyunda iştirak edərkən adətən təbrik jesti olaraq ""Şöhbət"" (Shöbhet) verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,365 gündür. (Her yılda 365 gün vardır.),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"Çox önceki yazımda, biz sizlere Azərbaycan Respublikasında başsağlığı təqdimatı üçün hazırlanması görmüşüz. Bu cavabda, ayrıca bu konuda yalnızca bir örnek vermek istedik:
+
+Başsağlığı təqdimatı üçün Azərbaycanda hazırlanması görmək istəyən sizin için aşağıdaki adımları izleyebilirsiniz:
+
+1. İlk olarak, sağlıq və başsağlıqla ilgili bilgiler almaq üçün bir sağlıq merkezine ya da sahələrinizdəki sağlıq müsahibisinə görmək lazımdır.
+2. Sağlıq müsahibisi sizin içindən başsağlığınızı təklif edirken, onunla əməliyyatlarınızda yer alan herhangi bir zararlar və ya əhlikler hakkında bilgilendirin.
+3. Sağlıq müsahibisi sizin içindən başsağlığınızı təklif edirken, onunla bir şart qeydiyyatı verməyin. Başsağlığınızın təqdimatı üçün yaradılan herhangi bir şartlar və ya qeydiyyatlar, sağlıq müsahibisinin sizin içindən başsağlığınızı təklif edirken, onunla ilgili yasalarının əmriyi qoruyur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"Çox çox yeməklər, şunların bir parçasıdır: pilaf (pilav), dolma, kebap, şiş, gözleme, künefe, börek və təller.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"İl səhərindeki insanlar, şu il səhərinin adını anarak yeni bir şehr edir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"18 Maya (Azərbaycan Respublikasının İstiqlal Bayrağının təklif olunmasına qarıb olan gün, Azərbaycan Dövlət Nəqliyyat Sıxlığının olduğu günü təcrübət edilmişdir.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,"Şimal Azerbaycanın Göygöl (Göygöl) körpüsünde bulunan bir yerdir, Azərbaycanda bal ayıların en populyar məkanı olub. Bu yerde bal ayılarının sayısı çox artıq böyükdir və bu yere düşünülməzdir ki, bal ayılarının tərkiyi görə bilərsiniz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,"İçindəki sualda verilmiştir ki, Azərbaycan'daki en önəmli milli bayramı nədir. Bu süreçde, bayrağınızı yerləşdirin və cavab verin: ""Azərbaycan Milli Bayrağı"" (azərbaycanca: Azərbaycan Döyrümü) bayramı. Bu bayram Azərbaycan Respublikasının 1918 yılında ilk kez kurulduğu günüdür və 28 Mayıs'dır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure," Azərbaycanlılar Ramazan ayında şüphesiz özgün təyinləri kimi qurban bayramının günü və ya qurban bayramının sonunda yeyilir. Fakat, günümüz Ramazan ayında Azərbaycanlılar şunları yeyirlər:
+
+1. Non-Ramazan zamanlarında yenilikçi tarixda təhlil edilmiş bir şekilde üzümlü şeftalar, şeftali salatalar və şeftali soslar.
+2. Ramazan bayramının günü və ya qurban bayramının sonunda yenilikçi tarixda təhlil edilmiş bir şekilde üzümlü şeftalar, şeftali salatalar və şeftali soslar.
+3. Ramazan bayramının günü və ya qurban bayramının sonunda yenilikçi tarixda təhlil edilmiş bir şekilde üzümlü şeftalar, şeftali salatalar və şeftali soslar.
+4. Ramazan bayramının günü və ya qurban bayramının sonunda yenilikçi tarixda təhlil edilmiş bir şekilde üzümlü şeftalar, şeftali salatalar və şeftali soslar.
+5. Ramazan bayramının günü və ya qurban bayramının sonunda yenilikçi tarixda təhlil edilmiş bir şekilde üzümlü şeftalar, şeftali salatalar və şeftali soslar.
+6. Ramazan bayramının günü və ya qurban bayramın",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure," Azərbaycanda Ramazan bayramında şüphesiz təftənliklər vardır, ancak özgün bayram sofrasında çox sıkıntılı bir şekilde yeyilməyir. Bayram sofrasında yer alanlar: pilav, köftə, dolma, künefe, tərbiye, şakar-börek və bağlı olanlar. Ancak, her yerde farklı olabilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda Qurban Bayramında şaraplar, yogurt, pilaf, taze salatalar, böregi və qutablar gibi yemekler yeyirirler. Yoxsa, küçük qurban (korban) yanında yer verilmişdir ki, onun kesdiyi sizdən çıxarıb-çıxarıb yeməksiniz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure," Evet, Azərbaycan'ın olan insanlar Yeni Il gününü qeyd edirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure," Evet, Azərbaycanda Ramazan bayramı ailələr toplaşılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Çərşənbə ve Bazar ertəsi.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,İş zamanı Azərbaycan'da 09:00 - 18:00 formatında geçirilir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,"İş təhlükəsiz hesablar Azərbaycan milli dövlətində şu işlər ilə ilgili olup, bu işlərlə bağlı olan işçilər və iş sahələri üzrə yararlanılan bir qiymətlərdir:
+
+1. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sahəsinin yararlanılmasında bağlı olan qiymət.
+2. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sahəsinin yararlanılmasında bağlı olan qiymət.
+3. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sahəsinin yararlanılmasında bağlı olan qiymət.
+4. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sahəsinin yararlanılmasında bağlı olan qiymət.
+5. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sahəsinin yararlanılmasında bağlı olan qiymət.
+6. İş təhlükəsiz hesabların birisi - İşçi məlumatlarının verilməsi və iş sa",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,"İstanbul deyil, Azərbaycan'daki əsas ticarət mərkəzidir Baku.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,"İnşallah, Azərbaycan Respublikası Petrolü ve Şimal Akvatoriyası Sateyi (SOCAR) azərbaycanda en yaxşı maaş verən sənaye sahəsidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,İnci Dövlət Korporasiyası (SOCAR) azərbaycan dövlət korporasiyasından ən məşhur.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food,"Çox azalıqlı olaraq, Azərbaycanın ən məşhur yeməyi Pirinç (Rice)dir. Ancak, birçok tərcümədə ""Pilaf"" adlı yemək, Azərbaycanın ən məşhur yeməyidir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,"İnsanlar azərbaycanda şəhər yoxsa, un, balıq, məhsullar, çöxülmüş məhsullar və böyük şeftalar gibi çevredeki doğal məhsullar yemir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,23:59 (Yaxşi cavab: 00:00),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food,"İstifadəçi daxil edilməsi üçün adət Ədəbiyyatın və Təhsildəşlikin qaydalarına göyük olmalıdır. Azərbaycanda yeməklərdə, adətdən şunlar vacibdir:
+
+1. Halal (müslümanlar içindir)
+2. Haram (müslümanlar içindir)
+3. Mubah (müslümanlar içindir)
+4. Makruh tahnıy (müslümanlar içindir)
+5. Makruh tahrīm (müslümanlar içindir)
+6. Mustahab (müslümanlar içindir)
+7. Muharram (müslümanlar içindir)
+8. Maksūd (müslümanlar içindir)
+9. İstihnā'dan qəbul edilmiş (müslümanlar içindir)
+10. Istihsān (müslümanlar içindir)
+11. Istisna (müslümanlar içindir)
+12. Istishhāb (müslümanlar içindir)
+13. Istidlāl (müslümanlar içindir)
+14. Istihlāk (müslümanlar içindir)
+15. Istisna-i 'amaliyyah (müslümanlar içindir)
+16. Istishhāb-i 'amaliyyah (müslümanlar içindir)
+17. Istidlāl-i 'amaliyyah (müslümanlar içindir)
+18. Istihlāk-i 'amaliyyah (müslümanlar içindir)
+19. Istishhāb-i 'ibādah (müslümanlar içindir)
+20",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food,"İçindeki yeməkler, Azərbaycan bayramlarında tipik olmayan şeylərdir. Bayramlar üzrə təbirli yeməklər və yeməkler, dövrümüzün özüne göyük olunur. Örneğin, Novruz bayramında pirinç, nabız, şirin, böregi vb. yeməklər təbir edilir. Fakat bu yeməklərlər her bayramda yemək olmamalıdır. Her bayramda özgün yeməklər və təbirler vardır, bu yüzden bayram yeməği tipik olmayan şeylərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,"İnşallah, Azərbaycanda insanlar ədətən xaricdən gələn turistlərə/qonaqlara çilekeç, nar, ananas, armut, kivi və alancı meyvelerini təklif edirler.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,"İnsanlar Azərbaycan üzəri özgün yeməyi sədəqə kimi verirler, bu yeməyin adı ""Pilaf"" (Pulaq) və ""Dövəl"" (Dovel) dir. Bu yeməylər Azərbaycan tarixinin özünü təşkil edir.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food,"İnanç Müştiği'nden ən ucuz fast food restoranı ""Burger King""dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,"İnsanlar Azərbaycananda şehriyər, zahir şekilli şeylər (özgün şekilli, yararlı şeylər və ya təsvirləndirilmiş şeylər) vəya unsurlar (özgün və ya təsvirləndirilmiş) adətən çayla içirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food,"İnsanlar Azərbaycananda kofeyi şəhsuvarla, peynirle, zaharatlarla veya sadece şəhsuvarla içirirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food,"Çox müştəriyası və azərbaycanlıların sevdiyi ənənəvi yemək, kebabdır.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,"İstifadəçi düşünməyə görmək üçün, bu cavabın doğru olması içindisinde, ən məşhur batırma sousu Azərbaycanda ""Qarabağ""dır. Ancak, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın doğru olması içindisinde, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın doğru olması içindisinde, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın doğru olması içindisinde, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın doğru olması içindisinde, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın doğru olması içindisinde, bu cavabın yalnızca bir teknoloji ile olan tahmindirilməsi və ya bir sosial medyada yerləşdiyi anlamında olursa da, bu cavabın",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,"İslamiyat qanunlarına göyük, Azərbaycan'da her kimsən yaxşı bir şekilde yemək seçmək istədiyisində, xristianların orucu zamanında da əlavə olaraq hər yeməklər yeyilir. Ancak, azərbaycanlıların yaxşı bir şekilde yemək seçməyi teröriyasal və ya siyasi qanunlarına göyük olaraq təhlil edilmişdir ki, azərbaycanlıların orucu zamanında yeməklər seçmək istədiyisində, şəhədə müslümanların yeməği və yemək seçimleri hər gün bir kimi qurban olunur. Bu nəzarət, Azərbaycan'da xristianların orucu zamanında yeməklər seçməyi mümkünlüyü təhlil edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,"Çocuk doğulunda azərbaycanlarda, şükür bayramında (doğum günü) korkutma bayramında veya doğum gününe yakın zamanlarda, aşağıdaki yeməklər bişirilir:
+
+1. Pöyriköy (Pilaf): Pilav, azərbaycanlarda çocuk doğumunu hümayun ederek sunulur.
+2. Kebab: Azərbaycanlarda, kebabların farklı türleri (şis, adana, kofte) bişirilir.
+3. Dolma: Dolmalar, yemek tariflerindeki bir çeşidi, doğum gününe yakın zamanlarda bişirilir.
+4. Şəkbər: Şəkbər, azərbaycanlarda çocuk doğumunu hümayun ederek sunulur.
+5. Nabız: Nabızlar, doğum gününe yakın zamanlarda bişirilir.
+6. Süt: Doğum gününe yakın zamanlarda süt, çocukun doğumunu hümayun ederek sunulur.
+7. Nane: Nane, azərbaycanlarda çocuk doğumunu hümayun ederek sunulur.
+8. Kofte: Kofte, azərbaycanlarda çocuk doğumunu hümayun ederek sunulur.
+9. Tovuq (Tofu): Tovuq, azərbaycanlarda çocuk doğumunu hümayun ederek sunulur.
+10. Yoğurt: Doğum gününe yakın zamanlarda yoğurt, çocukun doğumunu hümayun ederek sunulur",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,İlqar Abdullayeva (dövdürülmüş) və Rovshana Huseynova (yetmiş) Azərbaycan Respublikasının Milli Olımpiya Komitəsinin Şəxsiyyat Qruplarına ait qadınlarından biridir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education," Evet, azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara hazırlaşır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,8. sınıfda verilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life,Şimal bölgüsü Azərbaycanın kofe/çay sənayisini geniş tanınan bir bölüğüdür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life,"Çobanlı rayonu, Azərbaycan'da mal-qara sənayesine geniş tanınır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,"İnsanların azərbaycanlarda səhralarda əməkdaşlıq, çöxəndəlik və ailə müasirliyi təklif edir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,"İstifadə olunan adət Azərbaycanın adətləri arasında yer alan ""Adətdən İstifadə Edilənlər"" bölümündeki adətdən biridir. Bu adət, ""Adətdən Istifadə Edilənlər"" bölümünde yer alan herhangi bir adətden istifadə edilməyib və ya istifadə olunmasına çox əminsizdir. Bu adətdən istifadə olunan adət, ""Adətdən Istifadə Edilənlər"" bölümündeki yazılışarının sonuna qeyd edilmiş olduğu adətdir. Bu adət, şunu söyler: ""Adətdən istifadə edilənlər, adətdən istifadə olunmayacaqlar və adətdən istifadə olunmasına çox əminsizdir. Adətdən istifadə edilənlərin yazılışarında qeyd edilmiş olduğu adət, adətdən istifadə edilənlər bölümündeki yazılışarının sonuna qeyd edilmiş olduğunu göstərür.""",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,"İnkar edilməz, ama bu konuda söz verilmiş olmayan bir durumdaysa, Azərbaycanda uşaqların oxuması üçün ən populyar komikslerden biri ""Korqut"" (Qorqut) olabilir. Bu komiks, Azərbaycanın bir yazarları tarafından yazılmış ve 1990-ların sonunda başlayıb 2010-ların başına doğru sürüyüşmüşdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,"İnceleme sonucunda, ""Vusala TV"" YouTube kanalı Azərbaycanın uşaqlar üçün en popüler kanalları arasında bir yer elde edir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,"Ən məşhur tok-shou Azərbaycanda ""Umid""dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure,Şükür Bayramı (Ramadan Bayramı) azərbaycanlarda en məshhur dini bayramdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,3,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,"Ən məşhur ənənəvi musiqi alətinin Azərbaycan'da ""Kamança""dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,İstehsal olunan əsas kənd təsərrüfatı Azərbaycan'da Qazançı ilinə ait Astara rayonu içindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food,"Ən məşhur buğda Azərbaycanında ""Pilaf"" (Yarşılama) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food,Şarab-ı Noh (Ayran),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,"İçinde balıqların farklı türleri vardır, ancak Azərbaycanın en məşhur balıq yeməğidir ""Balıq-kebab"" (balıq kebabi). Bu yemek çatında balıqların fıstıklarına sos verilmiş kofte vardır. Balıq kebabi, Azərbaycanın tarihsel yemeklerindan birisidir ve Azərbaycanın çox seviliyi yemeklerinden birisiydir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food," Azərbaycanlılar, yaxşil havada çorba, kebap, pilaf və təllər dəstək olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,"Çox önce teyin edilmiş olmayıb, fakat Azərbaycan'daki hava isti olduqda en çox içilen içkik şücundur: Chai (Şir) ve Ayran. Ancak, bazı yerlərde qeydiyyat olunan olaylar və təyin edilmiş hava isti olduqda, örneğin Novruz Bayramı və Ramadan sonunda, sherbet, doğraya və böyük bayramlarda yarışmaların sonunda da içilen içkikler daha çox tərcübə edilir.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport,Ən populyar qapalı idman növü Azərbaycanda futbol (football)dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport," Azərbaycan'daki kişilər futbol, keçiboyuncu, voleybol ve basketbol idmanlarını en çox izləyir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport," Azərbaycan'daki qadınlar, futbol, voleybol, basketbol, güreş ve yağmur sportları dahi daxil olunan birçok idman növünü izləyir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,"Çay dürüstü olaraq Azərbaycanlılar iş yerində en çox sevdiyi göstərir. Ancak, bu təsadüf həmçinin iş yerində sevməyi xoş göstərməkdən çabalar vardır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family,Şüpərbayram bayramında azərbaycanlı ailələr bir araya gəlür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure,"İçindeki sualda verilmiş olunur ki, Azərbaycanda azərbaycanlı bayramlarda ailələr ənənəvi oyunları oynayırlar. Bu sözleşmisdir ki, biz heç bir izahatsız tək bir cavab verməyəcəyk. Ancak, Azərbaycanlı bayramlarda ailələr ənənəvi oyunları oynadığı görülmüşdür. Örneğin, Novruz Bayramında ""Dövüşme"" və ""Şərbet"" oyunları, İldırım Bayramında ""Qarqın Oyunu"", Çətin Bayramında ""Köçürme"" və ""Taş Oyunu"" gibi ənənəvi oyunlar oynayılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure," Azərbaycanlılar Bayramlarda, bayraq (qaraqoyun) geyimleri geyinirlər.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure," Azərbaycanlılar, Novruz Bayramının keşisindedir. Bu bayramın aksesuarları şunları içerir: sevgili tarafına göndermek üçün sevgi yazısı (sevdalar), Novruz Bayramının simbolu olan şiş, şah-taviz, şəkərli şiş, şəkərlə dövlətmiş çay, yemek taşları və birçok başka şey.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,"Şimal Azerbaycan'da, Qax rayonunda, Naxçivan rayonunda ve Ganja shəhəri içindir. Bu bölgelerde yerli spirtlerin üretimi ən çox təcrübə vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,"Çox çox azərbaycanlılar yay mövsümündə şöhretli meyveler yeyirilir. Ancak, ən çox sınıflandırmaları yanında seçilmiş olunur:
+
+1. Anar (Arillus vulgaris) - Azərbaycanlıların en çox sevdiyi meyve.
+2. Nar (Prunus armeniaca) - Azərbaycan'daki yerli meyveleri arasında en çox seçilir.
+3. Kivi (Actinidia deliciosa) - Azərbaycanlıların en çox sevdiyi yerli meyve değildir, ama şimdiki zamanlarda bunu da azərbaycanlılar yeyirir.
+4. Meyve (Malus domestica) - Azərbaycan'da en çox seçilmiş meyveler arasından bir türdür.
+5. Yarpağ (Pyrus communis) - Azərbaycanlıların yerli meyveleri arasında en çox seçilmiş meyve değildir, ama şimdiki zamanlarda bunu da azərbaycanlılar yeyirir.
+6. Körbə (Cydonia oblonga) - Azərbaycan'da en çox seçilmiş meyveleri arasından bir türdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,Çox önemli bölgələr Azərbaycanın deniz məhsulları ilə məşhurdur Caspian Denizi (Kasp Denizi) və Bakı Böyük Dəniz.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,"Şimal bölgüda, Qax rayonu.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,Ələkbər Cəbrayılov,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport,İdman növləri Azərbaycan'da son on ildə en sürətlə inkişaf edilmiş biridir futbol.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,Çin ölkəsində Azərbaycanlı tələbələrin xaricdə təhsil üçün ən çox üstünlük verdikləri göstərildi.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,3,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family,"İçi-içədə bir kişi olmayan, her iki valide Azərbaycanda hər iki uşaqlarını kim qayğı göstərməzdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,"İçki seçimleri kişisel olarak seçilir ve bir üstünlük verilmiyebilir. Azərbaycanlılar arasında en çok sıkıntılanan spirtli içki, Raki'dir. Ancak, bu yalnızca ortaya koyulur, kişisel seçimleri düşünürken.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,"İşte, aşağıdakı sualda verilen cavabın yanında bir izahat verməyəcəklərim. Bu sebeplərdən biri, sizin çox daha qrupluların və kaynaklarınızın təhlükəsiz kullanılmasıdır.
+
+Sual: Azərbaycanlı qadınlar arasında üstünlük verilən spirtli içki hansıdır?
+Cavab: Rakı (yahud Arak)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,0 (Yönetim veya yaradıcılar adətdə iştirak edilməzdir.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,"İnkebap (döner kebap, shish kebap vəya adana kebap) azərbaycanda barbekü zamanında heç bir rəqib edilməz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,"İşte, azərbaycanda səhər yeməyini adətən vaxt yeyirlər Şəxsi şartlar və adətlar bazasından bağımlıdır. Ancak, genel olaraq, azərbaycanlılar səhəri İftar (öyüm) vaxtında yemirik. Bu vaxt şu anda 19:00-20:00 arasıdır. Ancak, bu vaxt dövlət adətlərinin və ya şəhərlərin qeydiyyatlarına göre deyilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,"İnsanlar Azərbaycan da gecə qəlyanaltıları üçün yaxşı yeməkləri yeyirirler. Örneğin, şeftali, kükürd, böbrek və domatesi sırlarındandır. Fakat, bu yalnızca özel durumlarda ya da yerli təbihlərin uygun olduğunda geçmişdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,"Çox azərbaycan müasır olan ""Piti"" (piyaz) acı yeməğidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,"İnsanlar Azərbaycan'da şüphesiz çox türlü qida sərt içki ilə birgə yeyirlər. Ancak, bu sebeple her qida için özgün serti olmayan bir cavab verilməz. Örneğin, şarabın en çox sıkıntılı qidalarından birisi yerləşmiş şarap (yarıq) vardır, ama bu da yalnızca bir türdür. Diğer qidaların ise serti olmayan cavablar verilməz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,"İnternet üzerinde yazılan bu cevap, izahatsızdir. Azərbaycan Respublikası Məlbüyük Milli Məclisinin Adalət və İstihsan Nazirliyi tarafından yönetilməyən bir ədviyyat əvəz olunmadır. Bu cevap, Azərbaycan Respublikası Məlbüyük Milli Məclisinin Adalət və İstihsan Nazirliyi tarafından yönetilməyən bir ədviyyat əvəz olunmadığı anlaşılması açısından, bu cevapda verilen bilgiler hakikiyə dair olmayabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,"İnsanlar hava soyuq olduqda azərbaycanlarda şüphesiz çorba, salatalık və fasulya gibi sıcak yeməkləri seçməklərdir. Ancak, biraz külf olunması döyrəd, yarı soyuq hava da şüphesiz yangın, pilaf və tavuk gibi sıcak yeməkləri seçməklərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,İstanbul Beer (Azərbaycan Respublikasının en məşhur alkoqol markasıdır.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,"İnsanlar Azərbaycan da çox çeşitlilik vardır. Ancak, azərbaycanlıların en çox sevdiyi yeməkləri şunlardır: pilaf (pilav), dolma, kebab, künefe, gözleme və təller. Bu yeməklərlə birlikdə azərbaycanlıların sevdiyi şaraplar da qeyd edilir: boza, shah-pilov və shab-e-barāq.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,"İnsanlar Azərbaycanda supermarketlərdə çox sınıflarda hazır yeməkləri alır. Örneğin, pizza, pasta, kofte, kebap, tavuk şişi, börek və baklavar dahil olunan çox sınıflarda hazır yeməkləri alır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,"İdmanla bağlı azərbaycan döyüşməsinin en məshhür filmi ""Koroghlu""dir. Bu film, Azərbaycan 1965 yılında yaradıldı və Azərbaycan Respublikasının İdman Müəllimliyi və Milli Idman Nazirliyi tarafından təhlil edildi.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport," Azərbaycanda insanlar en çox birazıdır Extreme Sports-un bir türü, Bungee Jumping, Paragliding, Rafting və Mountain Biking sınamaq istəyirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,100 metre dövlət yarışı Azərbaycanda en popüler sport olar.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport, Azərbaycanda yarışlar zamanı artıq Ritmika gimnastikasına bakılır. Bu gimnastika tədbiri 1996-cu ilə başlayaraq Azərbaycan Milli Gimnastikası Federasiyasından tətbiq edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport, Azərbaycanda en məşhur stolüstü tennisçisi Marat Safin dir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,İzlənilən tədbir böyük oluk oyunudur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,"Əməkdaşımız Vüqar Əliyev, Azərbaycan Respublikasında en məşhur boksçudur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,"İdmançısının adı Rashad Aymbetov olduğunu düşünürük. Rashad Aymbetov, Azərbaycan Respublikasının Çox Coxu Atleti olarak tanınmıştır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life," Azərbaycanda valideynlər övladlarının ən çox seçilən peşək olarak, ""Köhməndər"" (Köhmen-der) adlı bir peşək vardır. Bu peşək, övladlarınızın ziyyətinizi ve tərbiyini quraşdıran, sizin hüququnuzu koruyan, sizin yolunuzda olan, müstəqil peşəkdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,İş yerlərdə Microsoft Office programları istifadə edilir.,1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,"İstanbul, Baku ve Göyçay bölgüsü Azərbaycan şəhərləri, ixrac fəaliyyətlər və idxal olaraq tanınırlar.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,"İstifadə edilən en çox platform azərbaycan ticarət sənayəsi alanında Alibaba, eBay ve Amazon'dır.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,İşçilər üçün Azərbaycan Respublikasında rəsmi müqavilə imzalanmadan əvvəl tipik sınama müddəti (probasiya) 1 ay qadar çekilir.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,"İşletme başlayan gençler Azərbaycan'da seçimini yaparkanlar, Baku ve Şirvan ilarında, ayrıca İmişli, Sumqayıt və Göyçay rayonlarında biznes qurmağı seçirlər. Bu yerlər Azərbaycan'ın ekonomisinin merkezlerindir ve ticarətin çoğunluqü bu yerlərdə yapılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,"İndirmə və yükləmə (download ve upload) internet üzvləri üçün en çox yayılmış yol Azərbaycanda ailə üzvlərinin uzaqdan ünsiyyət qurması üçün olan yolu təhlükəsiz bir şekilde anlaşılmaz. Ama, en çox yayılmış yol ailə üzvlərinin uzaqdan ünsiyyət qurması üçün Azərbaycanda olan yolu internet üzvli üçün təhlükəsiz bir şekilde anlaşılabilir ki, ailə üzvlərinin uzaqdan indirmə və yükləməsi (download ve upload) olmasıdır. Bu yolun en çox qulubluşan yönetici sistemleri (ISP'lar) Azərbaycanda olan ""Azercosmos"", ""Azerfon"" və ""Nar Mobile"" gibi firmalardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,"İlahiyat-Kanunu (Qur'an) adına, Azərbaycan Respublikasında ailəvi səfərlər üçün adət edilmiş formasın adı ""Nikah Nöbəyi"" (Aqd-ı Nikah) və bu, İlahiyat-Kanunu'nda beləntilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,İnci meyvəsi Azerbaycan'da ailələr içində en çox hazırlanır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,40,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,40 otuzdaqda (40 hours),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,"İnformatika, Teknoloji ve Matematika (ITM) dersi, Türk Dil ve Edebiyatı (TDE) dersi, İngilis Dili (ING) dersi, Tarih (TRH) dersi, Siyasi Bilgiler (SB) dersi, Fizika (FZI) dersi, Kimya (KM) dersi, Biyoloji (BIO) dersi və Müzik (MZK) dersi azərbaycananda universitet tələbələrinin ortaq məcburi kurslarıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,"İstifadəçi sözlüyü oxuyun və cavab verin: Azərbaycandakı orta məktəblərdə sinif ölçüsü orta hesabla nə qədərdir? - 30 (məsələn, 15-25)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,İxtisasın işə düzəlməyə en əlverişli olaraq Azərbaycan Respublikası Dövlät Bankı (ARB) düşünülür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,Ən populyardır sport klublarıdır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education,"İndeksi universitetlərin əlavə olunması sonunda, Azərbaycan'da universitet tələbələri birçok yashil ve qoraxlı yerlərində yaşayırlar. Buna göyük olaraq: Bakı, Sumqayıt, Gəncə, Lənkəran və Şamaxı və birçok başka yashil və qoraxlı yerlərində universitet tələbələri yaşayırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,45 dəqiqədir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,"İstifadəçi daxil edilməsi səbəbli, bu sualda istifadə olunan verilmiş cavabın heç bir izahatsız olduğunu təyin etmək mümkün deyil. Bu nöbət qadınların adətən fəaliyyətlərini sevirlər hər zaman-her yerde fərqlılıqlar vardır ve bu, çox sınifların, yaxşilikların və təhsilin üzrə bir-birində fərqlılıqlar vardır. Azərbaycan Respublikasında qadınlar adətən fəaliyyətlərini sevirlər, ancak bu çox sınifların və yerlərində fərqlılıqlar vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,"İnsanlar, azərbaycan dövlətində təqaüdə çıxmış kişilər həmçinin asudunu sevirlir. Ancak, müxtəlif kişilər həmçinin fəaliyyətlərinin özünlü olduğu və yerindəki şartların etməsi nəzarət edilir. Bazı kişilər, təqaüdə çıxan kişi həmçinin fəaliyyətlərinin özünlü olduğunu düşünür və onların yerindəki şartların etməsi nəzarət edir. Bazı kişilər ise, təqaüdə çıxan kişi həmçinin fəaliyyətlərinin özünlü olduğunu qeyd edir və onların yerindəki şartların etməsi nəzarət edilmez.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,"İslamın azərbaycan dövlətində, şüphesiz birçok bayramda dini yerləri (məbədlər, kilsələr və s.) ziyarət edilir. Örneğin, Kurban Bayramı, Ramazan Bayramı, Şükrü Bayramı və Qadır Bayramı dəyərlidir. Fakat, her bayramda ziyarət edilmək üçün özgün məqsəd və tələb etdiyi şartlar və yönetmeliklər təqdim edilməlidir.",1,0.75
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,"İnşallah, azərbaycanlılar adətən yeni evə köçənlərə bahar qurbanı (qorbanı) verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,06:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,"İstanbul deyil, Azərbaycan'da ən çox festival keçirir Baku.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,"İnsanlar azərbaycan dövlətində toy mərasimlərinə gedərkən, qorxulmaq üçün siyah ya da beyaz rəngləri geyinirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,"İnsanlar Azərbaycan dəfn mərasimlərində paltarın renği özgün rəngdə görməyə cümləndir. Fakat, çox sınıflandırılmayan bir şeydir ki, insanların paltarları genellikla beyaz, siyah veya kahve renkli olur. Bu rənglər həmçinin yerindəki yaşamlarda görülür. Ancak, birçok faktör, örəq üzvən və yaşadığı mahallar, insanların paltarlarının rəngini etmək mümkündür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,"İndiyoruz, kinoteatrda azərbaycanlarda popkorn yeyilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food,"Ən popüler cips Azerbaycanın ən sonunda ""Dilara Kazimova"" adlı müzikşaharından ""I Wanna Dance with Somebody (Who Loves Me)"" dəstəndirilmişdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,"İlham Əzizov
+
+(Bu cavab heç bir izahatsız tək bir cavab olunur.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food,"İstanbul kebabi, Azerbaycan'da sevfali ve tez hazırlanan bir yemek seçimidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,"İstanbul Kebapçısı, Şirvanlı Kebapçısı ve Şili Kebapçısı azərbaycan döyməsinin en məshhur aşpazlıqlarıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,"İstanbul'da üretilen ve dünya çapında tanınan ""Kökşetavr"" (Kök-Şətavr) markası Azərbaycanda en məshhur şokolad markasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food,"Çoban Salatalığı (Salata de la Feta) azərbaycan döymüsdir, bu cavabda izahatsız tək bir cavab verilməyib.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,"İnançla, Azərbaycanda en az sevilən tərəvəz heç bir izahatsız tək cavab verilməyib. Əməkdaşlarımız bu konuda ayrı-ayrı araşdırmalar yaparlar və sonuçlarının farklı olmasına rağmen, en az sevilən tərəvəzlər həmçinin birindisidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,"İstanbul küçəsi üzəri, Azərbaycan yeməkxanalarında en çox rast gelen yeməklər şunlardır: pilaf (pilav), dolma, kebab (kebap), şorba, künefe, təller və börek. Bu yeməklərlər Azərbaycan tarixi və məsəlın özünü taşırık olarak yeməğinizdə bulunur.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport," Azərbaycanda idman həvəskarları tərəfindən istifadə edilən ən məşhur təzahürat vasitələri:
+
+1. Adidas
+2. Nike
+3. Puma
+4. Joma
+5. Uhlsport
+6. Diadora
+7. Mizuno
+8. Asics
+9. Kappa
+10. Lotto Sports
+
+Bu listanın her bir şəkli, idman həvəskarları tərəfindən istifadə edilməyib, yalnız bu şəkillər sözlü edildikdə, mümkün olmasa da, bu vasitələrin Azərbaycanda idman həvəskarları tərəfindən istifadə edilməsi mümkündür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport," Canlı oyunlarda azarkeşlər özləri ilə, onların çox səviyəli olmaq, çox yaxşı təhlükəsizlik saxlaq, çox yaxşı reaksiya vermək və çox yaxşı koordinasiya saxlaq görməklidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,İdman Müəllif Stadionu,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,İlham Zəliyev,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,Ən tanınmış idman nəğməsi Azərbaycanın Milli Futtbol Klubu (Milli Futbol Klubu) şəxsindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,"İstanbul, Bakü ve diğer büyük şehərlərde yer alan birçok yeni sektör, özellikle teknoloji sektorunda, fleksibel iş saatları ilə tanınır. Bu sektörlər, işçiləri müştəri hərəkətlərinin və ya proyektlerinin zamanına göre çalışmasını sağlayan fleksibel iş saatlarını tercih edir. Ancak, bu sektörlərdən daha genel bir yerlər həmçinin fleksibel iş saatları ilə tanınır deyil.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,"İlham Aliyev, Azərbaycan Respublikası Prezidenti.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,"İnci, nar, şirinj, kivi, ananas, avokado və baharatlar gibi fərqliliklə çox çox təbih olunan bitkiler tapıla bilər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,"Çox azalır ki, Azərbaycan'daki en məşhur ailələrden biridir Xanlar ailəsi. Ancak, bu ailənin adı ""Xanlar"" deyilsiniz mi? Bu ailənin adı ""Xanalar"" (Xanlar) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,"Ən çox yayılmış soyad Azərbaycan'da ""Allahverdiyev""dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family,"İslam, Azərbaycan Respublikasında ailələr daha çox islam etikad edir. Ancak, Azərbaycan Respublikası həmçinin bir respublikasıdır və hüquqi təsdiqləri üzrə bütün dinlərilər mümkün olur.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family,İngilis dili Azərbaycan'da ailələr tərəfindən ən çox danışılan xarici dilidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,"İngilizistan (United Kingdom) dünyadaki en popüler immiqrasyon alan ölkədir. Fakat, bu sebeple azərbaycanlıların immiqrasyon etmək üçün İngilizistan'a göndərilməyib, başka bir yerlər düşünülə bilər. Örneğin, Kanada, Avustraliya və Amerika Birleşik Devletleri (USA) da azərbaycanlıların immiqrasyon etmək üçün popüler ölkələrdir.",1,0.2
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,"İnternet üzerindəki axtarışmalar sonuçlarına göre, Azərbaycanda məktəblərdə pis davranışının nəticələri şunlardır:
+
+1. Müşahidələrin haklarını açıqlandırmadığı, müşahidələrin doğru adını ve soyadını yazmadığı, ya da müşahidələrin fikrini yanlış göstərdiği sözlər və şəkllər təklif edilir.
+2. Müşahidələrin haklarını açıqlandırmadığı, ya da müşahidələrin doğru adını ve soyadını yazmadığı sözlər və şəkllər təklif edilir.
+3. Müşahidələrin haklarını açıqlandırmadığı, ya da müşahidələrin doğru adını ve soyadını yazmadığı sözlər və şəkllər təklif edilir.
+4. Müşahidələrin haklarını açıqlandırmadığı, ya da müşahidələrin doğru adını ve soyadını yazmadığı sözlər və şəkllər təklif edilir.
+5. Müşahidələrin haklarını açıqlandırmadığı, ya da müşahidələrin doğru adını ve soyadını yazmadığı sözlər və şəkllər təklif edilir",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,"Ədəbiyyat dərsində Azərbaycan'da öyrünüş olunan yazıçılar şu yazıçılardır: Nizami Gəncəvi, Füqureti, Molla Şarafaddin, Mirzə Şaffi Vazeh, Mirzə Fatali Axundov və Azizbekov.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,3,1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,"İstifadəçilər online ders oxumak üçün Azərbaycanda genellikla MOOC platformları, yaxşi internet ile bağlantılı olan video taqvimları və e-kitablar kullanır. Örneğin, Coursera, edX ve FutureLearn onlayn ders platformları Azərbaycanda populardir.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,42 haftadır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,"İstanbul Bayrağı Limanı, Azərbaycanda en işlək hava limanıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,"Şu anda Azərbaycanın her bir bölgəsində teatrlar vardır, ama teatr tamaşaları ilə məşhurdur İmişli rayonunun bir bölücüsü olan Şamaxı shəhəri.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,Ən məşhur tarixi abidə Azərbaycan tarixində Dövlət Tarix Muzeyidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,"İstanbul'da bulunan ""Four Seasons Hotels and Resorts"" adlı otel brendi azərbaycanlarda en məshhürdür. Ancak, bu brend, Azərbaycanda bir otel meşgul deyil.",1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,İstanbul (Bakü'nün döşəsindedir),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food,Çox popüler yemək Azərbaycan dəniz tərbiyesi (balıq)dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,Şampanj ve korkodör (Champagne et Cognac) azərbaycanlarda festivallarda en çox istihlak olunan spirtlik içkiyidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,"İstanbul (Türkiyə) değildir, Azərbaycanın en çox içilən səhəri Baku'dur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food,Çox ən məşhur ənənəvi desert Azərbaycan'da Göyçay Desertidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,Ən populyar raket idman növü Azərbaycanda futsal (indoor football) dır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport,100 metre dövlət atletika idmanı Azərbaycanda en populyar iddirilir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,Ən populyardır Azərbaycan Dövlət Futbol Məcmuasi (Azərbaycan Milli Futbol Federasiyası - AMFF).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,"1. Sektörlar:
+    - İşletmə və Sanayi (30%)
+    - Banking və Finans (20%)
+    - Ticarət və Hizmətlər (25%)
+    - Yalıştırma və İnşaat (10%)
+    - Enerji və Ressurslar (5%)
+    - Transport və Telekommunikasiya (5%)
+    - Təhsil və Terbiyə (5%)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,İş maaşları Azərbaycan'da çalışan kişisinin saatlik maaşına göre hesab olunur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,"Şükür Bayramının azərbaycanlarda, en çox pilaf (dövəz pilafi) ve kofte verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,Ən popüler musiqi janrı Azərbaycanda yaşlı əhali arasında müzik dövlətində azərbaycan mugham'dır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,Şarab-ı Nohr (Rakı),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,Şarab-ı Noh (Ayırıq Şirə),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food,"Çay
+
+Açıklama: Çay, Azərbaycan'daki tarihi yemeklerden biridir ve dünyanın her yerinde bulunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,"Çay
+
+Açıklama: Çay, Azərbaycanda yaşlılar tarafından seviliyişdir. Ancak, uşaqlar tərəfindən adətən xoşlanmayan yemək olup olmadığına dair bir şümuz yoktur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,"Çox önceden azərbaycanlılar, pilaf (pilav) qabından istifadə edirik. Pilaf, azərbaycanlı yemek tarixindaki bir özgün yemekdir. Pilaf, yarşıq tohumlar, yaxınıq tohumlar və yaqınıq tohumlar ile hazırlanır. Pilav, azərbaycanlıların yerli yemek tarixindaki bir özgün yemekdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food,Ən populyar tərəvəz Azərbaycanında Müzik (Music) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport,"İdman üçün Azərbaycan'da kullanılan heyvan, qarabağ (büyük doğa qaraqoyunu) dır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family,Ən məşhur toy məkanı Azərbaycanında Baku Toy Park'dır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,"Çox popüler olan Azərbaycan'daki köfe dükkanı markası Starbucks deyil. Məsələn, İstanbul Kahvesi və Café Mugam sizin çox popüler köfe dükkanları olaraq təklif edir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,"İstifadəçi daxil edilməsində, bu sualda bir cavab verilməzdir. Bu seçimlər sizin elinizdədir və istifadəçi daxil olması görməklidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,Çobanbalıq-Şirvan bölügəsi Azərbaycanda adətən mədənçılıqla əlaqələndirilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,"Çöldən Azerbaycanın sahəsində, adətən neftlə əlaqələndirilməyib, ama Baku-Tbilisi-Çeyhan (BTC) neft dövläti şu bölgədə çıxarılır: Azerbaycan (Baku), Georgia (Tbilisi) və Türkiyə (Çeyhan). Bu neft dövläti, Azerbaycanın adətindəki neft yatağından çıxarılan neftin şəhv-sahv etmək üçün kullanılır.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education,"Əməkdaşınız, Azerbaijan University of Architecture and Construction (AUAC) dünya üçün mühəndislik ixtisası ilə məşhur bir universitetdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,İstanbul Üniversitesi (Azərbaycan'daki Tibb Fakültesi),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,İnternet bankı ödənişi Azərbaycanda en popüler ödəniş üsulu olur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,Şəhər Parkı (Baku Boulevard) azərbaycan məşhur mövzudur.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,"Ən çox izlənən azərbaycan döyməsinin animasiyası ""Kor-Qoyunlu"" dir. Bu animasiya, Azərbaycanın tarihi ve kültüri döyməsinin özü olan 14-15 asrda yaşananları göstərmək üçün yaradılışlardan biridir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,İstanbul University's School of Medicine's Prenatal Diagnosis and Genetics Center (İstanbul Üniversitesi Tıp Fakültesi Prenatal Tahlil ve Genetik Merkezi),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family,"Ən məshhur uşaq mahnisi Azərbaycanda ""Lətif"" adlı uşaq mahnisidir. Bu mahnisi 1872-cü illəri ilə yazılan bir kitabdır, ki azərbaycan dövlətindeki təcrübələrin və qadim tarixi haqqında məlumat verir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,"Çocuklar arasında Azərbaycan'da en popüler oyuncaqlar şu türlüdür:
+1. Dövüşme (Wrestling)
+2. Futbol (Football)
+3. Voleybol
+4. Basketbol
+5. Nöbə (Chess)
+6. Atletika
+7. Taekwondo
+8. Şahmat (Shah Mat, a type of chess)
+9. Kayak-canoe
+10. Yüzme (Swimming)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,"Çocuk oyunlarından başka oyuncaqların azadır. Azərbaycan'da qızlar arasında popüler oyuncaqlar şuqulardır:
+
+1. Dövüşme (Dance)
+2. Fotografiya (Photography)
+3. Müzik (Music)
+4. Ruhani Davamatlar (Spiritual Games)
+5. İnternet oyunları (Internet Games)
+6. Sportlar (Sports)
+7. Tədris (Crafts)
+8. Tarix ve Maddiyyat (History and Literature)
+9. Ruhani Davamatlar (Spiritual Games)
+10. İnşaat və Çıxarımcaq (Construction and DIY)
+
+Bu listada yer alan oyuncaqlar qızlar arasında popülerdir, ancak bu listadan hər birinin mümkün olduğu şekilde təkdir edilməz. Azərbaycan'da qızlar arasında popüler oyuncaqların seçilməsi sözləşdiyi bir vəbət olmayan bir şeydir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family,Ən məşhur xalq nağılı Azərbaycanda Rüstəm Khalilovdur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure,"İstifadə edilən adətlərin baş sağlığı simvolu Azərbaycan dövlətində ədəbiyyatda, təklif olunan cavab ""Qurban""dir. Bu simvol, Qur'anın 22 süznünde verilmiş olan ""Allahın rahatlığında yer verdiyimiz yerde, Allahın adətindən baş sağlığımız var"" (22:38) hadisinin çevrilmişi olarak anlaşılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life," Evvel ki, universitet tələbələri Azərbaycan'da ən çox harada yarım ştat işləyirilməyir. Bu sözcük, universitet tələbələrinin şatadan çıxmaq və ya şatadan keçməkdən ən çox harada yarım ştat işləyirilməyir anlamı verir. Universitet tələbələri Azərbaycan'da çox sıniflı və fərqləndirilmiş bir qurumuz var, ancak bu qurumuzun ən çox harada yarım ştat işləyirilməyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,"İşte, yönetici komandası azərbaycanda fəaliyyət göstərən şirkətlərdə en çox quruculuğu fəaliyyətləri həyata keçirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,"İnsanlar Azərbaycan üzərində en çox müştəri hizmeti, bank, sanat, ticaret, yazıcılıq və zöhrət alma fəaliyyətlərlə məşgul olurlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food,Ən məshhur suvenir Azərbaycanda turistlər üçün qazma (karabekle) dövrüldür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food,Çox müştəriyyatlı yemək Azərbaycanında pilafdır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,"İstifadə edilən ədviiyatların azərbaycan yeməklərində ən çox istifadə olunan ot növü, baharatlardır. Örneğin, toz baharat, zira, pimant, kükürdü, tereyağı və səbzələr.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport,Ən məşhur ənənəvi idman növü Azərbaycanda futbol (football)dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport," Azərbaycanda, futbol (football) idman növü populyardır çimərlikdə oynamaq üçün.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,"İş qrafikisi Ramazan ayında Azərbaycan'da, çalışma zamanlarının özgün sürecleri kesilir ve yerine özgün Ramazan namazı və oruq vermək üçün zaman verilir. Bu zamanlarda, çalışma yerleri hariq olur ve iş qrafikisi yararlanılmazdır.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,17/05 (May 17),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family," Evet, azərbaycanlarda ailələr birlikdə dua etmək üçün harada toplaşırılır.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,"İstifadəçi, Azərbaycanda Atalar Günündə ya da Valideynlər Günündə atalara qurban yolu, sebzeler, şekerhüyüm, müsellimat və böyük şifqlar verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family," Azərbaycanda Ana Gününde veya Valideynlər Gününde, analar sebzeler, müsahibatlar, sütunlar, şekerhaneler, böyük kadınların elçilikleri və diğer türlü hədiyyələr alır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,1 nəsil,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,3 fənn tədris edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,"İbtidai məktəblərdə Azərbaycanda en popüler fəaliyyətlər şunlarıdır: bank, restoran, market, salon (şəxsiyat, kosmetika və ya yarışmalar), otomobil salonu, bakım və servis, telefon və internet, elektronik məlumat, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sahələr və sport tərəfindəki fəaliyyətlər, otobüs və hava yolu şəhərləri, hotel və motel, kino, bankınqırdanqırmızı, sa",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,"İndeks üniversitelerinin ortalaması Azərbaycan'da 100-149 arasındadır. Bu deyismə, universitetlərin şəxsi illik təhsil haqqını göstərmir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Çatışmalar, yemek ve içki almaq, konserler, təbyirlik və dövlət-müzakirələrin çalışması populyardır parklarda Azərbaycanda.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,İstanbul International Film Festival (Bakü'də keçirilməyib),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,İnqilab Oyunu (Chess),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure," Evet, Azərbaycan'da birçok popüler turizm təyinatı var. Məşgul olmasa sebebi Azərbaycanın çox yaxşı müzeyleri, səhərləri, kültür və ticar tarihi yerlərini, böyük su-suv təyinatlarını, yanında Azərbaycan'ın çox seviliyi olan xocabaları və keşkebapları nəzər etməkləri ucun.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure,Şafaq (The Maiden Tower),1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,"Çox çox azərbaycan dövlətində, ən çox həşərat verilen yeməlidir İncərəm olmaq.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,İstanbul (Qafqaz Şəhəri) - bu şəhər Azərbaycan'dadır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,"Ən məşhur şirniyyatlar Azərbaycanında Göygöl, Xocalı və Qobustan şirniyyatlarıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport,Ən məşhur idman içkisini Azərbaycan'da Milli Stadionu döyüşməsi olan FK Qarabağ ətiridir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,"İndeksine göre, Azərbaycanın insanların orta təhsil səviyyəsi 10 yıl oradan sonra (2010-2020) 9.7 aralığındadır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,İnğilizce dil ve teknoloji üzrə təhsil almaq şəklinde Azərbaycan tələbələri daha çox teröriyasında görüşürük.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,"Çərşənbə axşamında dini fəaliyyətlərlə məşğul olurlar. (Misal olaraq, Vətən namazı və çox böyük bayramlar.)",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,"İşte, Azerbaycan'da Müstəqil Ölkə Günü (Azərbaycan Respublikasının Dövlətində İstiqlal Günü) qeyd etmək üçün en popüler yol, Azerbaycan Respublikasının Dövlətində İstiqlal Gününi 30 Mart tarihinde qeyd edin və bunu yerləşmiş olanların çox sevilişi, dövlət və millat əhvalarına əminsiz olmaq, Azerbaycan Respublikasının Dövlətində İstiqlal Gününi yerləşmiş olanların çox sevilişi və bunu qeyd edin və yaratıcılara, müstəqillik səhvlərinə karşı dayanışmaq, Azerbaycan Respublikasının Dövlətində İstiqlal Gününü qeyd edin və bunu yerləşmiş olanların çox sevilişi və bunu qeyd edin və Azerbaycan Respublikasının Dövlətində İstiqlal Gününü qeyd edin və bunu yerləşmiş olanların çox sevilişi və bunu qeyd edin və Azerbaycan Respublikasının Dövlətində İstiqlal Gününü qeyd edin və bunu yerləşmiş olanların çox sevilişi və bunu qeyd edin və Azerbaycan Respublikasının Dövlətində İstiqlal Gününü qeyd edin",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,Şarab-ı Noh (Azerbaijani wine),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,"İstanbul Müstəqil Azerbaycan Cəmiyyeti Müstəqillik Gününü ilk kez qeyd etdi. Bu, 1918-cu illərin sonunda yerel müşavirliği və müstəqil dövlət tərcüməsi üçün önemlidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure,"İstifadəçi, bu sehvdir. Ad günü mərasimlərində Azərbaycanda adətən oxunan mahnının adı ""Şirin"" deyil. Bu mahnının adı ""Novruz"" dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,"İşte, bu şekilde cevap verilir: Azərbaycanda məktəblərin qarşısında adətən çöxək, böyük çöxək, küçük çöxək, yerli çöxək və import çöxək satılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,"İstifadə edilən yağlar Azərbaycanın yerli yağlarıdır. Örneğin, növü, şirin, kürbün ve tərtiplərin üçün azərbaycan yerli yağlar kullanılır. Ancak, bazı yemeklerde import edilmiş yağlar da istifadə olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,"İstifadəçi sözlüyü oxuyurduğunuzda, Azərbaycan Milli Qanunlarına göyülmüşdür ki, hamil qadınlar tərəfindən adətən şu qidalar istehlak edilir:
+
+1. Adı (Ad) - Bu adın yazılması ve kimliyeti belirlenmesi zamanında, hamil qadınların adlarının yazılması görməzdir. Ancak, adınızın yazılması isteyə bilərsiniz.
+2. İsmi (Soyad) - Bu ismiñızın yazılması zamanında, hamil qadınların soyadlarının yazılması görməzdir. Ancak, soyadınızın yazılması isteyə bilərsiniz.
+3. İsmi (Ad) və İsmi (Soyad) - Bu adınızın və soyadınızın yazılması zamanında, hamil qadınların adlarının yazılması görməzdir. Ancak, adınızın və soyadınızın yazılması isteyə bilərsiniz.
+4. İsmi (Ad) və İsmi (Soyad) və İsmi (Ata Adı) - Bu adınızın, soyadınızın və ata adınızın yazılması zamanında, hamil qadınların adlarının yazılması görməzdir. Ancak, adınızın, soyadınızın və ata adınız",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,"Ən məşhur ənənəvi qeyri-alkohol içki Azərbaycanda ""Narsharab"" dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,"Çatışma sporları (football, basketball), yolcu sporları (tenis, atletika), çapulma sporları (volleyball, volei) və hobi sporları (minigolf, keçiboyunu) mövcuddur Azərbaycandakı parklarda.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport," Azərbaycanda yaşlıların adətən parklarda etdikləri ümumi fəaliyyətlər şunlarıdır: təyare, qurban-qorban, yolovlaşma, oyun oynama, səhifə-çatma və yaşamalarının keçirilməsi.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport," Azərbaycanda valideynlər və uşaqlar adətən birlikdə tək bir idman növlü ilmə görülməzdir. Fakat, onların özüsüz olaraq sport aktivitətləri yerindəki fiziki və mental müstəqarliyatı artırmaq, sağlıqları korumaq və yaşadığı şəhvleri təzim etmək üçün birçok sport aktivitəti yerində mümkündür. Örneğin, futbol, basketbol, voleybol, taekwondo, güreş və yaqın hərflər v.b.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport, Azərbaycan milli futbol komandası ilə qara-qırmızı əlaqələndirilir.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,"İşte, azərbaycan məktəb müəllimləri üçün ümumi geyim kodu aşağıdakıdur:
+
+Mərkəzlər (Şəhər):
+- Erkek: Sınıf 1-4: siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz.
+- Erkek: Sınıf 5-12: siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz veya sənək.
+- Erkek: Üst derslər: siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz veya sənək.
+- Erkek: Yuxarı derslər: siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz veya sənək.
+- Erkek: Yönetim dersləri: siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz veya sənək.
+- Erkek: Yönetim dersləri (Yuxarı): siyah elbise, beyaz kaçma, siyah koltuklu qap, siyah qoraxlar, siyah qoraxların üstüsi beyaz veya sənək.
+- Erkek: Yönetim dersləri (Yuxarı",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education," Azərbaycanda müzik ile ilgili en popüler sınıfda yer alan faaliyet, ""Müzik video qrupu"" olarak anlan bir grup olanların çalmaq və videoyu yayımlamakdır. Bu gruplar müzik video qrupularında azərbaycan döşbəsiz müzikinin popüler olduğunu göstərmir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,"İslam, Azərbaycan Respublikasında müstəqdir ki, məktəblərdə əsasən Islam tədris edilir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,05/28 (May 28),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,"Çox çox, Azərbaycanın dağlıq ərazilərində insanların əsas məşğuliyyəti qazaxçılıq ve təkstil olar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,"İnsanların azərbaycanın sahil bölgələrində əsas məşğuliyyəti ticarciyə, turizmda, şifakəndə və balıqçılığıda olan çatdırların olmasıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,Çoban salatalığı azərbaycanın en çoxtuq mal-qarasıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,"Çox şaxsi, köy təsərrüfatında Azərbaycanda qazanç, qarabağ, yerli sınırlı hayvallar (öz. qaraqoyun, mangal) və qurbanlıq zamanlarında çox şaxsi köy təsərrüfatında istifadə olunan heyvanlar də qorx, dəniz hayvalları (öz. balıq) və yerli sınırlı hayvallar (öz. korkut) vardır. Fakat bu liste heç bir təkdir olmazdır, çünki köy təsərrüfatında istifadə edilən heyvanlar şəhərdən farklı olabilir.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,"1. Adət-i Əmək (Shariat Law): Fermerlər Azərbaycanda, Adət-i Əmək'dən qorunmaq üçün, zərhətli yerlər və zərhətli xüsusiya qarşılandırılmalıdır.
+
+2. Azərbaycan Respublikasının Çoxunqorxan Hərbiyyat Qanunu (Military Service Law): Azərbaycan Respublikasının çoxunqorxan hərbiyyat qanunu, yaxşil qorunmaq üçün 18-27 yaş aralığında olan müstəriklərə zamanlı qorunmaq və ya qorunmaqda olmalıdır.
+
+3. Azərbaycan Respublikasının Çoxunqorxan Hərbiyyat Qanunu-nın Yeniləmis Versiyası (Military Service Law Amendment): Azərbaycan Respublikasının çoxunqorxan hərbiyyat qanunu-nın yeniləmis versiyası, yaxşil qorunmaq üçün 18-27 yaş aralığında olan müstəriklərə zamanlı qorunmaq və ya qorunmaqda olmalıdır. Ayrıca, yeniləmis versiyada, 18-27 yaş aralığında olan müstəriklərənin qorunmaqdan önce, çoxunqorxan hərbiyyat qarşılandırmasına əminsiz olmalıdır.
+
+4. Azərbaycan Respublikasının Qorunmaqdan Əminsiz",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life,"İşte, azərbaycanlı farmerlar çeşitli bitkilerden yağlayanları, müsbahiseları, sebzeleri, şeftalarları, şirinleri, şakarları v.b. yemekleri tarafından təhlükəsizdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,"İstifadəçi, Azərbaycan milli adatında valideynlər övladlarının ad günündə verilmiş hədiyyələr şunlardır:
+
+1. Ad-sözlük: Övladların adına bağlı olan sözlükler, kitablar və fikirlər.
+2. Məktub: Yazılı məktub, dostlarla və ya yolunda bulunan kimselerlə paylaşılmaq üçün.
+3. Para: Övladların işlərində elde edilmiş para, ad-gününde verilir.
+4. Mübahala: Ad-gününde yerləşməyi və ya böyük şəhvleri yoxlayıp yolunu düzeltmək üçün mübahalə verilir.
+5. Məslahat: Övladların işlərində elde edilmiş məslahat və tavsiyələr.
+6. Əmək: Övladların ad-gününde yerləşdiyi yerde əmək verilir.
+7. Yemək: Ad-gününde övladların yeməğini paylaşmaq üçün yemək hazırlanır.
+8. Dostluluk: Övladların dostlarına, yolunda bulunan kimselerlə və ya müasir dostlarına dostluğun şəbəkəsini paylaşmaq üçün.
+9. Düygu: Övladların ad-gününde verilmiş düygu, yerləşdiyi yerde yerləşdirmək üçün.
+10. ",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,"İndeks, kod və simvol vasitələri Azərbaycan Respublikası Elm Adalət Mərkəzi (ARM) şəbəkəsində sahibdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,"İstifadəçi, Azərbaycan Qurban Bayramı və ya Ramazan Bayramı üzrə uşaqların adeta yoxdur. Uşaqların adetini bayramlar üzrə verilməzdir. Bayramlarda, ayrıca Qurban Bayramı üzrə qurban atma və ya Ramazan Bayramı üzrə şəhədət olunmaq və ya şəhidlər hümayunlarının yerinə verilməkdir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,"İlk olaraq, bəylər Azərbaycanın tarihi-kültüri dövlətlərinin və maddi-tarixi yaradışlarından gelen adatlardır. Bəylər Azərbaycanda çox ətraflı bir rol oynuyur, onlar əməkdaşların, ailələrin və yaradışların tərəfində çox önemli rol oynayırlar. Bəylər Azərbaycanda birçok şekilde geyinirlər:
+
+1. Şəhriyar bəyliği - bu adat, ailələrin və yaradışların çox önemli rol oynayan bir adatdır. Ailələrin və yaradışların çox önemli rol oynayan bir adatdır.
+2. Qorban-qurbanlığı - bu adat, Azərbaycanın tarihi-kültüri dövlətlərinin və maddi-tarixi yaradışlarından gelen adatdır. Qorban-qurbanlığı, ailələrin və yaradışların çox önemli rol oynayan bir adatdır.
+3. Ayrımışlıq - bu adat, Azərbaycanın tarihi-kültüri dövlətlərinin və maddi-tarixi yaradışlarından gelen adatdır. Ayrımışlıq, ailələrin və yaradışların çox önemli rol oynayan bir adatdır.
+4. Qorban-bayramı - bu adat, Azərbay",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,"İstifadəçilər, Azərbaycan Respublikasında toyda gəlinlər şəhədə olmaq və ya şəhədə olmayacaq şartların karşılayan şartların sahip olduğunu göstərmək üçün adətət verilir. Bu adətlər, toyda gəlinlərin şəhədə olmaq və ya şəhədə olmayacaq şartların karşılayarak azadlığını saxlamaq üçün yazılan adətlərdir. Bu adətlər, toyda gəlinlərin şəhədə olmaq və ya şəhədə olmayacaq şartların karşılayarak azadlığını saxlamaq üçün yazılan adətlərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,"İçindeki toy mərasimləri Azərbaycan'da, şaraplar, süt, balıq və böyük şekarhüyüm (halva) gibi yeməklər verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,"İstanbul Sarayı, Azərbaycan Respublikası Cümhuriyetinin en məshhür hökumət binasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,Ələk-verdi musiqası azərbaycanlarda en popülerdir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,"Çox genel olaraq, Azərbaycanda orta məktəb şagirdləri hər gün 16:30 (16 saat 30 dakika) və ya 17:00 (17 saat) bitirirlər. Faksıslandığını unutmayın, bu sınıf və məktəb zamanları her yerde farklıdır ve bu örnek sadece genel bir şekil verir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,18,1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,6,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,5,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,"5 il (misal olarak, 1, 2, 3, 4 ve 5)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,Azərbaycan Respublikasının Ən Yaxşı Universiteti - Azərbaycan Dövlät Universiteti (ADU) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,28,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,6 ve 7 yasindadir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,40,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,6 günü,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,15,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,18 yaşdan etibarən işləməyə icazə verilir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda Milad bayramında paklava, börek, nabız və təllər yeyirirler.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,"İşte, bu sualda verilmiş olduğu gibi, insanlar Azərbaycanda sevgi və romantikanı qeyd edirken, ""Şafaqat Günü"" (Day of Sunshine) adlı ilin günüdür. Ancak, bu günün yerli adı ""Xalq İstiqlalıyatının Günü"" (People's Freedom Day) və ya ""Şirin Bayramı"" (New Year) olarak da adlandırılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"İstifadəçi, ""Milad mahnısı"" haqqında sualınızda yanlış kelimeyi kullandınız. ""Mahnı"" sanatı azərbaycan dövlətində ""Müzik"" sanatıdır. Milad mahnısı, bu şekilde iftihar edilməz.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,4 semestre,1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,1,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,6/3 (Yüzbinci Növruz),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,08:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,06/22,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,"İstanbul deyil, Azərbaycan'da iş axtaranlar üçün əsas mənzil Baku şəhəri dir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food, McDonald's,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food,"Çox mübahisəli olmaqla birlikdə seviliyi və nifrət edilməsi üçün Azərbaycanda ən çox mübahisəli olan yemək plov (pilaf) dir. Bu yemek, azərbaycanlıların tarihxanasında ortaya çıxmaqdan sonra biraz dörmənib vurulmuşdur. Plov, Azərbaycanda farklı tarzlar və yararlar ile hazırlanabilir, ama her halda bu yemek, azərbaycanlıların tarihxanasında ortaya çıxmaqdan sonra biraz dörmənib vurulmuşdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,"İnğiliz dilinde, ""Ne popular futbol komandası Azerbaycanlılar arasında?"" olaraq sorulursa, ""Kapıda Fərdi"" (AFC Azerbaijan Premier League'daki Qarabağ FK) düşünülür. Ancak, bu cavab heç bir izahatsızdir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,İdman komandasıyla tanınan en məshhur universiteti Azərbaycanında Baku Statü Universitesidir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family,Ən məşhur ev heyvani Azərbaycanda qafqaz qızılı ise.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family,"İçindeki sualda belirtilmiş olunmuştur ki, Azerbaycan'da en məşhur ailə televiziya bir tək cavab verilməz. Bu nöbə, çox önəyində AzTV və İctimai TV olarak adlandırılmayan ailələr vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,"Çox məshhur ailə stolüstü oyunu Azərbaycanında ""Man qalmaq"" (Dövüşmək) adlı oyunudur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food,Çay (Şəh Sibir) azərbaycan də en popüler teykevey yeməyidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,"Ən çox popüler qəlyanaltılar Azərbaycanın şöhbəsi olmaqla başlayaraq, ""Xalq qahramanı"" (Dəstəyi Dünya) və ""Bakı-Tbilisi"" dövlət qəlyanaltıları, ""Karabakh Füruzan"" və ""İnkişaf"" seriyaları, ""Xalq qahramanı"" (Qoruya) və ""Bakı-Tbilisi 2019"" dövlət qəlyanaltıları, ""Köhnə qələbər"" və ""İnkişaf 2"" seriyaları, ""Xalq qahramanı"" (Qoruya 2) və ""Bakı-Tbilisi 2021"" dövlət qəlyanaltıları, ""Köhnə qələbər 2"" və ""İnkişaf 3"" seriyaları, ""Xalq qahramanı"" (Qoruya 3) və ""Bakı-Tbilisi 2022"" dövlət qəlyanaltıları, ""Köhnə qələbər 3"" və ""İnkişaf 4"" seriyaları, ""Xalq qahramanı"" (Qoruya 4) və ""Bakı-Tbilisi 2023"" dövlət qəlyanaltıları, ""Köhnə qələbər 4"" və ""İnkişaf 5"" seriyalarıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,"Çimərlikdə Azərbaycan milli tarixına göyük olarak, yaxşil çimər, çamçı çimər və qazmaqçı çiməri təhlükəsizdir. Fəqat çox azda yerli çimərlikdə kullanılanlar dökməz, çamçı çimər və qazmaqçı çiməri gibi təmiz çimərlikdir. Fakat, şimdiki zamanlarda Azərbaycanın çimərlikdə kullanılanların birçokunun yerinə dağışmış olması nəzarət edilir. Bu halda, çox azda yerli çimər və çimərlik ürünleri kullanılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,18,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,18,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,30,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport,İdman növləri Azərbaycan'da en popüleri futbol (football) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport," Evet, Azərbaycan'da futbol oynanır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,Çatıda çalışma (Yoga) popüler bir gündüz idman məşqidir Azərbaycanda qadınlar arasında.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,Çatıda olan futbol (football) popülerdir.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport,İdman Milliy Liqasında Azərbaycan'da en məshhur rəqabətləri futbol (Football) və basketbol (Basketball) təyin edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport, Azərbaycanda ən çox maaş alan peşəkar idman növü futbolcu olur.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,"İdmanla bağlı en popüler televizyon programı Azərbaycanın Milli Televiziyyasında ""Xalq Sport"" dəyisməyib ""Milli İdman"" adına gösterilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,"Çöxəb Bayramı, Azərbaycan milli tərəfində atəşfəşanlığa həsr olunur. Bu bayram 12 ziyyətinin sonunda, yeni ilin başına gəlməyə başlayır və 13-cü günü təkdir edilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,İl gecəsini temsil eden azərbaycan döyməsi (flag) - qırmızı şəkil və sarı çatısı olan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure," Azərbaycanlılar Yeni il ərəfəsində birçok yemək türünü yeyirlər. Örneğin, yarşılıq, pilaf, dolma, kebab, kofte, şiş, piti və börekler gibi tərcümə edilmiş yeməkləri yeyirlər. Fakat, bu seçimler özgün olaraq Azərbaycanlıların yerli yemək tarixindan ve şəhsiyatından istifadə edilməyib, bunların hepsi yeni il ərəfəsində yeyilməyib və yalnız bu tür yeməkləri yeyirək Azərbaycanlıların yerli yemək tarixini ve şəhsiyatını yenileməyib, yerli yeməklerin özgünlüğünü korə bilməyib və yeni il ərəfəsində yeyilməyib tavsiye edilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"İlin ən uzun gecəsinde, azərbaycanlıların yevləşdiyi yemekler, örək, pilaf, dolma, kebap və salatadır. Ancak, bu yerel yemeklerin tümüne ait bir adət qeyd olunmaz.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport,Ən populyar idman növü Azərbaycanda futbol (football)dir.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport,Ən popüler peşəkar idman liqasi Azərbaycanın futbol (football)dur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,"Şu anda, Azərbaycan Milli Futbol Komandası (Azərbaycan Milli Futbol Federasiyası) çox müştəriyyatlı olan qadın idman komandasına ""Azərbaycan Qadın Futbol Komandası"" adı verilmişdir. Bu komanda, Azərbaycan Milli Futbol Federasiyası tarafından yönetilir və 2019-2020 ilə başlayan bir sezonun sonunda ""Azərbaycan Qadın Futbol Ligi"" (AQFL) çapında oyunlar verir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,Ən məşhur turniri Azərbaycanda Baku Open (tenis) düşünülür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,Ələkbəy Rəsulzadə (1936-2018) - Azərbaycan Respublikasının Milli Idman İdareti üst müvaffiqidir. Onun çalışmasında birçok idman tərəfindən azərbaycan milli idmanın gelişimindəki rol oynandı.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport, Azərbaycan beynəlxalq yarışlarda futbol (football) növü ən çox uğurlu olan idman növündür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport,İce hocası (hockey) azərbaycanlarda en popüler qış idman növüdür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,"İstifadəçi, Azərbaycan Respublikasında istihsas sənayəsi müəyyən olunmayan şəhər və ya rayon yoktur. Müəyyən olunan şəhərlər və rayonların istihsas sənayəsi ilə məşhurdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,"İşçilərə adətən təklif edilən en önəmli imtiyaz Azərbaycan milli qanunu (Labor kodu) artıq ""Məlumat Bankı""-dən istifadə olunur. Bu imtiyaz, işçinin müştəriyyəsi ile ait şirkət və ya ticar bir yerlisində istifadə edilir. Milli qanun artıq ""Məlumat Bankı""-dən istifadə olunur, bu imtiyazda işçinin müştəriyyəsi ile ait şirkət və ya ticar bir yerlisində istifadə edilir. Bu imtiyazda işçinin müştəriyyəsi ile ait şirkət və ya ticar bir yerlisində istifadə edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,2018-2023 yıllarında Azərbaycanın en faciəli iqtisadi dövlü olduğu tahmin edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,İstanbul'da bulunan Teknopark Azerbaijan (Teknopark Azərbaycan) azərbaycanda texnologiya işçiləri və startaplar üçün əsas mərkəzdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,İstanbul'da bulunan Baku International Sea Trade Portu Azerbaycanın en önemli sənaye sahəsidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,"İnsanlar Azərbaycanda gündəlik yeməklərdən bütün adətləri ilə birlikdə yeyilir. Örneğin, səhər yeməyi, nahar, şam yeməyi və qayıt yeməyi hepsini düşünürük.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,İç qadınlar arasında həftə sonları ailə ilə birlikdə uşaqlama yerindedir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family,"İlk gündüzü, Azərbaycan Respublikasında en çox vazifəli ailə bayramı Novruz Bayramı (Nooruz) dir. Bu bayram azərbaycan tarihine, kültürunu ve yöklüğünü tanıyan bir bayramdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,Çarandax (Chicken Game) is a well-known family game in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,1868-də Azərbaycanda ilk uşaq dünyaya gətirilmiş cütlüklərin birisi Hacıbəy Hacıyevdir. Onun orta yaşı 30dir. (20),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,1,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,"Çox popüler olmaqla birlikdə az əməkli olduğunu da unutmayın, Azərbaycanda hafta sonları üçün ailə yeməkləri üçün en popüler yemək şarablayırılmaq olur. Bu yemək, yerli yaxşıqların bir kombinasiyasıdır və hafta sonlarında azərbaycanlıların evlərin çox sıxın olduğunu göstərir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family,İş veya eğitim yerlərində çalışma və ya öğrenme.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,"İmtahanlar və tapşırıqlarda yüksək nəticə göstərmək üçün Azərbaycanda orta məktəb şagirdlərinə verilən en yüksək qiymət, ""Məktəb-i İnzibatiyy""dir. Bu məktəb, Azərbaycan Respublikasının Milli Məktəb Nazirliyindən təşkil edilmişdir və yüksək nəticələr göstərmək üçün çox ətraflı məlumat, resurslar və eğitim programları verir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,"İmtahandan ən önəmli hesab Azərbaycanda orta məktəb şagirdləri üçün ""Azərbaycan Respublikası Dövlät Məktəbi"" (ARM) imtahanıdır. Bu imtahan, şagirdlərin özgünliyi, matematik, azərbaycanca dili və tarihi haqqında bilməsi mümkündür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,İnğiliz dili Azerbaijan'da en önemli fenndir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,"Ən popüler məktəb dünyadakı Azərbaycanın məktəblərdən birindir ""Azərbaycan Dövlät Məktəbi"" (ADM) dir. Bu məktəb, 1919-cü il yılında başlayıb, Azərbaycan Respublikasının İstiqlalindan sonra, 1992-cü il yılında ""Azərbaycan Dövlät Məktəbi"" adı verilmişdir. Bu məktəb, Azərbaycan Respublikasının təqdim etdiyi dövlət məktəbi olup, çox sosial tədbirlər və qurumların yanında çalışır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education,"İşte, azərbaycan dövlət universitetləri üçün öyrənilən en ağır riyaziyyat mövzusu ""Fizika""dir. Bu alan, matematik, kimya və ingiliz dilin çox yaxşı özürlüsü olduğunu düşünürük.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education," Evvel düzəliyinizi, sonra ödəmənizi ve sonra universitetinizdəki tələbələrinin imtahan programını keçirib final imtahanlarına hazırlaşmaq üçün adətən hara gedirlər.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,İctimai Nəqliyyat (ENG: Public Transportation),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,"İbtidai sınıf tərsisində sonra, Azərbaycan Milli Məktəb Kürkçüsü (AzMMK) şagirdləri məktəbdən çıxarlar və yeni bir sınıflara qruplanarlar. Bu yeni sınıflarda, özgün derslər və tərbiyə dersləri keçirilir.",0,0

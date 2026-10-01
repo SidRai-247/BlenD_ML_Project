@@ -1,0 +1,501 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Spain,English,pers-3,Al-en-01,Food,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-02,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-04,Food,Cherry,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-06,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-08,Food,Pa amb tomàquet and churros are among the most commonly eaten snacks at shopping malls in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-09,Food,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-16,Education,3,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-17,Education,Basque circular football (also known as pasapallo or pelota),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-18,Education,Maths,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,Al-en-19,Education,English,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Paella,,
+qwen2.5-3b,Spain,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,"People do not traditionally celebrate Halloween in Spain, as it is not an official holiday here. However, there are some local celebrations and parties that might include elements similar to Halloween, such as costumes and decorations, but they are not specifically for Halloween.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,"People often attend parties and fireworks displays, and some families may gather for traditional meals like paella or tortilla española.",0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"People in Spain celebrate Christmas with various traditions such as decorating Christmas trees, exchanging gifts, eating traditional foods like turron and ponche navideño, and attending midnight mass.",0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Tarta de Santiago,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Paella and turron.,0,0
+qwen2.5-3b,Spain,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,Chocolates,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Paella or Tarta de Santiago (a cake with almonds and orange blossom water) are common choices for birthdays in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Parque de Atracciones (Theme Park),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Playing cards or board games.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,An-ar-02,Education,Cafeterías or student cafés.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,Spain,English,pers-3,An-ar-08,Education,6,1,1.0
+qwen2.5-3b,Spain,English,pers-3,An-ar-09,Education,2,1,0.25
+qwen2.5-3b,Spain,English,pers-3,An-ar-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,An-ar-35,Sport,Xavi Torrent,0,0
+qwen2.5-3b,Spain,English,pers-3,An-ar-36,Sport,FC Barcelona,1,0.4
+qwen2.5-3b,Spain,English,pers-3,An-ar-43,Sport,Bars and restaurants often serve as common places for people in Spain to gather and watch sports broadcasts.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-06,Food,Breakfast,1,0.25
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-08,Food,Tomato,0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-09,Food,Tiramisu,0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-11,Food,Saturday,1,0.4
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-14,Food,Coffee,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Beer,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,7,0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"The traditional custom in Spain for New Year's Eve is eating twelve grapes at the stroke of midnight, one grape for each bell sound of the clock, symbolizing good luck for the coming year.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-38,Family,"Typical types of houses for families in Spain can vary widely depending on location and socioeconomic factors, but one common style is the Spanish farmhouse or ""casa rústica,"" which often features red-tiled roofs and whitewashed walls.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-41,Family,"In Spain, the dependent elderly often live with their children or in retirement homes.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-42,Family,52,0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-43,Family,12,0,0
+qwen2.5-3b,Spain,English,pers-3,Ca-sp-45,Family,Beach resort destinations,1,0.5
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-05,Sport,Basque Country football (also known as soccer) and golf.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-06,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-07,Sport,Manu Ginóbili,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-08,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-09,Sport,Handball,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-11,Sport,Swimming,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-15,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-16,Family,4,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-18,Family,3,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-31,Education,6,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-32,Education,10,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-33,Education,7,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-38,Education,6,1,0.5
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-40,Education,14:30,0,0
+qwen2.5-3b,Spain,English,pers-3,Gu-ch-41,Education,3,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-02,Work life,Friday,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-03,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-07,Work life,Inditex (owner of Zara),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-08,Work life,39,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-09,Work life,Paella or tapas.,,
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-14,Work life,Sherry (Jerez) wine,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-15,Work life,2.5,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-16,Family,Maternidad (maternity ward) or casa de reposo (recovery home),0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-19,Family,Peony,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-22,Family,Homes or apartments.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-24,Family,Parks and playgrounds,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-25,Family,"Family-related holidays in Spain include National Day (September 12), Christmas Eve (December 24), and New Year's Eve (December 31).",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-26,Family,"In Spain, key milestones associated with children's independence from their parents typically include leaving home for higher education (university), starting work, and establishing a household.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-27,Family,"A traditional and common gift for visiting elderly parents in Spain includes flowers, especially roses, which are often associated with love and respect.",1,0.5
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-28,Family,The first day that people typically celebrate after a child is born in Spain is New Year's Day (1 January).,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-29,Family,40,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-31,Education,"In Spain, middle and high school students typically study for exams at home or in their schools.",1,0.5
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-33,Education,They usually go out with friends for a night out or stay at home to relax.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-34,Education,"By bus or car, depending on their location relative to their school.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-35,Education,Private schools and private tutoring.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-36,Education,Law,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-37,Education,"In Spain, middle and high school students typically wear uniforms or semi-formal attire to school, depending on the region and school policy. Uniforms often consist of blazers, skirts, or trousers with a collared shirt underneath, while some schools may allow more casual options like polo shirts and jeans for boys, and dresses or skirts for girls.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-39,Education,"The most commonly learned musical instrument by elementary school students in Spain varies depending on regional preferences and educational programs, but one of the most popular is the guitar.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-40,Education,"High school students typically play sports or engage in other physical activities during break time in Spanish schools. They might also socialize with friends, read books, work on homework, or use the break to relax and recharge before the next class.",1,0.75
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-41,Education,Sneakers or sports shoes.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-42,Education,"The required subjects in Spain's university entrance exam (called ""Sistema Unificado de Evaluación para Acceso a la Universidad"" or SUE) typically include Spanish language, mathematics, and one foreign language. The specific requirements can vary by institution and field of study.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-44,Education,Barcelona,0,0
+qwen2.5-3b,Spain,English,pers-3,Ji-ko-45,Education,Enjoying live music performances and traditional Spanish dances.,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-01,Sport,Football (Soccer),0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-02,Sport,Handball,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-09,Sport,Rugby,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-13,Sport,Surfing,1,0.2
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-14,Sport,Chess,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-18,Work life,14,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-19,Work life,Andalusia,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-21,Work life,13:00,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-31,Education,14:30,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-32,Education,Handball,0,0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-36,Education,12,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-37,Education,12,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jo-sp-43,Education,12,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-01,Food,"Forks and spoons, with the use of a knife for certain dishes.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-04,Food,Coca-Cola,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-06,Food,Sherry (also known as Jerez),0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-07,Food,4.0,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-09,Food,19:30,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-12,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-13,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-15,Food,"People from Spain enjoy eating a variety of seafood, including sardines, octopus, shrimp, and sea urchin.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,La Feria de Abril in Seville,1,0.5
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,The most commonly used public transport by people when traveling between cities in Spain is the train (Tren).,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,La Fiesta de la Vendimia (Vine Harvest Festival),0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-37,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-38,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Going out for drinks and having dinner at bars or restaurants is a popular leisure activity among female young adults in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Playing football (soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-46,Work life,1.5,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-48,Work life,Paella or tapas.,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-50,Work life,45,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-51,Work life,"The most common transportation that people take to get to work in Spain varies by region and city, but buses and trains are widely used. In larger cities like Madrid or Barcelona, public transport systems such as metro, bus, and train networks are extensive and efficient.",1,0.6
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-54,Work life,30,0,0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-56,Work life,65,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-57,Work life,65,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-58,Work life,Doctors,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-61,Work life,Nurse,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Jod-ch-62,Work life,Engineer,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-17,Education,University degree.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-24,Education,Spanish,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-30,Education,Schools in Spain are typically closed on Sundays and holidays.,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-32,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-34,Food,Coffee,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-36,Food,Italy,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-39,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-40,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-43,Food,Panzaquila,0,0
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-51,Work life,14:00,1,0.5
+qwen2.5-3b,Spain,English,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,La Semana Santa (Holy Week),0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"People from Spain often celebrate Independence Day with parades, fireworks displays, and traditional music and dance performances in major cities like Madrid and Barcelona.",,
+qwen2.5-3b,Spain,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,An arco de honor (honor arch) is typically installed in front of the house when a family member dies in Spain.,,
+qwen2.5-3b,Spain,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"In Spain, a pregnancy celebration or ceremony is not typically held as it varies widely among individuals and families. However, if one were to celebrate news of an upcoming birth, it might be during the first trimester ultrasound appointment, which is often seen as a significant milestone for many expecting parents.",,
+qwen2.5-3b,Spain,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,La boda de los huesos (Bone Wedding),0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Chocolates or small candies wrapped in colorful paper.,,
+qwen2.5-3b,Spain,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"Pre-Ramadan preparations in Spain often include fasting preparation sessions, community prayers (Salat), and discussions on religious practices. However, specific activities days before Ramadan might vary but generally do not have distinct traditions like some other Muslim-majority countries.",,
+qwen2.5-3b,Spain,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,The Sagrada Familia,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,"The most popular religious sites for tourism in Spain include the Cathedral of Seville, the Alhambra Palace and Nasrid Palaces in Granada, and the Basilica of Our Lady of the Snows in Zaragoza.",1,0.5
+qwen2.5-3b,Spain,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Formal dresses or suits.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-16,Food,Hot chocolate,1,0.75
+qwen2.5-3b,Spain,English,pers-3,Kik-in-17,Food,Dates (Duraznos),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-24,Food,Pasta,0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-31,Sport,None,0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-34,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-35,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-36,Sport,Pedro Mourinho Torres (commonly known as Pep Guardiola),1,0.5
+qwen2.5-3b,Spain,English,pers-3,Kik-in-37,Sport,Real Madrid vs Barcelona,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-38,Sport,Real Madrid vs Barcelona,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-40,Sport,Ricardo Santos,0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-41,Sport,Iga Świątkowska,0,0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-44,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Kik-in-45,Sport,Football (soccer) fields and basketball courts are typically available at schools in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-02,Food,Café con leche,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-04,Food,Crackers with olive oil and anchovy sauce,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-05,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-07,Food,Pork,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-08,Food,Pumpkin,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-09,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-11,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-15,Food,Paella,1,0.5
+qwen2.5-3b,Spain,English,pers-3,Na-ko-16,Sport,Lionel Messi,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-17,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-18,Sport,Handball,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-19,Sport,Rafa Rodríguez,,
+qwen2.5-3b,Spain,English,pers-3,Na-ko-20,Sport,La Copa del Mundo (World Cup) of football (soccer).,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-22,Sport,Germany,1,0.25
+qwen2.5-3b,Spain,English,pers-3,Na-ko-23,Sport,Football (Soccer) academy,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-24,Sport,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-25,Sport,"Typical sports played in Spain's school sports day include running races (50m, 100m), relay races, jumping contests (long jump, high jump), and throwing events (shot put, javelin).",0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-26,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-28,Sport,Iñaki Goeneaga,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-29,Sport,Carlos Lladó,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-30,Sport,Counter-Strike: Global Offensive (CS:GO),1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Paella,,
+qwen2.5-3b,Spain,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Málaga and nearby beaches,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,A bottle of champagne,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,A bouquet of roses,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,A bunch of flowers,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,People typically visit family members and friends in the morning during the Lunar New Year in Spain to exchange greetings and gifts.,0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,"It typically occurs on December 6th, known as ""La Tomatina"" in Buñol, but this is not a nationwide traffic congestion; it's an annual tomato fight festival. The day with the most severe nationwide traffic congestion in Spain usually falls on August 15th, which is National Day (Día de la Constitución).",0,0
+qwen2.5-3b,Spain,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Málaga,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,La Fiesta Nacional de España (Carnival) or New Year's Day.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"People from Spain might eat traditional Iberian dishes during Ramadan, such as paella or tortilla española, depending on their cultural background and personal preferences.",,
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,Traditional Spanish dishes such as churros and flan are often enjoyed.,,
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"People from Spain typically don't celebrate Eid ul Adha as it is not an Islamic holiday recognized in Spain, but if they were observing it, they might eat traditional dishes like morcilla (blood sausage), churros with chocolate, or roast lamb.",,
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,People from Spain often go to the beach or coastal areas to celebrate New Year's Day.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"In Spain, a family typically gathers at home for Eid festivities.",,
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-16,Work life,Saturday and Sunday,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-17,Work life,09:00,1,0.75
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-18,Work life,16:30,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-20,Work life,"A secure job in Spain often refers to positions in healthcare, education, and public administration.",0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-24,Work life,Madrid,1,0.75
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-25,Work life,Pharmaceuticals,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-26,Work life,Telefónica,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-31,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-32,Food,Paella or tapas.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-33,Food,13:00,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-34,Food,Olives and wine are typically indispensable in meals in Spain.,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-36,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-37,Food,Cherry tomatoes (pomelo cherrys),0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-38,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-39,Food,Taco Bell,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-43,Food,Croissants,0,0
+qwen2.5-3b,Spain,English,pers-3,Ne-ar-44,Food,Pastries.,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-am-02,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-am-04,Food,Pisto salsa,0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-08,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-15,Food,Paella,,
+qwen2.5-3b,Spain,English,pers-3,New-am-27,Sport,Róbinho (real name Raquel Martínez),0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-34,Education,"In Spain, most elementary school students prepare for their exams at home.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-am-41,Education,Secondary Education (ESO) or High School Level 1,0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-53,Work life,Valencia,,
+qwen2.5-3b,Spain,English,pers-3,New-am-54,Work life,Andalusia,0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-59,Work life,Shepherding and agriculture,0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-60,Work life,Donkeys,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-am-72,Family,"""Los Simpson""",0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-73,Family,La Casa de Papel (The Money Heist),0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-74,Family,"The most popular talk show in Spain varies by year and can change frequently due to ratings and popularity shifts among hosts and formats. However, some of the well-known ones include ""El Hormiguero,"" hosted by Jorge Javier Vázquez, and ""Aquí los Santos,"" which features celebrities discussing their personal lives.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-am-77,Holidays/Celebration/Leisure,La Fiesta de la Santa Cruz (Feast of the Holy Cross),0,0
+qwen2.5-3b,Spain,English,pers-3,New-am-81,Holidays/Celebration/Leisure,7,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-am-83,Holidays/Celebration/Leisure,The most popular traditional musical instrument in Spain is often considered the guitar.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-as-01,Food,Olives and olive oil.,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-as-02,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-05,Food,Sherry or Sangría,0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-07,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-14,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-15,Food,Freshly squeezed lemonade or sangria.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-20,Sport,Basque circular football (also known as pelota),0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-29,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-as-30,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-as-58,Work life,Coca-Cola,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-as-64,Family,Christmas,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-as-76,Holidays/Celebration/Leisure,La pelota vasca (Basque ball) and Escoba (scrabble with broom) are traditional games played by families during holidays in Spain.,,
+qwen2.5-3b,Spain,English,pers-3,New-as-80,Holidays/Celebration/Leisure,"Traditional clothing such as the ""falda"" (skirt), ""chupis"" (jewelry), and ""mantilla"" (headscarf) are often worn during festivals in Spain. However, attire can vary widely depending on the specific festival and region.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-as-89,Holidays/Celebration/Leisure,"During festivals in Spain, people often wear traditional clothing such as the sombrero (hat), alpargatas (traditional sandals), and mantillas (scarves) for women. Men might wear trajes de flamenca or other regional costumes.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-05,Food,Rías Baixas,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-11,Food,Cherries,1,0.2
+qwen2.5-3b,Spain,English,pers-3,New-az-12,Food,Andalusia,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-21,Sport,The Pyrenees region,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-az-26,Sport,I'm not aware of any specific martial arts players being particularly popular in Spain at this time.,,
+qwen2.5-3b,Spain,English,pers-3,New-az-27,Sport,Rugby,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-39,Education,United States,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-az-60,Family,Nanny or au pair typically take care of kids when both parents are working in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Sherry or Sangría,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Sherry,0,0
+qwen2.5-3b,Spain,English,pers-3,New-az-73,Holidays/Celebration/Leisure,50,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-01,Food,Pork,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-02,Food,07:00,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-04,Food,"Pa amb tomàquet, churros, and croquetas are common late-night snack options in Spain.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-05,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-07,Food,Paella and Sangria,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-08,Food,Paprika,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-ch-09,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-13,Food,Bacardí,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-14,Food,Paella or bouillabaisse soup,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-15,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-16,Sport,"""Bendición"" (Blessing)",0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-17,Sport,Base jumping,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-18,Sport,100 meters sprint,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-19,Sport,The most popular gymnastics event to watch during competitions in Spain is typically the women's all-around competition.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-23,Sport,Lluís Clèries,,
+qwen2.5-3b,Spain,English,pers-3,New-ch-26,Sport,Figure skating,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-27,Sport,Mike Tyson,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-30,Sport,David Camps,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-31,Work life,Doctors and engineers.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-32,Work life,Microsoft Office,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-ch-38,Work life,Barcelona and Seville are known for their import and export activities in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-39,Work life,Mercado Libre,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-44,Work life,3 months,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-45,Work life,Technology and digital services.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-49,Family,Video calls using platforms like Zoom or WhatsApp Video.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-51,Family,Hostels or Airbnb apartments/shared rooms,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-54,Family,Cherry,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-64,Education,6,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-ch-66,Education,0,,
+qwen2.5-3b,Spain,English,pers-3,New-ch-70,Education,"Spanish university students often have compulsory courses in Spanish language and literature, mathematics, and humanities such as history, philosophy, or sociology.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-71,Education,20,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-72,Education,Business Economics,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-73,Education,Soccer (football) clubs,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-74,Education,"Hostels, private rooms in shared apartments, and dormitories at universities.",1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-ch-75,Education,45,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,Gardening and cooking classes are popular among retired women in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,Golfing and fishing are popular leisure activities among retired men in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,Easter and Christmas are the main holidays when people typically visit religious sites in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Plum cake,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,14:00,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,Barcelona,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,Red,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-01,Food,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-02,Food,Salted,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-04,Food,Pepín Rodríguez,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-05,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-07,Food,MasterChef España,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-08,Food,Godiva,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-10,Food,Manchego,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-11,Food,Spinach,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-12,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-17,Sport,Flags and banners with Spanish symbols such as the coat of arms or football (soccer) players' names.,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-en-18,Sport,Souvenirs and flags depicting the Spanish national team or local teams.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-19,Sport,Camp Nou,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-23,Sport,David García Martínez,,
+qwen2.5-3b,Spain,English,pers-3,New-en-26,Sport,"Chants like ""Vamos, España!"" (Come on, Spain!) or ""¡España, España!"" are widely recognized and used during football matches.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-38,Work life,The fashion industry is known for having more flexible working hours in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-41,Work life,Carlos Slim Helú,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-47,Family,"Typically, you might find a small patio or terrace, flowers, and possibly a few potted plants or a small fruit tree in the back garden of houses in Spain.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-49,Family,"The concept of ""the most famous family"" can be subjective and varies widely depending on personal or cultural perspectives. There isn't a universally recognized ""most famous family"" in Spain that stands out globally, similar to how some families might be more prominent within specific contexts (e.g., royal families). Therefore, no single answer fits this question accurately.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-50,Family,Martínez,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-en-55,Family,Roman Catholicism,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-56,Family,English,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-59,Family,United States,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-68,Education,"Consequences for bad behavior in Spanish schools can vary but often include warnings, detentions, or participation in behavioral programs designed to address and correct inappropriate conduct.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-69,Education,"Gabriel García Márquez, Miguel de Cervantes, and Pedro Calderón de la Barca are commonly studied writers in literature classes in Spain.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-70,Education,2,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-72,Education,Universities España,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-75,Education,14,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Barajas Airport (AD) in Madrid is the busiest during the holiday season.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-79,Holidays/Celebration/Leisure,Andalusia,0,0
+qwen2.5-3b,Spain,English,pers-3,New-en-87,Holidays/Celebration/Leisure,The most famous historic landmark in Spain is the Alhambra in Granada.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-en-90,Holidays/Celebration/Leisure,The Ritz-Carlton,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-05,Food,Baguette with cheese and tomato,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-06,Food,Tacos,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-08,Food,Sherry,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-13,Food,Coffee,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-gr-15,Food,Tarta de Santiago,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-21,Sport,Table tennis,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-gr-24,Sport,100m sprint,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-29,Sport,La Liga Supercup,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-gr-58,Work life,Housekeeper,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,The most popular music genre among the elderly population in Spain tends to be traditional Spanish music such as flamenco and classical guitar.,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Vino tinto (red wine),0,0
+qwen2.5-3b,Spain,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Champagne,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ha-07,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ha-08,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ha-09,Food,Pots and pans,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ha-13,Food,Tomato,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ha-19,Sport,Horse,,
+qwen2.5-3b,Spain,English,pers-3,New-ha-66,Family,"The most popular wedding venue in Spain can vary depending on location and personal preferences, but some common choices include historic castles, elegant palaces, picturesque countryside estates, and luxurious hotels.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-01,Food,Café Ingles,0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-03,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-in-33,Work life,La Mancha,0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-34,Work life,La Mancha,0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-62,Education,Politécnica de Madrid,0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-63,Education,University of Navarra,0,0
+qwen2.5-3b,Spain,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Credit cards are the most popular payment method in Spain.,1,0.6666666666666666
+qwen2.5-3b,Spain,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Aventura Parc,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-01,Family,"""Puff the Magic Dragon""",0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-02,Family,Maternity yoga classes,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ko-03,Family,"""La Paloma""",0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-04,Family,Barbies,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-05,Family,Barbies,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-06,Family,La Vida de Don Quijote y Sancho Panza,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,The customary symbol of condolence used at funerals in Spain is the bouquet of roses.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-ko-08,Work life,cafés,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-09,Work life,Café meetings and wine tastings are among the most frequently practiced team-building activities in companies based in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-ko-10,Work life,Gastronomy-related activities such as cooking classes or food tours.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-02,Food,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-06,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-11,Food,Paprika,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-pe-16,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-pe-20,Sport,Surfing,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-45,Work life,"During the month of Ramadan in Spain, many people adjust their work schedules to align with the fasting hours, often starting later and ending earlier than on other days.",,
+qwen2.5-3b,Spain,English,pers-3,New-pe-47,Family,05/09,,
+qwen2.5-3b,Spain,English,pers-3,New-pe-49,Family,Churches,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-pe-53,Family,Cigars,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-54,Family,Flowers and chocolates are common gifts given to mothers or parents on Mother's Day or Parents' Day in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-pe-59,Family,4,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-65,Education,10,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-pe-66,Education,Art classes,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-74,Education,The average annual tuition fee for public universities in Spain varies but can range from free to around €600-€1200 per year depending on the institution and program.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Picnicking and playing frisbee are popular activities to do in parks in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,San Sebastián Film Festival,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Tarot,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Barcelona,0,0
+qwen2.5-3b,Spain,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,Giralda Tower,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-spme-01,Food,None of the edible insects are commonly consumed in Spain.,,
+qwen2.5-3b,Spain,English,pers-3,New-spme-04,Food,Olives and olive oil.,1,0.25
+qwen2.5-3b,Spain,English,pers-3,New-spme-05,Food,"Pa amb tomàquet, churros, and alfajores are some of the most popular sweets in Spain.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-spme-15,Sport,Guarana Fantástico,0,0
+qwen2.5-3b,Spain,English,pers-3,New-spme-27,Education,"The average education level for people in Spain is generally considered to be high, with a significant portion of the population having completed higher education degrees.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-spme-37,Education,Engineering,,
+qwen2.5-3b,Spain,English,pers-3,New-spme-60,Family,Sunday,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-spme-65,Family,"The most popular way to celebrate Independence Day in Spain (which is National Day or Fiesta Nacional) is with fireworks displays and parades in major cities like Madrid, Barcelona, and Valencia.",,
+qwen2.5-3b,Spain,English,pers-3,New-spme-68,Family,Coca-Cola,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Barcelona,,
+qwen2.5-3b,Spain,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Feliz cumpleaños,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-01,Food,Pa amb tomàquet,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-09,Food,Extra virgin olive油,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-10,Food,Paella,,
+qwen2.5-3b,Spain,English,pers-3,New-su-15,Food,The most popular traditional non-alcoholic drink in Spain is typically agua de Valencia (Valencia water).,1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-su-17,Sport,"Football (soccer) fields, tennis courts, basketball courts, and playgrounds are commonly available in parks in Spain.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-21,Sport,"Walking, chatting with friends, and enjoying leisure time are common activities that seniors usually do in parks in Spain.",1,0.5
+qwen2.5-3b,Spain,English,pers-3,New-su-24,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-28,Sport,Red,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-33,Education,"The common dress code for school teachers in Spain varies by region and institution, but generally tends to be professional attire such as suits or smart dresses for women and button-down shirts with pants or skirts for men.",0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-34,Education,Playing guitar,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-42,Education,Catholicism,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-45,Education,05/09,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-50,Work life,Shepherding and farming are the main occupations of people in mountainous areas in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-51,Work life,Fishing and related maritime industries.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-57,Work life,Iberian pigs,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-58,Work life,"Cattle, sheep, and pigs are commonly used for agriculture in Spain.",1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-59,Work life,Wide-brimmed hats and long-sleeved shirts made of lightweight fabrics are common attire for farmers in Spain to protect themselves from the heat while working outdoors.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-60,Work life,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-71,Family,Cakes and flowers are commonly given as birthday gifts for children in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-75,Family,Sedan轿车,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Pastries or sweets,,
+qwen2.5-3b,Spain,English,pers-3,New-su-81,Holidays/Celebration/Leisure,Formal attire such as tuxedos or dark-colored suits with ties and dress shoes are commonly worn by grooms at weddings in Spain.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-82,Holidays/Celebration/Leisure,White wedding dresses.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The most famous government building in Spain is the Palace of Madrid (Palacio Real de Madrid).,0,0
+qwen2.5-3b,Spain,English,pers-3,New-su-88,Holidays/Celebration/Leisure,The most popular music genre among the younger population in Spain is typically considered to be Latin pop and K-pop.,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-02,Education,14:30,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-09,Education,3,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-12,Education,Universidad Carlos III de Madrid,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-13,Education,25,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-15,Education,14,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-17,Work life,35,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-19,Work life,4,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-20,Work life,18,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-21,Work life,16,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Paella or turrón.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"""La Bajadora""",0,0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-06,Education,10/10,0,0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-11,Education,08:30,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-20,Family,06/01,0,0
+qwen2.5-3b,Spain,English,pers-3,Nu-in-40,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-1,Food,McDonald's,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-13,Food,Paella,1,0.4
+qwen2.5-3b,Spain,English,pers-3,Sa-en-16,Sport,FC Barcelona,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-22,Sport,University of Barcelona,,
+qwen2.5-3b,Spain,English,pers-3,Sa-en-31,Family,Spaniels,0,0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-32,Family,La Casa de Papel (Money Heist),0,0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-37,Family,Trivial Pursuit,0,0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-6,Food,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-7,Food,"Pa amb tomàquet, churros, croquetas, and pinchos are some popular snacks in Spain.",0,0
+qwen2.5-3b,Spain,English,pers-3,Sa-en-9,Food,Paella or grilled seafood tacos.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-10,Family,30,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-11,Family,25,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-13,Family,5,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-17,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-21,Sport,On public parks and beaches.,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-22,Sport,Walking,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-23,Sport,Running,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-25,Sport,Real Madrid CF vs FC Barcelona,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-29,Sport,Association football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-30,Sport,La Sexta Copa España,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,July 14th,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,La Nochevieja crown (Cetro de la Nochevieja),0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Paella,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-01,Sport,Basque Country football (also known as football or soccer),1,0.5
+qwen2.5-3b,Spain,English,pers-3,Th-en-03,Sport,La Liga,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-05,Sport,FC Barcelona,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-09,Sport,La Liga Copa del Rey,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-11,Sport,Cristiano Ronaldo,1,0.3333333333333333
+qwen2.5-3b,Spain,English,pers-3,Th-en-12,Sport,Football (Soccer),1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-15,Sport,Ice skating,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-19,Work life,Barcelona,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-21,Work life,Flexible working hours,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-22,Work life,The most catastrophic economic period for Spain was during the Eurozone debt crisis that began in 2009.,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-24,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-27,Work life,Tourism,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-35,Family,Dinner,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-36,Family,Going to the beach or swimming pool is a popular family activity in Spain on weekends.,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-37,Family,18,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-38,Family,La Fiesta de San Valentin (St. Valentine's Day),0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-39,Family,Tabú,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-41,Family,31,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-43,Family,3,1,0.25
+qwen2.5-3b,Spain,English,pers-3,Th-en-44,Family,Paella,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-45,Family,Going out for dinner and drinks as a family on Friday evenings is very common in Spain.,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-48,Education,Matrícula de Honor,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-49,Education,The most important exam for high school students in Spain is typically the Bachillerato exams (also known as ESO or Bachillerato depending on the region).,,
+qwen2.5-3b,Spain,English,pers-3,Th-en-51,Education,Mathematics,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Th-en-53,Education,Going to parties or fiestas on weekends,0,0
+qwen2.5-3b,Spain,English,pers-3,Th-en-58,Education,Calculus,0,0
+qwen2.5-3b,Spain,English,pers-3,Tmp-ar-01,Education,Universidad Pública (Public University) or Universidad Privada (Private University) depending on the institution they attend.,0,0
+qwen2.5-3b,Spain,English,pers-3,Tmp-ar-02,Education,The common public transport that people use to go to university in Spain includes buses and trains (metro/subway).,1,1.0
+qwen2.5-3b,Spain,English,pers-3,Tmp-ar-04,Education,"Elementary students in Spain often participate in extracurricular activities such as sports, music lessons, or clubs after school.",1,1.0

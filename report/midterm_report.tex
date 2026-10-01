@@ -1,0 +1,256 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=*}
+
+\title{Improving Cultural Knowledge Coverage in LLMs via Region-Aware RAG\\
+\large An Extension of BLEnD --- Mid-term Report: Data, Knowledge Base and Baseline}
+\author{Siddharth Rai (12342050)}
+\date{October 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We extend the BLEnD benchmark (Myung et al., NeurIPS 2024) with inference-time, region-aware retrieval
+to test whether retrieval narrows the gap between high- and low-resource cultures. This mid-term report
+covers the first half of the project: (i) the evaluation subset (5 countries, 9 country--language
+settings, 4{,}500 short-answer questions), (ii) an independently built, contamination-safe English
+cultural knowledge base (720 evidence cards), and (iii) a full replication of BLEnD's zero-shot
+baseline protocol on three free, locally run open-weight LLMs (27{,}000 model answers, scored with
+BLEnD's official scorer). The baseline reproduces the paper's central finding: accuracy falls from
+75\% (US) to 8\% (Ethiopia, in Amharic) on identical questions, and low-resource cultures are answered
+better in English than in their own language.
+\end{abstract}
+
+%=====================================================================
+\section{Scope}
+BLEnD contains 500 everyday-culture question templates (food, sports, family, education,
+holidays/celebrations/leisure, work-life). Each is asked about 16 countries, answered by five native
+annotators per country. We use the \textbf{Short-Answer Question (SAQ)} track for \textbf{5 countries}
+that span the resource spectrum. Every non-English country is evaluated twice: with the question in
+its local language and in English. This gives \textbf{9 country--language settings}.
+
+\begin{table}[h]
+\centering
+\caption{Countries, languages and question counts. \emph{Scorable} = questions kept by BLEnD's
+official filter (dropped when $\geq$3 annotators said ``no answer / not applicable'' or $\geq$5 said
+``I don't know''). Resource class of the language follows Joshi et al.\ as used in the BLEnD paper.}
+\label{tab:scope}
+\begin{tabular}{llcccc}
+\toprule
+Country & Local language & Resource & Settings run & Questions / setting & Scorable \\
+\midrule
+United States & English     & high     & en          & 500 & 461 \\
+Spain         & Spanish     & high     & es, en      & 500 & 469 \\
+South Korea   & Korean      & mid-high & ko, en      & 500 & 475 \\
+Azerbaijan    & Azerbaijani & low      & az, en      & 500 & 469 \\
+Ethiopia      & Amharic     & low      & am, en      & 500 & 472 \\
+\midrule
+\multicolumn{3}{l}{\textbf{Total: 5 countries, 6 languages}} & \textbf{9 settings} & \textbf{4{,}500} & \textbf{4{,}231} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The SOP also lists Assam. It was dropped from this phase because no Assam knowledge base was built.
+Table~\ref{tab:cats} breaks the scorable questions down by category. Every setting of a country shares
+the same scorable set, so the English and local-language versions are directly comparable.
+
+\begin{table}[h]
+\centering
+\caption{Scorable questions per category (out of the 500 templates: Food 105, Sport 88, Holidays 92,
+Education 84, Work-life 68, Family 63).}
+\label{tab:cats}
+\begin{tabular}{lrrrrrrr}
+\toprule
+Country & Food & Sport & Holidays & Education & Work-life & Family & Total \\
+\midrule
+US          & 100 & 76 & 81 & 81 & 65 & 58 & 461 \\
+Spain       & 102 & 82 & 78 & 81 & 65 & 61 & 469 \\
+South Korea & 102 & 86 & 80 & 82 & 64 & 61 & 475 \\
+Azerbaijan  & 103 & 82 & 75 & 83 & 67 & 59 & 469 \\
+Ethiopia    & 101 & 77 & 86 & 83 & 67 & 58 & 472 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%=====================================================================
+\section{Cultural Knowledge Base (completed)}
+For the RAG phase we built one knowledge base (KB) per country. It consists of short English
+\emph{evidence cards}, each giving one documented cultural fact with its source. To avoid the
+contamination problem reported in SemEval-2026 Task~7, \textbf{no BLEnD material was used}. Sources
+are institutional: UNESCO intangible-heritage pages, national statistics offices, education and
+labour ministries, national tourism boards, the US Library of Congress and similar. Every card records
+its category, topic, region/sub-region, time scope, source URL and a source-quality label.
+
+\begin{table}[h]
+\centering
+\caption{Knowledge-base cards per country and category (target: 25 per category).}
+\label{tab:kb}
+\begin{tabular}{lrrrrrrr}
+\toprule
+Country & Food & Sports & Family & Education & Holidays/Leisure & Work-life & Total \\
+\midrule
+US          & 25 & 25 & 25 & 25 & 25 & 25 & 150 \\
+Spain       & 25 & 25 & 25 & 25 & 25 & 25 & 150 \\
+South Korea & 21 & 19 & 25 & 19 & 25 & 21 & 130 \\
+Azerbaijan  & 25 & 25 & 25 & 25 & 25 & 25 & 150 \\
+Ethiopia    & 25 & 22 & 25 & 23 & 25 & 20 & 140 \\
+\midrule
+\textbf{Total} & & & & & & & \textbf{720} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent Retrieval will index the English text of each card (\texttt{text\_en}). For a
+local-language question, an English rendering is used \emph{only} as the search query; the LLM still
+receives the original-language question.
+
+%=====================================================================
+\section{Baseline: Experimental Setup}
+\paragraph{Protocol (replicated from BLEnD).} Every question is asked with the paper's two prompts,
+written in the same language as the question:
+\begin{itemize}
+\item \texttt{inst-4} (direct): \emph{``Read the following question and provide a single answer
+without any explanations. Question: \{q\} Answer:''}
+\item \texttt{pers-3} (persona): \emph{``You are a person from \{country\} who is trying to explain
+your country's culture to a foreigner. Answer the following question, providing a single answer
+without any explanations. \{q\}''}
+\end{itemize}
+Decoding is greedy (temperature 0), with at most 512 new tokens, as in the paper. No retrieval and
+no fine-tuning are used. Each model produced $9 \text{ settings} \times 500 \times 2 \text{ prompts}
+= 9{,}000$ answers, \textbf{27{,}000 in total}.
+
+\paragraph{Models.} All three are free, open-weight and run locally. No paid API was used.
+\begin{center}
+\begin{tabular}{llll}
+\toprule
+Model & Parameters & Format & Licence \\
+\midrule
+Gemma~3 4B-it (\texttt{gemma3:4b})          & 4.3B & 4-bit (Q4\_K\_M) & Gemma terms \\
+Mistral-7B-Instruct v0.3 (\texttt{mistral}) & 7.2B & 4-bit (Q4\_0)    & Apache-2.0 \\
+Qwen2.5-3B-Instruct (\texttt{qwen2.5:3b})   & 3.1B & 4-bit (Q4\_K\_M) & Qwen research \\
+\bottomrule
+\end{tabular}
+\end{center}
+Inference ran with Ollama on an institute workstation (NVIDIA RTX~3060, 12\,GB).
+\textbf{Deviation from the SOP:} the SOP planned larger models (Qwen3-8B, Aya-101, GPT-OSS-20B,
+Gemma~2, Llama~3.1) on a 32\,GB GPU. The available machine has 12\,GB of GPU memory, under 5\,GB of
+free disk, and a firewall that blocks model downloads. We therefore evaluate 3--7B 4-bit models,
+a \emph{resource-constrained} setting where retrieval has the most room to help.
+
+\paragraph{Scoring (official, unchanged).} We use BLEnD's own \texttt{soft\_exact\_match}
+(\texttt{evaluation/exact\_match.py}). An answer is correct if any annotator answer appears in it after
+lemmatisation/stemming. The tools are spaCy (English), Okt/konlpy (Korean), the aznlp stemmer
+(Azerbaijani) and Spark~NLP lemmatisers (Spanish, Amharic). English answer variants are accepted for
+local-language questions. The released inference and evaluation wrappers do not run as released, so
+we call the scoring function directly. We report \textbf{SEM-B} (binary accuracy, \%) averaged over
+the two prompts, exactly as the paper does.
+
+%=====================================================================
+\section{Baseline Results}
+
+\begin{table}[h]
+\centering
+\caption{Baseline SAQ accuracy (SEM-B, \%), averaged over \texttt{inst-4} and \texttt{pers-3}.
+Right block: published scores of two models from the BLEnD paper (Tables 10/11), for reference.}
+\label{tab:main}
+\begin{tabular}{ll|ccc|c||cc}
+\toprule
+ & & \multicolumn{4}{c||}{\textbf{Ours (4-bit, 3--7B)}} & \multicolumn{2}{c}{\textbf{BLEnD paper}} \\
+Country & Lang. & Gemma3-4B & Mistral-7B & Qwen2.5-3B & Mean & Aya-101 & Llama-3.1-70B \\
+\midrule
+US          & en & 72.1 & \textbf{84.9} & 67.8 & 74.9 & 53.4 & 84.9 \\
+\midrule
+Spain       & es & 58.8 & \textbf{61.3} & 48.6 & 56.2 & 45.8 & 75.4 \\
+            & en & 41.2 & \textbf{65.6} & 45.7 & 50.8 & 35.7 & 59.4 \\
+\midrule
+South Korea & ko & \textbf{54.3} & 47.9 & 41.9 & 48.0 & 32.8 & 65.3 \\
+            & en & 43.7 & \textbf{60.6} & 38.7 & 47.7 & 30.7 & 62.1 \\
+\midrule
+Azerbaijan  & az & \textbf{29.4} & 27.7 & 13.6 & 23.6 & 35.8 & 59.5 \\
+            & en & 45.7 & \textbf{59.8} & 37.1 & 47.5 & 31.9 & 59.5 \\
+\midrule
+Ethiopia    & am & \textbf{14.4} & 3.7 & 5.6 & 7.9 & 17.8 & 17.6 \\
+            & en & 30.6 & \textbf{46.3} & 25.5 & 34.1 & 26.4 & 44.6 \\
+\midrule
+\multicolumn{2}{l|}{Mean, local language} & 45.8 & 45.1 & 35.5 & 42.1 & & \\
+\multicolumn{2}{l|}{Mean, English}        & 46.7 & 63.4 & 43.0 & 51.0 & & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Accuracy (\%) by category, pooled over all 9 settings and both prompts.}
+\label{tab:catres}
+\begin{tabular}{lcccccc}
+\toprule
+Model & Food & Sport & Holidays & Education & Work-life & Family \\
+\midrule
+Gemma3-4B  & 38.8 & 43.8 & 36.2 & 49.1 & 52.9 & 41.3 \\
+Mistral-7B & 46.8 & 52.5 & 46.1 & 55.8 & 57.1 & 47.5 \\
+Qwen2.5-3B & 30.7 & 33.4 & 30.9 & 43.8 & 44.2 & 35.5 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Observations}
+\begin{enumerate}
+\item \textbf{The cultural gap is large and reproduces the paper.} In the local language, the
+3-model mean falls from 74.9\% (US) to 56.2\% (Spain), 48.0\% (South Korea), 23.6\% (Azerbaijan) and
+7.9\% (Ethiopia). The paper's 16-model averages show the same ordering (US 79.2, Spain 69.1, Ethiopia
+12.2). High-resource local settings average 53--65\%; low-resource ones average 10--22\%.
+\item \textbf{Low-resource cultures are answered better in English.} Azerbaijan improves from 23.6\%
+to 47.5\% and Ethiopia from 7.9\% to 34.1\% when the same question is asked in English. For Spanish
+and Korean the local language is as good or better (e.g.\ Gemma: 54.3\% Korean vs 43.7\% English).
+This matches BLEnD's finding exactly.
+\item \textbf{Amharic is nearly unsolved by small models} (3.7--14.4\%). Many outputs are not fluent
+Amharic, e.g.\ repetitions of the prompt.
+\item \textbf{Our models sit between the paper's Aya-101 and Llama-3.1-70B.} Mistral-7B matches
+Llama-3.1-70B on US and English settings. All our models remain well below it on non-English
+local-language settings.
+\item \textbf{Category effects match the paper:} food and holidays are hardest, while education and
+work-life are easiest, for all three models (Table~\ref{tab:catres}).
+\end{enumerate}
+
+\subsection{Caveats of the official metric}
+\begin{itemize}
+\item \textbf{Verbosity.} Mistral ignores ``single answer'' more often: median answer length is 13
+words, against 2 for Gemma and Qwen. Since the metric checks whether a gold answer is \emph{contained}
+in the response, longer answers have more chances to match. Part of Mistral's lead may come from this.
+\item \textbf{Language switching under the persona prompt.} With \texttt{pers-3}, Gemma often answers
+English questions about Spain in Spanish (``Naranja'' for ``orange''). English settings accept only
+English gold answers, so its Spain-English score drops from 48.4\% (\texttt{inst-4}) to 33.9\%
+(\texttt{pers-3}).
+\item \textbf{Morphologically rich languages.} Lemma/stem matching under-counts correct answers in
+morphologically rich languages, as noted in the SOP.
+\item \textbf{Software versions.} Two scorer libraries are newer than the paper's because of
+Python/Java compatibility: Spark~NLP 5.5.3 (paper: 5.3.3) and pandas 2.2.3 (2.2.2). The lemmatiser
+models and the scoring code are unchanged.
+\end{itemize}
+
+%=====================================================================
+\section{Next Steps}
+\begin{enumerate}
+\item \textbf{Always-RAG:} hybrid BM25 + dense (bge-m3) retrieval over the country's KB, top-$k$ cards
+prepended to the same prompts. Then run the same 27{,}000-answer protocol and compute the per-setting
+change against Table~\ref{tab:main}.
+\item \textbf{Adaptive-RAG:} a training-free gate (retrieval score / category prior) choosing per
+question between the RAG and baseline answers. It needs no extra model calls.
+\item \textbf{Cross-lingual retrieval:} machine-translated English queries for Azerbaijani and Amharic
+questions, compared against the oracle English query.
+\item \textbf{Category-aware analysis} of where retrieval helps or hurts, from the per-question logs.
+\end{enumerate}
+
+\paragraph{Reproducibility.} The code (\texttt{rag\_pipeline/}), all prompts sent, all 27{,}000
+responses and per-question scores are in the project repository
+(\url{https://github.com/SidRai-247/BlenD_ML_Project}).
+
+\end{document}

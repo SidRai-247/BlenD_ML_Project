@@ -1,0 +1,538 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Spain,English,inst-4,Al-en-01,Food,Galletas de chocolate (chocolate biscuits),1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Al-en-02,Food,Tapas,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-04,Food,Orange,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-06,Food,Paella,0,0
+gemma3-4b,Spain,English,inst-4,Al-en-08,Food,"Patatas bravas, churros, and chocolate.",0,0
+gemma3-4b,Spain,English,inst-4,Al-en-09,Food,Churros con chocolate,1,0.5
+gemma3-4b,Spain,English,inst-4,Al-en-16,Education,3,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-17,Education,Fútbol (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-18,Education,Music,0,0
+gemma3-4b,Spain,English,inst-4,Al-en-19,Education,English,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-21,Education,Mathematics,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,Turrón de carne,,
+gemma3-4b,Spain,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,Trick-or-treating and pumpkin carving.,1,0.25
+gemma3-4b,Spain,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,Eat 12 grapes at midnight.,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,"Misa del Gallo, posadas, and eating turrón.",0,0
+gemma3-4b,Spain,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,Turrón,0,0
+gemma3-4b,Spain,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Turrón,0,0
+gemma3-4b,Spain,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Chocolate,1,1.0
+gemma3-4b,Spain,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,Turrón and chocolate.,0,0
+gemma3-4b,Spain,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Beaches,1,0.2
+gemma3-4b,Spain,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Visiting a tapas bar,0,0
+gemma3-4b,Spain,English,inst-4,An-ar-02,Education,La cafetería,1,1.0
+gemma3-4b,Spain,English,inst-4,An-ar-03,Education,"6
+",1,1.0
+gemma3-4b,Spain,English,inst-4,An-ar-08,Education,9,0,0
+gemma3-4b,Spain,English,inst-4,An-ar-09,Education,3,1,1.0
+gemma3-4b,Spain,English,inst-4,An-ar-34,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,An-ar-35,Sport,Paco González,0,0
+gemma3-4b,Spain,English,inst-4,An-ar-36,Sport,Real Madrid,1,1.0
+gemma3-4b,Spain,English,inst-4,An-ar-43,Sport,Bars and pubs,1,1.0
+gemma3-4b,Spain,English,inst-4,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,Spain,English,inst-4,Ca-sp-06,Food,Breakfast,1,0.25
+gemma3-4b,Spain,English,inst-4,Ca-sp-08,Food,Olive oil,1,1.0
+gemma3-4b,Spain,English,inst-4,Ca-sp-09,Food,Flan,0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-11,Food,Sunday,1,1.0
+gemma3-4b,Spain,English,inst-4,Ca-sp-14,Food,Café con leche,0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Beer and wine.,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"7
+",0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Eating 12 grapes at midnight,1,1.0
+gemma3-4b,Spain,English,inst-4,Ca-sp-38,Family,Townhouse,0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-41,Family,Family homes and retirement communities.,0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-42,Family,"22
+",0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-43,Family,"4
+",0,0
+gemma3-4b,Spain,English,inst-4,Ca-sp-45,Family,Costa Brava,0,0
+gemma3-4b,Spain,English,inst-4,Gu-ch-05,Sport,Golf and walking.,0,0
+gemma3-4b,Spain,English,inst-4,Gu-ch-06,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-07,Sport,Pau Gasol,1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-08,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-09,Sport,Tennis and football (soccer).,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,Gu-ch-11,Sport,Fencing,0,0
+gemma3-4b,Spain,English,inst-4,Gu-ch-15,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-16,Family,"2.1
+",0,0
+gemma3-4b,Spain,English,inst-4,Gu-ch-18,Family,1.6,1,0.4
+gemma3-4b,Spain,English,inst-4,Gu-ch-31,Education,6,1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-32,Education,10,1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-33,Education,6,1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,Spain,English,inst-4,Gu-ch-40,Education,"16:00
+",1,0.5
+gemma3-4b,Spain,English,inst-4,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-02,Work life,Saturday,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-03,Work life,Madrid,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-07,Work life,Inditex,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,Ji-ko-08,Work life,39,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-09,Work life,Tapas and wine,,
+gemma3-4b,Spain,English,inst-4,Ji-ko-14,Work life,Olive oil,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,Ji-ko-15,Work life,1.5,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-16,Family,Maternidad,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-19,Family,Tamarisk flower,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-22,Family,Electronics,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-24,Family,Swimming pools,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-25,Family,Semana Santa and Día de Reyes.,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-26,Family,16 and 18.,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-27,Family,Turrón,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-28,Family,Baptism,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-29,Family,Epiphany,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-31,Education,Schools,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-33,Education,Home,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-34,Education,"By bus, walking, or sometimes by bicycle.",1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-35,Education,Colegios concertados,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-36,Education,Language academies,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-37,Education,"Casual clothes like jeans, t-shirts, and sneakers.",0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-38,Education,Medicine,1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-39,Education,Piano,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-40,Education,"Socialize, eat snacks, and chat.",1,0.5
+gemma3-4b,Spain,English,inst-4,Ji-ko-41,Education,Sneakers,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-42,Education,"Mathematics, Spanish Language and Literature, and a foreign language.",1,1.0
+gemma3-4b,Spain,English,inst-4,Ji-ko-44,Education,Madrid,0,0
+gemma3-4b,Spain,English,inst-4,Ji-ko-45,Education,Music and dancing,0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-01,Sport,Football (Soccer),0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-02,Sport,Fútbol (Soccer),0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-09,Sport,Polo and horse racing,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Jo-sp-13,Sport,Sailing,0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-14,Sport,Golf,0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-18,Work life,22,1,0.25
+gemma3-4b,Spain,English,inst-4,Jo-sp-19,Work life,Andalusia,1,1.0
+gemma3-4b,Spain,English,inst-4,Jo-sp-21,Work life,"14:00
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jo-sp-31,Education,"16:00
+",1,0.5
+gemma3-4b,Spain,English,inst-4,Jo-sp-32,Education,Fútbol (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Jo-sp-36,Education,6,0,0
+gemma3-4b,Spain,English,inst-4,Jo-sp-37,Education,"8
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Spain,English,inst-4,Jo-sp-43,Education,3,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Jod-ch-01,Food,Fork and spoon,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-04,Food,Cola,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-06,Food,Sherry,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-07,Food,"2.1
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-09,Food,"21:00
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-12,Food,Gazpacho,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-13,Food,Tapas,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-15,Food,Paella,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,La Tomatina,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Train,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Red and yellow.,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-37,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-38,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Drinking wine with friends,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Watching football (soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-46,Work life,"45.0
+",0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-48,Work life,Tapas and bocadillos.,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-50,Work life,30,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-51,Work life,Car,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-54,Work life,20,0,0
+gemma3-4b,Spain,English,inst-4,Jod-ch-56,Work life,"65
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-57,Work life,"65
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-58,Work life,Doctor,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-60,Work life,"8
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-61,Work life,Nurse,1,1.0
+gemma3-4b,Spain,English,inst-4,Jod-ch-62,Work life,Construction worker,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-17,Education,12 years,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-24,Education,Spanish,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-30,Education,Saturday and Sunday,1,1.0
+gemma3-4b,Spain,English,inst-4,Ki-pe-32,Food,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,Ki-pe-34,Food,Café con leche,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-36,Food,Italy,1,1.0
+gemma3-4b,Spain,English,inst-4,Ki-pe-39,Food,Gazpacho,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-40,Food,Tinned Pulpo a la Gallega,0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-43,Food,"Pan
+",0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-51,Work life,"17:00
+",0,0
+gemma3-4b,Spain,English,inst-4,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Semana Santa,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"Parades, fireworks, and eating traditional foods.",,
+gemma3-4b,Spain,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,A still life (efígie),,
+gemma3-4b,Spain,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,During the fourth trimester (October-November).,,
+gemma3-4b,Spain,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Madrigal dinner,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Tamarind paste,,
+gemma3-4b,Spain,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,"Stockpiling food and water, cleaning homes, and preparing for fasting.",,
+gemma3-4b,Spain,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Sagrada Familia,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Sagrada Familia,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Dark-colored dresses or skirts with blouses.,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-16,Food,Warm wine,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-17,Food,Dates,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-24,Food,Patatas bravas,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-31,Sport,Fencing,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-34,Sport,Football (Soccer) and Tennis,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-35,Sport,Football (Soccer) and Tennis,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-36,Sport,Pep Guardiola,1,0.5
+gemma3-4b,Spain,English,inst-4,Kik-in-37,Sport,Real Madrid vs. Barcelona,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-38,Sport,Real Madrid vs. Barcelona,1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-40,Sport,Pablo Martín Bertrán.,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-41,Sport,Carolina Maravilla Sala,0,0
+gemma3-4b,Spain,English,inst-4,Kik-in-44,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Kik-in-45,Sport,Football (soccer) and basketball courts.,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-02,Food,Café con leche,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-04,Food,Coffee and bread,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-05,Food,Paella,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-07,Food,Pork,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-08,Food,Pomegranate,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-09,Food,Patatas bravas,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-11,Food,Tapas and beer,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-15,Food,Paella,1,0.5
+gemma3-4b,Spain,English,inst-4,Na-ko-16,Sport,Lionel Messi,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-17,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-18,Sport,Basketball,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-19,Sport,Lucía Hechvarra,,
+gemma3-4b,Spain,English,inst-4,Na-ko-20,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-22,Sport,Germany,1,0.25
+gemma3-4b,Spain,English,inst-4,Na-ko-23,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-24,Sport,Patatas bravas,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-25,Sport,Football (Soccer) and carreras de relevos (relay races).,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-26,Sport,Golf and tennis.,1,0.25
+gemma3-4b,Spain,English,inst-4,Na-ko-28,Sport,Iker Casillas,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-29,Sport,Mireia Belmonte García,1,0.5
+gemma3-4b,Spain,English,inst-4,Na-ko-30,Sport,League of Legends,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Tamarind,,
+gemma3-4b,Spain,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Canary Islands,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Wine,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Una botella de vino.,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"Flowers and a small, dark-colored box of chocolates.",1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Gazpacho,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,Eat twelve grapes.,0,0
+gemma3-4b,Spain,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,Friday,1,1.0
+gemma3-4b,Spain,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Mallorca,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,La Tomatina,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Iftar meals.,,
+gemma3-4b,Spain,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"Dates, sweets, and special rice dishes.",,
+gemma3-4b,Spain,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Lamb dishes.,,
+gemma3-4b,Spain,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Benidorm,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Mosques and homes,,
+gemma3-4b,Spain,English,inst-4,Ne-ar-16,Work life,Saturday and Sunday,1,1.0
+gemma3-4b,Spain,English,inst-4,Ne-ar-17,Work life,"08:00
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Ne-ar-18,Work life,"18:00
+",1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,Ne-ar-20,Work life,Healthcare and Education,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-24,Work life,Madrid,1,0.75
+gemma3-4b,Spain,English,inst-4,Ne-ar-25,Work life,Financial Services,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-26,Work life,Inditex,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-31,Food,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,Ne-ar-32,Food,Toast with tomato and olive oil,1,0.2
+gemma3-4b,Spain,English,inst-4,Ne-ar-33,Food,"14:00
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Ne-ar-34,Food,Olive oil,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-36,Food,Roast lamb (cordero lechal),0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-37,Food,Turrón,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-38,Food,Bread,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-39,Food,McDonald's,1,1.0
+gemma3-4b,Spain,English,inst-4,Ne-ar-43,Food,Tapas,0,0
+gemma3-4b,Spain,English,inst-4,Ne-ar-44,Food,Café con leche,0,0
+gemma3-4b,Spain,English,inst-4,New-am-02,Food,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,New-am-04,Food,Alioli,0,0
+gemma3-4b,Spain,English,inst-4,New-am-08,Food,Sopa de Ajo (Garlic Soup),0,0
+gemma3-4b,Spain,English,inst-4,New-am-15,Food,Turrón,,
+gemma3-4b,Spain,English,inst-4,New-am-27,Sport,Ikería Rúa,0,0
+gemma3-4b,Spain,English,inst-4,New-am-34,Education,At home,1,1.0
+gemma3-4b,Spain,English,inst-4,New-am-41,Education,Sixth grade,0,0
+gemma3-4b,Spain,English,inst-4,New-am-53,Work life,Andalusia,,
+gemma3-4b,Spain,English,inst-4,New-am-54,Work life,Andalusia,0,0
+gemma3-4b,Spain,English,inst-4,New-am-59,Work life,Shepherding,0,0
+gemma3-4b,Spain,English,inst-4,New-am-60,Work life,Donkey,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-am-72,Family,Mortimer Mouse,0,0
+gemma3-4b,Spain,English,inst-4,New-am-73,Family,PAW Patrol,0,0
+gemma3-4b,Spain,English,inst-4,New-am-74,Family,Late Night with Guitérrez,0,0
+gemma3-4b,Spain,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Semana Santa,0,0
+gemma3-4b,Spain,English,inst-4,New-am-81,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,Spain,English,inst-4,New-am-83,Holidays/Celebration/Leisure,Guitar,1,1.0
+gemma3-4b,Spain,English,inst-4,New-as-01,Food,Wine,0,0
+gemma3-4b,Spain,English,inst-4,New-as-02,Food,Pan con tomate,0,0
+gemma3-4b,Spain,English,inst-4,New-as-05,Food,Wine,1,0.25
+gemma3-4b,Spain,English,inst-4,New-as-07,Food,Paella,0,0
+gemma3-4b,Spain,English,inst-4,New-as-14,Food,Tortilla Española,0,0
+gemma3-4b,Spain,English,inst-4,New-as-15,Food,Sangria,0,0
+gemma3-4b,Spain,English,inst-4,New-as-20,Sport,Football (Soccer),0,0
+gemma3-4b,Spain,English,inst-4,New-as-29,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,New-as-30,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,New-as-58,Work life,Coffee,1,1.0
+gemma3-4b,Spain,English,inst-4,New-as-64,Family,Semana Santa,0,0
+gemma3-4b,Spain,English,inst-4,New-as-76,Holidays/Celebration/Leisure,"Toros bravos, blindas y garabatos.",,
+gemma3-4b,Spain,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Traje de Flamenco,0,0
+gemma3-4b,Spain,English,inst-4,New-as-89,Holidays/Celebration/Leisure,Sombreros and mantones de mano,0,0
+gemma3-4b,Spain,English,inst-4,New-az-05,Food,Rioja,1,1.0
+gemma3-4b,Spain,English,inst-4,New-az-11,Food,Mangoes,0,0
+gemma3-4b,Spain,English,inst-4,New-az-12,Food,Galicia,1,1.0
+gemma3-4b,Spain,English,inst-4,New-az-21,Sport,Pyrenees,1,0.5
+gemma3-4b,Spain,English,inst-4,New-az-26,Sport,David Mirón,,
+gemma3-4b,Spain,English,inst-4,New-az-27,Sport,Futsal,0,0
+gemma3-4b,Spain,English,inst-4,New-az-39,Education,United States,0,0
+gemma3-4b,Spain,English,inst-4,New-az-49,Work life,2.  3,1,1.0
+gemma3-4b,Spain,English,inst-4,New-az-60,Family,Nannys,0,0
+gemma3-4b,Spain,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Sangria,0,0
+gemma3-4b,Spain,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Sangria,0,0
+gemma3-4b,Spain,English,inst-4,New-az-73,Holidays/Celebration/Leisure,120,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-01,Food,Chorizo,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-02,Food,"10:00
+",1,0.5
+gemma3-4b,Spain,English,inst-4,New-ch-04,Food,"Jamón, cheese, olives, and tortilla.",0,0
+gemma3-4b,Spain,English,inst-4,New-ch-05,Food,Paella with Spicy Chorizo,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-07,Food,Olives and almonds,1,0.25
+gemma3-4b,Spain,English,inst-4,New-ch-08,Food,Saffron,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-09,Food,Sopa de ajo (garlic soup),1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-13,Food,"Mahou
+",1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-14,Food,Sopa de ajo (garlic soup),1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-15,Food,Jamón Ibérico,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-16,Sport,F1994,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-17,Sport,Paragliding,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-18,Sport,100m sprint,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-19,Sport,Rhythmic Gymnastics,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-23,Sport,Miguel Ángel Ballarín,,
+gemma3-4b,Spain,English,inst-4,New-ch-26,Sport,Ski jumping,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-27,Sport,Miguel Cotto,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-30,Sport,Cayetlina Fernández.,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-31,Work life,Medicine,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-32,Work life,Microsoft Office,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,New-ch-38,Work life,"Barcelona, Valencia, Algeciras",1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-39,Work life,Shopify,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-44,Work life,1-3 months,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-45,Work life,"E-commerce, technology, and food services.",0,0
+gemma3-4b,Spain,English,inst-4,New-ch-49,Family,WhatsApp,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-51,Family,Apartment,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-54,Family,Paella,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-64,Education,30,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-66,Education,600,,
+gemma3-4b,Spain,English,inst-4,New-ch-70,Education,Citizenship and Spanish Law,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-71,Education,28,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-72,Education,Tourism and Hospitality,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-73,Education,Debating and sports clubs,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-74,Education,Student residences (Residencias) and shared apartments (pisos compartidos).,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ch-75,Education,45,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,"Gardening, socializing, travel, and flamenco.",0,0
+gemma3-4b,Spain,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,"Golf, fishing, and socializing.",0,0
+gemma3-4b,Spain,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,Semana Santa and Navidad,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,"Wine, olive oil, and decorative ceramics",1,0.5
+gemma3-4b,Spain,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",0,0
+gemma3-4b,Spain,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Seville,0,0
+gemma3-4b,Spain,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,1,0.5
+gemma3-4b,Spain,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-01,Food,Patatas bravas,0,0
+gemma3-4b,Spain,English,inst-4,New-en-02,Food,Pimientos del Piquillo,0,0
+gemma3-4b,Spain,English,inst-4,New-en-04,Food,Javier Bardem,0,0
+gemma3-4b,Spain,English,inst-4,New-en-05,Food,Tortilla Española,0,0
+gemma3-4b,Spain,English,inst-4,New-en-07,Food,Kitchen Impossible,0,0
+gemma3-4b,Spain,English,inst-4,New-en-08,Food,Valor,1,0.25
+gemma3-4b,Spain,English,inst-4,New-en-10,Food,Manchego,0,0
+gemma3-4b,Spain,English,inst-4,New-en-11,Food,Artichoke,0,0
+gemma3-4b,Spain,English,inst-4,New-en-12,Food,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-17,Sport,Bandera (banners) and cánticos (chants).,0,0
+gemma3-4b,Spain,English,inst-4,New-en-18,Sport,A scarf,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-19,Sport,Santiago Bernabéu Stadium,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-23,Sport,Carlos Sanz,,
+gemma3-4b,Spain,English,inst-4,New-en-26,Sport,¡Olé!,0,0
+gemma3-4b,Spain,English,inst-4,New-en-38,Work life,"IT, Tourism, Creative Industries",0,0
+gemma3-4b,Spain,English,inst-4,New-en-41,Work life,Amancio Ortega,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-47,Family,Orange trees,0,0
+gemma3-4b,Spain,English,inst-4,New-en-49,Family,Bourbon,0,0
+gemma3-4b,Spain,English,inst-4,New-en-50,Family,García,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,New-en-55,Family,Catholicism,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-56,Family,Spanish,0,0
+gemma3-4b,Spain,English,inst-4,New-en-59,Family,United States,0,0
+gemma3-4b,Spain,English,inst-4,New-en-68,Education,"Suspension, detentions, fines, and parental involvement.",0,0
+gemma3-4b,Spain,English,inst-4,New-en-69,Education,"Cervantes, Lorca, Machado, Almodóvar",1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-70,Education,23,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-72,Education,Google Classroom,1,0.5
+gemma3-4b,Spain,English,inst-4,New-en-75,Education,16,0,0
+gemma3-4b,Spain,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Madrid–Barajas Airport,1,1.0
+gemma3-4b,Spain,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Andalusia,0,0
+gemma3-4b,Spain,English,inst-4,New-en-87,Holidays/Celebration/Leisure,Sagrada Familia,0,0
+gemma3-4b,Spain,English,inst-4,New-en-90,Holidays/Celebration/Leisure,Melia,1,1.0
+gemma3-4b,Spain,English,inst-4,New-gr-05,Food,Tostada con tomate y aceite,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-06,Food,Tapas,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-08,Food,Sangria,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-13,Food,"Café 
+",0,0
+gemma3-4b,Spain,English,inst-4,New-gr-15,Food,Tarta de Santiago,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-21,Sport,Tennis,1,0.5
+gemma3-4b,Spain,English,inst-4,New-gr-24,Sport,Football (Soccer),0,0
+gemma3-4b,Spain,English,inst-4,New-gr-29,Sport,Football (Soccer),1,0.25
+gemma3-4b,Spain,English,inst-4,New-gr-47,Work life,15,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-gr-58,Work life,Teaching (primary school),0,0
+gemma3-4b,Spain,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Cochinillo asado,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Flamenco,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Clara de vino,0,0
+gemma3-4b,Spain,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Rioja,0,0
+gemma3-4b,Spain,English,inst-4,New-ha-07,Food,Tapas,0,0
+gemma3-4b,Spain,English,inst-4,New-ha-08,Food,Tuna,0,0
+gemma3-4b,Spain,English,inst-4,New-ha-09,Food,Paella pan,0,0
+gemma3-4b,Spain,English,inst-4,New-ha-13,Food,Tomato,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ha-19,Sport,Bull,,
+gemma3-4b,Spain,English,inst-4,New-ha-66,Family,Córdoba Cathedral,0,0
+gemma3-4b,Spain,English,inst-4,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,Spain,English,inst-4,New-in-03,Food,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,New-in-33,Work life,Basque Country,1,0.5
+gemma3-4b,Spain,English,inst-4,New-in-34,Work life,Andalusia,1,1.0
+gemma3-4b,Spain,English,inst-4,New-in-62,Education,Universidad Politécnica de Catalunya,0,0
+gemma3-4b,Spain,English,inst-4,New-in-63,Education,Universidad de Barcelona,0,0
+gemma3-4b,Spain,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Tarjeta Bancaria (Bank Card),1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-in-80,Holidays/Celebration/Leisure,PortAventura World,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ko-01,Family,Pocoyo,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-02,Family,Prenatal yoga,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ko-03,Family,Las Golondrinas,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-04,Family,LEGO,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-05,Family,Barbie,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-06,Family,The Story of the Tooth Fairy,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,White carnations,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-08,Work life,Retail,0,0
+gemma3-4b,Spain,English,inst-4,New-ko-09,Work life,Outdoor team challenges and escape rooms.,1,1.0
+gemma3-4b,Spain,English,inst-4,New-ko-10,Work life,"Tutoring, online work, tourism-related jobs, and selling crafts.",0,0
+gemma3-4b,Spain,English,inst-4,New-pe-02,Food,Jamón Ibérico,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-06,Food,Fabada Asturiana,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-11,Food,Saffron,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-16,Sport,Bullfighting,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-20,Sport,Beach volleyball,1,1.0
+gemma3-4b,Spain,English,inst-4,New-pe-45,Work life,"Flexible, with meals taken during Iftar and Suhoor.",,
+gemma3-4b,Spain,English,inst-4,New-pe-47,Family,03/02,,
+gemma3-4b,Spain,English,inst-4,New-pe-49,Family,Iglesias,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-53,Family,"Ham, wine, and tools.",0,0
+gemma3-4b,Spain,English,inst-4,New-pe-54,Family,"Flowers, cards, and gifts like jewelry, perfume, and experiences.",1,1.0
+gemma3-4b,Spain,English,inst-4,New-pe-59,Family,"2.1
+",1,1.0
+gemma3-4b,Spain,English,inst-4,New-pe-65,Education,13,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-66,Education,"English
+",1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,New-pe-74,Education,"Approximately €1,400 - €3,000",0,0
+gemma3-4b,Spain,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Picnics,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,San Sebastian Film Festival,1,1.0
+gemma3-4b,Spain,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,¡Baraja!,0,0
+gemma3-4b,Spain,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,France,1,0.6666666666666666
+gemma3-4b,Spain,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,The Eiffel Tower,0,0
+gemma3-4b,Spain,English,inst-4,New-spme-01,Food,Locust,,
+gemma3-4b,Spain,English,inst-4,New-spme-04,Food,Wine,0,0
+gemma3-4b,Spain,English,inst-4,New-spme-05,Food,"Turrón, churros, and crema catalana",1,1.0
+gemma3-4b,Spain,English,inst-4,New-spme-15,Sport,Powerade,1,1.0
+gemma3-4b,Spain,English,inst-4,New-spme-27,Education,12.6 years,0,0
+gemma3-4b,Spain,English,inst-4,New-spme-37,Education,Engineering,,
+gemma3-4b,Spain,English,inst-4,New-spme-60,Family,Sunday,1,1.0
+gemma3-4b,Spain,English,inst-4,New-spme-65,Family,Parades,,
+gemma3-4b,Spain,English,inst-4,New-spme-68,Family,Orange juice,1,0.5
+gemma3-4b,Spain,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,Girona,,
+gemma3-4b,Spain,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,Cumpleaños Feliz,0,0
+gemma3-4b,Spain,English,inst-4,New-su-01,Food,Churros and chocolate,0,0
+gemma3-4b,Spain,English,inst-4,New-su-09,Food,Olive oil,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-10,Food,Tortilla Española,,
+gemma3-4b,Spain,English,inst-4,New-su-15,Food,"Clara
+",0,0
+gemma3-4b,Spain,English,inst-4,New-su-17,Sport,"Football pitches, basketball courts, tennis courts, swimming pools.",0,0
+gemma3-4b,Spain,English,inst-4,New-su-21,Sport,"Sitting, chatting, playing dominoes, and enjoying the weather.",1,0.5
+gemma3-4b,Spain,English,inst-4,New-su-24,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-28,Sport,Red,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-33,Education,Smart casual,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-34,Education,Choir,1,0.5
+gemma3-4b,Spain,English,inst-4,New-su-42,Education,Catholicism,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-45,Education,03/02,0,0
+gemma3-4b,Spain,English,inst-4,New-su-50,Work life,Shepherding,0,0
+gemma3-4b,Spain,English,inst-4,New-su-51,Work life,Fishing and tourism,1,0.5
+gemma3-4b,Spain,English,inst-4,New-su-57,Work life,Sheep,0,0
+gemma3-4b,Spain,English,inst-4,New-su-58,Work life,"Sheep, pigs, and poultry",1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-59,Work life,Wide-brimmed hats and light-colored clothing.,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-60,Work life,Tapas and wine,0,0
+gemma3-4b,Spain,English,inst-4,New-su-71,Family,"Toys, sweets, and money.",1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-75,Family,SUV,0,0
+gemma3-4b,Spain,English,inst-4,New-su-77,Holidays/Celebration/Leisure,Money and sweets,,
+gemma3-4b,Spain,English,inst-4,New-su-81,Holidays/Celebration/Leisure,"Dark suit, often black or navy, with a white shirt and a black or patterned tie.",1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-82,Holidays/Celebration/Leisure,Traditional white dresses,1,1.0
+gemma3-4b,Spain,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Paella,0,0
+gemma3-4b,Spain,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Alhambra,0,0
+gemma3-4b,Spain,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Reggaeton,1,0.75
+gemma3-4b,Spain,English,inst-4,Ni-en-02,Education,"16:00
+",0,0
+gemma3-4b,Spain,English,inst-4,Ni-en-03,Education,"25
+",0,0
+gemma3-4b,Spain,English,inst-4,Ni-en-06,Education,6,1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-09,Education,"5
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-11,Education,"2
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-12,Education,Universidad Complutense de Madrid,0,0
+gemma3-4b,Spain,English,inst-4,Ni-en-13,Education,22,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Ni-en-15,Education,"12
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-17,Work life,37,0,0
+gemma3-4b,Spain,English,inst-4,Ni-en-19,Work life,5,1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-20,Work life,18,1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-21,Work life,16,1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Turrón and mazapan.,0,0
+gemma3-4b,Spain,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+gemma3-4b,Spain,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"Navidad, Navidad",0,0
+gemma3-4b,Spain,English,inst-4,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Spain,English,inst-4,Nu-in-05,Education,"9
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Nu-in-06,Education,10/17,0,0
+gemma3-4b,Spain,English,inst-4,Nu-in-11,Education,"08:30
+",1,1.0
+gemma3-4b,Spain,English,inst-4,Nu-in-20,Family,10/31,0,0
+gemma3-4b,Spain,English,inst-4,Nu-in-40,Work life,Madrid,1,1.0
+gemma3-4b,Spain,English,inst-4,Sa-en-1,Food,McDonald's,1,1.0
+gemma3-4b,Spain,English,inst-4,Sa-en-13,Food,Pulpo a la Gallega,0,0
+gemma3-4b,Spain,English,inst-4,Sa-en-16,Sport,Real Madrid,1,1.0
+gemma3-4b,Spain,English,inst-4,Sa-en-22,Sport,Real Madrid,,
+gemma3-4b,Spain,English,inst-4,Sa-en-31,Family,Dog,1,1.0
+gemma3-4b,Spain,English,inst-4,Sa-en-32,Family,Gran Hermano VIP,0,0
+gemma3-4b,Spain,English,inst-4,Sa-en-37,Family,Dominó,0,0
+gemma3-4b,Spain,English,inst-4,Sa-en-6,Food,Paella,0,0
+gemma3-4b,Spain,English,inst-4,Sa-en-7,Food,Tapas,0,0
+gemma3-4b,Spain,English,inst-4,Sa-en-9,Food,Gazpacho,0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-10,Family,30,1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-11,Family,29,0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-13,Family,5,1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-17,Sport,Football (Soccer),1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-21,Sport,Parks and schools,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Ta-pe-22,Sport,Walking,1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-23,Sport,Football (Soccer),0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-25,Sport,Real Madrid vs. Barcelona,0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-29,Sport,Basketball,0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-30,Sport,El Chiringuito,1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,July 5th,0,0
+gemma3-4b,Spain,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,12 grapes,1,1.0
+gemma3-4b,Spain,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,12 grapes,1,0.5
+gemma3-4b,Spain,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Buñuelos and chocolate,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-01,Sport,Football (Soccer),1,0.5
+gemma3-4b,Spain,English,inst-4,Th-en-03,Sport,La Liga,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-05,Sport,FC Barcelona Femeni,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-09,Sport,La Liga,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-11,Sport,Lionel Messi,1,0.3333333333333333
+gemma3-4b,Spain,English,inst-4,Th-en-12,Sport,Basketball,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-15,Sport,Skiing,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-19,Work life,Bilbao,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-21,Work life,Paid vacation,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-22,Work life,The Spanish Civil War and subsequent Franco dictatorship,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-24,Work life,Barcelona,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-27,Work life,Tourism,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-35,Family,Dinner,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-36,Family,Visiting the beach,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-37,Family,16,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-38,Family,Semana Santa,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-39,Family,Dominó,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-41,Family,30,1,0.5
+gemma3-4b,Spain,English,inst-4,Th-en-43,Family,"1.4
+",1,0.75
+gemma3-4b,Spain,English,inst-4,Th-en-44,Family,Paella,1,1.0
+gemma3-4b,Spain,English,inst-4,Th-en-45,Family,Dinner with family,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-48,Education,Sobresaliente,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-49,Education,Selectividad (or EvAU),,
+gemma3-4b,Spain,English,inst-4,Th-en-51,Education,"Spanish
+",0,0
+gemma3-4b,Spain,English,inst-4,Th-en-53,Education,Fiestas escolares,0,0
+gemma3-4b,Spain,English,inst-4,Th-en-58,Education,Calculus,0,0
+gemma3-4b,Spain,English,inst-4,Tmp-ar-01,Education,University libraries,1,1.0
+gemma3-4b,Spain,English,inst-4,Tmp-ar-02,Education,Bus,1,1.0
+gemma3-4b,Spain,English,inst-4,Tmp-ar-04,Education,Homework and extracurricular activities.,1,1.0

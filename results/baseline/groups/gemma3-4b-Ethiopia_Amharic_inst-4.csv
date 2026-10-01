@@ -1,0 +1,830 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-01,Food,"በኢትዮጵያ ቅድመ መደበኛ ልጆች የተለመደ መክሰስ ማለት በ escuelas ውስጥ በሴቶች ልጆች መካከል የሚነሳ የ Sexual መክሰስ ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-02,Food,በኢትዮጵያ ቢራ ጋር በሰአት እና በነምብል ስቄላ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-04,Food,ፋንታ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-06,Food,ኢንጀራ እና ፈክቻ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-08,Food,"በኢትዮጵያ በገባያ አዳራሽ ውስጥ በተለይ የሚበሉ ምግቦች፡ ጀምበር, ሻሂ፣ ጸዴ, ቃሎ እና ዶሮ ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-09,Food,"በኢትዮጵያ የመዝናኛ ፓርኮች ውስጥ በጣም ታዋቂ የሆነ ምግብ የሚሆነው ብዙውን ጊዜ ""የሚረዶ"" (Injera) ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-16,Education,6,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-17,Education,የአብዛ mayoría የሚጫወቱት የሰፊ የ공공ት (Football) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-18,Education,በመጀመሪያ ደረጃ ትምህርት ተማሪዎች በግልጽ ለትምህርት ተቋማት ወይም ተማሪዎች ማያያዣ (Scholarship) የሚቀጠርላቸው በተለየ የትምህርት አይነት **የመንግስት financiación ተቋማት** ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-19,Education,አማርኛ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-21,Education,የብልህ ተማሪ ትምህርት የባለ ትምህርት (Critical) ትምህርት ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-32,Holidays/Celebration/Leisure,በኢትዮጵያ ለምስጋና በዓል ዋነኛው ምግብ ኢንጀራ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-33,Holidays/Celebration/Leisure,በኢትዮጵያ ሃሎዊንን ለመውደም ሰዎች በነዚህን መንስዔዎች ይውላሉ: ፖለቲካዊ አመለካከቶች፣ ሃይማኖታዊ እምነት差异፣ የ Economía ችግሮች እና የ Socio-Political ግፊት።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-34,Holidays/Celebration/Leisure,በኢትዮጵያ አዲስ አመት ቀን ሊያከብሩት ሰዎች በጾታዊ የልብስ ልበ穿着፣ በቤተክ Churches ውስጥ በመጸሀ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመተ Prayers እና በመ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-35,Holidays/Celebration/Leisure,በአል ወቅት በቤተክ Churches ውስጥ oración ማድረግ፣ ጷጉሜን ወይም ሌሎች ባህላዊ ምግብዎችን ማ准备 እና አከባ感觉ን ለማሳደግ በቤተክ Churches ውስጥ reunión ማድረግ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-36,Holidays/Celebration/Leisure,ሃሎዊን ጋር የሚስተጋባው ምግብ፡ ሻሂ ፑሪ ነው።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-37,Holidays/Celebration/Leisure,በገና በዓል ላይ የሚቀርብ ምግብ፡ ዶሮ፣ አተር፣ ሻሂ፣ ጷጉላ፣ እና ፀጌት ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-38,Holidays/Celebration/Leisure,"ቫንዶች (Vandi)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-39,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች በልደታቸው ቀን ጸጌረዳ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-40,Holidays/Celebration/Leisure,"የሚከተሉት ቦታዎች ተስማሚ ናቸው፦
+
+*   **የአርባтили ደንብሮ ቾኮ:** በጎሳ ባህል እና ኗሪዎች መካከል interacción የሚሰማንበት፣ በ природе ውስጥ የሚዝናኑበት እና በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе ውስጥ የሚዝናኑበት፣ በታናሽ ልጆች መዝናኛ ቦታ ነው።
+*   **የአያሌ indicaciones:** በ природе",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Al-en-43,Holidays/Celebration/Leisure,የቤት ውስጥ እንክብካቤ አገልግሎት።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-02,Education,በዩኒቨርስቲ ምሳ ቤት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-03,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-08,Education,"12
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-09,Education,"1. አረብኛ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-34,Sport,ኳስ ( fútbol),1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-35,Sport,በኢትዮጵያ ታዋቂ የስፖርት አስተያየት ሰጪ አቶ ጌትነት ግብሩ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-36,Sport,በኢትዮጵያ እግር ኳስ ( fútbol) ቡድን እጅግ ታዋቂ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,An-ar-43,Sport,መልስ: ሜዳዎች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-05,Food,አምስት,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-06,Food,"ቆንጆ ስብ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-08,Food,በኢትዮጵያ የምግብ አሰራር ላይ በተለይ የተለመዱ ንጥረ ነግሮች በሰሚ plazo፣ በር፣ አảiድማ፣ ነብሻ፣ አትክልት (በ Particular በሰማ ግብስ፣ አቮካዶ፣ ሮብ፣ ዶማጣ፣ እና ሐርያል) እና ስኳር ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-09,Food,በሽታ ምልክቶች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-11,Food,እሑድ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-14,Food,በኢትዮጵያ ተወዳጅ ትኩስ መጠጥ፡ ቡና ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,የሚሸጡ መጠጦች ብዙውን ጊዜ ቡና፣ ኮፌ፣ አልኮል (બિયર અને વિસ્કી) እና አንዳንድ ጊዜ ሱማሌ እና ሌሎች ባህላዊ መጠጦች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"9
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"በኢትዮጵያ አዲስ አመት ዋዜማ በዓል በባህር ላይ በብዙ መንገድ ይከበަލައެވެ። በተለይም በየቤተክርስቲያናቸው ውስጥ የሰިሚዎች ቡድኖች (Gesis) የሚሰሩ ልዩ ሙዚቃዎች፣ የ Dances እና የ Prayers ይነሳሉ። በተጨማሪም በብዙ ቦታዎች ምግብ በማዘጋጀት እና በመላክ በዓሉ ይከበላሉ።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-38,Family,"የሚከተሉት አ Answers:
+
+*   **የሚስር ቤት (Mud house)**
+
+ይህ በጣም የተለመደ የቤት አይነት ሲሆን በተ Especially በተለይ በአଞ୍ଚና ስሜና ውስጥ በመካከለ የሚገኝ ነው።",1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-41,Family,"በጣም ብዙ ቦታዎች አሉ፣ ነገር ግን በጣም ተደጋጋጠሚው እና ትክክለኛው መልስ የሚከተለው ነው፦
+
+**የአረጋውያን ማཛበሃbitat ተከላ (አምባሳደኞ አካባቢ)**።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-42,Family,"16
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-43,Family,"40
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ca-sp-45,Family,"የሚከተሉት መድረኮች በኢትዮጵያ ለቤተሰብ ሽርሽር በተመረጡት መድረኮች ውስጥ የታወቁ ናቸው:
+
+*   **የአርብስ አውራጃ መድረክ (Arba Minch Area):** በኢትዮጵያ አርብስ አውራጃ የሚገኝ ይህ መድረክ ለቤተሰብ ሽርሽር በበቂ ሁኔታ ተጠቃሚ መሆኑን አ demostrado።
+*   **የኦሮሚያ ክልል መድረኮች:** በተለያዩ የኦሮሚያ ክልል መድረኮችም የቤተሰብ ሽርሽር አቅርቦት በበቂ ሁኔታ ተದಗቷል።
+
+እነዚህ መድረኮች በበቂ ሁኔታ የቤተሰብ ሽርሽር አቅርቦት እንዲያደርጉ ተመነቅቀዋል።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-05,Sport,축구 (Football/Soccer),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-06,Sport,"ኳስ (ፍुट볼)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-07,Sport,ሊዮን ዮሴፍ,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-08,Sport,ኳስ እግር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-09,Sport,"የኢትዮጵያ ሴቶች በነፃ አጫወታዎች፣ particularmente በ""ቢዮ"" እና ""ኮት"" ውስጥ በጣም ይጫወታሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-11,Sport, chạy,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-15,Sport,ኳስ ( fútbol),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-16,Family,"5
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-18,Family,13,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-31,Education,"9
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-32,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-33,Education,"1994
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-40,Education,09:00,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Gu-ch-41,Education,"1. ዱሌ
+2. ኪቡል
+3. ሻምбыላ
+4. ዱફት
+5. ጊትار
+6. ፔራፍ
+7. ቫዮላ
+8. ፒያኖ
+9. ሻምбыላ
+10. ዱሌ
+11. ኪቡል
+12. ሻምбыላ",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-02,Work life,እ금요일 (금요일 - viernes),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-03,Work life,"አዲስ አበባ።
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-07,Work life,መልስ: ጵጵጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስጵስ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-08,Work life,"40
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-09,Work life,"የሚከተሉት ነገሮች:
+
+*   **የተቀበል ቃላት (Greeting words):** ""ሰላም"", ""በደህነት"" ወዘተ።
+*   **የተቀባ aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación aceptación",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-14,Work life,የኢትዮጵያ ወኪል የወጭ ንግድ ምርት የሆኑት የዋቢዎች፣ የትራንስፖርተሮች፣ የሎጂስቲክስ አገልግሎት አ Providers እና የፋይናንስ አገልግሎት አ Providers ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-15,Work life,"14.30
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-16,Family,በአብዛኛውም ቦታ፣ በኢትዮጵያም በдомаቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-19,Family,"በወላጆች ቀን በኢትዮጵያ በተለይ የሚሰጥ አበባ ጌርጌ።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-22,Family,መልስ: በጭልፊት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-24,Family,በኢትዮጵያ ልጆች በሚወዷቸው የመዝናኛ ተቋማት መካከል እጅግ የተመረጠው የ conciertos ስፍራ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-25,Family,መልስ: በአምስቱ ዋና የቤተሰብ በዓላት: የገና በዓል፣ የጷጉሜ በዓል፣ የጾታዊ በዓል፣ የጻድቅ ጴጥሮስ በዓል እና የኢትዮጵያ አርባዕተ ቀንዶች በዓል ናቸው።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-26,Family,"የሚከተሉት ዋና ማህበረሰብ ምስሎች እና እንቅስቃሴዎች ልጆች ከወላጆቻቸው እገዛ መውጣታቸውን ያሳያሉ:
+
+*   **የተለመደ የቤት ሥራ (Household chores):** ልጆች በቤት ውስጥ ሥራዎች ላይ participación ይወስዳሉ፣ እንደ ምግብ ማ准备፣ ንጹህ ማድረግ፣ እና የቤት ውስጥ ሥራዎችን መርምር ይ می‌کنند።
+*   **የግብርና እንቅስቃሴዎች:** በግብርና áreas ውስጥ ልጆች ብዙውን ጊዜ ከወላጆቻቸው ጋር ይሳተፉበታል።
+*   **የበዓል እና የ ባህላዊ ዝግጅቶች:** በበዓላት እና በ ባህላዊ ዝግጅቶች ልጆች ብዙውን ጊዜ ከወላጆቻቸው ጋር ይሳተፉበታል።
+*   **የማ Educación እንቅስቃሴዎች:** ልጆች ብዙውን ጊዜ ከወላጆቻቸው ጋር ወደ ትምህርት ቤት ይሄዳሉ።
+
+ይህንን ማብራሪያ በመሰረት አንድ መልስ ብቻ መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-27,Family,በአያቶችን ስትጎብኙ በተለመደ የምትሰጡት ስጦታ የብር 10 ብር ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-28,Family,የልጁ የመጀመሪያ cumpleaños (જન્મ ቀን) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-29,Family,75ኛ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-31,Education,በኢትዮጵያ የአንደኛ እና ሁለተኛ ደረጃ ተማሪዎች ለፈተናዎች በተለይ በ escuelas ውስጥ ይ estudiando ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-33,Education,በእርግጥ፣ መልስ: ብዙውን ጊዜ ወደ ቤት ይሄዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-34,Education,በብዙ አ случаев፣ ተማሪዎቹ ወደ ትምህርት ቤት ይሄዳሉ፣ ብዙውን ጊዜ በ escuelas የሚሰበሰቡ ናቸው፣ ከዚያም በ grupos ይሄዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-35,Education,በኢትዮጵያ ውስጥ በጣም የተለመደው የግል ትምህርት ደርሳቹ ትምህርት (Private Tutorial) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-36,Education,"የሚበብ የትምህርት ምናሌዎች በኢትዮጵያ ትምህርት አካዳሚዎች እና የግል ትምህርታዊ ተቋማት በብዛት ተከታተሉት የሚሆኑት፡
+
+*   **ሳይንስ፣ matemáticas እና ኮምፒውተር ሳይንስ**
+*   **ኢኮኖሚ እና ንግድ**
+*   **ህክምና**
+*   ** ingeniería**
+
+ይህንን ምናሌዎች በብዛት መ Selecting የሚሆነው በሥልጠና አ oportunidadዎች disponibilidad እና በ就业 oportunidades disponibilidad ምክንያት ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-37,Education,በአብዛኛውም ጊዜ ቀላል እና ምቹ አልባሳት፣ ብዙውን ጊዜ ቲሹ ወይም የሚል አልባሳት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-38,Education,የሚስጥር ትምህርት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-39,Education,"በኢትዮጵያ የመጀመሪያ ትምህርት ተማሪዎች በተለይ የሚማሩት ሙዚቃ መሣሪያ **ኪ-ቡል (Kiflu)** ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-40,Education,በእረፍት ጊዜ ተማሪዎች ይጫወታሉ፣ ይነጋገራሉ እና አንዳንድ ጊዜ ምግብ ይ吃ሉ።,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-41,Education,አዎ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-42,Education,"በኢትዮጵያ ዩኒቨርስቲ መግቢያ ፈተና የሚሰጥባቸው የትምህርት አይነቶች፡ matemática፣ ቋንቋ (አማርኛ ወይም inglés) እና ሳይንስ (biología, química ወይም física) ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-44,Education,"አዲስ አበባ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ji-ko-45,Education,የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩኒቨርስቲ ፌስቲቫሎች ላይ የሚጠብቁት የ estudiantes ዎች በዩ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-01,Sport,"ኳስ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-02,Sport,"ኳስ (축구)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-09,Sport,በኢትዮጵያ በባለሃብቶች ይዘወተራሉ፡ ኳስ (축구)፣ baloncesto (篮球) እና እግር baloncesto (篮球)።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-13,Sport,የሚይዝ ውሻ (Water polo),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-14,Sport,የአእምሮ ስፖርቶች Among Us በጣም ታዋቂ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-18,Work life,365,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-19,Work life,"ኦሮሚያ
+",1,0.2
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-21,Work life,"18:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-31,Education,"08:30
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-32,Education,በኢትዮጵያ በመጀመሪያ ደረጃ ትምህርት ቤቶች ውስጥ ብዙውን ጊዜ ኳል (축구) ይጫወታሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-36,Education,7,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-37,Education,5,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-39,Education,"8
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jo-sp-43,Education,"11
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-01,Food,"በኢትዮጵያ ሰዎች በተደጋጋሚ የሚጠቀሟቸው የምግብ መመገቢያ እቃዎች በሰፊሑ የሚከተሉት ናቸው፦
+
+*   **ኪኖ아 (Quinoa):** በኢትዮጵያ በብዙ ቦታዎች ተጠቅሰናል።
+*   **ምስር (Barley):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **ማሎች (Millet):** በኢትዮጵያ በራሳቸው አያሌ ምግብ ውስጥ ይ utilizado ይባላል።
+*   **ተሾች (Teff):** ኢትዮጵያዊት ምግብ ውስጥ በጣም አስፈላጊ የሆነው እቃ ነው።
+*   **ማሎች (Millet):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **የሚስር (Amaranth):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **የሚስር (Amaranth):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **የሚስር (Amaranth):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **የሚስር (Amaranth):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+*   **የሚስር (Amaranth):** በብዙ አይነት ምግብ ውስጥ ይ utilizado ይባላል።
+
+ይህም በኢትዮጵያ ሰዎች በተደጋጋሚ የሚጠቀሟቸው የምግብ መመገቢያ እቃዎች ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-04,Food,በኢትዮጵያ ሰዎች በሰፊው ቢንቀሳቀስ የሚወዱት ቡና ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-06,Food,በኢትዮጵያ በበይ አቮር ( Tej ) ነው።,1,0.75
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-07,Food,1.5,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-09,Food,18:00,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-12,Food,ኢትዮጵያውያን በተለምዶ ሾርባን በነዳigable፣ በነብሽተና እና በነብሽተና ጋር ይብላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-13,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-15,Food,በጣም ይወዳሉ፣ በተ特别是 የሰለማ፣ የዶርጋን እና የሰባ አተር ያሉትን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,የኢትዮጵያ ትልቅ ዓለም አቀፍ በዓል የገና በዓል ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"ቡስ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,የገና በዓል ጋር የተያያዙ ምልክቶች ወይም ምስሎች፡ የገና ፀጌት፣ የገና ካርዶች፣ የገና አረንጓዴ ቀለም እና የገና ዘፈኖች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-37,Sport,"በኢትዮጵያ ሴቶች በብዙ አይነት ስፖርቶች participación ይገኛሉ። ከነዚህም መካከል፡-
+
+*   **የ chạy ( chạy )**
+*   **የ baloncesto ( baloncesto )**
+*   **የ እግር ኳል ( football )**
+*   **የ ታ이 cuantitያ ( 태권도 )**
+*   **የ ስዊમિંગ ( swimming )**
+*   **የ гимнастика ( gymnastics )**
+
+እና ሌሎችም ስፖርቶች ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-38,Sport,በኢትዮጵያ ወንዶች በሰፊው እግር ኳስ፣ እግር baloncesto፣ እና ሌሎችም አካባቢያዊ ስፖርቶችን ማየት እናፈቅራሉ፡፡,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,በዋናነት የሚያደርጉት የመዝናኛ እንቅስቃሴዎች፡ ጓደኞችን ማብይ፣ ሱፐርማርኬት እና ቡና ቤቶች ላይ በመዝናኛ፣ ፊልም ማየት እና ዛፎች ላይ በመጫወት ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,የሚነሱ አብާማዎች፣ ጫት ቤቶች እና ጓደኞችን ማብ visitar ማድረግ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-46,Work life,3.  5,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-48,Work life,በኢትዮጵያ በስራ ቀናት ላይ ሰዎች ለምሳ ከሰኞ እስከ viernes ድረስ በሰኞ እና miércoles ላይ ለምሳ ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-50,Work life,"15-30 ደቂቃ።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-51,Work life,በአጭሩ፣ በኢትዮጵያ ሰዎች ለመስራት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ **የ马车 (ሻምፒያት)** ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-54,Work life,7 ቀን።,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-56,Work life,50 ዓመት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-57,Work life,60 ዓመት።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-58,Work life,የብረታች አሠራር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-60,Work life,"8
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-61,Work life,አዎ። ምንም አይነት ሙያ በተሻለ ይመረጣል የሚል መrespuesta ትክክል ነው። ምክንያቱም ሴቶች በሙሉ በራሳቸው ችሎታ፣ intereses እና አቅሞች መሰረት ማንኛውንም ሙያ መ Selecting ይችላሉ። ምንም አይነት ሙያ በራሱ መብት ላይ የተመሰረተ ነው፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Jod-ch-62,Work life,አዎ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-17,Education,በኢትዮጵያ ተማሪዎች በአማካኝ እስከ 12ኛ ደረጃ ትምህርት ይቀጥላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-24,Education,በኢትዮጵያ ትምህርት ቤቶች ከእንግሊዝኛ ቋንቋ በተጨማሪ አማርኛ፣ ሂካሪ እና ሌሎችም አካሄድ ትምህርት ይሰጣሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-30,Education,શન አርብና ሰኞ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-32,Food,በኢትዮጵያ እንግዶችን ለመቀበል ብዙውን ጊዜ ሾርባ፣ ጸሎ፣ እና ሻሂ (የሚል ስጋ) ያዘጋጃሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-34,Food,በኢትዮጵያ በማለዳ ምግብ ጊዜ የተለመደ መጠጥ የነጭ መጠጥ (White Wine) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-36,Food,አዎ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-39,Food,"በኢትዮጵያ ለቤተሰብ ሽርሽር ጊዜ በተለይ የሚዘጋ Recipes የሚከተሉት ናቸው፡-
+
+*   **በጆንያ እና ዶሮ:** ይህ በጣም ተወዳጅ እና ባህላዊ ምግብ ነው። ዶሮ በጆንያ (የሚስር አትክልት) እና በርበሬ ጋር ይዘጋጃል።
+*   **የሚስር አትክልት (በጆንያ):** ይህ አትክልት በበርበሬ እና ሌሎች调味剂 ጋር ይዘጋጃል።
+*   **የሚስር አትክልት እና ዳርች:** ዳርች በጆንያ እና በርበሬ ጋር ይዘጋጃል።
+*   **የሚስር አትክልት እና ስብሳ:** ስብሳ በጆንያ እና በርበሬ ጋር ይዘጋጃል።
+*   **የሚስር አትክልት እና ሻል:** ሻል በጆንያ እና በርበሬ ጋር ይዘጋጃል።
+
+ይህም ጥቂት ejemplos ናቸው። በክልል እና በቤተሰብ ፍላጎት መሰረት የተለያዩ Recipes ይዘጋጃሉ።",,
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-40,Food,ወሻ ያለ።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-43,Food,ኢትዮጵያዊ ዳቦ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-51,Work life,"09:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ki-pe-53,Work life,"09:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-01,Holidays/Celebration/Leisure,የገና በዓል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-02,Holidays/Celebration/Leisure,የነጣነት ቀን በሚከበር ጊዜ ኢትዮጵያውያን በጾታዊ አ衣ት ላይ አ衣ት ይለማመዱ፣ በጎሣ ባህል አረመኔዎች ይሳተፉ፣ እና በየቤተክርስቲያናቸው በጸሎት ይጸወፉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"የሚከተሉት አ Answerዎች ናቸው:
+
+*   **አረንጓዴ ቀለም ያለው የ纸 መực (Green paper)** - ይህ ባህሪ በኢትዮጵያ ባህል ውስጥ በጣም የተለመደ ነው፡፡
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-05,Holidays/Celebration/Leisure,በኢትዮጵያ የእርግዝና በዓል ወይም ሥነ-ሥርዓት በፀሐየተስፋት (ፀሀይ ከ동쪽 በስተጀለፍቲ) ይካሄዳል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-06,Holidays/Celebration/Leisure,"መልስ: ጷጉሜ (በአንዳንድ አካባቢዎች ጷጉሪት)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-07,Holidays/Celebration/Leisure,"በኢትዮጵያ አዲስ አመት ልጆች የሚጋሩት ነገር ""የሚቀረው አመት"" ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-08,Holidays/Celebration/Leisure,በኢትዮጵያ ረመዳን ከመጀመሪያው ቀናት በፊት የሰዎችን አረጅነት እና የ Prayers (ጸሎት) እንቅስቃሴዎች ያበረታታ ነበር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-10,Holidays/Celebration/Leisure,ልብሰልሞ፣ ላሊበላ፣ ጊዮርጊስ፣ እና ጸባዖት ቤተክ Churches።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"ላሊበላ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-15,Holidays/Celebration/Leisure,"በኢትዮጵያ ሴቶች በመጨረሻ የተመረቀችውን የምረቃ ስነስርዓት ላይ ብዙውን ጊዜ ጃሚ, ቃምیس እና ሸል ይለበሳሉ.
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-16,Food,ዋፍ እና ውሃ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-17,Food,"በረመዳን ጊዜ በኢትዮጵያ በተለይ የሚሸጥና የሚገኝ ፍሬ ጁጅ (ጁጅ ፍሬ ተብሎም ይጠራል).
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-24,Food,ማሎች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-31,Sport,የሚስጢር ኳል (Hidden Ball),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-34,Sport,የኢትዮጵያ ብሔራዊ ቴሌቪዥን ላይ በተደጋጋሚ የሚሰሩ ስፖርቶች የኳሶች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-35,Sport,የ chạy ( chạy ) እና የ baloncesto ( basketball )።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-36,Sport,"የዮሐንስ ቨርቴስ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-37,Sport,መልስ: ዮባሃኔስኬ እና Etisalat,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-38,Sport,መልስ: ወድድና እና ወድድሮ።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-40,Sport,በአ时时的足球场上 ታሪክ የ имевший самый известный футболист из Эфиопии - Дельви ዴቭሳ.,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-41,Sport,አዜብሄር ፐርሳ።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-44,Sport,ኳስ (축구),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Kik-in-45,Sport,"በኢትዮጵያ የትምህርት ቤቶች ውስጥ በተለይ የሚገኙ የስፖርት መስኮች አሁንထိ በብዙዎቹ የትምህርት ቤቶች ውስጥ አሉ። እነዚህም፦
+
+*   ኳስ ሜዳዎች (축구장)
+*   ባስኬትબોል ሜዳዎች (농구장)
+*   ቮሊቦል ሜዳዎች (배드민턴장)
+*   ቮሌይбоል ሜዳዎች (배드민턴장)
+*   ተካራ ሜዳዎች (육상장)
+*   የአሯሯ ሜዳዎች (육상장)
+*   የተካራ ሜዳዎች (육상장)
+*   የአሯሯ ሜዳዎች (육상장)
+*   የአሯሯ ሜዳዎች (육상장)
+
+እነዚህም በብዙዎቹ የትምህርት ቤቶች ውስጥ አሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-02,Food,"ቡና
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-04,Food,የሐንጋቨር ፈውስ ምግቦች፡ ዱቄት ሻሎ፣ በርሜሎች፣ ዱቄት ሻንት፣ ዱቄት ሻሎ እና ዱቄት ሻንት ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-05,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-07,Food,በኢትዮጵያ ሰዎች በብዛት የሚበሉት የሥጋ አይነት ደጎላ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-08,Food,ማንኪያ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-09,Food,በኢትዮጵያ የምግብ ጠረጴዛ ላይ በተቻለ መጠን በብዛት የሚቀርብ ምግብ፡ ዳ Growth (Doro).,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-11,Food,የሚስጥር ስሜት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-15,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-16,Sport,በኢትዮጵያ የእግር ኳስ ተጫዋቾች ዝነኛው አብዱልሃቂ ሱሌ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-17,Sport,ኳስ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-18,Sport,በኢትዮጵያ የተማሪዎች ትምህርት ክፍሎች ላይ ሴቶች በተለይ ኳንና እና እግር baloncesto ላይ ተባባሪዎች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-19,Sport,ሊዮን ዮሴፍ,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-20,Sport,ኦલિಂಪিক ጨዋታዎች,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-22,Sport,በእርግጥ ነው፣ በዓለም አቀፍ እግር ኳስ  competición ዎች ውስጥ ኢትዮጵያን የሚቃኙ ትልቅ ቡድላቱ አብሽ እና ኬንያ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-23,Sport,"የ Fútbol (ኳስ)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-24,Sport,በኢትዮጵያ ስፖርት ስታዲዮሞች ላይ ጨዋታዎችን በመመልከት በተለምዶ የሚመገው ምግብ፡ ቡና፣ ፈንቃራ ስጋ፣ ጸባና፣ እና የተለያዩ አይነት ዳቦዎች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-25,Sport,"በኢትዮጵያ ትምህርት ቤቶች የስፖርት ቀን ላይ ተጫወቱ የሚሆኑ አይነቶች የስፖርት መድረኮች የሚከተሉት ናቸው፦
+
+*   ኳስ (ፍुट볼, baloncesto, እግር baloncesto)
+*   ዘልአለም (ሃኪማት)
+*   ተትረረ (ቮለይбол)
+*   ሌሎች የሰፊ የ deportes ዓይነቶች።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-26,Sport,"የተጫነ ኳስ (Football/Soccer)
+",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-28,Sport,"ኪሳነ ብርሃነ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-29,Sport,"ሜልቲ ዴሳልሞ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-30,Sport,ፋутናል (Football Manager),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"መልስ: ሾል እና ፈክቻ
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-37,Holidays/Celebration/Leisure,የሚመርጡት መኖሪያ የእረፍት ቦታ ብዙውን ጊዜ በጎሣ ባህል፣ ተፈጥሮአዊ ውበት እና ባህላዊ የባህል አከባቢዎች ያሉት አቆጣጠር ቦታዎች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-38,Holidays/Celebration/Leisure,በኢትዮጵያ ሙሽራና ሙሽራዪቱ መካከል የሚሰጣቸው ስጦታዎች የነዚህን አይነት ነበሩ፡ ጌር፣ የብርንቀ Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering Entering,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-39,Holidays/Celebration/Leisure,"መልስ: ጷጉል
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"40
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-41,Holidays/Celebration/Leisure,በኢትዮጵያ ሃዘን ስትሄድ፣ በብዙ አረፋዎች እና በደካማ መንገድ ላይ መጓዝ መዘጋጀት አለብዎት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"በኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ አይነት ደርስ ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-43,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች (የጨረቃ) አዲስ አመት ማለዳ በተለምዶ በጾታዊ ፆምን ይጀምራሉ፣ ይህም ለሦስት ወራት ያጠራቀማል፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"ኅዳር 12 ቀን 1966 ዓ.ም.
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Na-ko-45,Holidays/Celebration/Leisure,የኢትዮጵያ ጵጵጵላ መድረክ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,መልስ: ኢትዮጵያዊነት እና አንድነትን ያጠናngthening የልደት ቀን በዓል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,በራማዳን ወቅት ኢትዮጵያውያን በነይborhoodዎቾች ውስጥ የሚገኝ የሰፊ የፍፁም ምግብ (ሰፊ ምግብ) ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,በኢድ አል-ፍጥር በኢትዮጵያ ሰዎች ብዙውን ጊዜ ስጿ፣ ቃሎ እና ሌሎች ባህላዊ ምግብዎችን ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,በኢድ አል-አድሃ በኢትዮጵያ ሰዎች በብረት እና በሌሎች የ animales  肉  የሚበሉ፣ እንዲሁም በሰአት እና በሌሎች የ đặc biệt  የሚበሉ ምግብ ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,"የሚከተሉት አ Answerዎች ናቸው:
+
+*   **የከተሞች ፓርኮች፣ ቤተክ Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches Churches",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,በбычно ቤተሰብ በኢትዮጵያ ለኢድ በዓል የሚሰበሰብበት ቦታ ብዙውን ጊዜ በቤተክርስቲያኗ አካባቢ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-16,Work life,ማክሰኞ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-17,Work life,09:00,1,0.25
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-18,Work life,09:00,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-20,Work life,በኢትዮጵያ የታመነ ሥራ ማለት በኢትዮጵያ መንግስት በህዝብና በፋብሪካ ተጠቃሚነት መረጃ አሰ്ലാሰል በማድረግ የሚከናወነ የባህልና የቱሪዝም ዘይቤયોን መረጃ አሰ്ലാሰል ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-24,Work life,አዲስ አበባ,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-25,Work life,"农业 (Agriculture)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-26,Work life,"መልስ: ዶላር ኪኮስ (Dollar Kilos)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-31,Food,ኢትዮጵያዊ ምግብ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-32,Food,"በኢትዮጵያ ሰዎች ለእለታዊ ቁርስ ብዙውን ጊዜ ዳቦ፣ ጸሎ፣ ገንፎ እና ወተት ይመገባሉ።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-33,Food,"06:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-34,Food,በኢትዮጵያ ምግብ በተለይ በርሜሎች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-36,Food,በኢትዮጵያ እንደበዓል የሚበላ አነስተኛ ምግብ ሾል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-37,Food,"ማንኪያ (የ Fruits)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-38,Food,በኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ዳ Growth (Dabo) እና ጸሎት (Tsebe) ይሰጣሉ፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-39,Food,"ማንሽ (Menche)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-43,Food,በኢትዮጵያ ሰዎች በተለይ ከሻይ ጋር ጷጉል፣ በአድና አቀባ፣ እና በሌሎች የ Festive ጊዜያት ላይ ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ne-ar-44,Food,በኢትዮጵያ ሰዎች ቡና ብዙውን ጊዜ ከነብስ፣ ከነምስ እና ከነፍክራ ጋር ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-02,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-04,Food,ሻሂ ወጥ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-08,Food,በጾም ወቅት ክርስቲያኖች የሚበሉት በሰፊadamente የሚባለው ምግብ፣ ይህም በውስጡ በሰፊadamente የሚበሉት ምግብ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-15,Food,የሚዘጋጀው ምግብ፡- አተር እና አትክልቶችን በመጠቀም የተሰራ ጷል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-27,Sport,"ሻሂን አብዲ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-34,Education,በአብዛኛው የመጀመሪያ ደረጃ ት/ቤት ተማሪዎች ለፈተናቸው በአውታሚ ት/ቤቶች ይዘጋሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-41,Education,አስጠ 공급 12ኛ ክፍል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-53,Work life,ኦሮሚያ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-54,Work life,ኦሮሚያ ክልል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-59,Work life,በበርሃማ አካባቢ የሚኖሩ ሰዎች ዋና ሥራ እርሻ በማባ Đầu ላይ እና በ ganado እርሻ ላይ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-60,Work life,በአጭ recientes በኢትዮጵያ ለመጓጓዣነት የሚያገለግል እንስሳ የ马。,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-72,Family,"የሚከተለው መጽሐፍ: ""የአያቴ ጷዬ""።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-73,Family,"""የአርኪ"" (Aark)",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-74,Family,የሚስጥር የውይይት ፕሮግራም (Secrets),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-77,Holidays/Celebration/Leisure,መልስ: በአምስቱ ጾምን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-81,Holidays/Celebration/Leisure,1. ጥቅምት,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-am-83,Holidays/Celebration/Leisure,በኢትዮጵያ በበይ በበይ የሚታወቀው የሙዚቃ መሣሪያ በበይ (Krar).,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-01,Food,"ሚካኤል
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-02,Food,ሽላ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-05,Food,"በኢትዮጵያ እንግዶች ቤተሰቦች ሲጎበኙ የሚቀርብላቸው እጅግ እንደተለመደ መጠጥ ምንድነው: **ሻሂ (ሻሂ)**።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-07,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-14,Food,በዝናባማ ወራት ጊዜ ኢትዮጵያውያን ሙዝ እና ሻሂ (የሚበልጥ ሻሂ) ይወዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-15,Food,የሚጠቅላው ውሃ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-20,Sport,ኳስ ( fútbol/ኳስ እግር),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-29,Sport,"ኳስ (축구)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-30,Sport,የኢትዮጵያዊት ሴቶች በብዙ አይነት ስፖርቶችን መመልከት ይወዳሉ። በ Particular፣ እግር ኳስ፣ baloncesto፣ እግር ኳል እና ሌሎችም ስፖርቶችን ይደግፋሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-58,Work life,በበቤን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-64,Family,ገና በአስቀያ ቀን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-76,Holidays/Celebration/Leisure,"በኢትዮጵያ በባህላዊ በዓላት ጊዜ ቤተሰቦች ብዙውን ጊዜ ""አatrical"" (atrical) የሚባል ጨዋታ ይጫወታሉ። በተጨማሪም ""ጋሪ"" (Gary) እና ሌሎች አካባቢያቸውን በመሻ variaciónዎች የሚጫወቱ ጨዋታዎችን ይጫወታሉ።",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-80,Holidays/Celebration/Leisure,አዎ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-as-89,Holidays/Celebration/Leisure,"አዎ።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-05,Food,"ኦሮሚያ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-11,Food,መልስ: ዶአሪ፣ አቮካዶ፣ ሰማንያ እና ፖፕረስ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-12,Food,"ዋሽ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-21,Sport,አማራ ክልል።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-26,Sport,አክሊሉ ኃይሌ።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-27,Sport,"ሻውትስ (Shooting sports)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-39,Education,ዩንቨርስቲዎች (University of Canada),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-49,Work life,"1
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-60,Family,በኢትዮጵያ፣ ሁለቱም ወላጆች ሰራተኞች ከሆኑ ልጆችን የ policía ኃላፊነት የሚውളድ ፖሊስ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-69,Holidays/Celebration/Leisure,በኢትዮጵያ ወንዶች የሚመርጡት የአልኮል መጠጥ በዋናነት ቢራ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-70,Holidays/Celebration/Leisure,"በእርግጥ ነው፣ በኢትዮጵያ ሴቶች የሚመርጡት አስካሪ መጠጥ መጠጥ ""ሻሂ"" ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-az-73,Holidays/Celebration/Leisure,50,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-01,Food,የብረት ሥጋ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-02,Food,07:00,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-04,Food,በኢትዮጵያ ሰዎች በምሽት ምግብ ሲበሉ በተለይ ኬባ ስባና፣ ሻሂ እና ዱቄት ተብለው የተዘጋጀ ምግብ ይመገባሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-05,Food,በኢትዮጵያ በጣም ዝንziest የሚያቃጥል ምግብ፡ ቡና ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-07,Food,በኢትዮጵያ ሰዎች ከጠንካራ መጠጥ ጋር የሚወሰዱ ምግቦች፡ ዶሮ፣ ቆዳ፣ ሻሂ፣ እና ሻሂ ዶሮ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-08,Food,በኢትዮጵያ ምግብ ለማብሰል በርበሬ አስፈላጊ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-09,Food,በጣም சூቀው ምግብ፣ ለምሳሌ ዳሎ፣ ቡና እና ሙዝ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-13,Food,"በኢትዮጵያ ""ቢራ ጽጌ"" በጣም ዝነኛ አልኮል ብራንድ ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-14,Food,በኢትዮጵያ ሰዎች ሲታመሙ በተለይ ዶሮ፣ አተር፣ ሰሌዳ፣ እና ሻሂን ምግቦች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-15,Food,"በኢትዮጵያ ሰዎች ከሱፐርማርኬቶች በተለምዶ የሚገዙ የተዘጋጁ ምግቦች፡-
+
+*   **የሚረታ ምግቦች:** ጃቫ, ሻኩ, ዶሮ ጃቫ, ሻልም, ዶሮ ሻልም, ሻልም ጃቫ
+*   **የሚወሩ ምግቦች:** ዶሮ, ሻልም, ሻኩ, ጃቫ
+*   **የሚዘጋጁ ስጋዎች:** ዶሮ, ሻልም, ሻኩ, ጃቫ
+*   **የሚዘጋጁ እ Fruits እና Vegetables:** አቮካዶ, ፖፕያ, ፒፕሪካ, ሮዝማሪ, ፔፐርሚንት
+
+ይህም በሱፐርማርኬቶች ውስጥ በበይነመረብ የሚገዙ አንዳንድ የተዘጋጁ ምግቦች ናቸው።",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-16,Sport,"የሚከተለው መልስ ተቀብያለሁ:
+
+መልስ: ""የአውሬው ጀግና"" (The Lion King)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-17,Sport,"ፍግርፊስ (Football/Soccer)
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-18,Sport,የተጫዋቾች ቡድኖች (ፌክስ እና ፒኤስ)።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-19,Sport,የኢትዮጵያ አብ Greatest Fitness Competition (GFC) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-23,Sport,"መልስ: ዮሐንስ ቴክሳፋ
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-26,Sport,የ1960ዎቹ አዲስ አበባ ኦሊምፒክ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-27,Sport,ኪስኔል ዴቭት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-30,Sport,አክሊሉኸ ዘአለም,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-31,Work life,በኢትዮጵያ ወላጆች ለልጆቻቸው ከሁሉ ይልቅ የሚመኙት የስራ አይነት ደር><!--> በ agricultura (ግብርና) እና በ በ ganado እርባ constituyen።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-32,Work life,"በኢትዮጵያ በቢሮ ስራ ላይ ብዙውን ጊዜ Microsoft Office (Word, Excel, PowerPoint) የሚሰላሰል软件 ይጠቀማሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-38,Work life,አድિસ્ አበባ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-39,Work life,መልስ: Etisalat Ethiopia,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-44,Work life,አንድ ወር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-45,Work life,农业,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-49,Family,"ስልክ ( móvil )
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-51,Family,መልስ: ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢትዮጵያ ዌስት ኢት,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-54,Family,"ዋህል።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-64,Education,3,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-66,Education,"150 ብር
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-70,Education,"በኢትዮጵያ ሁሉም የዩኒቨርስቲ ተማሪዎች በጋራ የሚማሯቸው አስፈላጊ ኮርሶች የሚከተሉት ናቸው፦
+
+*   እንግሊዝኛ ભાષા
+*   ሂстоሪ (የኢትዮጵያና የአለም ታሪክ)
+*   ፖለቲካና የ internacionales ጉዳዮች
+*   የኢትዮጵያ ፖሊትካ Economíaና አስተዳደር
+*   ፍ Philosophyልosofical Ideasና ética
+*   የህግ መሰረታዊ መርτυቦች (Constitutional Law)
+
+ይህ መልስ በብዙ ዩኒቨርሲቲዎች በአብዛኛውም ደረጃ ተማሪዎች የሚማሩትን መሰረታዊ ኮርሶች ያጠቃልላል።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-71,Education,"25
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-72,Education,"የሳይንስ, තාක්ෂණය ಮತ್ತು ingeniería (STEM)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-73,Education,ፖለቲካዊ ክለቦች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-74,Education,በተለምዶ በዩኒቨርስቲዎች ውስጥ በቡድን አብረው መኖር ይ习惯ላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-75,Education,"45
+",1,0.25
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-78,Holidays/Celebration/Leisure,የሚከተሉት: ጸደይ መሄድ፣ ሸው መሸው፣ ጸሎት ቤት መሄድ እና ቤተሰብ ጋር መነሳሳት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-79,Holidays/Celebration/Leisure,የሚከተሉት: እግር ኳስ፣ የሰለጠነ ኳስ እና የትራይል ፉትስ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-80,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ በዓላት ጊዜ ነው ቅዱሳን ቦታዎችን የሚጎበኙት - በአምስቱ ታላቁ በዓላት ጊዜ፣ ይህም የገና በዓል (ኢትዮጵያዊ የገና በዓል), የጌታችን መድኀኒታቸው እየሱስ ክርስትር የጸባዖት በዓል, የጻድቁ ቅዱስ ያков የጸባዖት በዓል, እና የጻድቁ ቅዱስ marcos የጸባዖት በዓል ናቸው።",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-81,Holidays/Celebration/Leisure,"የሚከተሉት የቤት የሚያደምቁ ስጦታዎች በኢትዮጵያ ናቸው:
+
+*   **የአትክልት ስጦታዎች:** ዛፎች፣ አትክልት፣ እና ሌሎች የአትክልት ስጦታዎች ብዙውን ጊዜ በቤት ውስጥ አድናዛን ይተክራሉ.
+*   **የፀሐረይ ማብራሪያዎች:** እነዚህም ብዙውን ጊዜ በቤት ውስጥ አድናዛን ይተክራሉ.
+*   **የአርብ ስጦታዎች:** አንዳንድ የ አርብ ስጦታዎች በቤት ውስጥ አድናዛን ይተክራሉ.
+
+እነዚህ ስጦታዎች ብዙውን ጊዜ በቤት ውስጥ አድናዛን ይተክራሉ ምክንያቱም የኢትዮጵያ ባህል እና የደን Decisions አድናዛን መተካት ላይ ያተኩራል።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-83,Holidays/Celebration/Leisure,መልስ: አዲስ አበባ,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-84,Holidays/Celebration/Leisure,લાલા (લાલા),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ch-85,Holidays/Celebration/Leisure,கருப்பு,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-01,Food,በኢትዮጵያ ሲኒማ ውስጥ የሚመገዱት ምግብ በሲኒማው ውስጥ የሚዘጋጀው ምግብ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-02,Food,"መልስ: ፈን给 (Fenche)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-04,Food,"የሚከተሉት ሼፍዎች በኢትዮጵያ ውስጥ ዝነኛና ታዋቂ ናቸው፡
+
+*   **አቶ ኃይሌ ዮሐንስ** (የ""የአያቴ ዶሮ"" ምግብ ቤት ፈጣሪ)
+*   **አቶ ጌታቸው ኃይሉ** (የ""የአያቴ ዶሮ"" ምግብ ቤት ፈጣሪ)
+*   **አቶ አበበ አብራሃም** (የ""የአያቴ ዶሮ"" ምግብ ቤት ፈጣሪ)
+
+በእነዚህም መካከል አቶ ኃይሌ ዮሐንስ በጣም ታዋቂ ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-05,Food,ሽላ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-07,Food,"የሚከተለው የምግብ ዝግጅት ፕሮግራም/ሾው ""የአርጅና ሾው"" ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-08,Food,ማንቸስተር (Manchester),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-10,Food,ማንኪያ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-11,Food,"በኢትዮጵያ እጅግ የተጠላ አትክልት ምንድን ነው?
+
+መልስ: ፀጌረዳ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-12,Food,በሰይፍ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-17,Sport,በኢትዮጵያ የስፖርት አድናቂዎች የሚጠቀሙባቸው በጣም የተለመዱ የደስታ መግለጫ ምግቦች፡ ቡና፣ ኬክ፣ እና ዶንuts ናቸው።,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-18,Sport,በኢትዮጵያ የስፖርት አድናቂዎች የሚጠቀሙበት በጣም የተለመደ የደስታ መግለጫ ምግብ የሰሎዶ (Injera ከ diferentes tipos de carne) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-19,Sport,የኢትዮጵያ ብሔራዊ ስፖርት ስታዲየም,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-23,Sport,"ሌለን አበበ
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-26,Sport,"ፍ Fútbol (ኳስ)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-38,Work life,የሚስጥር አገልግሎት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-41,Work life,መልስ: አቶ ኃይሌ ሾ长。,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-47,Family,"በቤቶች የኋላ ቦታ/ጓሮ ውስጥ ብዙውን ጊዜ የእሳት ማብቀል (የሚባለው ""ትሪ"" በአማርኛ), የእጽዋት ቦታዎች, የእትክልት ፍructuoso እና አንዳንድ ጊዜ የእሳት ማብቀል (የሚባለው ""ትሪ"" በአማርኛ) ይገኛሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-49,Family,አቶ ኃይሉ ጌትቱ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-50,Family,"የሚበልጸMLElement የቤተሰብ ስሞች በኢትዮጵያ ብዙ ናቸው። ነገር ግን፣ በጣም ታዋቂ የሆነው የቤተሰብ ስም ""የወርቄ"" ነው።",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-55,Family,ኦርቶዶክስ ኢትዮጵያዊት ሃይማኖት።,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-56,Family,እንግሊዝኛ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-59,Family,ሜክሲኮ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-68,Education,"በኢትዮጵያ ትምህርት ቤቶች ውስጥ ለመጥፎ ባህሪ የሚዳርጉ ተግባራት መካከል የነሱን መረጃ ለማግኘት በቅርቡ አዲስ መረጃ አላ Tenemos. ነገር ግን፣ በቅርቡ በሰነፍ የተነሳ የትምህርት ቤቶች ውስጥ የሚከሰት መጥፎ ባህሪ አጠቃሎ በተጠቀሰላቸዉ ተግባራት መካከል፡-
+
+*   **የተማሪዎች መካከል ያለ violencia (Physical and verbal abuse)**
+*   **የተማሪዎች እና docentes መካከል ያለ አለመ respeto (Disrespectful behavior)**
+*   **የተማሪዎች መካከል ያለ መተቃ돌ፊ (Bullying and harassment)**
+*   **የተማሪዎች መካከል ያለ መዋጥ (Cheating and plagiarism)**
+*   **የተማሪዎች መካከል ያለ መጥፎ አመለካከት (Negative attitudes and behaviors)**
+
+ይህንን ተግባራት ለመቀracción ለማድረግ ተጨማሪ መረጃዎችን ለማግኘት እ کوشش እያለሁ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-69,Education,"በኢትዮጵያ ውስጥ በሥነ ጽሑፍ ክፍል ውስጥ በብዛት የሚጠነዩ ጸሐፊዎች እነኚ ናቸው፦
+
+*   **ሃይሉ ተክሌ**
+*   **አርጅና ቴክሳፋ**
+*   **ዮሐንስ ፔትሪ**
+*   **አምደስ ገብረ ክርሰስ**
+*   **ኤልያስ ተክሌ**
+
+ይህም በቅርቡ የተጻፈባቸው እና በህትመት መጠን ከፍተኛ የሆነባቸው ጸሐፊዎች ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-70,Education,3,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-72,Education,"ኢትዮጵያ ብሔራዊ የመስመርonuclear librería (Ethiopia National e-Library)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-75,Education,9,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-76,Holidays/Celebration/Leisure,መልስ: አዲስ አበባ አየር ማረፊያ,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-79,Holidays/Celebration/Leisure,አምላizumab።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-87,Holidays/Celebration/Leisure,"ላሊበላ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-en-90,Holidays/Celebration/Leisure,መልስ: ዌስትማን ሆቴል (Westin Hotel),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-05,Food,"ሻክሹካ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-06,Food,"ኢንጀራ እና വാ Numerical
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-08,Food,በኢትዮጵያ በተለያዩ በዓሎች ላይ የሚጠጣ የአልኮል መጠጥ አይነት **በቢንቄ** ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-13,Food,በኢትዮጵያ በጥዋት የተለመደ መጠጥ፡ ቡና ነው።,1,0.4
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-15,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-21,Sport,ቮሌይбоል።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-24,Sport,ፍግርግ (Futsal),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-29,Sport,ኦଲিম্পিক ጨዋታ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-47,Work life,"0
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-58,Work life,"የሚከተሉት ዝቅተኛ ክፍያ ያላቸው ስራዎች በኢትዮጵያ አሉ።
+
+*   የ Agricultura ስራዎች (በግብርና ሥራዎች)
+*   የቤት ውስጥ አሠራር ( doméstica አሠራር)
+*   የሽợp አሠራር (ሽợp አሠራር)
+*   የተሽከርካሪ አሠራር ( vehículos አሠራር)
+*   የአስተዳደር አሠራር ( አስተዳደር አሠራር)
+
+እነዚህ ስራዎች ብዙውን ጊዜ ዝቅተኛ የ Wages ያገኛሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-76,Holidays/Celebration/Leisure,"ኢንጀራ እና ዶብ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-82,Holidays/Celebration/Leisure,ፋቅር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-88,Holidays/Celebration/Leisure,"የሚቀርብ መጠጥ፡ ሻይ (Tej)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-gr-89,Holidays/Celebration/Leisure,በኢትዮጵያ በሰርግ ሥነ ሥርዓቶች ላይ የሚቀርብ መጠጥ የነጭ ወይንና የነጭ ጭንቅላት ናቸው።,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-07,Food,"ፋ hidrógeno (ፋ hidrógeno)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-08,Food,በሰማ ግብስ።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-09,Food,"በኢትዮጵያ በተለይ የሚጠቀምበት የምግብ ማብሰሪያ ምንድነው?
+
+መልስ: **የሚረፍ (ጀማ)**
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-13,Food,ፋክሌ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-19,Sport,"በበ Endangered Species Conservation Center (ESCC) መረጃ መሰረት፣ በኢትዮጵያ ለስፖርት እንቅስቃሴ የሚውል እንስሳ **የአር马 (Horse)** ነው።
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ha-66,Family,"በኢትዮጵያ በጣም ታዋቂው የሰርግ መድረክ ""የአርባcemic ሰርጉ"" ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-01,Food,መልስ: ጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵጵ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-03,Food,"ኢትዮጵያዊ ምግብ (Ethiopian food)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-33,Work life,ኦሮሚያ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-34,Work life,ኦሮሚያ ክልል።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-62,Education,ዋህዴን ዩኒቨርሲટી (Waddengelle University),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-63,Education,አዲስ አበባ ብሔራዊ ዩኒቨርስቲ (Addis Ababa University),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-78,Holidays/Celebration/Leisure,የኢትዮጵያ ዝነኛው የክፍያ መንገድ የባህርዳރު መንገድ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-in-80,Holidays/Celebration/Leisure,መልስ: አዲስ አበባ ፓርክ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-01,Family,"""የሚንቀሳቃሽ ምስል ፖድካስት"" (Podcasts)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-02,Family,የአመጋገብ መመሪያዎች።,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-03,Family,"""አልልልልልልልልል""",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-04,Family,"የተጫወተውት ጨዋሪያቸው ብዙውን ጊዜ ""የአንተን አትብዢ"" ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-05,Family,በኢትዮጵያ ሴቶች እና ልጃ jóvenesዎች በጣም የሚወደዱ መጫወቻዎች መካከል አብድሮ፣ ጫት እና ኳስ ናቸው።,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-06,Family,በኢትዮጵያ በጣም ታዋቂው ለህፃናት የሚነገርው ተረት ጵጵጵosaurus ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-07,Holidays/Celebration/Leisure,"የሐዘን መግለጫነት የሚውለው የባሕላዊ ምልክት ""የአንቃተ ፊታው"" ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-08,Work life,"የኮምፒውተር ሳይንስ እና ኢንፎርሜሽን ટેክኖሎጂ (CSIT)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-09,Work life,"በኢትዮጵያ ባሉ ኩባንያዎች ውስጥ በአብዛኛው የተለመዱት የስራ ቡድን ግንባታ ሂደቶች በዋናነት አፈፃፀም አቅጣጫዎች (Performance-Based), ኃላፊነት መተሓbitat (Responsibility Assignment), እና  Comunicación (સંચાર) ላይ ያተኩራሉ። በተለይም አፈፃፀም አቅጣጫዎች ላይ énfasis በመስጠት, የሰፈራ ቡድን አባላት በስራቸው ውጤት መመገુલ እና በስራቸው ላይ ግልጽ የሆነ የፈጠረ አቅጣጫ መኖሩን ያካትታል. ኃላፊነት መተሓbitat ደግሞ በሰፈራ ቡድና ውስጥ ያሉትን ኃላፊነቶች በግልጽ መወሰድ እና መተሓbitatን ያካትታል. አክሱም comunicación ደግሞ በሰፈራ ቡድና ውስጥ ያሉትን አባላት መካከል ግልጽ የሆነ መ Exchanges (સંચાર) መኖሩን ያካትታል.
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-ko-10,Work life,በኢትዮጵያ ውስጥ ሰዎች በአብዛኛው እንደ ተጨማሪ ስራ የሚሠሯቸው ስራዎች በ agricultura (ግብርና) እና በገ축ት (ገ축ት) ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-02,Food,ኢትዮጵያዊቷ ፍረഞ്ച് ፍረഞ്ച് (Injera) እና የተለያዩ አይነት ሥውር ምናባትን።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-06,Food,ኢንጀራ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-11,Food,"መልስ: ቀይቀይ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-16,Sport,"መልስ: ጷጉል
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-20,Sport,"የሚከተሉት የባሕር ዳርቻ ጫዋታዎች ናቸው:
+
+*   **የባሕር ዳርቻ ኳስ** (Beach Soccer)
+*   **የባሕር ዳርቻ ፍጥነት** (Beach Sprint)
+*   **የባሕር ዳርቻ ቮለይбол** (Beach Volleyball)
+
+በእነዚህ ውስጥ በጣም ታዋቂው የኳስ ነው.",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-45,Work life,በረመዳን ወር በኢትዮጵያ የተለመደው የስራ መርሐ ግብር ጾታዊ መርሐ ግብር ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-47,Family,"11/11
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-49,Family,ቅድስት ሥላሴ ሐቅ ሊጵጵያ (Church of the Holy Trinity),1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-53,Family,"በኢትዮጵያ አባቶች በአባት ቀን (ወይም ወላጆች ቀን) ብዙውን ጊዜ ጸሐራ፣ ዶሮ፣ ሻይ፣ ቡና፣ ፖላካ እና ገንዘብ ይስበውታል፡፡
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-54,Family,በኢትዮጵያ፣ እናቶች በኢንተርநேஷனல் މޮތަރެސް ዴ ፔራ (Mother's Day) ወይም ባለወላጆች ቀን ብዙውን ጊዜ ገንዘብ፣ የቤት ውስጥ ጌጣ-ጌጥ፣ የ衣料品፣ እና የ alimentos ስጦታዎችን ይቀበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-59,Family,4,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-65,Education,"3
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-66,Education,በኢትዮጵያ በመጀመሪያ ደረጃ ትምህርት ቤቶች ውስጥ ከትምህርት በኋላ የሚሰጡ ታዋቂ ተጨማሪ ኢመደበኛ እንቅስቃሴዎች፡ ጽጌatrical ቡድኖች፣ ፖካ መርྐዠት ቡድኖች፣ ጫት ቡድኖች እና ጸም ጽም ቡድኖች ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-74,Education,"በአማካሪ ደረጃ ለሚመለከተው የመጀመሪያ ለድግሪ ተማሪዎች የትምህርት ክፍያ ከ15,000 እስከ 30,000 ብር አካባቢ ይነሳል፡፡ ይሁን እንጂ በዩኒቨርሲቲ እና በ departamentos መረጃ variación የ существует.",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-76,Holidays/Celebration/Leisure,የኢትዮጵያ ፓርኮች ውስጥ የሚደረግ ታዋቂ እንቅስቃሴ ደንብራትን ተቆራጥብያል፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-78,Holidays/Celebration/Leisure,"የኢትዮጵያ ፊልም ፌስቲቫል ስም ""ፋብሪካ ፊልም ፌስቲቫል"" ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-83,Holidays/Celebration/Leisure,በበirla።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-85,Holidays/Celebration/Leisure,"ላሊበላ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-pe-86,Holidays/Celebration/Leisure,"በኢትዮጵያ ውስጥ እጅግ ዝነኛ የሆነው ግንብ/ፎቅ ስም ""በይነጴና"" ይባላል።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-01,Food,ሰወች እና አሳሶች ናቸው።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-04,Food,"የቆሻሻ (Wheat)
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-05,Food,"በኢትዮጵያ በጣም የታወቁ ጣፋጮች፡ ቄስ, ጊንደር እና ሻሂ.",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-15,Sport,ኳስ ( fútbol / እግር ኳስ),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-27,Education,በኢትዮጵያ ሰዎች አማካኝ ትምህርት ደረጃ 8 ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-37,Education,"የሚመለከታቸው ሙያዎች በዋናነት በ Ciencias, በ Ingeniería, በ የ informática ሳይንስ, በ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-60,Family,እሑድ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-65,Family,የኢትዮጵያ ብሔራዊ የነፃነት ቀን የሚከበርበት መንገድ የፓራድ (Parade) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-68,Family,በኢትዮጵያ ልጆች መካከል እጅግ ታዋቂ የሆነ መጠጥ፡ ቡና ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-76,Holidays/Celebration/Leisure,ቦሌ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-spme-78,Holidays/Celebration/Leisure,"""አ Maternity""
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-01,Food,የሚሸጡ አማራጮች ብዙውን ጊዜ ጫት፣ ቡና፣ ስምብሳ፣ እና ሌሎች የአትክልት ምርቶችን ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-09,Food,ሰይሻ ዘይት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-10,Food,ማሎች ምግቡ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-15,Food,መልስ: ሻሂን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-17,Sport,መልስ: አውሮፕላና ስፖርት ማཛበር፣ አዲስ አበባ ስፖርት ማཛበር፣ ቦሌ ስፖርት ማཛበር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-21,Sport,በፓርኮች ውስጥ የሚደረጉት የተለመዱ እንቅስቃሴዎች አጠቃላይ መርሖችን መተmaligngroup ማድረግ፣ የሰዎችን አያያዝ እና የ policía ኃላፊነት የሚውል áreas ላይ ተንቀሳቅሳ ማየት ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-24,Sport,በኢትዮጵያ ወላጆች እና ልጆች በጋራ የሚጫወቱ ስፖርቶች፡ ኳስ (ኳስ እና ጫል) ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-28,Sport, đỏ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-33,Education,በኢትዮጵያ በትምህርት ቤት መምህራን ለተለመደ ልብስ አይነት፡ ጸንción።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-34,Education,"በኢትዮጵያ ትምህርት ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ""ትምህርት ቤት ሙዚቃ ቡድን"" ነው።",1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-42,Education,ኦርቶዶክሳዊ ክርስትና,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-45,Education,"12/29
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-50,Work life,በኢትዮጵያ በተራራማ አካባቢዎች ሰዎች ዋና ሙያቸው እርባ constituyen።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-51,Work life,በባህር ዳርቻ አካባቢ የሚኖሩ ሰዎች ዋና ስራቸው மீன்பிሆኑ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-57,Work life,በኢትዮጵያ በተለይ የሚረቡ እንስሳት፡ ጸባና እና አበሻ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-58,Work life,በኢትዮጵያ በአብዛኛው ለእርሻ ስራ የሚያገለግሉ እንስሳት የ Cows (በ ganado) ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-59,Work life,በተለምዶ የቆዳቸው únicamente በጭልፊት ብቻ ነው፣ ይህም ፀሐይ ሙቀት ላይ ከቆዳቸው የሚመጣውን የ nhiệt መጠን ለመቀነስ ይረዳቸዋል.,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-60,Work life,በኢትዮጵያ እርሻ ሠራተኞች በምሳ ላይ በተለይ ጸባ እና ሻሎ ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-71,Family,በአብዛኛው የ금币 (금币) እና የ纸币 (纸币)።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-75,Family,"Toyota
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-77,Holidays/Celebration/Leisure,"በኢትዮጵያ ለልጆች ለኢድ ባዕል ምን ስጦታ ይሰጣል?
+
+መልስ: ዶ纳ታ (የሚረጩት  dulces)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-81,Holidays/Celebration/Leisure,"በሰርጋቸው ቀን የሚለብሱት የሰርጌ ጃሚ (Sergay Jamme)።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-82,Holidays/Celebration/Leisure,"በኢትዮጵያ ሴት ሙሽራዎች በሰርጋቸው ቀን በተለይ የሚለብሱት አልባሳት ብዙውን ጊዜ የነጭ ቀለም ያላቸው የነሐሴ፣ የሰማናቸው እና የንብላ ቀበሌዎች ናቸው። እነዚህ አልባሳት በሴቶችን ውበት እና በሰርጋቸው ቀን ያለውን ልዩነት ያጎላሉ፡፡
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-83,Holidays/Celebration/Leisure,በኢትዮጵያ በሰርግ ቀን ላይ ተመጣጣኝ የሆነ ምግብ የሚበብው በጎሣ እና በ regiones መሠረት ይለያል። በአብዛኛውም случаይ፣ የሚበብው የሰነፍ፣ የዶሮ፣ የብረት እና የጎና ሥጋ እንዲሁም የተለያዩ አይነት ዳቦዎች፣ ስፓሪ እና ሌሎች የኢትዮጵያ ባህላዊ ምግብ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-86,Holidays/Celebration/Leisure,ፋክሪሃይ አደስ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,New-su-88,Holidays/Celebration/Leisure,"ሃሪት (Hip-hop)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-02,Education,"08:00
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-03,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-06,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-09,Education,"0
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-11,Education,"4
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-12,Education,በኢትዮጵያ ስመጥር ዩኒቨርስቲ፣ ፕሮፌሰር አርሴኖስ ጌርማኖት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-13,Education,21,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-15,Education,14,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-17,Work life,48,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-19,Work life,"4
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-20,Work life,16,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-21,Work life,"18
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-31,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች በአል ሲያከብሩ የተለያዩ ጸደቃዎችን ( regalos) ይሰጣሉ፣ ከነዚህም መካከል ዶሮ፣ ሻካራ፣ ጽጌረዳ፣ ፖላካዮች፣ ቆዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ጽጌረዳ፣ ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-37,Holidays/Celebration/Leisure,"የፍቅር ቀን (Love Day)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ni-en-40,Holidays/Celebration/Leisure,የአማርኛ ዜማዎች።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-04,Education,7,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-05,Education,"1
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-06,Education,"11/23
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-11,Education,"08:00
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-20,Family,"12/21
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,Nu-in-40,Work life,አዎ፣ ትክክል ነው። ማንዣት ለሥራ ፈላጊዎች ዋናው መድረሻ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-1,Food,"የሚከተሉት ፈጣን ምግብ ሰንሰልቶች በኢትዮጵያ በጣም የተወደዱ ናቸው፡
+
+*   **બર્ગર કિંગ (Burger King)**
+*   **મેકડોનાલ્ડ્સ (McDonald's)**
+*   **કેફી (Koffee)**
+*   **બર્ગર કિંગ (Burger King)**
+*   **ફાસ્ટફૂડ (Fast Food)**
+
+આ બધા જ ફાસ્ટ ફૂડ ચેઇન્સ ઇથોપિયામાં ખૂબ જ લોકપ્રિય છે.",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-13,Food,"ኢንጀራ
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-16,Sport,ኢትዮጵያ ቡክ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-22,Sport,በኢትዮጵያ ስፖርት ቡድኑ የታወቀው እጅግ ዝናና ዩኒቨርስቲ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-31,Family,የዶሮ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-32,Family,"የሚከተለው መልስ ተቀባይነት አለው:
+
+መልስ: ""የአርጅራው ቴሌቪዥን ሾው""",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-37,Family,መልስ: ሚሳኤል።,,
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-6,Food,ኢትዮጵያዊ ምግብ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-7,Food,በኢትዮጵያ የታወቁ መክሰስ ምግቦች፡ ሻሊ፣ ሻክሻ፣ ኬሻ፣ ጅሪ፣ ሻክሻ፣ ዱቄት፣ ጽጌ፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ሻክሻ፣ ጽጌ ጅሪ፣ ጽጌ ዱቄት፣ ጽጌ ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Sa-en-9,Food,ባህር ዳር ላይ የኢትዮጵያ ሰዎች በየ Varieties የሚሰሩ ምግብዎችን ይበላሉ፣ incluyendo ዳቦ፣ ሻሂ፣ ጸሎት፣ ކሻ፣ እና የተለያዩ አይነት ሥጋዎችን የሚሰሩ ምግብዎችን ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-10,Family,"30
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-11,Family,20,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-13,Family,"3
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-17,Sport,长跑 (长跑) - ዱር አጫውት።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-21,Sport,የኢትዮጵያ ብሔራዊ የእግር ኳስ ማዕከል (Ethiopian National Football Centre),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-22,Sport,የሴቶች መካከል በኢትዮጵያ የተወዳጅ የዕለታዊ እንቅስቃሴ የሰነፍ መዋዠሚያ (Chain Stool) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-23,Sport,የሚቀንስ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-25,Sport,መልስ: ኪዶ ፉክክር ከበሰለሚዎች,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-29,Sport,"ኳስ ( fútbol)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-30,Sport,"የሚኒዮን (Minyon)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,ሚያዚያ 21 ቀን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,"የሚበልጸMLElement መለያ ምሽት በኢትዮጵያ የአዲስ አመት ምሽት በተለይ የተለመደ መለያ **""አመት በጎን ተፈታ""** ነው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,"በአዲስ አመት እለት ኢትዮጵያውያን ብዙውን ጊዜ ""ሽላ"" እና ""ተሾሻ"" ይበላሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,በኢትዮጵያ በአመቱ ረዥም ሌሊት በዓል ላይ በተለይ ጷጉሜን ፆምን ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-01,Sport,የተሸፍነ አጥንት (Mountain climbing),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-03,Sport,축구 (ኳስ እግር),1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-05,Sport,የኢትዮጵያ ሴቶች እግር ኳል ቡድን።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-09,Sport,የኢትዮጵያ ሻሂ አድናፍ (ሻሂ አድናፍ) ውድድር።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-11,Sport,መልስ: ኪሳነ ብርሃነ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-12,Sport, chạy ( chạy ),0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-15,Sport,"የብልህነት (Football/Soccer)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-19,Work life,ኦሮሚያ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-21,Work life,የሠራተኞች የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የትኛውም የ,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-22,Work life,1998-2002።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-24,Work life,አዲስ አበባ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-27,Work life,"农业 (Agriculture)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-35,Family,"በኢትዮጵያ በቤተሰብ አባላት ከተለያዩ የቀኑ ምግቦች መካከል ባብዛኛው አብረው የሚመገቡት **እራት** ነው።
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-36,Family,የሚስላcemic አውሬ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-37,Family,12,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-38,Family,"መልስ: ጾምንባር (ጾምንባር)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-39,Family,"የሚስጥር ጨዋት (Mölt)
+",,
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-41,Family,30,1,0.5
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-43,Family,አስር። (10),1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-44,Family,ሽላ።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-45,Family,"የሚከተሉት ምኞቶች ተቀባይነት አላቸው:
+
+*   የቤተሰብ miembros ጋር ጊዜ ማሳደግ
+*   የቤተሰብ miembros ጋር ምግብ መ cocinar እና መመገുക
+*   የቤተሰብ miembros ጋር መጫወት
+*   የቤተሰብ miembros ጋር መ conversación ማድረግ
+*   የቤተሰብ miembros ጋር መጎብኘት
+
+በእርግጠኝነት፣ አንድ ብቻ መልስ መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting መ Selecting",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-48,Education,በኢትዮጵያ በምርመራና በፈተናዎች ላይ ከፍተኛ ውጤት ያሳዩ ተማሪዎች የተሰጣቸው ከፍተኛ ደረጃ በбычно ከፍተኛ ትutor (University) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-49,Education,"ማስረጃ basados የትምህርት አቅም (Evidence-based learning skills)
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-51,Education,በኢትዮጵያ በተማሪዎች ላይ እጅግ አስፈላጊ የሚቆጠር ምርምር የሆኑት የዶክተር አብይ አህመድ ምርምር ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-53,Education,"በኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ከመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት የሆኑት **የ escolarización ( escolarización)** ናቸው።
+",0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Th-en-58,Education,በኢትዮጵያ ዩኒቨርስቲ በመግባት በፊት የተማሩት ከፍተኛ የሂሳብ ርዕስ አርኪሜቲክስ (Calculus) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Tmp-ar-01,Education,ዩኒቨርስቲዎች አላቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,inst-4,Tmp-ar-02,Education,በጣም común የሆነው የህዝብ ትራንስፖርት፣ የብስጭት መኪና (Bus) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,inst-4,Tmp-ar-04,Education,በጣም ብዙም አልበይላቸው።,0,0

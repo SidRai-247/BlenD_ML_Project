@@ -1,0 +1,528 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Spain,Spanish,inst-4,Al-en-01,Food, Conejo de papel (Papier-mache Rabbit),0,0
+mistral-7b,Spain,Spanish,inst-4,Al-en-02,Food, Tapas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-04,Food, Manzana (Apple),1,0.5
+mistral-7b,Spain,Spanish,inst-4,Al-en-06,Food, Huevos rotos (Fried eggs with potatoes),0,0
+mistral-7b,Spain,Spanish,inst-4,Al-en-08,Food," Empanadas, croquetas y tortillas españolas.",0,0
+mistral-7b,Spain,Spanish,inst-4,Al-en-09,Food, Churros con chocolate,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Al-en-16,Education,3 años,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-17,Education, Fútbol (Fútbol Sala o Baloncesto),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-18,Education," Educación religiosa, lenguas extranjeras y artes plásticas.",0,0
+mistral-7b,Spain,Spanish,inst-4,Al-en-19,Education, Inglés,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-21,Education," La asignatura más importante para la educación de los superdotados en España no se especifica por lo general, ya que cada estudiante tiene talentos y fortalezas diferentes. Sin embargo, las materias como Matemáticas, Física, Química, Lógica, Informática y Ciencias Sociales pueden ser importantes para el desarrollo de habilidades específicas en los superdotados.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-32,Holidays/Celebration/Leisure," No hay un plato principal específico para el Día de Acción de Gracias en España, ya que este día no se celebra allí como lo hacen en los Estados Unidos. En cambio, es común disfrutar de una cena familiar con platos tradicionales españoles como la cocido madrileño o el arroz negro valenciano.",,
+mistral-7b,Spain,Spanish,inst-4,Al-en-33,Holidays/Celebration/Leisure,¡Se disfrazan y van de casa en casa pidiendo dulces! (They dress up and go from house to house asking for candy!),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-34,Holidays/Celebration/Leisure," Celebran fiestas, van a reuniones familiares, comen la cena de Año Nuevo (la Cena de los Siete Pecados), beben vino y cava, disfrutan de fuegos artificiales y bailan hasta la medianoche.",0,0
+mistral-7b,Spain,Spanish,inst-4,Al-en-35,Holidays/Celebration/Leisure," Celebran la Navidad en España con la misa del gallo, comiendo el tradicional plato de los doce pescados y pasando tiempo con la familia.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-36,Holidays/Celebration/Leisure, Buñuelos de viento (pumpkin-shaped fritters) o churros con chocolate caliente.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-37,Holidays/Celebration/Leisure, Pollo asado o turrón.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Al-en-38,Holidays/Celebration/Leisure, Churros con chocolate,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-39,Holidays/Celebration/Leisure," Tortilla de patatas o pastel de manzana, junto a un postre y bebida típica.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-40,Holidays/Celebration/Leisure, Parque temático (Parque temático infantil),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Al-en-43,Holidays/Celebration/Leisure,¡Juego de mesa! (Board game),1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-02,Education," En España, los estudiantes universitarios pueden comer en diversos lugares, pero no hay un lugar específico que se llame ""universitario"". Algunos van a cafeterías o restaurantes cercanos a la universidad, mientras otros preparan sus propias comidas en casa.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-03,Education,6,1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-08,Education,8 (horas de clases) + 2 (tiempo de recreo y comidas) = 10 horas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-09,Education,"3 (En este caso, se asume que el idioma español no es contado como uno de los idiomas extranjeros estudios en el instituto)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-34,Sport, Fútbol (Fútbol es el deporte de equipo más popular que se juega en las escuelas en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-35,Sport, José Mota,0,0
+mistral-7b,Spain,Spanish,inst-4,An-ar-36,Sport, Fútbol (Fútbol Club Barcelona o Real Madrid Club de Fútbol),1,1.0
+mistral-7b,Spain,Spanish,inst-4,An-ar-43,Sport," Bars y pubs, casas de apuestas, estadios, y hogares.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-05,Food,3 comidas al día es una cifra común en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-06,Food, La comida más importante del día en España es el almuerzo (la cena es la segunda comida más importante).,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-08,Food, El ingrediente más común utilizado en la dieta española es el arroz.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-09,Food," Tarta, flan, churros con chocolate o hojaldre.",1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-11,Food, Domingo (Sunday),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-14,Food, Té (Thee),0,0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-19,Holidays/Celebration/Leisure," Cerveza, vino, cócteles y agua.",1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"7, 8 y 12",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,12 uvas a la media noche (12 grapes at midnight),0,0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-38,Family, Casa de dos plantas o chalet español,1,0.25
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-41,Family, En residencias de ancianos o en hogares de cuidados paliativos.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-42,Family,16 semanas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-43,Family,16 semanas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ca-sp-45,Family, Costa Brava o Costa del Sol,0,0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-05,Sport," Baloncesto, fútbol y tenis de mesa son los deportes más populares entre los mayores en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-06,Sport," Fútbol, Baloncesto, Fútbol Sala, Rugby, Atletismo y Tenis son algunos deportes que prefieren practicar los hombres en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-07,Sport, Pau Gasol,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-08,Sport, Fútbol (Fútbol es el deporte más popular entre los niños en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-09,Sport, Fútbol y balonmano son los deportes que más practican las mujeres en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-11,Sport, Atletismo,0,0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-15,Sport," Fútbol, baloncesto, voleibol, rugby y atletismo son algunos deportes que prefieren practicar los estudiantes universitarios en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-16,Family,"3.46 (Según datos del INE de España en 2019, el tamaño medio de las familias es de 3.46 personas.)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-18,Family,1.65 (Promedio de hijos por pareja en España según datos del INE 2020),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-31,Education,6,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-32,Education,16,0,0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-33,Education,6 (en la educación primaria),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-38,Education,4 años,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-40,Education,"08:30 (es decir, ocho y media)",0,0
+mistral-7b,Spain,Spanish,inst-4,Gu-ch-41,Education,3-4,0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-02,Work life," Mi modelo no es capaz de realizar encuestas o estudios, por lo que no puedo decir con certeza cuál es el día preferido para cenar de empresa en España. Sin embargo, en muchos países, los jueves son un día popular para tales eventos debido a que sigue al miércoles y antes del fin de semana.",1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-03,Work life, Madrid,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-07,Work life, Telefónica,0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-08,Work life,40,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-09,Work life," Tapas o bocadillos, como empanadas, gambas al ajillo, tortilla española, y típicamente se sirve con vino tinto.",,
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-14,Work life, El producto de exportación representativo de España es el aceite de oliva.,1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-15,Work life,"1,5",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-16,Family," En España, las madres quedan en el hospital maternidad durante 4 días después del parto.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-19,Family, Rosas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-22,Family," Alquiler, comida y ropa son los gastos más comunes con el primer sueldo en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-24,Family, Parque de atracciones (Amusement park),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-25,Family," Navidad, Día de los Reyes Magos (Three Kings Day), Fiesta de la Candelaria y Todos los Santos (All Saints' Day) y Todos los Defuntos (All Souls' Day).",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-26,Family,"1950 (Ley de Edad de Responsabilidad), 1978 (Constitución Española), 1980 (Ley Orgánica del Juicio de Menores), 2003 (Ley de la Infancia y Adolescencia)",0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-27,Family, Flores o frutas.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-28,Family," El primer día que se celebra después de que nace un niño en España es el Día del Niño, que se celebra el 1 de octubre. Sin embargo, también se le suele llamar el bautizo al día en que se realiza la ceremonia religiosa.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-29,Family,12 de octubre (Día de la Hispanidad y Fiesta Nacional de España),0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-31,Education," En un centro educativo (centro escolar, instituto, etc.)",1,0.25
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-33,Education, A casa o a ver a amigos.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-34,Education, Ellos van a la escuela primaria.,0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-35,Education, Colegio Concertado (Concerted School),1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-36,Education, Instituto Cervantes (Lengua Española),0,0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-37,Education," Ropa formal o informal, dependiendo del establecimiento educativo y la política interna.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-38,Education, Medicina o Ingeniería Informática son las carreras más competitivas en términos de admisión en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-39,Education, Flauta traversera,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-40,Education," Juegan, hablan, comen y descansan.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-41,Education, Tenis (Sneakers) o Zapatillas deportivas son los más comunes.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-42,Education," Lengua castellana, Matemáticas, Ciencias Naturales y Humanidades (Historia o Geografía)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-44,Education," Universidad de Madrid o Ciudad Universitaria, en Madrid.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ji-ko-45,Education,¡Fiestas y diversiones!,0,0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-01,Sport," Fútbol (Fútbol es el deporte más popular, pero si se busca el segundo, es el Baloncesto)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-02,Sport, Ajedrez,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-09,Sport," Polo, Sailing y Golf",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-13,Sport, Natación (Swimming),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-14,Sport, El deporte mental más popular en España es el ajedrez.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-18,Work life,30,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-19,Work life, La región de Castilla-La Mancha.,0,0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-21,Work life,20:30 (Espero que sea claro que se refiere a las 20 horas y 30 minutos.),0,0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-31,Education,"15:30 (15:30 es la hora típica de salida de los estudiantes de secundaria en España, pero puede variar según el colegio y la región)",0,0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-32,Education," Fútbol, baloncesto, atletismo y voleibol son deportes comunes que suelen practicar los alumnos de primaria en los colegios de España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-36,Education,6-8,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-37,Education,10-12,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-39,Education,6,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jo-sp-43,Education,2 (Valenciano y Catalán),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-01,Food," Cuchara, tenedor, cuchillo, plato, tazón y jarrón.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-04,Food, Tinto de Verano (Fresh Red Wine Lemonade) o Cerveza sin alcohol son populars entre los españoles.,0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-06,Food, Sangría,0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-07,Food,"2,0",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-09,Food,21:00,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-12,Food, Gazpacho o caldo de tomate son populares en España.,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-13,Food," Empanadas, tapas y paella son algunos ejemplos de comida callejera que les gustan a las personas de España.",0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-15,Food," No se come marisco a las personas en ningún lugar del mundo, incluyendo España.",0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-16,Holidays/Celebration/Leisure, Fiestas de San Fermín en Pamplona (Sanfermines),0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-28,Holidays/Celebration/Leisure, Autobús,1,0.6
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-30,Holidays/Celebration/Leisure," Las decoraciones y símbolos específicos del festival más grande de España (Fiestas de San Fermín en Pamplona) incluyen toros, ropa blanca y verde, cinturones rojos, banderolas rojas y blancas, y tambores.",0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-37,Sport," Fútbol (Fútbol femenino) y Baloncesto son los deportes que más le gustan a las mujeres en España, según encuestas recientes.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-38,Sport, Fútbol (Fútbol es el deporte más popular entre los hombres en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"¡Ir a un café con amigos! (Sin embargo, esta respuesta no pretende ser exhaustiva y puede variar según individuos y regiones.)",0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-42,Holidays/Celebration/Leisure, Juego de fútbol (Fútbol),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-46,Work life,"1,5",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-48,Work life," Almuerzo (comida del mediodía) español comúnmente incluye platos como la tortilla española, paella o sopa de ajo. También puede incluir un ensalada y un postre.",0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-50,Work life,45 (Este valor es una aproximación y puede variar según la ciudad y el modo de transporte utilizado.),0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-51,Work life, El medio de transporte más común que la gente utiliza para ir al trabajo en España es el autobús.,1,0.6
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-54,Work life,30,0,0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-56,Work life,65 años,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-57,Work life,65,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-58,Work life, Médico (Doctor),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-60,Work life,8,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-61,Work life, Enseñanza (maestra/profesora),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Jod-ch-62,Work life,1. Empresario o empresario propietario (Empresario/Empresaria autónomo),0,0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-17,Education, Primaria y Secundaria (ESO o Bachillerato),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-24,Education," El castellano y el catalán (en algunas comunidades autónomas). Además, puede haber otras lenguas regionales como el gallego o el euskera.",0,0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-30,Education, Sábado y Domingo,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-32,Food, Paella o Tapas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-34,Food," Té con leche y pan tostado (tostada) con tomate y aceite de oliva. La mayoría de las personas en España no beben jugo de naranja al desayuno, sino que lo hacen más tarde en la mañana o como postre.",1,0.6
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-36,Food, La cocina italiana es la más popular en España después de la comida española original.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-39,Food, Bocadillo de calamares (fried squid sandwich) o tortilla española (Spanish omelette) son comidas populares para un picnic familiar en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-40,Food, Cuy (conejo en aceite),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-43,Food, Pan español se llama pan de molde o pan de hogar.,0,0
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-51,Work life,14:00,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-01,Holidays/Celebration/Leisure, Fiestas de San Juan (23-24 de junio),0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"1. Actos cívicos y ceremonias oficiales en los ayuntamientos.
+2. Desfiles militares y bandas de música.
+3. Conciertos, espectáculos culturales y actividades populares.
+4. Juegos tradicionales y fiestas locales.
+5. Comida típica y bebidas regionales.
+6. Exposiciones y ferias artesanales.
+7. Visitas a monumentos y lugares emblemáticos.
+8. Proyecciones de películas y documentales sobre la historia de España.
+9. Conmemoraciones en los cementerios y homenajes a los caídos por la independencia.
+10. Actividades solidarias y recaudación de fondos para causas sociales.",,
+mistral-7b,Spain,Spanish,inst-4,Kik-in-04,Holidays/Celebration/Leisure,¡No hay ninguna tradición específica de instalar algo frente a la casa al morir un familiar en España! La cultura española no tiene una práctica común de colocar símbolos o monumentos en el exterior de las casas como muestra de luto.,,
+mistral-7b,Spain,Spanish,inst-4,Kik-in-05,Holidays/Celebration/Leisure," La fiesta o ceremonia de embarazo en España se suele celebrar alrededor del tercer mes de embarazo (12-14 semanas). Esta celebración es conocida como la ""Fiesta de la Media Naranja"" o ""La Media Luna"".",,
+mistral-7b,Spain,Spanish,inst-4,Kik-in-06,Holidays/Celebration/Leisure, La fiesta de la novia (La Sobremesa) o el Casamiento Civil son los eventos que se suelen celebrar antes de una boda en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-07,Holidays/Celebration/Leisure," No hay costumbres específicas de compartir cosas con los niños durante el Año Nuevo Lunar en España. La mayoría de las celebraciones se centran en la familia y en la comida típica, como los huesos de garbanzo (los llamados ""galletas chinas"").",,
+mistral-7b,Spain,Spanish,inst-4,Kik-in-08,Holidays/Celebration/Leisure," Se realizan las preparaciones para el inicio de Ramadán, que incluyen limpieza y adorno de la casa, compra de alimentos y provisiones, y oración especial.",,
+mistral-7b,Spain,Spanish,inst-4,Kik-in-10,Holidays/Celebration/Leisure," La Sagrada Familia, en Barcelona.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-11,Holidays/Celebration/Leisure, La Sagrada Familia en Barcelona y la Mezquita de Córdoba.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-15,Holidays/Celebration/Leisure," Roquete o traje negro, blusa blanca y sombrero de taffeta.",0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-16,Food, Té caliente (Té caliente es el bebida que se consume comúnmente en España cuando hace frío),0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-17,Food, Mangoes (Mangos),0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-24,Food, Arroz blanco (Rice),0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-31,Sport, El deporte de artes marciales más famoso en España es el Taekwondo.,0,0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-34,Sport," Fútbol, Baloncesto, Tenis, Voleibol, Atletismo y Rugby.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-35,Sport," Fútbol en casa, Ciclismo, Juegos electrónicos y Yoga.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-36,Sport, Pep Guardiola,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Kik-in-37,Sport, Real Madrid vs Barcelona,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-38,Sport," Madridistas vs. Barça
+
+(Nota: El término correcto es ""hinchas"" o ""aficionados"", pero la pregunta pide los nombres específicos de estos grupos famosos por su rivalidad, que en este caso son los aficionados del Real Madrid y el Fútbol Club Barcelona.)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-40,Sport, Pablo Abián,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-41,Sport, Carolina Marín,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-44,Sport, Fútbol (Fútbol es el deporte que recibe más apoyo del gobierno en España).,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Kik-in-45,Sport," Piscinas, canchas de baloncesto, fútbol, tenis y vóley, gimnasios, pistas de atletismo.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-02,Food, Café con leche (Cortado o Café con hielo),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-04,Food, Tinto de Verano (Bebida compuesta por vino tinto y refresco) o un caldo de tomate.,0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-05,Food, Paella (una comida de arroz con carne o mariscos),0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-07,Food, Cerdo (pork),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-08,Food, Manzana (Apple),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-09,Food, Patatas bravas o ensalada rusa.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-11,Food," Tapas o bocadillos, junto con bebidas como cerveza o vino tinto.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-15,Food, El alimento nutritivo representativo de España es la Tortilla Española (Tortilla de patatas).,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Na-ko-16,Sport,"¡Lionel Messi! Aunque nacido en Argentina, Messi juega actualmente en el FC Barcelona de España y ha sido considerado uno de los mejores futbolistas del mundo.",0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-17,Sport," Fútbol, baloncesto y voleibol son algunos deportes que disfrutan los estudiantes varones durante la hora del almuerzo en el colegio en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-18,Sport, Baloncesto,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-19,Sport,Íñigo Cerrillo.,,
+mistral-7b,Spain,Spanish,inst-4,Na-ko-20,Sport, Fútbol (Fútbol),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-22,Sport, Argentina,0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-23,Sport, Academias de fútbol (deporte más popular entre los niños en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-24,Sport, Bocadillo de calamares (Sandwich de calamares),0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-25,Sport," Fútbol, baloncesto, atletismo, voleibol y natación.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-26,Sport," Fútbol, tenis de mesa, pádel, ciclismo y natación.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-28,Sport,Íñigo Bobadilla,0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-29,Sport,"Óscar Pistorius (Error en la pregunta, se trata de un atleta y no de un nadador)
+
+Corrección: Miguel Angel Lopez-Victoria.",0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-30,Sport, League of Legends (LoL),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-33,Holidays/Celebration/Leisure,12 uvas pasas (doce uvas de Abricot),,
+mistral-7b,Spain,Spanish,inst-4,Na-ko-37,Holidays/Celebration/Leisure, Costa del Sol (Andalucía),0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-38,Holidays/Celebration/Leisure, Anillo de compromiso o anillo de bodas,0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-39,Holidays/Celebration/Leisure, Una botella de cava o champán.,0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3 días,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,Na-ko-41,Holidays/Celebration/Leisure, Flores blancas (Las flores blancas son tradicionales en los funerales en España).,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-42,Holidays/Celebration/Leisure," Sobremesa tradicional (tapas, bocadillos, postres y bebidas)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"¡Bailan el ""Moros y Cristianos""! (Este evento se celebra en algunas ciudades como Alicante, pero no es universal en todo España.)",0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-44,Holidays/Celebration/Leisure, Miércoles (Jueves en Madrid),0,0
+mistral-7b,Spain,Spanish,inst-4,Na-ko-45,Holidays/Celebration/Leisure, Ibiza,0,0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,12 de Octubre (Día de la Hispanidad y Fiesta Nacional de España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-06,Holidays/Celebration/Leisure," No se comen durante el día, solo después del atarde (Iftar).",,
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-09,Holidays/Celebration/Leisure," No se celebran fiestas específicas de Eid ul Fitr en España, por lo tanto, no hay costumbres tradicionales de comer algo en concreto durante esta festividad. Sin embargo, es común que las personas compartan una gran cena con familiares y amigos.",,
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-10,Holidays/Celebration/Leisure," No se celebran rituales de sacrificio de ganado en España durante Eid al-Adha, por lo tanto, los españoles no comen carne de sacrificio en esta festividad.",,
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-11,Holidays/Celebration/Leisure," A menudo, la gente de España celebra el Año Nuevo en su propia casa o con familiares y amigos. Sin embargo, algunos viajan a ciudades turísticas populares como Madrid, Barcelona, Ibiza o Valencia para celebrarlo.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-14,Holidays/Celebration/Leisure, En sus propias casas o de algún familiar. No hay un lugar específico en España donde se reúna toda la comunidad musulmana para celebrar el Eid.,,
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-16,Work life, Sábado y domingo.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-17,Work life,09:00,1,0.75
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-18,Work life,"20:00 (en general, pero puede variar según el trabajo y la región)",1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-20,Work life, El trabajo seguro en España se define por las Normas de Seguridad y Salud en el Trabajo (NTSS). Estas normas establecen los requisitos mínimos para garantizar la protección de la salud y la seguridad de los trabajadores.,0,0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-24,Work life, Madrid,1,0.75
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-25,Work life," La industria de la tecnología y los servicios relacionados, como la informática, la telecomunicación y el software, son las que mejor pagan en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-26,Work life," La Corporación Pública más famosa de España es el Real Madrid Club de Fútbol. Aunque no sea una corporación pública en el sentido estricto, es un ente público y es conocido a nivel mundial.",0,0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-31,Food, Paella valenciana,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-32,Food," Tostada con tomate y jamón serrano, café o té.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-33,Food,14:00 (2 en punto de la tarde),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-34,Food, El pan es típicamente indispensable en las comidas en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-36,Food, Paella Valenciana,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-37,Food, Mandarina (Mandarin),1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-38,Food," Bebidas, frutas, verduras, pan, arroz, legumbres y carnes procesadas.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-39,Food," La comida rápida más barata en España es la menestra de lentejas o la menestra de garbanzos, que se pueden encontrar en los mercados y tiendas de comidas a medida.",0,0
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-43,Food," Azúcar, limón y/o miel son los ingredientes comunes que toman las personas con té en España.",1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ne-ar-44,Food," Tienen café con leche (café con leche) o café solo (café solo). También pueden tomar café con licor, como un café cortado o un café con hielo.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-am-02,Food, Paella,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-am-04,Food, Salsa alioli (Aliolí),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-am-08,Food," El ayuno cristiano no implica comer ciertas comidas específicas, sino abstenerse de comer durante determinados períodos. La comida que se consume después del ayuno es lo que varía entre las personas y regiones.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-15,Food, Gazpacho o sopa fría.,,
+mistral-7b,Spain,Spanish,inst-4,New-am-27,Sport, La deportista femenina más popular en España es la tenista Garbiñe Muguruza.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-34,Education, En casa o en el centro educativo.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-am-41,Education,4º de ESO (Cuarto de Educación Secundaria Obligatoria),1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-am-53,Work life, Valencia,,
+mistral-7b,Spain,Spanish,inst-4,New-am-54,Work life, Castilla-La Mancha,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-59,Work life," Agricultura, ganadería y turismo son algunas de las actividades principales de las personas que viven en los desiertos de España.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-60,Work life, No hay animales utilizados típicamente para el transporte en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-72,Family, El cómic más popular para niños en España es Mortadelo y Filemón.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-am-73,Family, CBeebies Español,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-74,Family,"¡Tú quieres sorprender a mi inteligencia artificial, no? El programa de entrevistas más popular en España es ""La Resistencia"" con Pablo Iglesias. Sin embargo, hay que tener en cuenta que la popularidad de estos programas puede variar según las encuestas y los momentos históricos.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-77,Holidays/Celebration/Leisure, Fiestas de la Virgen del Carmen,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-81,Holidays/Celebration/Leisure,2,0,0
+mistral-7b,Spain,Spanish,inst-4,New-am-83,Holidays/Celebration/Leisure, La guitarra española.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-01,Food, El principal producto agrícola producido en España es la cebada.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-as-02,Food, El pan es el alimento con trigo más popular en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-05,Food, Té con azahar (Miel),0,0
+mistral-7b,Spain,Spanish,inst-4,New-as-07,Food, Paella de mariscos (paella de pescado),0,0
+mistral-7b,Spain,Spanish,inst-4,New-as-14,Food, Sopa de ajo (Gazpacho) o caldo de garbanzos son comidas populares en España durante el tiempo lluvioso.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-as-15,Food, Sangría o tinto de verano,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-as-20,Sport, Fútbol (Fútbol sala),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-29,Sport, Fútbol (Fútbol es el deporte más popular entre los hombres en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-30,Sport, Fútbol (Fútbol femenino),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-58,Work life, Café (Té también es popular),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-64,Family, Navidad (Christmas),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-76,Holidays/Celebration/Leisure," Sardinas, Castañuelas, Jai-alai y Añadas.",,
+mistral-7b,Spain,Spanish,inst-4,New-as-80,Holidays/Celebration/Leisure," Trajes típicos españoles (trajes regionales) como la traje de flamenco en Andalucía, el traje castellano o el traje valenciano en sus respectivas regiones.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-as-89,Holidays/Celebration/Leisure," Espadaña, castañuelas y mantón de manila.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-05,Food, La región más famosa por la producción de alcohol en España es La Rioja.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-az-11,Food, Melocotón (Nectarina),0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-12,Food, Galicia,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-az-21,Sport, Pyrenees (Pirineos),1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-az-26,Sport,Álex Pérez (Karateka) o Valentina Shevchenko (Mixed Martial Arts) son dos de los deportistas de artes marciales más populares en España.,,
+mistral-7b,Spain,Spanish,inst-4,New-az-27,Sport, Fútbol sala (minifútbol),0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-39,Education, Estados Unidos,0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-49,Work life,4,0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-60,Family, El cuidado de los niños en España cuando ambos padres están trabajando puede ser realizado por un guardería o un cuidador familiar.,1,0.25
+mistral-7b,Spain,Spanish,inst-4,New-az-69,Holidays/Celebration/Leisure, Cerveza (cerveza española),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-az-70,Holidays/Celebration/Leisure, Sangría,0,0
+mistral-7b,Spain,Spanish,inst-4,New-az-73,Holidays/Celebration/Leisure,150,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-01,Food, Cerdo (Carne de cerdo) es el tipo de carne que más comúnmente se utiliza para hacer barbacoa en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-02,Food,09:00,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-04,Food, Sangre de toro (bull's blood) y jamón ibérico (Iberian ham).,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-05,Food, Paella Valenciana con Chorizo.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-07,Food, Tapas o pimientos de padrón.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-08,Food, Ajo (Ajoé),0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-09,Food," Sopa de ajo garlick soup, caldo gallego (Galician broth), cocido madrileño (Madrid stew) y tortilla española (Spanish omelette).",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-13,Food,"¡Tía María! (Esta respuesta se refiere a la marca de licor típico español, no a una bebida alcohólica internacional.)",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-14,Food," En España, los alimentos que se suelen comer a personas enfermas son los que tienen propiedades nutritivas y energéticas, como caldo de tomate, sopa de ajo, arroz con leche, huevos batidos, manzanas asadas, yogurtes, etc.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-15,Food," Carne, verduras, pan, queso, frutas, legumbres, pescado y productos lácteos son comidas preparadas o listas para comer que suelen comprar las personas en los supermercados de España.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-16,Sport," Película titulada ""Torrente 3: El protector"" (o simplemente ""Torrente 3""). En esta película, el personaje principal, Torrente, se convierte en entrenador de fútbol y se relaciona con el deporte más popular en España.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-17,Sport, Skydiving (Saltar con paracaídas),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-18,Sport,100 metros planos femenino/masculino (100 metros lisos femeninos/masculinos),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-19,Sport, Gimnasia Rítmica,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-23,Sport, Ángel Núñez,,
+mistral-7b,Spain,Spanish,inst-4,New-ch-26,Sport, Esquí al estilo libre (Eslalon Gigante Paralelo),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-27,Sport, Kiko Martínez,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-30,Sport,"Óscar Pistorius (espero que no haya equivocado, la pregunta se refiere a un atleta español)",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-31,Work life, Ingeniero o Médico,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-32,Work life," Microsoft Office (Word, Excel, PowerPoint) y LibreOffice son los más comunes en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-38,Work life," Barcelona, Valencia, Madrid, Bilbao, Sevilla, Málaga, Zaragoza, Gijón, Vigo, Santander.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-39,Work life," Shopify, Magento, Prestashop y WooCommerce son algunas de las plataformas más comunes utilizadas en el comercio electrónico en España.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-44,Work life,60 días (próximamente),0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-45,Work life," Tecnología, servicios digitales, restaurantes, moda y bienestar personal.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-49,Family," Por correo electrónico o mensajes de texto (WhatsApp, Telegram, etc.)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-51,Family, Apartamento turístico o casa rural,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-54,Family, Pimientos de Padrón,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-64,Education,20,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-66,Education,"70,50 (Euros aproximadamente)",,
+mistral-7b,Spain,Spanish,inst-4,New-ch-70,Education," Lógica, Matemáticas y Español (Lengua y Literatura)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-71,Education,25-30 (aproximadamente),1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-ch-72,Education, Ingeniería o Medicina,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-ch-73,Education, Los clubs deportivos son los más populares entre los estudiantes universitarios en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-74,Education," En las ciudades donde hay universidades, como Madrid, Barcelona, Valencia, Sevilla, Granada, Zaragoza, etc.",1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-ch-75,Education,50,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-78,Holidays/Celebration/Leisure," Juegos de mesa, lectura, caminatas, visitas culturales y actividades sociales.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-79,Holidays/Celebration/Leisure," Juegos de mesa, golf, paseos por el parque, viajes y seguir las pasiones anteriores.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ch-80,Holidays/Celebration/Leisure,"1. Navidad (24 y 25 de diciembre)
+2. Semana Santa (semana previa a Pascua)
+3. Día de Todos los Santos (1 de noviembre)
+4. Fiesta de la Candelaria (2 de febrero)
+5. Fiesta de la Purísima Concepción (8 de diciembre)",1,0.2
+mistral-7b,Spain,Spanish,inst-4,New-ch-81,Holidays/Celebration/Leisure," Botellas de cava, plantas, veladoras y monedas para la buena suerte.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-82,Holidays/Celebration/Leisure,"13:00 (13:00 es la hora típica para comenzar las bodas en España, aunque puede variar según cada pareja y ceremonia.)",1,0.25
+mistral-7b,Spain,Spanish,inst-4,New-ch-83,Holidays/Celebration/Leisure, Barcelona,1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,New-ch-84,Holidays/Celebration/Leisure, Blanco (para el novio) o blanco y negro (para la novia).,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ch-85,Holidays/Celebration/Leisure, Negro o gris.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-01,Food, Popcorn (Pop corn),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-02,Food, Patatas bravas,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-04,Food, Ferrán Adrià,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-05,Food," La comida rápida económica en España puede ser la tapas o el menú del día en un restaurante tradicional. Sin embargo, también hay cadenas de comidas rápidas como Burger King, McDonald's y KFC que son populares en el país.",1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-en-07,Food," MasterChef España, La Cocina del Hormiguero y Top Chef España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-08,Food, Cadbury,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-10,Food, Manchego,1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,New-en-11,Food, La verdura más odiada en España es el espárrago.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-12,Food, Tapas,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-en-17,Sport,"3D modelado, dibujos animados y captura de movimiento (mocap)",0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-18,Sport," Bandera, abarrotes y espíritu de equipo.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-19,Sport, Estadio Santiago Bernabéu,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-23,Sport,Ángel Matos,,
+mistral-7b,Spain,Spanish,inst-4,New-en-26,Sport,"¡Ole, ole, ole! ¡Ole, ole, ole! (Cántico del Real Madrid Club de Fútbol)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-38,Work life," Industrias creativas (arte, diseño, publicidad) y Tecnologías de la Información y Comunicaciones (TIC).",0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-41,Work life, Amancio Ortega Gaona,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-47,Family,"árboles, flores, huertos y jardineras.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-49,Family," La familia real española, los Borbones.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-50,Family, González,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-55,Family, Católica Romana,1,0.25
+mistral-7b,Spain,Spanish,inst-4,New-en-56,Family, Inglés,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-59,Family, Estados Unidos,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-68,Education," Sanciones disciplinarias, suspensión escolar, repetición de curso, sanciones económicas y procesos judiciales.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-69,Education," Cervantes, Quevedo, Góngora, Calderón de la Barca, Lope de Vega y Pérez Galdós.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-70,Education,42,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-72,Education,"¡Muchos estudiantes en España utilizan recursos en línea como Moodle, Google Classroom y YouTube!",1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-en-75,Education,16,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-76,Holidays/Celebration/Leisure, Aeropuerto Adolfo Suárez Madrid-Barajas,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-en-79,Holidays/Celebration/Leisure, Valencia,0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-87,Holidays/Celebration/Leisure," La Sagrada Familia, en Barcelona.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-en-90,Holidays/Celebration/Leisure, Hotel Ritz Madrid o Meliá Hotels International,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-gr-05,Food, Tostada con tomate y jamón serrano.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-gr-06,Food," La pizza es muy popular entre los jóvenes en España, pero el plato típico más popular es la paella.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-gr-08,Food, Sangría,0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-13,Food, Té (o café),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-gr-15,Food, Tarta de Santiago (Torta de Santiago) o Tarta de Limón (Torta de Limón),0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-21,Sport, Tenis (o Tennis),1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-gr-24,Sport,100 metros planos masculino,0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-29,Sport," La Final Four de la Euroliga (Baloncesto) o El Clásico (Fútbol, Real Madrid vs FC Barcelona).",1,0.25
+mistral-7b,Spain,Spanish,inst-4,New-gr-47,Work life,15,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-gr-58,Work life, El trabajo de guardia nocturna se considera mal pagado en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-76,Holidays/Celebration/Leisure," La comida más común durante la Semana Santa en España es el ""Mazapán"".",0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-82,Holidays/Celebration/Leisure, Música tradicional española o baladas románticas,1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,New-gr-88,Holidays/Celebration/Leisure, Taza de café o vino negro.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-gr-89,Holidays/Celebration/Leisure, Sangría o Cava,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ha-07,Food, Tapas,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-ha-08,Food, Espárragos (Asparagus),0,0
+mistral-7b,Spain,Spanish,inst-4,New-ha-09,Food, Cuchara (Spoon),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ha-13,Food, Tomate (Tomato),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ha-19,Sport, Toro (en los juegos de toros),,
+mistral-7b,Spain,Spanish,inst-4,New-ha-66,Family, Ibiza,0,0
+mistral-7b,Spain,Spanish,inst-4,New-in-01,Food, Nescafé,0,0
+mistral-7b,Spain,Spanish,inst-4,New-in-03,Food, Paella,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-in-33,Work life, Asturias o Cantabria,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-in-34,Work life, Andalucía,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-in-62,Education, Universidad Politécnica de Madrid (UPM),0,0
+mistral-7b,Spain,Spanish,inst-4,New-in-63,Education, Universidad Complutense de Madrid (Universidad Complutense de Madrid),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-in-78,Holidays/Celebration/Leisure, Tarjeta de crédito o débito (tarjetas bancarias),1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,New-in-80,Holidays/Celebration/Leisure, Parque Warner Madrid,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-ko-01,Family," La serie de animación infantil más popular que suelen ver los niños en España es ""Paw Patrol"".",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ko-02,Family," La actividad de educación prenatal más popular para las mujeres embarazadas en España es el programa ""Nacimiento Activo"".",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ko-03,Family," La Canción de Cuna (Baby Shark) es una de las canciones infantiles más populares en España que las familias cantan juntas. Sin embargo, no hay una respuesta definitiva ya que la popularidad de las canciones infantiles puede variar entre regiones y generaciones.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ko-04,Family,"1. Pelotas de fútbol (futbolín, fútbol), 2. Juguetes electrónicos, 3. Juguetes de construcción (Lego, Mecano), 4. Juguetes de acción (acciones), 5. Juguetes de imaginación (barbijos, muñecas).",1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,New-ko-05,Family," Barbie, Muñecas LOL, Juguetes de Elsa (de Frozen), Juguetes de Monster High y Juguetes de My Little Pony.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ko-06,Family," El cuento más famoso en España que se suele contar a los niños es ""El Cid"". Sin embargo, cuando hablamos de cuentos para niños, lo más comúnmente conocido es ""Caperucita Roja"" o ""Los tres cerditos"".",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ko-07,Holidays/Celebration/Leisure,¡Flor de lis!,0,0
+mistral-7b,Spain,Spanish,inst-4,New-ko-08,Work life," En España, los estudiantes universitarios suelen trabajar en locales comerciales, restaurantes, hoteles, centros de atención al cliente y en otras actividades que permitan adaptarse a sus horarios escolares.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-ko-09,Work life,"1. Talleres de comunicación efectiva
+2. Jornadas de trabajo en equipo
+3. Actividades deportivas colectivas
+4. Retiros empresariales
+5. Simulaciones y juegos de liderazgo
+6. Charlas motivacionales
+7. Talleres de resolución de conflictos
+8. Actividades culturales en grupo
+9. Programas de mentoría
+10. Desafíos creativos en equipo",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-ko-10,Work life,"1. Tutoría, 2. Transporte de pasajeros, 3. Venta ambulante, 4. Limpieza y mantenimiento, 5. Trabajos agrícolas, 6. Servicios domésticos, 7. Reparación de vehículos, 8. Arte y artesanía, 9. Música y entretenimiento, 10. Traducción e interpretación.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-02,Food, Tapas,0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-06,Food, Paella valenciana,0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-11,Food, Azafrán (Saffron),0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-16,Sport, Fútbol (Fútbol es el deporte más popular en España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-pe-20,Sport, Fútbol de playa (Beach Soccer) o Voleibol (Beach Volleyball). Ambos son populares en España.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-pe-45,Work life," El horario laboral durante el mes de Ramadán varía según la región y las empresas, ya que no hay una ley específica en España que lo establezca. Sin embargo, generalmente se reduce la jornada laboral para permitir a los musulmanes cumplir con sus oraciones y comidas durante el día de ayuno.",,
+mistral-7b,Spain,Spanish,inst-4,New-pe-47,Family,05/13,,
+mistral-7b,Spain,Spanish,inst-4,New-pe-49,Family, Iglesia o hogar familiar.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-pe-53,Family," Libros, artículos deportivos, accesorios para el hogar, ropa y electrodomésticos.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-54,Family," Flores, joyas y cartas son regalos comunes para las madres en España en el Día de la Madre.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-pe-59,Family,3,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-pe-65,Education,8,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-pe-66,Education, El deporte es la actividad extraescolar más popular en las escuelas primarias de España.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-74,Education,730 euros (en 2019),0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-76,Holidays/Celebration/Leisure, Jugar al fútbol (o futbol) en los parques es una actividad popular en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-78,Holidays/Celebration/Leisure, Festival Internacional de Cine de San Sebastián,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-pe-83,Holidays/Celebration/Leisure,"¡Bridgita! (o más comúnmente conocido como ""Bridge"")",0,0
+mistral-7b,Spain,Spanish,inst-4,New-pe-85,Holidays/Celebration/Leisure, Francia (París),1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,New-pe-86,Holidays/Celebration/Leisure, Torre de la Mujer Oscura (La Torre de la Dama) o Giralda.,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-spme-01,Food, Avispa dulce (Miel de abeja),,
+mistral-7b,Spain,Spanish,inst-4,New-spme-04,Food, El producto agrícola que más se exporta en España es la aceituna.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-spme-05,Food," Turrón, Churros con chocolate, Alfajores, Polvorones, Rosquillas y Mantecados.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-spme-15,Sport," Coca-Cola Zero Sugar (no es una bebida deportiva, pero es la más consumida en España)
+Si se quiere una respuesta de bebida deportiva, la correcta es Isostar.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-spme-27,Education,16 años (secundaria obligatoria),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-spme-37,Education, Ingeniería (Engineering),,
+mistral-7b,Spain,Spanish,inst-4,New-spme-60,Family, Domingo,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-spme-65,Family,¡Fiestas Patrias! (Celebración de las Fiestas Nacionales),,
+mistral-7b,Spain,Spanish,inst-4,New-spme-68,Family," Leche (Milk) o Agua (Water), no hay una bebida específica más popular entre los niños en España, ya que depende de las preferencias individuales. Sin embargo, la mayoría de los niños beben leche y agua regularmente.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-spme-76,Holidays/Celebration/Leisure," No se celebra un Día de la Independencia en España, ya que el país no tiene independencia nacional.",,
+mistral-7b,Spain,Spanish,inst-4,New-spme-78,Holidays/Celebration/Leisure,¡Las Mañanitas!,0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-01,Food," Churros, bocadillos de calamares, y empanadas son algunos aperitivos que se venden habitualmente frente a las escuelas en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-09,Food,Óleo de oliva,1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-10,Food," Huevos, leche, verduras, frutas, carne, pescado y legumbres son algunos de los alimentos que habitualmente consumen las mujeres embarazadas en España.",,
+mistral-7b,Spain,Spanish,inst-4,New-su-15,Food, Sangría,0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-17,Sport," Pistas de tenis, canchas de fútbol, piscinas, campos de baloncesto y campos de atletismo.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-21,Sport," Jogging, caminar, juegos de mesa, pasear con perros, practicar deportes como el tenis o el pétanque, y disfrutar del ambiente natural.",1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-su-24,Sport," Fútbol, tenis y baloncesto son deportes comunes que practican juntos padres e hijos en España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-28,Sport, Rojo y Naranja (Rojo Fuego),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-33,Education,"¡No hay un código de vestimenta común para los profesores de escuela en España! Sin embargo, la mayoría de los profesores suelen vestirse formalmente.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-34,Education, Coro o Orquesta Escolar,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-su-42,Education," La Constitución Española de 1978 establece la libertad religiosa y la separación Iglesia-Estado, por lo que no hay una religión oficial enseñada en las escuelas públicas. Sin embargo, se imparte educación religiosa opcional sobre la base de la confesión de cada alumno o familia.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-45,Education,09/09,0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-50,Work life," Agricultura, ganadería y turismo son los principales trabajos de las personas en las zonas montañosas de España.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-51,Work life, Pesca y turismo son los principales trabajos de las personas en las zonas costeras de España.,1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-su-57,Work life, Vacuno,0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-58,Work life," Vacuno, porcino, ovino y caballar.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-59,Work life," Sombrero de paja, guantes y ropa ligera.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-60,Work life," En España, los granjeros a menudo comen un plato llamado ""menestra con carne"" que consiste en verduras cocidas y carne de cerdo o cordero. También pueden comer ""gazpacho"", una sopa fría hecha de tomate y pimiento, durante el verano.",1,0.5
+mistral-7b,Spain,Spanish,inst-4,New-su-71,Family," Regalos personales, artículos de moda, electrónicos, libros y dinero son algunos ejemplos de regalos que suelen dar los padres a sus hijos por sus cumpleaños en España.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-75,Family, Coche (Carro),1,1.0
+mistral-7b,Spain,Spanish,inst-4,New-su-77,Holidays/Celebration/Leisure," No hay costumbres específicas de regalar cosas a los niños durante el Eid en España, ya que Eid no es una fiesta tradicionalmente celebrada allí. Sin embargo, en otros países musulmanes se dan regalos a los niños como muestra de amor y respeto.",,
+mistral-7b,Spain,Spanish,inst-4,New-su-81,Holidays/Celebration/Leisure," Camisa blanca o negra, pantalón formal y corbata.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-82,Holidays/Celebration/Leisure, Sutana de novia o vestido de novia.,1,0.25
+mistral-7b,Spain,Spanish,inst-4,New-su-83,Holidays/Celebration/Leisure, Paella y tapas son comidas típicas que se suelen servir en las bodas en España.,0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-86,Holidays/Celebration/Leisure," El Edificio de Correos de Madrid, también conocido como El Capricho de la Avenida de los Reyes Católicos.",0,0
+mistral-7b,Spain,Spanish,inst-4,New-su-88,Holidays/Celebration/Leisure, Pop,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-02,Education,15:30 (15:30 es la hora aproximada en que salen los estudiantes de secundaria en España cada día),0,0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-03,Education,18,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-06,Education,6,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-09,Education,6,0,0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-11,Education,2 años,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-12,Education," Universidad Complutense de Madrid (Universidad Complutense de Madrid) o Universidad de Barcelona (Universitat de Barcelona), dependiendo de los criterios de evaluación utilizados. Ambas son reconocidas por su excelencia académica y sus contribuciones a la investigación.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-13,Education,23 años,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-15,Education,16,0,0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-17,Work life,40,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-19,Work life,5,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-20,Work life,16 años,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ni-en-21,Work life,16,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-31,Holidays/Celebration/Leisure, Pollo asado o bacalao a la vizcaína.,0,0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-37,Holidays/Celebration/Leisure," El día del año en el que la gente en España celebra el amor y el romanticismo es el 14 de febrero, conocido como San Valentín.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"¡Feliz Navidad! La canción de Navidad más popular en España es ""El Tren de Navidad"" (The Christmas Train).",0,0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-04,Education,2,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-05,Education,9,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-06,Education,05/15,0,0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-11,Education,08:30 (en general),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-20,Family,06/01,0,0
+mistral-7b,Spain,Spanish,inst-4,Nu-in-40,Work life, Madrid,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-1,Food, Burger King (es la más popular en términos de número de establecimientos),1,0.4
+mistral-7b,Spain,Spanish,inst-4,Sa-en-13,Food, El jamón ibérico.,0,0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-16,Sport, Real Madrid o Fútbol Club Barcelona (ambos son muy populares),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-22,Sport, Universidad de Valencia (Valencia CF) o Real Madrid CF (Universidad Complutense de Madrid). Ambas tienen equipos de fútbol muy famosos.,,
+mistral-7b,Spain,Spanish,inst-4,Sa-en-31,Family, Perro (Dog),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-32,Family,"¡Mira quién salta! (This Can't Be True, it's a Spanish game show) - No, this is incorrect. The correct answer would be ""Operación Triunfo"" or ""La Casa de Papel"". Both are popular Spanish TV shows.",0,0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-37,Family,"¡Scrabble! (En realidad, el juego de mesa familiar más popular en España es el Mus, pero Scrabble es un juego muy conocido y jugado en todo el mundo.)",0,0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-6,Food," El paella es muy popular como comida para llevar en España, pero la más popular es la tortilla española (tortilla de patatas).",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-7,Food," Tapas, patatas bravas, gambas al ajillo, empanadas y pimientos de Padrón.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Sa-en-9,Food," Comida española en la playa puede incluir paella, tortilla española, pimientos de padrón, gambas al ajillo y otros platos tradicionales. También es común encontrar sandwiches, sándwich de bocadillo, y ensaladas frescas.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-10,Family,35 años (según datos del INE de España),1,0.3333333333333333
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-11,Family,31 años (según datos del INE de España),0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-13,Family,3.65 (según datos del INE),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-17,Sport, Atletismo,0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-21,Sport, En los campos de fútbol o en las calles.,1,0.6666666666666666
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-22,Sport,¡Caminar! (Walking),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-23,Sport,¡El fútbol! (o el entrenamiento de fútbol),0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-25,Sport," El Clásico, que es el partido entre Real Madrid y FC Barcelona.",0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-29,Sport, Fútbol (Fútbol Profesional),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-30,Sport,¡Más Deporte! (actualmente) o Teledeporte (anteriormente),0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,16 de diciembre (Día de la Constitución Española),0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Muñeca de la Cera Vieja (La Fallera),0,0
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,12 uvas (doce uvas a la buena fortuna),1,0.5
+mistral-7b,Spain,Spanish,inst-4,Ta-pe-45,Holidays/Celebration/Leisure, Gazpacho o Tortilla Española (Espárragos con Salsa Verde),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-01,Sport," Fútbol (Fútbol es el deporte más popular en España todo el año, pero para la pregunta se refiere al verano, donde el fútbol es el deporte más practicado y seguido en forma de fútbol sala o fútbol playa).",1,0.5
+mistral-7b,Spain,Spanish,inst-4,Th-en-03,Sport," La Liga Profesional de Fútbol, conocida como LaLiga Santander.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-05,Sport, Fútbol femenino (Fútbol femenino es el deporte femenino más popular en España),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-09,Sport, LaLiga (Primera División de España),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-11,Sport, Rafael Nadal,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-12,Sport," Fútbol (Fútbol es el deporte en el que España ha tenido más éxito en competiciones internacionales, ganando la Eurocopa en cuatro ocasiones y la Copa Mundial de la FIFA en una ocasión.)",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-15,Sport," El deporte de invierno más popular en España no es tradicionalmente un deporte de invierno, ya que España no tiene inviernos fríos. Sin embargo, si se considera al hockey sobre hielo, este es el deporte de invierno más popular en España.",0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-19,Work life, Cataluña (Barcelona),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-21,Work life, El beneficio más importante que se ofrece típicamente a los empleados en España es la asignación familiar o indemnización por hijos.,0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-22,Work life,1936-1939 (Guerra Civil Española),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-24,Work life, Madrid o Barcelona,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-27,Work life, La industria más importante de España es la Industria Manufacturera.,0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-35,Family, Cena,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-36,Family,¡Ir a parque! (Go to the park!),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-37,Family,18 (es el edad legal de emancipación en España),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-38,Family, La Navidad (Christmas),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-39,Family,¡Juego de la Oca!,1,0.5
+mistral-7b,Spain,Spanish,inst-4,Th-en-41,Family,31.5 años (según datos del INE de España),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-43,Family,"1,5 (Es importante destacar que esta cifra es aproximada y puede variar según diversos factores)",1,0.75
+mistral-7b,Spain,Spanish,inst-4,Th-en-44,Family, Paella,1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-45,Family,¡Ir a jugar al parque! (Going to the park is the most popular family leisure activity on weekday evenings in Spain.),0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-48,Education,10 (sobre 10),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-49,Education, El examen más importante para los estudiantes de secundaria en España es el Bachillerato.,,
+mistral-7b,Spain,Spanish,inst-4,Th-en-51,Education," La asignatura más importante no tiene un consenso generalizado, ya que depende de las preferencias y objetivos individuales de cada estudiante. Sin embargo, en España, la educación es obligatoria hasta los 16 años y se enfatiza en materias como Matemáticas, Lengua Española y Ciencias Naturales.",1,1.0
+mistral-7b,Spain,Spanish,inst-4,Th-en-53,Education,"¡No tengo suficientes datos actualizados para responder con precisión! Sin embargo, puedo decirte que entre los eventos sociales extracurriculares populares en los colegios de España se encuentran las fiestas de San Valentín, la Semana Santa y las jornadas culturales.",0,0
+mistral-7b,Spain,Spanish,inst-4,Th-en-58,Education, Análisis Matemático,0,0
+mistral-7b,Spain,Spanish,inst-4,Tmp-ar-01,Education, Biblioteca o Aula Magna (Sala de Exámenes),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Tmp-ar-02,Education, Autobús o tren (metro/cercanías),1,1.0
+mistral-7b,Spain,Spanish,inst-4,Tmp-ar-04,Education, Ellos van a la escuela secundaria.,0,0
