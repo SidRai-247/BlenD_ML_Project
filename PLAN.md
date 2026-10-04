@@ -136,9 +136,50 @@ question (local  │  prompt(inst-4 / pers-3, same language)  │──► LLM �
 Key rule: **translation is used only for searching.** The LLM always gets the original question in its
 original language, so the comparison with the baseline stays clean.
 
-Translation source for the search query: BLEnD already ships a human English version of every question
-(`Translation` column). For the mid-term we use that ("oracle translation"). For the final report
-we add machine translation (the LLM itself or NLLB) to show the realistic pipeline and measure the gap.
+**Decision (2026-10-04): the KB is treated as English-only, and the search query is always BLEnD's own English
+version of the question** (`Translation` column, a human "oracle" translation), for simplicity. This holds for
+the whole project, not just the mid-term. Machine-translated queries (LLM or NLLB) are an optional
+extra for the final report, only if time allows.
+
+### Always-RAG: exact design (decided 2026-10-04)
+
+Follows SOP §III-A: region-aware **hybrid BM25 + dense** retrieval restricted to the target country's KB,
+then grounded generation with the same prompts. All choices are fixed **before** looking at RAG results.
+Nothing is tuned on the test questions.
+
+| Part | Choice | Why |
+|---|---|---|
+| Documents | one card = one document: `text_en` + its `keywords` | KB cards are short (15–40 words), so no chunking is needed. Keywords add exact terms for BM25 |
+| Index scope | **one index per country** (US 150, ES 150, KR 130, AZ 150, ET 140 cards) | "region-aware": a Spain question can only retrieve Spain cards |
+| Query | the question's **English** text (BLEnD's own English version = oracle translation), used for **both** the local-language and the English setting of that question | KB is English-only. The same retrieved cards for both settings keep local vs English comparable |
+| Lexical | **BM25Okapi** (`rank_bm25`, k1 = 1.5, b = 0.75). Tokens: lowercase, `\w+`, English stop-words removed (scikit-learn list) | SOP names `rank_bm25`. Standard defaults |
+| Dense | **`BAAI/bge-m3`** (MIT, ungated, 568M params, 2.3 GB) dense vectors via `sentence-transformers`, L2-normalised, **cosine similarity** | Named in the SOP. Free and open. Multilingual, so the same model later serves PS-3 (local-language query → English KB) |
+| Fusion | per query, min-max normalise both score lists over the country's cards, then **hybrid = 0.5·dense + 0.5·BM25** | Simple convex combination with equal weights, fixed a priori, a standard hybrid baseline. Unlike rank fusion (RRF), it keeps score magnitudes, which PS-2 needs |
+| k | **top-3** cards per question | ~50–120 words of context. Small enough not to drown 3–7B models |
+| Prompt | context block prepended to the **unchanged** baseline prompt (`inst-4` / `pers-3`, original language) | The only difference from the baseline is the context. That gives a clean ablation |
+| Logged per question | top-3 card ids + their dense cosine, raw BM25 and hybrid scores; top-1 raw scores | Becomes the retrieval-confidence signal for the Adaptive-RAG gate (PS-2) and for error analysis |
+
+**RAG prompt** (context in English, since the KB is English; the question part is exactly the baseline prompt):
+```
+Background information about {country} (may or may not be relevant):
+[1] {card 1 text_en}
+[2] {card 2 text_en}
+[3] {card 3 text_en}
+
+{baseline prompt: inst-4 or pers-3, in the question's language, with the question}
+```
+
+**Where it runs:** retrieval is done **once, offline, on the laptop**. That is 2,500 English queries (500 × 5 countries)
+× ~150 cards per country, a few minutes on CPU. The result is saved to `results/retrieval/oracle_en_top3.jsonl`.
+`build_jobs.py --condition rag` then writes the RAG prompts into `jobs/rag.jsonl`. The **PC side is unchanged**:
+the same `pc.py push/start/pull` and `run_ollama.py`, 9,000 prompts per model, then `score.py --run rag`.
+
+**Retrieval diagnostic (sanity only, never used to edit the KB or tune anything):** answer-hit@3, the % of
+questions where any top-3 card contains one of the gold English answers. It tells us how often the KB
+*could* help. It is reported next to the accuracy change.
+
+**Planned sensitivity checks (final report, not mid-term):** k ∈ {1, 3, 5}; BM25-only and dense-only
+vs hybrid. These are reported as ablations, and the main number stays the a-priori setting above.
 
 ### Conditions
 | Condition | What | Status |
@@ -153,7 +194,8 @@ we take the RAG answer if the gate fires and the baseline answer if not, so gate
 
 ### Size of the job (per model, per condition)
 US: 500 q × 2 prompts = 1,000. The other 4 countries: 500 × 2 languages × 2 prompts = 2,000 each.
-Total **9,000 generations**. Baseline + RAG = 18k per model, 54k for the Tier-1 trio. That is small for vLLM.
+Total **9,000 generations**. Baseline + RAG = 18k per model, 54k for our 3 models. The baseline took **~5.5 h** of
+PC time (gemma 28 min, mistral 3.7 h, qwen 1.3 h). RAG prompts are longer, so expect ~6–7 h.
 
 ---
 
