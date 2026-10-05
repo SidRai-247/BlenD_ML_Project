@@ -1,0 +1,592 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,Çay qeydiyyatının önce ve sonra yeməklərə qeyd edilir. (Drinking tea before and after meals is a common practice.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food," Azerbaijan'da popüler yemek, pakhlava (Guba ve Ganja pakhlava) dir. Pakhlava, baharatlı peynir, növüz və şekerden oluşur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,Çox popüler meyvə Azərbaycanın citruslarıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,Çay (tea) tipik olaraq verilir. (Drinking tea is typically served.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,İndispenzable olan qəlyanaltı Lavash'dur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,Çay parkıdır (Teapark).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,3 yaşda məktəbəqədər təhsilə başlayırlar. (12),1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education," Pehlevanliq, bu Azerbaijani traditional sport-and-performance tradition, ibtidai məktəblər üçün məşhur olan bir idman növüdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,"İbtidai sinif şagirdləri Azerbaycanında matematikası, fizikası, kimyası, tarihçilik, dünya dili və sanat üzrə fərdi təhsil alırlar. (Mathematics, physics, chemistry, history, foreign language and art)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,"İkinci popüler dil Azərbaycanın dövlət dilidir, bu durumda Rusca dair ifahat edilir. (The second popular language among school students in Azerbaijan is Russian.)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,"İstifadə olunan fənn Azerbaycanında en önemlidir, bu cavab verilməz. Bu sözleşmədə, istifadə edilmiş olduğu görülmüştür ki, Azerbaycanın ödənişi, eğitim və bilim alanları haqqında bilgilendirilməyib. Bu sözleşmədə, Azerbaycanın istifadə edilmiş olduğu fənnlər həmçinisi önemlidir və bunların seçilməsi, özgünlük və məqsədleri uygun olması dövrür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,Şükran gününün əsas yeməyi Pilafdır.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure, Azərbaycanda Halloween'a qeyd edilməz. Azerbaijanın milli təarihi və tradisiyasında bu tarixiy holiday yoxdur.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda Novruz Bayramını qeyd edirik. Bu yönetilmiş bayram, ilk günü Mart 21-ci gününde başlayır ve 8 gün sürür. Yeni İl gününü qeyd etmək üçün insanlar birbirinə Novruz Bayramının başlangıcında təhlil edirik və birbirinə təbriklər veririk.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure," Azərbaycanda Milad bayramını şimdilə yaratılma sözü və ya yeni başla sözü olarak qeyd edirilir. Bayramının keçmişi, yaxşılığı və yeniliklerin önünü təhlil edir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure," Azərbaycanda Hellouin bayramının əlaqələndirilməsi yeməklerden birində qutab, pilaf və lavash dəstəyində barədərdir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,"İnçarəyimiz Azerbaycan Milli Bayramı (Azərbaycan Respublikasının Dövlət Bayramı) ilə baxılıca şəkərlər əlaqələndirilir. Bu bayramın yanında azərbaycanda çox önemli olan gözlüklü təyinlər və qorqutmaq üçün dostlarınıza, yolculuşunuzun sonunda yaşadığınız yerlərin kimyasına şəkərlər əlaqələndirilir. Böyük Milli Bayramı (Bakr Eid) ilə baxılıca, lavash, pakhlava və təllər əlaqələndirilir. Azerbaycan Travel sitedinde yer alanlar gibi şəkərlər dövlət bayramı ilə baxılıca deyilmişdir, ancak bu bayramın yanında çox önemli olan şəkərlərdir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure," Azerbaijan'da, sevgililər günü ilə əlaqələndirilən yemək Lavaşdır. (Lavash is the food associated with celebrating lovers' day in Azerbaijan.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,İnsanlar Azərbaycanda Novruz gününde pakhlava yeyirler.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure, Pehlevanliq yeridir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,"İçindeki bilgilerden görüldüğü üzere, Azerbaycanın family policy'si ailələr və zahmetlənlər təməsində sosial mühafizətə əminsiz olunur. Bu family policy, ailələr həmçinin müşaqatını təmin edir və zahmetlənlər təmin etdiyi sosial mühafizələri təmin edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education," Evet, universitet tələbələri harada nahar edirlər. (Yes, university students also work.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,3-ci ayda keçirilir. (March),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,8 saat vaxtını liseydə keçirirlər.,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,1 dilde,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport," Pehlevanliq, bu Azerbaijani traditional sport-and-performance tradition, məktəbdir. Ancak, bu yerda söz edilmişdir ki komanda ilə oynanılan ən populyar idman növü Azərbaycanda neydir. Bu sorada bir cavab verməyə cəhd edilməyib.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport," Pehlevanliq, Azerbaijan'daki en çox tanınan idman şərhçisi dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport," Pehlevanliq, Azerbaijan'da en popüler idman komandası deyil. Bu, bir idman komandası olmayan bir tradisyonudur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport,"İnsanlar Azərbaycanda Pehlevanliq'da folk eventləri və outdoor celebrationsda praktik edilir. Bu yüzden, toplaşma yerləri ve məkanların adından çıxarılması görmək lazım deyil. Ancak, Lankaran markets'da bütünlük olarak idman yayımlarını izləyə bilər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,3 defə,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,İçin Pilafdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,"Şöyle bir cevap verilməyib, bu süreçda izahatsız tək bir cavab verilməzdir. Fakat, Azerbaycanın pəhrizində ən çox istifadə olunan inqrediyent Kelaghayi (silk headscarf) dir. Bu, Azerbaijan'ın UNESCO intangible heritage listində daxil edildi.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,"İnsanlar Azerbaycananda pakhlava (Baku, Guba ve Ganja səhərləri daxilində) yeyirik.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Çarşamba (Wednesday),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,Çaj (tea) az Azerbaycanın en popular isti içkisi dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,"İçirilməyir, gecə klubunda adətən içilməz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,12 - Ay Novruz'un keçirilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"İn Lankaran ili, Azerbaycan'da Kelaghayi, Lankaran çayı və Lankaran bazarı en önemli tərcümələrdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,"İnanç ettiğimiz Azerbaycan'da, genellikle bir katlı ev tipidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family," Evet, azərbaycanın adətən harada yaşayan yashilari vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,1. Azerbaijan's primary education statistics are not provided on a daily basis. The data is typically available on a weekly or monthly basis.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,1. Hafta müddəti Azərbaycanda atalıq məzuniyyətinin müddəti haqqinda verilmiyir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,"İşte, Azerbaijan'da aile tətili üçün seçilən adət növ təyinatı yalnızca şunu oxuyur: ""Müsahat-i Nufus ve Ailə Təhkim Nazirliyi"" (MüNAT) tarafından yerel və qonuşmaq üçün təklif edilmiş və ya qabul olunmuş ""Aile Tətili Növ Təyinatları"" (ATNT). Bu növ təyinatlar, aile tətili üçün əməkdaşlığının mümkün olduğunu və yaradılmasının mümkün olmasını göstərir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport, Pehlevanliq'dür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport," Azərbaycanda, kişilər en çox Pehlevanliq (pehlivanlıq) növlərisi ilə məşgul olmağı xoşlayırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,"İmtaj edilmiş olmayan, bu konuda heç bir izah yok. Azerbaijan'da en müşhür basketbolçular hakkında bilgiler verilməyibir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport, Pehlevanlıq (wrestling) is the most popular sport among Azerbaijani wrestlers.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport, Pehlevanliq-da ilə məşğul olmağı xoşlayırılar. (They prefer to participate in Pehlevanliq sports.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,İdman yarışına müsavat verilməyir. Azərbaycan Olimpiadada çapəldirilməyib.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport, Football (soccer) is the most popular sport that university students in Azerbaijan prefer to play.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,12,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,12 cütlük olur.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,12,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,12,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,8 yasindan öyrənməyə başlayırlar. (Bu bilgilere görmək üçün [1] ve [3] sözlüşmelerini inceleyin.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,12 yıllıq (Bakalavr təhsilinin müddəti Azerbaijanda 12 yıl qadardir.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,08:30 (or any other specific time provided by the education ministry in Azerbaijan),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,1,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,Çöxən günü (Friday) üstünlük verilir Azərbaycanda insanlar şirkətlə şam yeməyinə.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,"İmkanlarımda, Azerbaijan'daki en çox maliyye şirkətlərinin olup olmadığını ölçümde belirlenmiş olmayıp görüntülü bilməm. Ancak, Azerbaijan'da yer alan şirkətlər hər biri bir rayonda/şəhərdə var ve müştəri-iştifadəçilərindən istifadə edilməyə bağlı olarak bunların sayısı deyişdirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,"Şüpərsiz, Azerbaycanın en məshhür özəl şirkəti Shaki-İpekdiri (Shaki Silk) dir. Bu şirkət, Azerbaijanın Shaki rayonunda yer alan traditsiyal şirkev qazmaq-çöxmə mətodlarını saxlamaq üçün tanınır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,12 saat,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,"İnsanlar Azərbaycanda şirkət toplantıları zamanı Lankaran chayı, pakhlava və bağlı təyinləri yeyirirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life," Azərbaycanın təmsil ediliyişi Lankaran limonları və çayı, Shaki yolcuşmasında qadınlar tarafından sənət qurbanlığına bağlı silk məhsulları dəyişmisdir. (Lankaran citrus fruits and tea, as well as silk products in Shaki made by women involved in traditional craftsmanship.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,8 saatdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,"İnsanlar Azerbaycan döyüşünden sonra yaşadıkları müddət, özgün şekilde təhlil edilməz. Fakat, Azerbaycan Respublikasının Milli Statistika Komitasi (AzStat) verilmişdir ki, 2019 yılında 65 yaşdan küçük olmaqla birlikdə 48.3%-ının erkek və 51.7%-ının kadınlar olan 15-64 yaş aralığında çalışmalarda aktif olmaqla birlikdə çalışma zamanına göre erkek və kadın ortalama müddətleri 57.1 və 63.4 yaştır, bu sayede kadınlar ümumi müddətünü artırır. Bu verilmişdir ki, Azerbaycan Respublikasında erkek və kadın ortalama yaşları 57.1 və 63.4 yaşdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,Çox çox kelaghayi (silk headscarf) verilir Valideynlər Günündə Azərbaycanda.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,"İnsanlar Azərbaycan cəmiyyətində ilk maaşlarını bazı tarixi və yerlərindən özgün çaylar, Lankaran çayı dahil olmaysa, bazar bazalarından satışa çıqarlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,"İstirahət mərkəzleri Azərbaycanda özgün bir istirahət mərkəzi olmayanlar. Müəllif və ya meşhur olan istirahət mərkəzləri dünyada var, ancak bu Azerbaijandan həmən ən çox üstünlük verilən istirahət mərkəzi olmayır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family," Azərbaycanda ailə ilə bağlı bayramlar, şunların bir parçasıdır: Novruz Bayramı (Novruz Bayramı), Şükrü Bayramı (Şükrü Bayramı), Ramazan Bayramı (Ramazan Bayramı), Kurban Bayramı (Kurban Bayramı) və İd-i Qurban (İd-i Qurban).",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"İndeksler, ki uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsas olunur, Azerbaycan cəmiyyətində axtarışların yanında özgün çox səviyəli olan məlumatlar dəstək olur. Bu məlumatlar:
+
+1. Ödənişlər (məsahat, maşin, ev və baxışlar)
+2. İnternet ve telefon əlaqəsi
+3. Əhval və sağlıq məbludiyatı
+4. Ödənişlərin təmizilməsi və yararlanılması
+5. İnvestasiyalar və bakışlar
+6. Çox səviyəli ödənişlər (ev, maşin, telefon)
+7. Əlaqədar müstəqilliyi ilə əlavə olunan təmizlik və sağlıq məbludiyatı
+8. İnternet və telefon əlaqəsi təmizilməsi və yararlanılması
+9. Çox səviyəli ödənişlər təmizilməsi və yararlanılması
+10. İnvestasiyalar və bakışlar təmizilməsi və yararlanılması
+
+Bu məlumatlar, uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsas olunur, ancak bu listada verilmiş olan məlumatlar dəstək olur, ama uşaqların valideynlərindən müstəqilliyi il",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,Çayınızı. (They give tea.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,"İlk bayram Novruz, Azerbaycan'da March 20-21 yaxşı vakitindir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,"İstifadəçi, bu sözlüyüm: Azərbaycan cəmiyyətində ən təntəli yaşın ad günü ""Bəyrağ-ı Şevval"" (Yanvar) dir. Bu yazılışma və yaşın adı Azerbaycan Milli Elçilik Fəaliyyət Nazirliyinin sənədində təqdim olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education," Evet, Azerbaijan'da orta ve ali məktəb şagirdləri adətən imtahanlara hazırlandırılır. (Yes, school students in Azerbaijan are prepared for competitions.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,"İnternet üzerinde bulunan bilgiler gözümüzden özür diler, bu konuda yeni veri yok. Azərbaycanda orta məktəb şagirdlərinin sonra adətən hara gedilmesine dair son yazılan bilgiler vardırsa, bu yazılardan alınmış olmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,"İbtidai məktəb şagirdləri Azerbaijanında məktəbə dövlət dilini, Azerbaycan dili, özgün dilini okudurlar. (The primary school students in Azerbaijan learn the state language, Azerbaijani.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,"İndeksli olaraq, Azerbaijan'da özəl təhsilin ən çox yayılmış forması məktəb-lisans (secondary education) dəyilir. Bu, orta özgünlük təhsil və məktəb-lysyon (higher secondary education) qruplarını içerdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,İnternational Subject Olympiads (Fənn Akademiyasına) və Xüsusi Təhsil Müəssisəsinə (Özgün Öğretim Kurumlarına) Azərbaycanda orta və ya ali məktəb şagirdləri en çox qatıldırlar.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,İndeksli geyimler (uniform) kullanılarak okulda öğrenciler Azerbaijanda orta ve yüksek sıniflarda gözükmektedir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,İxtisasın qəbulü Azərbaycanın mədəniyyət ministrisi tarafından yönetilir. (The acceptance of specialties is managed by the Ministry of Education in Azerbaijan.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,İbtidai sinif şagirdlərinin ən çox öyrəndiyi müzik aləti Azerbaycan dili olan müzik alətidir. (The most popular music instrument for primary school students in Azerbaijan is the one that plays Azerbaijani music.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,"Çox çox Azerbaycan məktəblərdə orta məktəb şagirdləri adətən fasilə vaxtında Azerbaycanca, Rusca və Georgiaca derslər işləyir. (Most students in Azerbaijani schools receive instruction in Azerbaijani, Russian and Georgian during the school day.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,Çox büyük bölümün üçün Azerbaycanca dili.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,"İnterneşi üzere, Azərbaycanın ali məktəblərində istifadə edilən fənlərlər şu türlüdir: matematika, tədəbir, təcrübə, təhsilat və dənşiya. Ancak, bu yazıda verilmiş olmayan bir izahatsız cavab verilməyib.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,"İmkanlarımda, Azerbaijan'daki her bir şehrin akademik hevsiyi ölçürülməyib. Akademik hevsiyi ölçümleri yalnızca mənfiyələr (rayonlar) və iqtisadi bölgular üzere saxlanır. Ancak, Baki şəhəri, Azerbaijan'ın en çox təhlükəsiz dövlətindir və bu yüzəndə akademik hevsiyi daha yüksəkdir.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,"1. Keçirilən universitet festivallarında Azerbaijanda insanlar en çox həməyənlər, təklifləri və əməkdaşlarını gözləyirlər. (They mostly look at performances, presentations and colleagues during university festivals in Azerbaijan.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,İkinci en popular idman növü Azərbaycanda Pehlevanlıq (azərbaycan dövlət sport-işi)dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport," Pehlevanlıq, Azerbaycanın bir popüler sport növüdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport, Pehlevanliq (wrestling) ve Azerbaijani tea culture.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport," Pehlevanlıq, Azerbaijanın en popüler sport növü.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport," Pehlevanlıq, Azerbaycanın en popüler zehni idman növü.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,İşçi Azərbaycanda standart bir işçi il ərzində 28 gün tətil alır. Bu sayı yalnızca rəqəm olarak verilir (12 gibi).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,Şəhər-i Lankaran. (Lankaran city),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,"İşdən adətən çıxırma vaxtları Azərbaycanda Labour Force Survey-da raporlanır. Bu verilirse, 09:00 (sabah) - 18:00 (akşam) arasında olmalıdır. Faksıs yerləşdirilmiş vaxtlar haqqinda daha fazla bilgi almak üçün Labour Force Survey-un son halini inceleyin.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,09:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education, Pehlevanliq (wrestling and zorkhana games),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,5,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,7 (heftə),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,6 (6 yılı),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,"2 dil öyrünülür. (7, 8)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,"İnsanlar Azərbaycanda lavash, dolma və teyze (tezgah) adətən çox coxalarında istifadə edirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food, Azerbaijan'da insanlar Lankaran çayı xoşlayır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,Şiraz (wine) is the most famous traditional spirit drink in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,"Şu anda Azerbaijan'da restoranda insanların nahar etmələri haqqinda verilmiş məlumat yoxdur. Labour Force Survey (1) restoranda çalışanların ortalama saatçi məblağı haqqında bilir, ancak bu məlumat restoranda nahar etmək üzrə verilmiyir.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,09:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food, Azerbaijanın insanları Lobiyon sofrasında yer alan Şorba (Şorba yani şorfaların bir türü) - Choban Salatası'nı xoşlayırlar.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food," Azərbaycanlılar pakhlava, dolma, kebab, pilaf və lavash gibi çox xoşlayırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food," Azərbaycanlılar Lökbatan, Körpük, Balıq, İçim, Pirad, Mugalov, Sardel, Barrax və bağlı məhsulları yeməyi xoşlayırlar.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure, Baku's Fire atası (Fire Festival) is the largest festival in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"İctimai nəqliyyat vasitəsində Azerbaijanda, həmşərinin en çox istifadə olunan vasitəsi yol şəhərləri dövlət və qırıb-qırıb şəhərləri tərəfindəki bus-taxi vasitəsindir.",1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure," Azərbaycanın ən böyük festivalı Novruz'dur. Bu festivalda, yerli tradisiyalarınızda water, fire, earth ve air/wind simvoloları çox şəkil vaxtlarında qeyd edilir. Böyük olaraq, Novruzun dekorasiyalarına yerlər, sevgi, barakat və yenilik simvoloları çox şəkil verilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport," Pehlevanliq-daxilində zorkhanalar və individual performanslar. (Translation: In Azerbaijan, women most enjoy wrestling and zorkhana games.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport," Azərbaycanda, ən çox idman növləri Pehlevanliq olan zürafa vurma və zorkhanaları izləməyi xoşlayırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"20 yaşlı Azerbaycanın qadınları genel olarak ev, aile ve yaşamçılıq sektörlerinde meşgul olur. Bu fəaliyyətlər şunları içerir: evdə çocuğunun bakışını keçirirken, aile yönetmək, evde yaşamış olan kişilere hizmet vermək, evdə yemek hazırlama və təzakür etmək, şəxsiyyat və sağlıq sektöründe çalışma və böyük ölkələrdeki şirkətlərdə işlərmək.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"20 yaşlı Azerbaycan respublikasında olan kişilərin ortalama asudə vaxtlarının yüzək bir kismi ümumi məlumat, ödənişlər, işlər və eğitimlər ilə məşgul olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,"İş günü nahardan sonra Azerbaijanda insanlar adətən 8 saat fasilə götürürlər. (Məsələn, 8.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,"İnsanlar Azərbaycanda iş günlərində çocukların daha önceki sualda öz edilmiş olduğu göndərilmis olaraq lavashla yemek yeyirirler. Ayrıca, çayı iş günləri sonra da yenidünya ile birlikdə yemek yeyirirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,İş olunan insanların Azərbaycan'da orta gediş vaxtı 8 saatdir. (Bu sonucu [1] labor force survey-dan elde edildi.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,"İnşallah, Azerbaycanın insanların işə getməsi üçün en çox istifadə edilən yolun həmçinin bir parçasında, şöhbət vasitəsi (telefon) vardır. Fakat bu sualda, yolun başlığı ""narx vasitəsi"" olaraq verilmişdir. Bu nəzarət üçün, Azerbaycanın narx vasitəsindən ən çox istifadə edilən yolun həmçinin bir parçasında, qazax (taxi) vardır. Bu nümayənin bir parçasında da, işlər və ya məlumatlar göndərmək üçün pöstəndə posta vasitəsi istifadə edilir. Fakat bu sualda, yolun başlığı ""narx vasitəsi"" olaraq verilmişdir. Bu nümayənin bir parçasında da, işlər və ya məlumatlar göndərmək üçün pöstəndə posta vasitəsi istifadə edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,18 gün,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,30,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,35 (Bu sonucu Azerbaijan'daki ofisyal labor statistiklarında yaygın yaş gruplarından elde edildi.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,"İnsanların özüne dair, Azerbaycan da tək bir cavab verilməzdir. Ancak, şəxsiyyat və ailələr ilə yaranma-yaranma haqqında, çox önemli rol oynar. Bu nəzarətin bir parçası Novruz bayramıdır, Azerbaycanın yaşamının bir yerindedir. Shaki ilkəri silk üzvəzi də önemlidir. Ancak, bu cavabların heç bir izahatsız olmasından əminsiz olunmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,"8 (orazmis olaraq, çalışma günü Azerbaycanın tipiki müddəti 8 saatdir. Ancak bu sayı yalnızca ortalyulardan qədərdir və faktörlər (təqdimat, iş türü və baxılacaq) boyunca deyilmisdir.)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,"İş statıstikalarına göre Azerbaijanda, qadınlar arasında en çoxtuq üstünlük verilən peşə çalışanların yeridir. (According to labor statistics in Azerbaijan, the position with the least advantage among women is held by those who are employed.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,"İş-sahib olma mümkünlülüğü ve maşinə və ya işletməq üçün gözü alan peşə, Azerbaijanda ən çox üstünlük verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education," Ortalama olaraq, Azərbaycanda tələbələr təhsillərinin adətən orta məktəb (middle school) davam etdirirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,"İngilis dilden başqa dillər tədris edilməyir Azərbaycanda məktəblərdə. Fakat, əlavə olaraq, şu dillər tədris edilir: İngilis, Türkçe, Rusça, İran dili (Farsi), İraq dili (Arabica) və Almanya dili (Almanca). Bu yazılanlardan biri olarak, bilingual ve trilingual məktəblərdə Azerbaijani-Russian, Azerbaijani-Russian-English, Azerbaijani-Turkish, Azerbaijani-Farsi, Azerbaijani-Arabic və Azerbaijani-German kombinatsiyaları tədris edilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education,Şəhərdə məktəblər haftənin her bir günlərində bağlıdır. (Schools in the city are open every day of the week.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food," Azerbaijanın ev sahibləri qonaqlar üçün pakhlava, dolma (yaxni, şiş kebab) və lavash yeməkləri hazırlayırılır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,İçilir tea (çay).,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,"İngilizce'deki sualı çevirerek ""Which cuisine is more popular in Azerbaijan than another country's?"" olarak ifadesinizi yazabilirim. Ancak, bu soruyu yanlış bir şekilde sormadığımız için, onun cevabını veremiyorum. Azerbaijanda başka bir ülkeden daha popüler bir yemek bulmak için, ilgili veriler ve karşılaştırma yapmanız gerekir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,"İçindeki yeməklərlər həmçinin birindisidir, Azərbaycanda ailə piknikləri üçün lavash, pilaf, köftə, dolma və shorba hazırlanır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food," Azerbaijan'daki bir yeməyi, bütün dünyada iyrənc hesab olunmayır. Fakat, Azerbaijanın təqdim edilən bir yeməyi, şəbəkələrdə ""Pakhlava"" adında bir təzimdir ki, bu yeməyin bütün Dünyada iyrildiyini düşündürülməz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food, Lavash,1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,09:00 - 18:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure, Azərbaycanda en uzun müddətli milli bayram Novruz Bayramidir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"İstiqlal Gününü qeyd edən Azərbaycan insanlarının əməkdaşlığı, yarışmalar, konserlər və millət təyinatları dəyərlidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"İn family-related matters in Azerbaijan, it is customary for the immediate family members to gather and take care of household chores and prepare meals during Akhir Charshanba (the last day of the week before Nowruz, the Persian New Year).",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure," Azərbaycanda Novruz, bu spring ve vernal equinox'a tətbiq edilir. Bu yüzəndə, hamiləlik bayramı və ya mərasimi Novruz vaxtı keçirilir. (Novruz marks spring and the vernal equinox in Azerbaijan. Therefore, the holiday or celebration of pregnancy is celebrated during Novruz.)",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,"İşte, Azerbaijanda adətən önce yerləşməq keçirilir. Bu, ağz qurbanına, kimse hərfləri vermək və ya söyləmək daha əvvəl keçirilməyəcəkdir. Bu tədbir, Azerbaijanın milli adatında yer alır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Çocukların yeni ilə adət olunmasında Azerbaycan Azərbaycanda qədər 14 yaşından keçirilir. (Guardianship is established for children under 14 who have lost parental care in Azerbaijan.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,"İşte, Azerbaijanda Ramazan sonunda adətən görüldüğü tədbirler hakkında bilgi verməyə çalışdığımızda, bu konuda yerel yönetmeliklər və qonuşmalarınızla məlumatlar bulunur. Ancak, Ramazan sonunda adətən Azerbaijanda görüldüğü tədbirlər şunlardır:
+
+1. Bayram Şeklinde Qorban Yolu: Ramazan sonunda, Bayram Şekli ilə qorban yolu görülür. Bu, Ramazan sonunda 27-inci günü (Eid al-Fitr) başlayır və 30-cu günden sonra sona döndürülür.
+
+2. Bayram Şeklinde Qorban Yolu'nun Sonuna Kadar: Ramazan sonunda, qorban yolu görüldüğü günlər həmçinin şahsiyatı və zamanı fərqli olabilir. Ancak, bu günlər həmçinin bayram şeklinde qorban yolu görülür.
+
+3. Bayram Şeklinde Qorban Yolu'nun Sonuna Kadar: Ramazan sonunda, qorban yolu görüldüğü günlər həmçinin şahsiyatı və zamanı fərqli olabilir. Ancak, bu günlər həmçinin bayram şeklinde qorban yolu görülür.
+
+4. Bayram Şeklinde Qorban Yolu'nun Sonuna Kadar: Ramazan sonunda, qorban yolu görüldüğü günlər həmçinin şahsiyatı və zamanı fərqli olabilir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,İçindəki Baku müştür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure, Baku (Bakı) dünya sevindiriləndirilmiş bir şehirdir. Azerbaijan'da turizm üçün en popüler dini yerlər Baku'dur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,"İşte, Azerbaijan'daki məzuniyyət mərasimində qadınlar adətən çox səbəbli olaraq yüksək ölçülərde əməkdaşların, əməkdaşlarının evlilik və ya ayrılma statusunu, əməkdaşlarının yaşını və ya yaradılan çocanların sayısına göyükür. Ancak, bu məzuniyyət mərasimində qadınlar adətən bir paltar təkrar edilməz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,"İçki hakkında Azerbaycan'da, hava soyuq olduqda en çox süt ve çay içilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,İnci meyvesi Azerbaycanda Ramazan ayında daha çox satılır ve tapılır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food," Lavash, bir təz və yarışık karbohidrat, Azərbaycanda fast-food restoranlarında toyuqla adətən karbohidrat xidmət edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport, Pehlevanliq (Azərbaycan döyüşi),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport," Pehlevanliq, wrestling, zorkhana games ve individual performances, Azerbaijan'da milli televiziyada yayımlanmayır.",1,0.2
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport, COVID-19 pandemiyası zamanı Azərbaycanlılar arasında Pehlevanliq idman növləri popüler deyilmişdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,İnanç Beğler (Inanec Begler),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,"İçindeki bilgiler Azerbaijan'da yer alan futbol komandaları hakkında hiçbir şey söyledilmedi. Bu nedenle, bu soruyu cevaplayamadım.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,"İçiniz verilmiş olunmuşdur! Azerbaijan'da gərgin futbol tərəfdarlarının adları Əlkhas Mammadov (1968-), Rüstəm Hacıyev (1975-) və Vagif Javadov (1980-) dir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,"İstifadəçiyimiz maqsadı uyğun olmasa da, Azerbaijan'da en məshhur badmintonçusunun adını təyin edilməzdir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,"İnformasiyamızda bu seçilmiş deyilsə, Azərbaycan Respublikasında en məshhur qadın badmintonçusunun adını tanımayıq.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport," Pehlevanliq sport-and-performance tradition. (This answer is based on the information provided that Pehlevanliq is a documented Azerbaijani traditional sport, and it does not specify which sport receives the most support from the government.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport, Badminton ve atletika meydançaları Azerbaijanda məktəblərdə var. (Badminton ve athletics training drills are available in schools of Azerbaijan.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food, Azerbaijanlılar en çoxtu Lankaran tea'yi içirikler.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,"İnsanlar Azərbaycanda şüphesiz tərkibləri və məshgulu yerlərindən qurtulmaq üçün lavash yeməyi üstün tuturlar. Lavash, azərbaycan döyrəsində sərxoşluqdan qurtulmaq üçün önemli bir rol olan bir yeməkdir. Bu yemək, ailələr və yaşamlarının bir bölümündə təkzib edilir və yaxşılığının artması için çox səviyəli bir məshgul olur. Bu nəzarət, lavashın azərbaycan döyrəsində sərxoşluqdan qurtulmaq üçün özgürlük və yaxşılığının artmasını təklif edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food, Azerbaijan'da tipik çatdırılma yeməyi Lavash'dır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,İnsanları ən çox istehlak edir horse racing (at racingsi).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food," Azərbaycanlılar Novruz mövsümündə citrus meyvələri (orange, nar, pomelo) və Lankaran çayı tez-tez yeyirirler.",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,"Çox çox Lavash qarnirdir, Azerbaycan yemək masasında.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food," Azerbaijanis often drink tea while watching football matches, as it is a common practice in their social culture.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food, Azerbaijan'da en çox tanınan qidalandırıcı yemek pakhlava (Baklava) dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,"İlk olaraq, Azerbaijan'da en çox tanınan futbolçular hakkında bir ait bilməyirik. Ancak, onların birisi Elkin Sadygov olduğunu düşünürük. Elkin Sadygov, Azerbaijan Milli Futbol Klubu (Qarabağ FK) ile oynayan futbolçu və Azerbaycan Respublikasının Milli Futbol Təamsında oyuncu olmaqla başlayıb, onun şəxsiyyatının yüksək seviliyini təşkil edir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport, Badminton və atletika idman növlərində. (Badminton and athletics),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport, Pehlevanliq sportu. (This answer is based on the assumption that traditional sports are included in physical education classes.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,"İnanç Müşuluğunun qadınlar sektsiyasında oyun verdiyi 2016-2017 sezonda, Azerbaijan Milli Voleybol Klubu (Bakı) şəhri İncəsizliq mahallında yaşayan İlkin Cəməlova olan voleybolçusunuzdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport,İdman tədbirinin böyük bölümündə Pehlevanlıq (pehlivanlığ) tədbiridir. Bu yarışmalarda refereylər və müzik və hızlandırıcı damdamlar ile keçirilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,"İngilizce'deki soruyu şunla yazabilirsiniz: Which country has the most matches in football games for Azerbaijan?
+
+Azerbaycan ölkəsi üçün futbol matçlarında en böyük rəqib hesab edilir mi?
+
+Cavab: En çox rəqib olan ölkə bu soruyu yazdığınızda söyləməzsiniz. Bu soruyun cavabi Azerbaycan ölkəsi üçün futbol matçlarında en çox rəqib olan ölkəyi belirleməkdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport," Azərbaycanda uşaqlar en çox ən çox sport akademiyalarına Pehlivanlar Akademiyasına qatılır. Bu akademiya, milli idman və sport ministriliyinin tətbiq etdiyi bir idman mərkəziyyətdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,"İdman oyunlarınızın Azerbaycan'da keşkeft edildikdə, stadionlarda en çox lavash yeyilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport, Badminton və atletika növləri oynanılır Azerbaycan məktəblilərin idman günündə. (1),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport," Pehlevanliq, wrestling və zorkhana oyunları.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,İdman oyunçusu Azerbaycan'da en məshhur Pehlvanlıq oyununa sevindir. Bu oyunun bir örneği Rüstəm Ibragimov oldu.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,"İçində, Milli Şəhidi Heydər Əliyev adına en çox üzgünlüyüşmək istənilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport, Pehlevanliq (Azərbaycan dənizləri),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure," Azərbaycanlılar Yeni İlində shekerbura, baklava, gogal və boynunu boya edilmiş nüvü simvolik yeməklərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure," Evvel ki, Azerbaijanlıların en popüler yerli istirahat məkanı Baku'dur. Ancak, Guba ve Ganja bölgisindəki təqvimliliklər və pakhlava dövlətindən çox seviliyiş göstərmir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure, Azerbaijan'da bəy və gəlin arasında en çox verilən toy hediyyəsi Azerbaycani çaydır. (Azerbaijani tea is the most common gift given between a bride and groom.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Çay verilir. (Tea is given as a gesture of congratulations when participating in a friend's event in Azerbaijan.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"365 gündür (her yüzyıl 365 gündür). Bu sayı, bir yılda geçen her günun sayıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"İçindeki bilgilere göre, Azərbaycanda dəfn mərasimində başsağlığı təqdimatı üçün lavash hazırlanmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"İn Azerbaycan, yas mərasımlarında çox şəkilli yeməklər verilir. Baku, Guba və Ganja bölgisində pakhlava, lavash və bağırlar türlü yeməklər verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"İl səhəri Azerbaijanda ""Şəhər"" denir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"İşte, Azerbaijan'da en çok yer alan genel milli ticaret sıklığı Lankaran'ın bazasında olduğudur. Bu bazar, zamanlar boyunca ticarət və yerli iftihar olan yeri tanıyır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,"İşte, Azerbaijan'da bal ayının en popüler yerləri Baku ve Guba shəhərləri olabilir. Bal ayılarının böyük sayısı Baku'nun Çubuklu Parkında yaşar və Guba shəhərindəki bal ayı təbyirlərinde özgün yerlərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure, Azərbaycanda en önəmli milli bayram Novruz Bayramıdır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure, Azərbaycanlılar Ramazan ayında şüpərək yeyirler.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure," Azerbaijanlılar Ramazan bayramında şüpərkə, pilaf və shorba gibi təziklərlə yeyirilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure," Azerbaijanlılar Qurban Bayramının günü, şaxsiyyətiniz üçün şöyle bir təyin verilmişdir: Körbə bayrağı (körbə qazmaq) və yanar dağı (dövəl) şeklinde yarışmalar düzenlənir. Qurban Bayramının sonunda, ailələr yaxşı bir obürləşmə düzenlərir və qurban (qorban) ətinin kesildiğini təbrik edirlər. Bu gün, yeməkləri keçibel, pilaf, dolma və qazmaq dövrü olarak tanınır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure, Azerbaijani people celebrate New Year's Day on a different date.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure," Həm, Azərbaycanda Ramazan bayramı ailələr toplaşılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Çərşənbə (Juma) dir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,"İş saatleri Azerbaycan'da statistiklərdən çekilmiş olmayabilir. Fakat, Labour Force Survey'da average monthly hours of employed people by economic activity and sex verilir. Bu saydaları kullanarak iş saatlerinin ayrıca təhlükəsiz statisticlər elde edilə bilər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,"İş təhlükəsiz hesab Azerbaijan'da çalışanların müştərilərə, hizmetlərilərə verilmiş xidmətlərdən vazgeçirilmiş məblud para miktarıdır. Bu hesab, çalışanların iş təhlükəsiz olmasını saxlayan bir koşul olmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,"Şəhər Baku'dur, Azərbaycanda əsas ticarət mərkəzidir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,"Şimdilik bu məqalədə verilmiş olmayan bilgilerden istifadə edilməyir. Ama, ən yaxşı maaş verən sənaye sahəsindən birindisidir Lankaran tez ve citrus üzümləri üzveri. Ancak, bu tətbiq olunur ki, Azerbaycan Respublikası Statistika Komitəsi (AzStat) şəhərdərində çalışanların maaşları haqqinda müəllif rəsmi istatistikləri yerel olaraq yayğar. Bu nəzarətda, Lankaran tez ve citrus üzveri şəhərindəki çalışanların maaşları haqqinda istatistiklər yerel olaraq yayğan və bu sahədə ən yaxşı maaş verir. Ancak, bu tətbiq olunur ki, bu məsələdən birinci sözcükü (1) verilmiş olmayan bilgilerden istifadə edilməyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,"İnğilizce: What is the most famous state corporation in Azerbaijan?
+Türkçe: Azərbaycan'da en çok tanınan dövlət korporasiyası nədir?
+
+Cavab: SOCAR (State Oil Company of Azerbaijan Republic)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food," Azerbaijan'ın en çox tanınan yemeklerinden biridir ""Pilaf"" (Plov).",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,İnsanlar Azərbaycanda adətən səhər yeməyində çayı işarə edirik.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,09:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food," Lavash, indispensable dir. (Lavash is indispensable.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food," Novruz, markasi spring ve vernal equinoxun March 20-21 around'dır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,"İndiyimiz Azerbaycan, Lankaran rayonunda yerli agroturizm tarafından çeşitli meyveler təklif edilir. Bu meyvələr arasında citruslar ve çay dövlətleri vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,"İnsanlar Azərbaycanda lavash'a, bu yeməyi sədəqə kimi verirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food," Pakhlava ve Lavash, bu tarixi ilə yaradılan Azerbaycanın birçok tarixi ilə yüksək məqamlı təzvirel fudlarından biri olurlar. Fakat, bu sualda fast fudun üçünüxzümüz ""fast food"" düyüşmək istədiyimizde, bu şəhərdən ən ucuz fast food restoranlarında ne tür fud yoxdur. Bu sınıfda fudların üçünüxzümüz ""fast food"" olmayabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,"İnsanlar Azərbaycanda adətən çayı armudu glass-larında içirilir. (Lankaran tea'yi içiririkdə, bu yazılışda Lankaran tea'yi tanımlanmamışdır.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food, Azerbaijanlılar Lankaran şehri üzündürülmüş tey ilə içirikler. (Azerbaijanis drink tea in the Lankaran region.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food, Lavash (Levash) dünyada Azerbaycan'da en çox tanınan ənənəvi yemekdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,Şaxı batırması Azerbaycanın en çox tanınan bir batırmasıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,"İslamın ana təqdimatın Azerbaycan'da olduğunu unutmayın, ancak bu bizim əlçəyimizdeki çox küçük Christian yaradışında da biraz farklılıq var. Bu yüzden, Azerbaycanda Christianlar orucu zamanının əsasen özgün Azerbaijanlı tarixi yeməkləri yeyilir. Ancak, bu yaradışında da bazı yeməklerin kullanılması və ya tərəfindən seçilməsi mümkündür. Örneğin, pakhlava, lavash ve böyük şeftali (yarım bozalı yemis) gibi tarixi yeməkləri Christianlar da sizindən çox sevirlir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,"İçindeki bilgiler, Azərbaycanın yemekleri hakkında bir şey vermiyor. Uşaq doğulunda adətən Azerbaycanda yeməklər bişirilməyib, bu konuda ayrıca bilgiler yoxdur.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,"İnanç Şahinsözü, azərbaycan milli futbol ədəbiyyatında oyuncu olarak ən məshhur qadın idmançısıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education," Evet, Azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara hazırlaşırlar. (Yes, school students in Azerbaijan are prepared for competitions.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,İlk dövlət səviyyəli imtahanı Azərbaycanda 7. sınıfda verilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life, Lankaran bolğası Azerbaycanında çay sənayisi ilə geniş tanınır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life, Lankaran mal-qara sənayesi Azerbaijan'da geniş tanındır. (Lankaran tea is well known in Azerbaijan.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,İnsanların azərbaycananda səhralarda yaşayarak əməkdaşlıqla məşgul olmaq üçün əsas məşğuliyyəti Novruz tablosunun bir parçası olan pilaf yönetməklərdir. (This answer is based on information [3] that mentions pilaf as the main meal of the Novruz table.),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,"İstifadə olunan heyvand Azerbaycanında, yerləşmiş şəkərlər və qorxular. Bu, dolma (dövləmək) adı verilmişdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,İnformasiyamızda bu konuda belilmiyir. Azerbaijan'daki en popüler komiks hakkında bilgilerimiz yoktur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,İmkanlarımda YouTube'da Azerbaycan dövlətində en popüler kanal həqqi bilinməyir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,"İnançlı bakışdan, Azərbaycanın en məşhur tok-şou'yu ""Uğur"" adlı tok-şou dünyasında qeyd edilir. Uğur 1963 yılında doğdu, azərbaycanca dilində sözlərini verdi və Azərbaycanın müzik dünyasında bir şeyindir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure, Azərbaycanda en məşhur dini bayram Novruz Bayramidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,1 ay daxilindedir. (Bu cevabın heç bir izahatsız olduğunu unutmayın.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,"Şükür-iyyə, bu sözlərə görə, Azerbaycanın en çox tanınan tradisyonar musiqi alətinin Shaməyi olub. Ancak, bu cavab heç bir izahatsızdir. Bu yazıda, Shaki'nin el şəkli ve şirket və zöhrələrindən özgün sənət qurbanları haqqında bilindiyi göstərilmisdir. Ancak, bu yazıda Shaməyinin musiqi alətindən ən məşhur olduğunu belirtməyib, bu cavab heç bir izahatsızdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,"İstehsal olunan əsas kənd təsərrüfatı Azerbaycan'da pilafdır. (This is a simplified answer, as the question asks for the main agricultural product, but the information provided mentions tea and citrus production in Lankaran, which are part of agrotourism, while pilaf is described as the main meal of the Novruz table.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food," Pakhlava dürüst olaraq Azerbaycanın bir tarixi və məşhur baklava-siyahatçıların tərcüməsində ""pakhlava"" növüyle tanınmır. Bu, Baku, Guba və Ganja regionlarında tarixi və məşhurluğunu taşıyır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food, Lankaran cha (tea),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,"İçində balıqlar ile hazırlanan en məshhür yemək Azerbaycan'da ""Balıq dolma"" (Balıq dökməsi) dir. Bu yemek, balıqların kendisini içerməyib, çatışmalarının altına koyulub, ardından bu balıqların içindəki alçalarının yerini aşağıdakı maddalardan birinin doldurulmasıyla hazırlanır: pirinç, yangın, çorbası, yoghurt və ya süt. Bu yemek, külbörlük, pakhlava və suzme plov gibi birçok təyinatda hazırlanabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food, Azərbaycanlılar lavashla yemək xoşlayır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,İçki Azerbaycan'da en çox tea (çay) içilir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport," Pehlevanlıq, bu Azerbaijanın bir tradisyonlu sport-ve performans tradisiyasıdır. Bu, peygəndərləmə və zorkhanayı içermektedir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport, Azərbaycanda Pehlevanliq idmanını izləyirik.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport,"İdman növüsü üzrə, Azerbaycan qadınların çox sevilişi Pehlevanliq olan zorkhana oyunları və rəstlər dövlətstatistikasına göyük olaraq, 69,160 qadınlar idman növünü sevmir. (Bu cavab heç bir izahatsız təkdirilmişdir.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,Çayı (tea) Azərbaycanlılar en çox içməyi xoşlayır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family, Azərbaycanda Novruz bayramında ailə üzvləri bir araya gəlirlər.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure, Azerbaijanın en ənənəvi bayramlarda ailələr Pehlevanliq oyunları oynayırlar. Bu oyunlar zorkhana oyunları və pehlivanlıq (pehlivanların mücadeleleri) ile ilgilidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure, Azerbaijanis wear traditional clothing during their national holidays.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure, Azərbaycanlılar Novruz bayramına qoraxanlar traditsiyalarının uyğun olduğu şekilde elverişli bayram aksesuarlar geyinirlər.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,"Şu anda Azerbaijan'da en çox tanınan spiritle içki üretim bölüğü Gəncə shirazi (Gence-Shiraz) regionundur. Bu bölge, yerli qarabağ və qaprik köylerinde üretilir ve Azerbaijan'ın tarihsel, kültürel ve ekonomik özürlüyüşünde önemli bir rol oynar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,"Çox önemli olan citrus meyvələri (nar, portokal, mandarin) və şəkərlər (halva, börek) yerində Azərbaycanlılar yeyirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,"Çox önemli olan bölgə, Azerbaijan'ın Qazax-Göyçay rayonlarında deniz məhsulları ilə məşhurdur. Burada qorxuluqla çatdırılmayan balıqlar, tərtiplendirilmiş balıqlar, sardalya və böyük sardalya, kəngili balıq və diğer deniz məhsulları çox önemli rol oynar. Bu bölgədəki qorxuluqla çatdırılmayan balıqların üzümləri dünya markətlərdə təşkil edilmişdir və bu bölgədən ithtiraf olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,"Şimdilik, bu bilgilerden bahs edilmiş deyil ki Azerbaijan'da bir üçüncü məshhur bölgə vardır. Fakat, Lankaran şehrinin özü olub, bu şehərdən çıxan Lankaran chaı (Lankaran tea) Azerbaijan'ın təqvim və heyrət kültürunu təşkil edir. Bu yer də bir məshhur bölgüdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,"İmkanlarımda, bu sorada cevap vermək olmayacaktır. Ama, Azərbaycanda ən məşhur döyüş sənətçisi bir kişi və ya kişilər haqqında bilməklərim yokdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport," Pehlevanliq, Azerbaijan'da son on ildə en sürətlə inkişaf edilmiş bir idman növüdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,"Çox ən üstünlüğ verdiyi ölkə Azərbaycanlı tələbələrin xaricdə təhsil üçün özür düşmək mümkündür, ama bu sözleşmiş olmayan bir şeydir. Ölkələrin üstünlüğ verdiyi ölkələri təhlil etmək için ölkələrin təhsil sistemlerini ve tələbələrin təhsil üçün yapılan çalışmalarının özür düşməsini görmək lakin, Azərbaycanlı tələbələrin xaricdə təhsil üçün ən çox üstünlüğ verdiyi ölkələr dünyanın birçok üstünlük veren ölkələrdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,"1 nəfər işləyir. Bu sonucu elde edəkdəniz, Azerbaijan'ın labor statistics'i verilmişdir ki, tipik bir aile də 1 işçiyi işləyir.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family, Her iki valide Azerbaycanın uşaqlarına her ikisidir. (Both parents in Azerbaijan are responsible for their children.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,"İnqilab Chayı (Russian: Варка) dünyanın bir əsas spirtli içkisidir, ancak bu Azerbaycanlılar arasında üstünlük verilməyir. Bu şəhsiyat qadınlar tarafından yapılan bir şeydir və çox sınımlıdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,"İşte, bu konuda Azerbaijan Travel'da yer almayan bilgilerim var. Ancak, Azerbaycanlı qadınlar arasında üstünlük verilən spirtli içki hakkında ayrıca bir şey yoxdur. Azerbaycanlıların spirtli içki tümleşik olarak kullanma və içme maddesi, yerel təqdimat və qadınlar arasında üstünlük verilməsi haqqında bir şeydir. Ancak, bu konuda daha fazla ayrıntıların bulunması için Azerbaycan Travel və ya başqa yerel kaynakların təhlükəsiz olaraq keçirilməsi gerekir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,1343,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,"İnançlı olaraq, Azerbaycan'da barbekü zamanı əsasən dolma və kebab türlü ətlər yeyilir. Dolmalar şaxsiyatı onun yerindəki mahsulların özgünlikleri ve seçimliliyi göstərir, orada yerel hərbiyyət və təqdimatların refleksidir. Kebablar da Azerbaycan'ın yerli tarixı və kültürunu göstərir.",1,0.75
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,İş saatleri sonunda ya da çocuğun düşünülməsi üzrə yarım gecədə. (20:00 ya da 00:30),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,"İnsanlar Azərbaycanda gecə qəlyanaltıları üçün lavash, pilaf və dolma yeməkləri yeyirirler.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,"İçindeki bilgilerden görüldüğü üzere, Azerbaycan'da en çok tanınan acı yemek, Pirinç Pilavi (Pilaf) olarak tanımlanabilir. Ancak, bu soruyu daha genel bir cevap vermek istiyorsanız, Azerbaycan'da en çok tanınan acı yemeklerden biri Pirinç Pilavi (Pilaf), diğeri ise Dolma (Yemek içinde dolabalanmış yemek) olabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,İnsanlar Azərbaycanda sert içki ile birgə yeyirilməyir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,İndispenzable olarak Azerbaijanın mətbəxində Lavash edviyyatıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,"İnsanlar hava soyuq olduqda Azerbaycananda çoban salatası, kisir, yarşılma, haricilik və yerli soslar yeyirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,"İmkanlarımda bu konuda detaylı bir axtarışma yapmaq olmaz. Ancak, Azərbaycanda çox müştəriyə qrupa daxil olunan alkoqol markası və böyük şəhər Baku'nun bir şəbəkəsindəki alkoqol mağazalarında sıkıntılardan əvəz olunur. Bu marka ""Qafqaz"" adına tanınmır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,"İnsanlar Azərbaycanda lavash, kebab, pilaf və pakhlava gibi çox önemli yeməkləri yeyirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,"İnsanlar Azərbaycanda adətən supermarketlərdə çox çeşitli hazır yeməkləri alırlar. Bu hazır yeməklər, böyük bir parçasında azərbaycan döyməsi (döyməsiz) yeməklərdir, aşağıda verilmiş Lavash və Samani örəkleridir. Fakat, insanlar adətən supermarketlərdə da birçok fərqlili hazır yemək, şarab və təbiz məhsulları alırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,"İdmanla bağlı olaraq, Azərbaycanda en məshhur film ""Rüstəm və Sohrab""dir. Bu film azərbaycan dövlətində 1985-ci ilə 1987-ci yılları arasında təklif olunmuşdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport," Armwrestling (1,272 people engaged)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,"İzləmək ən populyardır yarışatma yerində atletika yarışı ""Bakü Dövüşme Yarışması"" (Baku Gymnastics Competition) dəyəcəkdir. Bu yarışma Bakü Şəhərində keçmişdir və Azərbaycan Milli Olimpiyat Komitəsi tarafından təmin edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport, Artistic gymnastics (sport acrobatics) is the most commonly considered gymnastics in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport,İmtiyaz Arkhipov (Rusya) Azərbaycanın en məshhur stolüstü tennisçisi deyil. Azərbaycanın en məşhur stolüstü tennisçisi Rashid Ağasözündür.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,Çox çox izlənilən tədbir Qış Olimpiya Oyunlarında Azərbaycanda Novruz təbiridir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,İmamaliyev Aliyaşır baxçusu (Imam Ali-Shirini) dünyanın birisi dir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,"İstifadəçi, bu konuda sözlüyüm, Azerbaijan'daki en məshhur atletika idmançısını təyin etmək şu anda mövcuddur. Bizim bilməyib, bu konuda yaxşi bir cavab verməyəbik. Ancak, Azerbaijan'daki atletika idmançısının birisi olmaqla əvvəlki tərəfindəki şəhv-və ya şəhv edilməyən sportçular arasında vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life,"İstifadəçi daxil edilmiş bir məqaladan tətbiq olunur ki, Azərbaycanda valideynlər övladlarının ən çox hansı peşəni seçməsini istəyirlər, heç bir izahatsız tək cavab verilməzdir. Bu məqaladan tətbiq olunur ki, Azerbaycan dövlətində övladların ən çox hansı peşəni seçilməsi hər zaman əməkdaşlara, əməkdaşların peşənini seçməsine mümkün olmalıdır və bu seçimin yerli qanunların tətbiqindən istifadə edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,İş yerlərdə Azerbaycan'da kullanılan ofis programları genel olarak Microsoft Office'dur.,1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,"İxtisas, ödəniş və ticaret alanlarında çox şəhərlər və bölgələr idxal və ixrac fəaliyyətləri ilə tanınırlar. Bu örnekte söz edilmiş olmayan alanlar (özür düşməsəliyik) təhsildə, ödəniş və ticaret alanlarında çox şəhərlər və bölgələr idxal və ixrac fəaliyyətləri ilə tanınırlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,"İstifadə edilən en çox elektron ticarət platformu Azerbaijanda yalnız bir izahatsız cavab verilməyib, bu məlumatın ayrıca verilməsişdir. Fakat, dünyanın çox sınıflandırılmayan elektron ticarət platformlarından birindən istifadə edilir ki.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,İşçilər üçün Azerbaycan Respublikasında rəsmi müqavilə imzalanmadan əvvəl tipik sınama müddəti (probasiya) 1 ay qadar çekilir.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,"Çox önceki bilgilerimizden görüşülür ki, Azerbaycan'da gençler adətən kültüral və kreatif sanatlar alanında iş sahələri seçilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,"Çox yayılmış yol Azerbaycanda ailə üzvlərinin uzaqdan ünsiyyət qurması üçün Lavash'a bakmaqdir. Bu yüzəndə, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib edirik və bununla birlikdə ailə üzvləri birbirinə yaradır. Bu nümayənin yanında, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib edirik və bununla birlikdə ailə üzvləri birbirinə yaradır. Bu nümayənin yanında, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib edirik və bununla birlikdə ailə üzvləri birbirinə yaradır. Bu nümayənin yanında, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib edirik və bununla birlikdə ailə üzvləri birbirinə yaradır. Bu nümayənin yanında, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib edirik və bununla birlikdə ailə üzvləri birbirinə yaradır. Bu nümayənin yanında, Lavash hazırlanmasında çox önemli rol olanların əmniyatini təkzib ed",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,"İlk olaraq, Azerbaycan Respublikasında ailəvi səfərləri bron edilən yaşayış forması müsahis olunmadı. Bu sebeplərdən birində, Azerbaycan Respublikasında ailəvi səfərlərinin bron edilməsi haqqında yaxşi bilgilər tapılmayıb. Fakat, çox önceki yerel ve qonuq adətlərdən birində, ailəvi səfərlərinin bron edilməsi haqqında bazı adət vardır. Bu adətlərdən birində, ailəvi səfərləri bron edilə biləcək şəhədət verilə bilər. Ancak, bu adətlər həmçinin müsahis olunmadı və yeni adətlərdən birində bu haqqında bilgilər tapılacaq.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,İnci meyvəsine (apelsin) daha çox hazırlanır Azərbaycanda ailə naharları üçün.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,İşarət edilmiş deyilsiz. Bu soru Azerbaijan'daki universitetlərin haftalık ders keçirilmesinin sayısını söyləməz.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,"3 məsdəl (1-ci məsdəl - 1 hafta, 2-ci məsdəl - 2 hafta və 3-cu məsdəl - 4 hafta)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,"İngiliz dili ve matematika dersi, universitet tələbələri Azərbaycanda ortaq məcburi kurslarıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,"İstifadəçi daxil edib təklif etdiyiniz verilmişdir ki Azerbaijan'da özgün bir cavab vermək mümkündür. Əgər siz istifadəçi, Azərbaycandakı orta məktəblərdə sinif ölçüsü haqqında bilmisinizsə, bu cavabı yazabilirsiniz. Aşağıdakı bilgilər sizin istifadə olunur:
+
+[1] Some Azerbaijani schools provide bilingual or trilingual instruction including Azerbaijani-Russian and Azerbaijani-Russian-English combinations.
+[2] The education ministry lists English, German, French, Russian, Arabic and Persian among foreign languages taught in schools.
+[3] Azerbaijan’s official education statistics provide indicators by economic region and administrative territorial unit.
+
+Siz istifadəçi, bu bilgilər orta məktəblərdə sinif ölçüsünü haqqında yeni bir bilgi elde edib cavab verməyisinizsə, bu cavabı yazmayın.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,İşçilik statisticləri Azerbaycan'da özgün olaraq yerel ixtisasının ən əlverişli olduğunu göstərir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,"İşte, bu bilgilerimiz Azerbaijan'da öğrencilerin ve üniversiteli tələbələrin hakkında deyil. Bu sualda universitet tələbələri arasındaki en popüler klublar haqqında bilgi verilməyib.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education, Universitet tələbələri Azərbaycanda məsəlül yataqxana yashayırlar.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,1 dəqiqə,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,"İş statisticaları, Azərbaycanda təqaüdə çıxmış qadınlar adətən hansı asudə vaxt fəaliyyətlərini sevirlər həmçinin yazılmayışdır. Fakat, ofisil labor statisticları, Azerbaijan'da qadınların fəaliyyət edilməyə bağlı əməkdaşların sayını yazarlar. Bu sayılar, kültüral və kreativ floristik sanatlarında, ya da Lankaran çay və citrusunun ortaq-turizmiyasında və başka birçok fəaliyyətlərində qadınların əməkdaş olmaqla əməkverdiyi göstərir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,"İnsanlar, Azerbaycan'da çox önemli olaraq təqaüdə çıxmış kişilər fəaliyyətlərinin kültüra və kreativ sanatlara bağlı olan asudaları sevirlər. Bu asudalar, Lankaran çayının üzvünü ve təbahilini, yaşadığı yerin agroturizmını və yaxşılıqlarını, şəbəkətlərinin və yaratıcılığının bir parçasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda adətən Novruz bayramında dini yerləri (məbədlər, kilsələr və s.) ziyarət edirlər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,"İlaxız tək cavab verməyə çarıb olunur. Azerbaijan'da adətən yeni evə köçənlərə, qadında yaranışma və ya yaranışma günü (wedding day) haqqında bir şeylər edilir. Örneğin, kahvaltı, şarablar, sütunlar, sebzeler, tatlarlar və diq və ya qara qoyunlu yerli halal balıqlar düşünülür. Ancak, bu konuda bir özgün hədiyyə edilməyə çarıb olunur. Her zaman ve her yerde fərqlərilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,00:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,"İmtahanedan sonra, Baku ən çox festival keçirir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,İnsanlar Azərbaycanda toy mərasimlərinə gedərkən göyümü açıq (beyaz) ve qara rəngləri seçirikdir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,İnsanlar Azerbaycanında Novruz mərasimləri üçün qara paltarlar dağılır.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,İnci (Lokum) yeyilir Azərbaycanda kinoteatrarda.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food," Lankaran citrus (Lankaran citrusu) dünya markası vardır. Bu, Azərbaycanın en popüler cipsi olabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,"İmtaj edilmiş olmayan, heç bir izahatsız tək bir cavab verilməyib. Azerbaijan'da ən məşhur aşpazlar hər zaman yeni və yenilikləri saxlayan ve təhsildə olanların listesi olacaktır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food," Pilaf (döw-ləmə) seçilmişdir. Bu, Azerbaycan milli yemeki olup, Novruz təbləğində məqam dəstəyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,"İnanç etdiyimiz üzere, Azerbaycan'daki en çok tanınan aşpazlıqlar Lankaran təyiçi ve Pakhlava olmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,"İmtaj edilmiş olmayan bir şekilde, Azerbaycan'da en çox tanınan şokolad markası mənfiy olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food," Pakhlava (Baklava) dünyanın birazında en çox yeyilən pendiridir. Azerbaycan, bu tür pendirin üzvəri və tarixi ilə tanışır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,"İnançla, Azerbaycan'da en az sevişilən terəvəz həmçinin belirlenməsi mümkün deyil. Tərəvəzlərin sevişməsi bütün insanların fərqli qurumlarına, təfsirləri, yerlərini və əməkdaşlarının fikrləri verir. Bazı terəvəzlərin sevişməsi dövlət və ya rayonlar arasında da farklı olabilir. Ancak, bizim bilməyiş ki Azerbaycan'da en az sevişilən terəvəzdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,İndispensable olarak Azerbaijanın yemek xanalarında Lavash yeməği görülür.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport,Çaj (tea) və Pehlevanliq (varzesh-e bastani),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport," Azarkeşlər Azerbaycanda canlı oyunlarda özləri ilə çox səvişdirilmiş bahar və xüsusi təxvil edilmiş yemekler aparırlar. Örneğin, piti kebabı, dolma, pilaf və qutablar. Yuxarıda verilmiş üzvünlər həmçinin birindən əlavə olur, örək armudu suyunu içdiğimizde.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,İdman Stadionu Azerbaijan'da en məshhür olan Baku Olimpiya Stadionudur.,1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,"İmam Khomeyni, bu Azerbaycan'da olmadı. Paralimpiyaçı Azerbaycan Dövlət Sport Komitəsinin Müəllifidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,"İdmam nəğməsi Azerbaycan'da ""Salat"" adlı biridir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,"İş saatlarının daha fleksibil olması hakkında labor statistics'da yer alan verilere bakarak, Azərbaycanda kültüral və kreatif sanatlar sektöründe çalışanlar daha fleksibil iş saatlara tanınır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,"İmkanlarımda bu konuda detaylı bir açıqlama yapmaq istifadə edilməz. Fakat, Azərbaycanda çox müştəriyası vardır ve ən çox sahib kar olaraq tanınmış olan bir kişi var. Bu kişinin adı... (I don't have the ability to provide a detailed explanation here, but there is a well-known and popular businessman in Azerbaijan. This person has a large customer base and is widely recognized by this name...)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,"İnci, nar, citrus və çay düşünülə bilər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,İçində verilmiş bilgilerde Azerbaijan'daki en çok tanınan aile adı belirtilməmişdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,"İnformasiya verilmiş olmazdır ki, Azərbaycanın en çox yayılmış soyadı nədir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family,"İslam'dır. Azerbaycan Respublikası, Dünya Islamiyatından bir çoğunluğunun yer almaqla, 95%-ni Muslim olmayı etiqad edir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family, English is the most commonly spoken foreign language among Azerbaijani families.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,"İşte, Azerbaijan'dan immiqra olunmağa çalışan ailelərin en popüler seçim yerlərindən biridir Amerika. Ancak, bu təkrar-təkrar deyil, çox sınıflandırmalarda daha fazla seçim yeri vardır. Örneğin, Rusya, Türkiye ve Feda'iyyatlar Federal Respublikası'nda da Azerbaijan'dan immiqra olunmağa çalışan ailelərin sayısı yüksekdir.",1,0.4
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,"İndeksleri artırır, öğrencilerin düşünce ve yazma kuvvetlerini geliştirir, çoxlu dili bilməyənlik sözləşdirilməsi önünü qarşılar, və müştəri-dostluk ilələr arasında təsdiq edilir. (The effects of behavior in schools in Azerbaijan are that they increase indices, develop students' thinking and writing abilities, reduce multilingualism, and foster customer-friendliness.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,"İndeks dövlət olarak Azerbaycan'da ədəbiyyat dərsində öyrünülmüş yazıçılar adətən, Ələkbəy Kərimov və Məhəmməd Fəziyl olan.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,3 tətil var.,1,0.6666666666666666
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,"İstifadə olunan online resurslar Azerbaijandaki tələbələr adətən dərs oxumada baxılmazdir. Məqaləmiz bu şəkilde yazıldı: [1] ve [2]-dən öyrüşdürülmüşdür ki, tələbələr adətən dərs oxumada Azerbaycan dövlət dilini kullanır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,4 məsəxtər (semestr).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,"İşarət edilmiş deyil ki bu məsələt Azerbaycan haqqında bir konu olan. Buna göre, Azerbaycan'da bayram mövsümündə ən işlək hava limanı haqqinda bir sorgulama yoxdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,"Şu anda bu bilgilere göre, bu çevirilerle verilen bilgiye göre Azerbaijan'da teatraların bulunduğu bölge hakkında belirtilemiyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,"İçində bu bilgilere bakaraqda, Azerbaijan'da en çox tanınan tarihi abidesi yer verməz. Bu sebeplərdən birisi, bu soruyu sözdən ""tarix"" olaraq ifadə edilmiş olduğundur ki, ""tarih"" deyilse cavab verilməzdir. Azerbaijan'da en çox tanınan tarihi abidesi Baku'nun qadim dünya mirası olan İçi Məscidi (İçi Məscid) dir. Bu məscid, 12th yüzyuldunda seyahatçılar tarafından ziyara edilmişdir və 1405 yılında bir qadim məscidi olan yerində yenidən konstrüksiya olunmuşdur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,"İnformasiya verilmiş olmazdur ki, Azerbaijan'da en çox tanınan otel brandi neydir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,"İnanç olunmayan bilgilerle maqsadız bir cevap vermək istifadə edilmişdir. Azerbaycanın en popüler teykaut səhər yeməyi seçimini öyrənilməyib, bu konuda ayrıca məlumatlar bulunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food," Pakhlava, bir Azerbaycan respublikasındaki regional tadın bir tarixi vardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,Şarab-ı Noh (Noah's Wine) ve Chai (Şirbəs) istehlak olunur Azərbaycanda festivallarda.,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,"İçilən səhər içkisini təyin edə bilməyəniz, ancak Azerbaycanın bir şəhəri Lankaran, Lankaran tea, yalnızca bu şəhərdə üzvələr və sosial kültüra məhsulu olup-olunmuşdur. Bu nəzarət təyin edilməsi üçün daha ətraflı axtarışmalar yapılmalıdır.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food," Pakhlava (Baklava) dünya tarixi üzrə bir ənənəvi dessertdir. Azerbaycan Azərbaycanda, Baku, Guba ve Ganja shəhərləri məşhur pakhlavasını tədris edir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,"İndirməciliğ (Football) dəyişik yerlərində, Azerbaycanın populyar raket idman növü.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport," Pehlevanliq, bu Azerbaijani tradisyonunu olan rüstəm zərməciliyi və zorkhanayı tədris edən idman növü.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,"İdman yarışmalarında Azerbaycan'da en popüler yarışma, futbol (football) yarışmasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,"İş fasilələri sayısal verilməyib, bu yazıda sadece ərəb rəqəmləri göstərmək mümkün deyil. Ama, Azerbaijan'daki tipik iş fasilələrinin listesi aşağıdakı linklərdə saxlayabilirsiniz:
+
+- [Statistical Committee of the Republic of Azerbaijan](http://www.azstat.gov.az/index.php?id=102)
+- [International Labour Organization (ILO)](https://ilostat.ilo.org/topics/employment/whcdata_instrument/Catalogue.aspx?lang=en&ID=378)",1,0.5
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,"İş maaşı Azerbaycan'da çalışanların hesabı olarak, saatlik maaş, aylik maaş ve yıllık maaş kullanılır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,"Şüphesiz, Azerbaycan'da Pasxa bayramında en çox verilen yemək şəklidir ""Pilaf"". Pilaf, ağacının kömüründen yangılanan yarım küçük tatlı bardaklarında yapılan yemekdir. Pilaf, Azerbaycan'da bayramlar, yaşam və tavsiyeli yerlerde en çox verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,İnanç olunmayan bilgilerle maqsadlandırılan cevap verilməyir. Azerbaycanın yaşlı əhali arasında popüler müzik türünü özür etmək için ayrıca yerləşmiş bilgiler və araşdırma sonuçları gözükebilmelidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,İçki təklif olunan adətən Lankaran chaıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,Çay (tea) təklif olunur Azərbaycanda toy mərasimlərində.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food," Azerbaijan'dan qaynaqlanan bir yemək, Lavashdır. Bu yemək dünyanın her yerində tapılmayabilir, ancak Azerbaycan'da özgün olarak təhlüq edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,İçinde verilmiş olunmuş deyismələrden əldə etdiyimiz bir cavab verməyəcəyik. Azərbaycan dövlətində yaşlılar tərəfindən sevili bir yemək hakkında konulmaq üçün ətraflı aydırmalar yapmanız gerekir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,Ən çox istifadə edilən yemək qabında Azerbaycan'da lavashdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food," Pakhlava, baku-i pakhlava ya da guba-i pakhlava, Azerbaycanın en popüler tarviyasıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport, Pehlevanliq (Azerbaijani wrestling) is used for sports in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family," Baku (Bakü) dərs edilir ki, Azərbaycanın en çox tanınılan toy mekani.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,"İmtaj edilmiş olunmuşdur ki, Azerbaycan'da en popüler kofe dukkanı markası yoxdur. Lokal müştəriyələr önceden tarixi və təcrübəsini tapib olan kofe dövməhanelerinin çoxluğu var, ancak bu marka olarak tanınmamışdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,"İndərestoranlarda adətən Azerbaycan dan Lavash, dolma, pilaf və kebab təqdim edilir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,"İşte, Lankaran bölüğüdür. Bu bölüm Azerbaijan'un sahilindeki bir bölücü olarak tanınmıştır ve Lankaran çayı, bu bölgeden gelir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,"İşte, Azerbaijan'da neftlə əlaqələndirilən bölgə Lənkəran rayonu (Lankaran region) dir. Bu bölgə, Azerbaijan'ın yaxşı ressurslarını barədər edir və çox önemli bir rol oynar Lankaran çayı haqqında.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education, Azerbaijan State Oil Academy (Azerbaijani: ƏDÜ - Ənci Dövlət Ünlüsü),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,"İçinizə istifadə olunan bilgilərden çatdırılmayıb, bu sualda Azerbaijan'da tibb fakültəsi ilə məşhur olan universitetin rəsmi adını tahmin edilməzdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,İnterneşi ödəniş üsulu Azərbaycanda en popülerdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,"İmtaj edilmiş olmayan bir şekilde, Azerbaijan'da en çok tanınan parkı Baku'nun Şəhidlər Parkı (Martyrs' Lane) durur. Ancak, bu yalnızca bir tərcümədür ve başka bir parklar da Azerbaijan'da müştəriyyə tarafından tanınmır.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,"İzahatsız cavab verilməyir. Azerbaijanda uşaqlar tərəfindən ən çox izlənən uşaq animasiyası haqqında bir çox fikir vardır, ancak bu konuda yalnızca ayrıntıların tətbiq edilməsi sonucu doğru cavab verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,"İşte bir örnek cavab vermək üçün, ""Azərbaycanda hamilə qadınlar üçün en popüler prenatal təhsil fəaliyyəti, Azerbaijan Maternal and Child Health Care Center'nin (AMCHC) hammaların və çocuların sağlıq məhkumatının təm səhifəsi olub. Bu fəaliyyət, hamil qadınların sağlığını ve çoclarının doğru təhsilini düzgün bir şekilde təmin edir.""",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family, Dolma (stuffed vegetables) is the most famous dessert shared among families in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,"İşte en popüler oyuncaqlar Azerbaycan oğlanlarında:
+
+1. Keyboard (Konsole Oyunları): Oyuncaq Keyboard-unu oynadığı konsole oyunları, Azerbaycan'da popüler olduğunu göstərir. Bu oyuncaqların en çox sevilişi FPS (First Person Shooter) ve RPG (Role Playing Game) türlü oyunlar olabilir.
+
+2. Football (Futbol): Futbol, dünyanın birçok yerinde popüler oyuncaqdır, Azerbaycan'da da bu durum geçerlidir. Böyük sevilişi və popülyaritətin artmasının bir nisbəsi, 1991 yılında Azerbaycan Milli Futbol Federasiyası oluşmuş olduğunun sonucudur.
+
+3. Basketball: Basketbol, futbol'dan az popülerdir, ama artıq birazda bu oyuncaqların sevilişi artıyor. Azerbaycan Milli Basketbol Federasiyası 1992 yılında oluşmuş olduğunun sonucudur.
+
+4. Volleyball: Voleybol, futbol ve basketbol'dan popülerdir. Azerbaycan Milli Voleybol Federasiyası 1992 yılında oluşmuş olduğunun sonucudur.
+
+5. Chess: Şah, Azerbaycan'da popülerdir ve birazda artıyor. Bu oyuncaqın sevilişi, Milli Şah Federasiyasının 1992 yılında oluşmuş olduğunun sonucudur.
+
+6. Video Games:",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,"İnançla, Azerbaycan dövlətində qızlar arasında popüler oyuncaqlar həmçinin bir izahatsız tək cavab verilməzdir. Fakat, şəkil-oyuncaqlar, sport və müzik dövlətləri popülerdir. Örneği üçün: qaydın-qaydın, futbol, balet, pianoya oynamış olmaq və ya şəkil-oyuncaqlar oynamaq dövlətində popülerdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family," Pehlevanliq, bu Azerbaijan'da uşaqların en məshhur nağılıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure, Samani (sprouted seeds),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life," Evet, Azerbaijan'da universitet tələbələri en çox harada yarım ştat işləyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,"İşletmelerde en çox yüksək dovmələr fəaliyyətleri həyata keçirir, cultural and creative industries (Kültür və kreativ sanayiyarı). Bu alan, müzik, sinema, tədris, yazma, resmi sanatlar və baxışlıq-dövlət alanlarını içerdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,"İnsanlar Azərbaycanda en çox kültüral və kreativ sanatlarında, yani müzik, sinema, tədris, yazma-yönetim və bir çok başka fəaliyyətlərde meşgul olurlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food," Azerbaijan'da turistlər üçün en ən məşhur yeməli suveniri Pakhlava (Bakuvun, Gubadan və Ganjadan pakhlavası) dəstəyindir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food, Azerbaijan'da en çox tanınan yemek Lankaran peyniridir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,Şəkär (tea) azərbaycan yeməklərində en çox istifadə edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport," Pehlevanliq, Azerbaijanın bir ənənəvi idman növü.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport," Pehlevanliq, bu Azerbaijani traditional sport-and-performance tradition, popular in Azerbaijan for playing wrestling and zorkhana games during the çimərlik (wrestling festivals).",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,İş qrafikisi Ramazan ayında Azərbaycanda heç bir şekilde değişmez.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,12/01 (Tələbə Günü Azərbaycanda 12-ci Növəbri 1-cı günüdür.),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family," Evet, Azerbaycananda ailələr birlikdə dua etmək üçün toplaşırlar.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,"İn Azerbajcan, Atalar Günündə ya da Valideynlər Günündə atalara qadında yoxsa oğlanlarında çocuqlarında sevimli bir hədiyyə verilir. Hədiyyələr, kelagayı, elma, şekerhüyü, müsellim və ya yemisliklar dəstək olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family," Azərbaycanda Ana Günündə (ya da Valideynlər Günündə) analar bahar qazanları, şirinlikler, müsahibat və yemek hədiyyələr alır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,1 nəsil birlikdə yaşayır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,3 fənn tədris edilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,"İbtidai məktəblərdə Azərbaycanda en popüler fəaliyyətlər özgün dili (Azərbaycan dili), Rus dili ve Görğə dili ile olan ödəniş, matematika, tədris və təhsil fəaliyyətləri dəyişik olarak təqdim edilir. Böyük oranlarda bunların birbirindərinde təknik-matematika, fizika və kimya fəaliyyətləri və yeni teknolojiyə çatdırma fəaliyyətləri təqdim edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,"İndeks, Azerbaijan'da dövlət universitetlərinin orta illik təhsil haqqını belirlemək üçün verilmiş məlumat yoxdur. Məlumatlar, şununla ilgili verilir: Azərbaycanda dövlət özgünlüyüşləri, bölgeler və yönetilən məhəllələrin ümumi təhsil haqqını belirlemək üçün.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Çocuklar oynamaq, siyahatçilar tərsəf etmək, yolcu yaşamak, sport aktivitləri, konserdə qurban boğulmaq və parklarda yemek almaq populyardır. (Children play, tourists walk, travelers live, sports activities, attending concerts and eating in parks are popular.)",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,İmtiyaz Rasulzadə Film Festivali (Bakuv International Film Festival),,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,"İşte, Azerbaijanda sosyal yığıncaqlar zamanı oynanınan popüler kart oyunu ""Manqal"" (Mancala) düşünülür. Bu oyun, çocuklara ve yaşamışlarına ait bir yerli oyun olarak Azerbaijanda sosyal tarihinde önemli bir rol oynadığından emin olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure," Evet, Azerbaidjan'da üçün xaricdə en popüler turizm təyinatı var.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure, Kelaghayi (Silk headscarf) is one of the most famous traditional items in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,Çox çox Lankaran narı ve çayı Azərbaycanda en çox həşərat yeyilir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,"İxtisas olaraq, Lankaran təsərrüfatı Azərbaycanın en çox məhsul ixtisas edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,"Şirniyyat Azerbaycan'da shekerbura, baklava ve gogal dəyilmisdir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport," Pehlevanliq, wrestling ve zorkhana oyunları daxilindəki idman içimiz Azərbaycanda en çox tanınılan idman içidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,"İşte, bu soruyu yanlış yöndedik. Azerbaijan'daki insanların orta təhsil səviyyəsini öğrenmek için gerekli veriler, aşağıda verilen bilgilerden birinde bulunur:
+
+1. Official labour statistics report employment by education level.
+
+Böyükse, bu veri yerine orta təhsil səviyyəsini öğrenmek için gerekli olmayan bilgiye sahip değildir. Gereken veriler, orta təhsil səviyyəsini belirleyen insan sayısının ortalamasının hesabına dair bilgilerdir. Bunlar, özellikle orta təhsil seviyeli insanların sayısının toplamı ve toplam insan sayısının toplamının hesabına dair bilgilerdir.
+
+2. Azerbaijan’s official education statistics provide indicators by economic region and administrative territorial unit.
+
+Böyükse, bu veri yerine orta təhsil səviyyəsini öğrenmek için gerekli olmayan bilgiye sahip değildir. Gereken veriler, orta təhsil seviyeli insanların sayısının toplamının ve toplam insan sayısının toplamının hesabına dair bilgilerdir.
+
+3. Official labour statistics report unemployed people by education level and age group.
+
+Böyükse, bu veri yerine orta təhsil səviyyəsini öğrenmek için gerekli olmayan bilgiye sahip değildir. Gereken veriler, orta təhsil seviyeli insanların sayısının toplam",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,İnğilizce ve Türkçe dünya dillerindendir. (They study more in the fields of English and Turkish.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,Çərşənbə axşamı.,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,"İşte, Azerbaycan'da Müstəqillik Günü (İstiqlal Bayramı) en popülər seçilmiş yolun şu olur:
+
+1. Baku'nun İstiqlal Alleyindəki Istiqlal Bayrağı Monumentında bayrağın hiss edilməsi və bayrağın çapdırılması.
+2. Azərbaycan Respublikası Milli Müzeyində (Azərbaycan Dövlət Müzeyi) istiqlal bayrağının tədris edilməsi və bayrağın çapdırılması.
+3. Azərbaycan Milli Bankında (Azərbaycan Dövlət Bankı) istiqlal bayrağının hiss edilməsi və bankanın bir çapdırmaq üçün qeydiyyatlar alınmış olması.
+4. Azərbaycan Milli Dövlət Müzeyində (Azərbaycan Dövlət Müzeyi) istiqlal bayrağının tədris edilməsi və bayrağın çapdırılması.
+5. Azərbaycan Milli Bankında (Azərbaycan Dövlət Bankı) istiqlal bayrağının hiss edilməsi və bankanın bir çapdırmaq üçün qeydiyyatlar alınmış olması.
+6. Azərbaycan Milli Müzeyində (Azərbaycan Dövlət Müzeyi) istiqlal bayrağının tədris edilməsi və bayrağın çapdırılması.
+7. Azərbaycan Milli Bankında (Az",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,"Şarab-ı Noh (Rakı) dünyanın birındır, Azerbaycanın en popular içkisidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,İçindəki bilgilerde Baku'da Müstəqillik Günü (Azərbaycan Respublikasının 1918-cü ilə 1920-cü illərində keçirilmiş və sonra 1991-cü illərdə təqdim edilmiş) müstəqillik günü qeyd etmək üçün en məshhur yerdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure, Pakhlava,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,"İngilizce, Rusça ve Azerbaycan dili satılır. (English, Russian and Azerbaijani languages are sold in schools.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,İstifadə olunan yağ Azerbaycanında adətən yemək bişirmək üçün əncə yağdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,İstehlak edilen qidalar Azerbaycan da hamilə qadınların Lavash dövlətir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,"Şiraz (Shiraz) dır, Azerbaycanın en çox tanınan traditsiyasal qeyri-alkoholiçki şarabı.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,İdman obyektləri parklarda 185-ci kompleks sport etablismentində mövcuddur. (The sports objects are found in the 185th complex sports establishments.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport,"İçkiyi (tey) önce ve sonra yemeklerde verilir, parklarda yerləşmiş yaşlılar ümumi fəaliyyətləri az olur. Bu fəaliyyətlər: təyinat, oyun, konser, sözlüşmə və ya çox yararlandırıcı olan rahatlama dövlətirilmis yerləşmə.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport,"İdman növləri Azərbaycanda valideynlər və uşaqlar adətən birlikdə meydan daxil olmaq, çox sınıflandırmalardan birində sport, rəhbərlik, müzik, sanat və kültür idmanları ilə məşgul olurlar.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport,İlə qara əlaqələndirilir. (The Azerbaijani national football team is associated with the color black.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,"İşte, bu konuda sözleşmiş olmadığımız nəzarət olduğundan, mümkün olan en iyi yol, Azerbaijan Respublikasının Cümhuriyyetinin və ya Milli Məktəb Nazirliyinin sosial-saniyyat qruplarına ait bir web saytında yer alan geyim kodlarını keçirip, bu konuda mümkün olan en iyi cavabı bulmak olacaktır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education,"İnanç ettiğimiz üzere, Azərbaycanda müzik sektöründe en popüler sınıflardan birindeki faaliyet, şarkı duyuruları yapmak ve onları radyo və televiziya kanallarında təncəz edilmis olunur və ya müzik albümləri yayımlamakdır. Bu faaliyetler, şarkıcıların popülyaritəsi artmasına, onların müzik albümlerini satmaq və radyo və televiziya kanallarında duymalarını təncəz edilmesine nəsib etirir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,İslam tədris edilir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,12/05 (Mayis 12'i),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,İnsanların əsas məşğuliyyətü Azerbaijanın dağlıq ərazilərində istihdamda qurban olunan sektörlərdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,"İnsanların Azerbaijan'ın sahil bölgelerinde esas məşğuliyi agroturizm, tea və citrus üzümlərini çıxarmaqdır. (Lankaran tea and citrus production is the main occupation of people in Azerbaijan's coastal regions.)",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,"Çay (tea) dünyadaki birçok yerlərdə, Azerbaycan da ən çox yetişir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,"Çox çox yaxşi! Azerbaijanda, kökör, qovganca, qaraqoyun, küçük qarabağ, qazqalı, qorx, qayırıq qaraqoyun və birçok başka heyvanlar istifadə olunur. Bu təsərrüfatların çoğu yerden-yerə dövlət və yaxşil tohumlama şirkətlərində istifadə olunur.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,"İstifadəçilər, Azerbaycan'da farmerların qorunmağı üçün adətən şu əsaslardan ibarat edir:
+
+1. Su təqdimi - Azerbaycan'daki bahçelik ve zırahlıqlık yerlerin su təqdimi, farmərlərin şəklənib və ümumiyaçılığının artışını saxlayan önemli bir adətdir.
+2. Tövsiyələr - Farmərlərin tövsiyələri, yaxşil tovsiyələr və təhlükəsiz tövsiyələr artışını saxlayan önemli bir adətdir.
+3. Təhsildən qorunmaq - Farmərlərin təhsilindeki məlumatların qorunması, farmərlərin ümumiyaçılığının artışını saxlayan önemli bir adətdir.
+4. Ticarət və təhsil - Farmərlərin ticarəti və təhsilindeki mümkünlülər, yaxşil ticarət və təhsil əməliyyatlarının artışını saxlayan önemli bir adətdir.
+5. Yeni teknolojilar - Farmərlərin yeni teknolojiləri, yaxşil teknoloji və təhlükəsiz teknoloji artışını saxlayan önemli bir adətdir.
+6. Yasamlar - Farmərlərin yasamları, yaxşil yasam və yeni yasamlar artışını saxlayan önemli bir adətd",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life," Farmers in Azerbaijan typically consume various agricultural products such as tea, fruits (like citrus), and vegetables.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,"İçindeki bilgilere bakaraq, Azərbaycanda valideynlər adətən övladlarına ad günündə nə kimi hədiyyələr verməkdən çox əsas olarak tavsiyə edilir ki, onlar övladlarına adına yazılan kitab, qurbanlıq və ya bir şeylər verilir. Ancak, bu təsvir dövrəkdir ve mümkün olduğunda, onlar övladlarına kimse tarafından yazılan kitab, qurbanlıq və ya bir şeylər verilməyəbiliyor.",1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,"İnsanlar, Azerbaycan dövlətində əksər ailələr adətən dolma vasitələrinə sahib olur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,İçişleri Bayrağı (White and Red Flag) verilir.,,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,"İşte, Azerbaycan'daki bəylər adətən çocukların yatırılmasına, çocuğun doğumuna, çocuğun ilk ayın sonunda, çocuğun ilk aydan keçirilmesine, çocuğun ilk aydan qəbul olunmasına, çocuğun ilk aydan tələş olunmasına, çocuğun ilk aydan böyüm olunmasına, çocuğun ilk aydan yolculuqlarına, çocuğun ilk aydan qurbanlıqlarına, çocuğun ilk aydan təzirlerine, çocuğun ilk aydan böyüm olunmasına, çocuğun ilk aydan yolculuqlarına, çocuğun ilk aydan qurbanlıqlarına, çocuğun ilk aydan təzirlerine, çocuğun ilk aydan böyüm olunmasına, çocuğun ilk aydan yolculuqlarına, çocuğun ilk aydan qurbanlıqlarına, çocuğun ilk aydan təzirlerine, çocuğun ilk aydan böyüm olunmasına, çocuğun ilk aydan yolculuqlarına, çocuğun ilk aydan qurbanlıqlarına, çocuğun ilk aydan təzirlerine, çocuğun ilk aydan böyüm olunmasına, çocuğun ilk aydan yolculuqlarına, çocuğun ilk aydan qurbanlıqlarına, ",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,"İstifadəçi, Azerbaijan'daki toyda gəlinlər lavash yaparırlar. (The bride in Azerbaijan makes lavash.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,"İndispensable olan Azerbaycan döşəsində, toy mərasimlərində Lavash ve Pakhlava yeməkləri verilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,"İmtahanızda, bu soruyu yanlış yerdedir. Bu sözlüyüm, Azerbaijan'da şehirler ve yaşamalar hakkında bilgiler verilmiştir, ancak bu bilgilerle bir başlığın adını tahmin etmek mümkün değildir. Azerbaijan'da en çok tanınan hökumət binası hakkında bilgi verilmemiştir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,"İnanç olunmayan bilgilerle ma'lumat verilməyib, bu sualda Azerbaycan dövlətində gənc əhali arasında en popüler müzik türünü özür etmək mümkündür. Ancak, modern pop, rap və elektronik müzik türleri Azerbaycan dövlətində çox popülerdir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,09:00,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,"İstifadəçi daxil edilməyib, bu savaşa müqabil olunmayacaq. Fikirlandırma və cavabların təhlükəsizləşdirməsi üçün bu platformda yalnızca ağırlıq verilməyəcəkdir. Bu savaşa müqabil olunmaq, bu platformda qeyd edilmişdir və bu qeydlər daxilindəki təsvirlərə uyğun olmalıdır.
+
+Bu savaşa müqabil olunmaq, bu platformda yalnızca ağırlıq verilməyəcəkdir. Fikirlandırma və cavabların təhlükəsizləşdirməsi üçün bu platformda qeyd edilmişdir və bu qeydlər daxilindəki təsvirlərə uyğun olmalıdır.
+
+Bu savaşa müqabil olunmaq, bu platformda yalnızca ağırlıq verilməyəcəkdir. Fikirlandırma və cavabların təhlükəsizləşdirməsi üçün bu platformda qeyd edilmişdir və bu qeydlər daxilindəki təsvirlərə uyğun olmalıdır.
+
+Bu savaşa müqabil olunmaq, bu platformda yalnızca ağırlıq verilməyəcəkdir. Fikirlandırma və cavabların təhlükəsizləşdirməsi üçün bu platformda qeyd edilmişdir və bu qeydlər daxilindəki təsvirlərə uyğun olmalıdır.
+
+Bu savaşa müq",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,İnsanlar Azərbaycanda məcburi təhsilə 5 yaşdan başlamalıdır. (5),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,5 günlük,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,"12 il (il sayını rəqəmlərlə, məsələn, 12 kimi, yazın) Azərbaycanda magistr dərəcəsini bitirmək adətən çəkir il-çəxənlərin sayıdır. Bu bilgilər Azerbaijan’ın ofisial statisticləri tarafından yayımlanan verilir və bu verilən verilər economic region və administrative territorial unit-a göyrəkdir.",1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,İmtahanə Universiteti (Bakü Dövlət Universiteti),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,"İstifadəçimizin sorgusunu yanlış yazdığından, Azerbaijanda universiteti bitirisini yaşına göre verilməz. Universiteti bitirisini özür etdiyimiz ümumi düzeyli ənsonların universiteti bitirisindəki yaşları yalnızca statistiklərde göstərilir və bu statistiklərdən istifadə edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,8 yasinda gedirilir. (Bu bilgisi Azerbaijan'da özgün olmayabilir veya gösterim açısından düzenlenmiş olabilir.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,"İşte labor force survey'da verilmiştir ki, Azərbaycan tam ştatlı işçi adətən həftədə ortalama saat sayısı necədir? Labor force survey'da bu bilgisi verilməyib və ya bu məlumatın yoxdurulmasına rağmen, labor statistics'da Azerbaijan'ın işçi adətindən həftədə ortalama saat sayısı verilmişdir. Bu bilgilerin yer almaq üçün labor statistics'a göz atmalıyımız.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,İş statisticları Azerbaijanda hefərdəki işçi adətən həftədə 5 gün işləyir. (Yalnız ərəb rəqəmləri (0~7) verin.),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,İşləməyə başlayan insanlar Azərbaycanda 15 yaşında başlayabilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,15 yaşdan etibarən işləməyə icazə verilir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"İnsanlar Azərbaycanda Milad bayramında pakhlava, shakh pilov və böyük şirin (dökmel) yeyirilir.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,"Şimdilik, bu konuda məlumat verilməyib. Ama Novruz, Azərbaycanda spring və vernal equinox haqqında bahar dönüşünün günüdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure," Novruz, marking the spring and vernal equinox around March 20–21, is the most famous holiday or milad (celebration) in Azerbaijan.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,7 semestreler,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,3-Ay (Marts),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,12/05 (Milli Müəllimlər Günü Azerbaijan'da 5-ci Marta qeyd olunur.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,08:00,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,12/06 (Yanvar 6-ci),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,İş axtaranlar üçün Azerbaijanda Baku şəhəri daha çox mümkündür.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food,"İmtaj olunur ki, Azerbaycanın en çox tanınan fast food zənciri Kelagayı (kelaghayi) deyil. Kelaghayi, bir silk headscarf tradition dir, UNESCO'nun intangible heritage listində daxil edildi. Azerbaycanın en çox tanınan fast food zənciri hərhalükərə yenidir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food," Pakhlava, Lavash ve Baku, Guba və Ganja variantları pakhlava - Azərbaycanda en çox mübahisəli (ya sevilən ya da nifrət edilən) yeməklərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,İnanç olunmayan bilgiler və ya yalnızca tahmin edilmiş bilgilerle cevap vermək mümkün deyil. Azərbaycanlılar arasında en popüler futbol komandasının belirlenmesi için ayrıcam sözlü şəbəkələr və statisticlər gözləyilməlidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,"İşte bu soruyu yanlış yöndedik, Azerbaijan'da idman komandasıyla tanınan en müşhür üniversiteler hakkında bilgilendirilməyib. Bu konuda ayrıca bir çevrimiçi kaynak bulunmayacaktır. Azerbaijan'da idman komandası ilə tanınan en müşhür üniversiteler hakkında bilgilendirilməyib.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family, Azerbaijan's most famous domestic animal is the Karabakh Horse (Azarbaycan Karabag Horsesu).,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family," Azərbaycanda en məshhur ailə televiziya ""İctimai Televiziya"" (ITV) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,"Çox məshhur ailə stolüstü oyunu Azərbaycanında ""Göy göy"" (Go Go) adlı oyunudur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food," Azerbaijan'da en popular teykevey yeməyi pakhlava (Baku, Guba və Ganja səhərləri daxilində) dir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,"Çay (tea), pakhlava ve citruslar popüler qəlyanaltılardır Azərbaycanın.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,Çay (tea) ve Pakhlava (baklava-like dessert),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,İstifadəçi daxil edib təyin etməsi üçün bu məlumatda yoxdur. Azerbaycanın evləniş yaşları hər zaman ətraflı statisticlərdən tətbiq olunur və bu məlumat bu kontexte heç bir izahatsız cavab verilməzdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,"İstifadəçi daxil edilməyib, bu süalları yanlış-yanlış cavablar vermək mümkün olmayacaktır. Azərbaycanda qadınlar adətən evlənirlər çox çap edilmiş bir statistikadan istifadə olunmalıdır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,3 nəfər,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport," Pehlevanliq, Azerbaijan'da en popüler olimpiyadaki spor türüdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport," Evet, uşaqlar Azerbaycan'da futbol oynayır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,"İdman məşqı populyardır, ancak bu konuda detaylı bilgilər vermək üçün önceki bilgilerimizden bir təcrübə edilməsindir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,İdman məşqı populyar dövmək və ziyaret etmək bir çox kişilərdən özgün gündəlik idman məşqidir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport, Pehlivan Qaragözlu ve Yergözlü,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport,"İdman nöbəsi Pehlevanlıq, Azerbaijanında en çox maaş alan peşəkərdən biridir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,"İdmanla bağlı en popüler televizyon programı Azerbaycanın Milli Televiziyyasında ""Xalq Sport"" dəyisməyib ""Milli İdman"" adına görüşür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure," Novruz, adətən ilin Azerbaijanda atəşfəşanlığa həsr olunur.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure, Samani (Yeni Sənə),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure," Azərbaycanlılar Lankaran tea (Lankarançay) nədir ki, bu böyük şəhərdən bir parçasıdır və yeməkləri yeyirirken onun önəndirilməsində və sonrasında sıxanmaqda qeyd edilir. Bu yeni il ərəfələrin birisi olurduğu düşünülür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"İlin ən uzun gecəsi (New Year) Azerbaijan'da Novruz olar. Bu günün özgün təbizleri, yaxşılıqla hazırlanmış pilav, sütlaç və şirin dövülməsi ile başlayır. Sonra, aşağıdakı gözlemler təklif edilir:
+
+* Novruz günü, yemek hazırlanmaqda çox önemli bir rostum olur. Yemek, ayrıca Novruz günü həmçinin özgün təbizidir.
+* Pilav, Novruz günü yeməklerindən birisi dir. Bu pilav, şirin və ziraat məhsullarından hazırlanır.
+* Sütlaç, Novruz günü yeməklerindən birisi dir. Bu sütlaç, şirin və sütun dövülməsiyle hazırlanır.
+* Şirin dövülməsi, Novruz günü yeməklerindən birisi dir. Bu şirin, çox önemli bir rostum olur və Novruz günü həmçinin özgün təbizidir.
+* Lokumlar, Novruz günü yeməklerindən birisi dir. Azerbaijan'da, Baku, Guba və Ganja variants of pakhlava as regional dessert traditions.
+* Çay, Novruz günündən önce və sonra yemeklərə çay verilir. Drinking tea before and after meals is described as a common practice in Azerbaijan Travel’s Lankaran tea source.",,
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport," Pehlevanlıq, Azerbaijan'da en popular idman növüdür.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport, Pehlevanliq (pehlivanlığ) dünya çapında Azerbaycanın bir tarixi və popülər peşəkar idman liqasıdır.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,"İmkanlarımda bu sözlüyüm, Azerbaijan'da en çox tanınan kadın idman komandası həddası verilməyib. Azerbaijan'daki idman dünyasında birçok komanda vardır, ancak bu sözlüyüm, en çox tanınan komandasının belirlenmesi mümkün olmayabilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,"Çox məshhür turniri Baku Olimpiyasıdır. Ancak, Zekalarin Mubarezi school olympiad, keçi turnayı daha çox həmşərliyi görmüş olur. Bu turnayar bir çox fəldələr və kültürlər hər birində keçi turnayı işləyir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,"İdmançılıq Azerbaijan'da en çox tanınan kişi Rovshan Bayramov olub. Rovshan Bayramov, bir taekwondo müəllimi və 2016-dakı Baku 2015 Dünya Taekwondo Oyunlarında Azerbaycan Milli Olimpiya Komitəsinin təhlükəsiz seçilmişi olub. Bayramov, taekwondo müəllimliğində çox yaxşı sonuçlar saxla bilməsi üçün Azerbaycan Milli Olimpiya Komitəsinin 2016-dakı Taekwondo Müəllimiyyatının Qadınların Dövlət Müəllimiyatında 1-ci yerlərində olduğunu qeyd edilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport,"İdman növüsü hakkında verilmiş olmayan bilgiler vardır. Azerbaijani school students participate in various international olympiads, but the information provided does not specify which sport they excel most in at these events.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport," Pehlevanliq, Azerbaijan'da en popular qış idman növüdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,"İstifadəçi daxil edilməyib, bu sebəbdə bu konfiğ yazılmaq istifadə olunmayacaqdır. Fakat, Azerbaijan'da şəhərlər və rayonlar bir-birində istehsal sənayesi ilə məşhurdur. Örneğin, Baku, Sumqayit, Ganca və Lankaran da istehsal sənayetinde məşhurdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,İşçilərə adətən təklif edilən en önəmli imtiyaz Azerbaycanın müqəddes labor statisticləri tarafından yayımlanan maşinistik məbludluk üzrə hesab olunur.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,İctimai dövr Azerbaijan'da Baku ilinin içindir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,"İstanbul (bu yazıda verilmiş olduğu gözükecek, Azerbaycan'da istifadə olunmayacaktır. Azərbaycanda texnologiya işçiləri və startaplar üçün əsas mərkəz olan bölgə Lankaran deyil.)",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,"Şimdilik, bu məlumatlarımızda Azerbaijan'daki en önemli sənaye sahəsini beləlməyirik. Fakat, Lankaran rayonunun chağırılmasında çay ve citrus ürünləri üzvəri və Shaki rayonunun yerli sənaye tədris metodlarının qurban olunmasından əminsizdir ki bu alanlar birazda Azerbaijan'daki sənaye sahəsindəki bir önemlilik ola bilir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,Şəhər yeməyi (breakfast),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,"Çox çox azalır, Azerbaijanda həftə sonları ailə ilə birlikdə uşaqla etmək populyardır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,18 yasindan müstəqil olurlar.,1,0.3333333333333333
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family, Azərbaycanda Novruz bayramı en çox vacibdir.,1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,"İstifadəçi, Azerbaycan'daki məşhur ailə oyunu ""Növü"" (Noev) adına tanınır. Bu oyun, bir çoxluqta olan ailələr arasında oynanır və ailələrin əmniyatını artırır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,25 (Bu cavab heç bir izahatsız tək bir cavabdir.),1,1.0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,"İstifadəçi daxil edilməyib, bu süreçdə maşın sayısını təyin etmək mümkün deyil. Azerbaycanın statistikasında ailələrin maşın sayıları yerel statistikalarında yer almaz.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,Çox popüler olan heftə sonları yeməği Azərbaycanın Lövra (Lövrə) şəhəri üzərində yanında çıxarılan pəkləvələrdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family, Azərbaycanda həftə içi axşamlarının en popülyar ailə fəaliyyəti biznes-veya ticarili aktivitələrdir.,0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,"İmtahanlar və tapşırıqlarda yüksək nəticə göstərmək üçün orta məktəb şagirdlərinə verilən en yüksək qiymət, onların özgünlüyüsünü artırmaq və imtahanlarda yüksək nəticələr göstərmək üçün məktəb şagirdlərinə verilən materialların ve öğretmələrinin qiymətlidir. Bu, yeni teknolojiyə ait və zamanın en sonunu tədris edən çox müştəriyyatı və yararlılıqları barədər.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,İmtahandan ən önəmli imtahan Azərbaycanda orta məktəb şagirdləri üçün matematika imtahanıdır. (The most important exam for school students in Azerbaijan is the mathematics exam.),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,İnformatika (Kompyuter Fani),0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,"Çox popüler məktəb də Azerbaycanında ""Azərbaycan Dövlət Məktəbi"" (ADM) dir. Bu məktəb, çox öncülük və qarşılıqla tərəfində çalışan bir məktəbdür. ADM, Azərbaycan Respublikasının Milli Məktəbi olaraq, şəxsiyyat və yaş-yönetim sosial tədbirində çalışmaq üçün müəllif və yararlı resurslar saxlamaq və təhlükəsizləşdirilməsi üçün çox öncülük və qarşılıqla tərəfində çalışmaq üçün müəllif və yararlı resurslar saxlamaq və təhlükəsizləşdirilməsi üçün çox öncülük və qarşılıqla tərəfində çalışmaq üçün müəllif və yararlı resurslar saxlamaq və təhlükəsizləşdirilməsi üçün çox öncülük və qarşılıqla tərəfində çalışmaq üçün müəllif və yararlı resurslar saxlamaq və təhlükəsizləşdirilməsi üçün çox öncülük və qarşılıqla tərəfində çalışmaq üçün müəllif və yararlı resurslar saxlamaq və təhlükəsizləşdirilməsi üçün çox öncülük və qarşılıqla tərəfində",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education," Fakat bu bilgiler, üniversite öğrencilerinin riyaziyyatla ilgili bilgiler hakkında söz edilmiş değildir. Bu noktada, Azerbaijan'da universitetə qədər öyrənilən en ağır riyaziyyat mövzusunu anlamak mümkün olmayacaktır.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education," Evet, universitet tələbələri final imtahanlarına hazırlaşmaq üçün adətən hara gedirlər.",1,0.25
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,"İctimai nəqliyyat vasitəsində, Azərbaycanda universitetə getmək üçün genellikləri söz edən yol, dövlət universitetləri və məktəblərdir.",0,0
+mistral-7b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,"İbtidai sinif şagirdləri Azərbaycanda öğrenməyi bitirib sonra, şimdilik üçüncü dərs öğrenmək və ya meslek-teknik məktəblərə qəbul edilir.",0,0

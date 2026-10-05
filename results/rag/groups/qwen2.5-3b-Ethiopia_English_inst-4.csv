@@ -1,0 +1,503 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-01,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-02,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-04,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-06,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-08,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-09,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-16,Education,5,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-17,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-18,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-19,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"People commemorate the yearly visit of a married woman's visit to her relatives with buurisame (false banana, milk and butter) shared with neighbours during the Fichee-Chambalaalla festival.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,People in Ethiopia celebrate Christmas on 7 January.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,None of the provided information directly answers what people eat on their birthday in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,None of the provided background information specifically mentions an outdoor place for families to have fun with little kids in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-02,Education,Not enough information provided to answer where university students have lunch specifically in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-03,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-08,Education,16,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-09,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-34,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-35,Sport,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-36,Sport,"The information provided does not specify the most popular sport team in Ethiopia. It mentions details about football (soccer) teams but does not compare popularity among different sports or teams. Therefore, no specific answer can be given based on the provided information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,An-ar-43,Sport,None of the provided background information specifically mentions places or venues for watching sports broadcasts in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-05,Food,4,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-06,Food,"It is not specified which meal of the day is considered the most important by Ethiopian dietary guidelines or cultural practices, so no definitive answer can be provided based solely on the given information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-08,Food,Wheat,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-09,Food,The given information does not specify what people from Ethiopia usually eat for dessert.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-11,Food,Sunday,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-14,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,None of the provided background information specifically mentions what young people in Ethiopia usually drink at nightclubs.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,4,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,None of the provided information specifically mentions traditions for New Year's Eve in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-38,Family,Single Answer: Traditional mud-brick houses,1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-41,Family,Not relevant to the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-42,Family,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-43,Family,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ca-sp-45,Family,Beach resorts,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-05,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-06,Sport,Genna,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-07,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-08,Sport,The information provided does not specify the most popular sports among children in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-09,Sport,The given information does not specify what sports women like to play the most in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-11,Sport,The Great Ethiopian Run,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-15,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-16,Family,4.6,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-18,Family,5,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-31,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-32,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-33,Education,5,1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-38,Education,12,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-40,Education,"The provided information does not contain specific details about the end time of school for younger elementary school students in Ethiopia. Therefore, it is impossible to provide a precise answer in the requested HH:MM format based on the given data.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Gu-ch-41,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-02,Work life,6 April,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-03,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-07,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-08,Work life,48,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-09,Work life,Roasted barley (kolo) or popcorn,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-14,Work life,Coffee,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-15,Work life,1,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-16,Family,Somali,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-19,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-22,Family,None of the provided information specifically addresses what people spend their first salary on in Ethiopian society.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-24,Family,The Great Ethiopian Run,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-25,Family,6 April,,
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-26,Family,None of the provided background information directly addresses specific milestones related to children's independence from their parents in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-27,Family,It is not explicitly mentioned in the provided background information what specific gift is given when visiting elderly parents in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-28,Family,7 January,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-29,Family,4,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-31,Education,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-33,Education,"The given information does not specify where high school students in Ethiopia go after dinner, so no specific answer can be provided based on the available data.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-34,Education,By walking,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-35,Education,Unspecified,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-36,Education,"None of the options provided are relevant to answering the specific question asked. The given background information does not specify which subjects' academies/private educational institutes middle or high school students most frequently attend in Ethiopia. Therefore, no single answer can be determined from the provided context.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-37,Education,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-39,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-40,Education,None of the provided information specifically addresses what high school students typically do during break time in schools in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-41,Education,The given information does not specify what kind of shoes students wear in schools in Ethiopia.,1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-42,Education,The information provided does not specify the exact subjects of the Ethiopian university entrance exam.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-44,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ji-ko-45,Education,Easter,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-01,Sport,"The given information does not specify or rank sports by popularity. Therefore, no answer can be provided based solely on the given data.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-02,Sport,gebeta,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-09,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-13,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-14,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-18,Work life,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-19,Work life,Rural areas,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-21,Work life,Not applicable (N/A),0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-31,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-32,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-36,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-37,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-39,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jo-sp-43,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-01,Food,Hands,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-04,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-06,Food,tej,1,0.75
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-07,Food,0.5,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-09,Food,22:00,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-12,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-13,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-15,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,The Ethiopian Epiphany,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,The information provided does not specify the most commonly used public transport for traveling between cities in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-37,Sport,Not enough information provided to determine what sports women like to watch the most in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-38,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,None of the provided information directly specifies a common leisure activity for females in their 20s in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Chat leaves,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-46,Work life,1.0,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-48,Work life,Enset,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-50,Work life,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-51,Work life,The given information does not specify the most common mode of transportation used by people to get to work in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-54,Work life,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-56,Work life,50,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-57,Work life,50,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-58,Work life,Manager,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-60,Work life,24,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-61,Work life,Elementary occupations,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Jod-ch-62,Work life,Elementary occupations,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-17,Education,high school,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-24,Education,Amharic,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-30,Education,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-32,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-34,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-36,Food,India,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-39,Food,Wheat bread (Injera),,
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-40,Food,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-43,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-51,Work life,Not applicable (N/A),0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ki-pe-53,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Buna,,
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,None of the provided background information directly addresses a pregnancy celebration or ceremony in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,gebeta,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Buurisame,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,None of the provided background information specifically mentions activities done days before Ramadan in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"The text provided does not explicitly mention the most popular religious sites for tourism in Ethiopia. Therefore, no specific answer can be given based solely on the information provided.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,The given information does not specify what clothes women usually wear on graduation commencement ceremonies in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-16,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-17,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-24,Food,Wheat-based bread,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-31,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-34,Sport,Football,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-35,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-36,Sport,"The information provided does not mention the names or popularity of specific soccer coaches in Ethiopia. Therefore, no answer can be determined from the given background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-37,Sport,Ethiopia National Men's Team vs Ethiopia National Women's Team,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-38,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-40,Sport,The given information does not contain details about the most famous male badminton player in Ethiopia.,,
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-41,Sport,"The information provided does not contain details about Ethiopian badminton players or their fame. Therefore, no specific answer can be given based on the provided background information.",,
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-44,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Kik-in-45,Sport,The given information does not specify what sports field facilities are usually available at schools in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-02,Food,borde,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-04,Food,None of the provided information specifically mentions a preferred hangover cure food for people from Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-05,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-07,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-08,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-09,Food,Injera,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-11,Food,None of the provided information directly addresses what people from Ethiopia eat while watching a soccer game.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-15,Food,Wheat bread,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-16,Sport,"The information provided does not contain details about the most famous soccer players in Ethiopia. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-17,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-18,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-19,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-20,Sport,The Great Ethiopian Run,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-22,Sport,"Ethiopia does not have a traditional rival in soccer as it is not part of FIFA, unlike many other African countries. Therefore, there isn't a specific ""biggest rival"" to consider within the context of international soccer competitions. The answer provided would be:
+
+None",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-23,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-24,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-25,Sport,The information provided does not specifically mention typical sports played in Ethiopia's school sports day.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-26,Sport,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-28,Sport,"The information provided does not contain details about the popularity of winter sports players in Ethiopia. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-29,Sport,"The information provided does not contain any details about swimmers or their fame in Ethiopia. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-30,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Meskel flower,,
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Livestock and money.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,"Dowry from the groom's side (livestock, money)",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,1,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,There is no specific information provided about preparing a condolence offering for a funeral in Ethiopia. The given background does not mention such customs or offerings.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Vegetarian,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,None of the provided information directly addresses the day with Ethiopia's most severe nationwide traffic congestion. The given background does not contain this specific data.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,"I don't have specific information about what people from Ethiopia eat during Ramadan. The dietary guidelines provided focus on general advice for healthy eating, not details about fasting periods. For accurate information about Ramadan practices in Ethiopia, I would need to consult more detailed sources or reports specifically addressing that topic.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Kocho,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,28 May,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,buna,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-16,Work life,"Friday, Saturday",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-17,Work life,07:00,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-18,Work life,12:00,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-20,Work life,Manager,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-24,Work life,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-25,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-26,Work life,"The information provided does not contain details about the most famous public corporations in Ethiopia. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-31,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-32,Food,It is not specified what people usually have for breakfast in Ethiopia based on the provided information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-33,Food,12:00,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-34,Food,Berbere,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-36,Food,"A typical festive meal in Ethiopia often involves communal eating from a dish called injera, with guests starting first and each person pulling injera from the area in front of them.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-37,Food,buna,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-38,Food,Wheat bread,1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-39,Food,"The information provided does not contain details about the cheapest fast food in Ethiopia, so no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-43,Food,Coffee,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ne-ar-44,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-02,Food,Injera,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-04,Food,Teff,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-08,Food,Enset,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-15,Food,kocho,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-27,Sport,The given information does not specify or mention the most popular female sportsperson in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-34,Education,Not specified in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-41,Education,Grade 8,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-53,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-54,Work life,Somali Region,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-59,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-60,Work life,"Assuming you're referring to traditional modes of transportation, donkeys are commonly used for this purpose in Ethiopia.",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-72,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-73,Family,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-74,Family,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Christmas,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-81,Holidays/Celebration/Leisure,9,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-am-83,Holidays/Celebration/Leisure,The question cannot be answered based on the provided background information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-01,Food,Teff,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-02,Food,There is no specific information provided about the most popular wheat-based food item in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-05,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-07,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-14,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-15,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-20,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-29,Sport,Football,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-30,Sport,Football,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-58,Work life,Sweet beverages,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-64,Family,Maskel,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-76,Holidays/Celebration/Leisure,gebeta,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Traditional dress,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-as-89,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-05,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-11,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-12,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-21,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-26,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-27,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-39,Education,Kenya,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-49,Work life,2,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-60,Family,Urban migrants,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-69,Holidays/Celebration/Leisure,"None of the information provided specifies the preferred alcoholic beverage for men in Ethiopia. The data focuses on dietary guidelines, child nutrition statistics, and teacher numbers but does not mention specific preferences or habits regarding alcohol consumption among adult males.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-70,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-az-73,Holidays/Celebration/Leisure,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-01,Food,Raw meat,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-02,Food,07:00,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-04,Food,"It is not specified what kinds of food people usually eat for late-night snacks specifically. The dietary guidelines provided focus on meal portions and daily intake, but do not detail specific snack foods eaten at night.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-05,Food,Tella,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-07,Food,borde,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-08,Food,Awaze,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-09,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-13,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-14,Food,Tella,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-15,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-16,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-17,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-18,Sport,5-10 km,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-19,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-23,Sport,N/A,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-26,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-27,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-30,Sport,Bibyaan Tesfaye,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-31,Work life,None of the provided background information directly specifies what job parents most hope their children will pursue.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-32,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-38,Work life,Djibouti City,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-39,Work life,The information provided does not specify a particular platform commonly used in the e-commerce industry in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-44,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-45,Work life,Elementary occupations,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-49,Family,None of the provided information directly addresses how family members communicate remotely in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-51,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-54,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-64,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-66,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-70,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-71,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-72,Education,Industry,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-73,Education,N/A,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-74,Education,The given information does not specify what types of accommodation university students in Ethiopia typically live in.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-75,Education,60,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,None of the provided background information specifically mentions leisure activities for retired men in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,"During New Year (11 September), Adwa Day (2 March), Labour Day (1 May), and Derg downfall (28 May).",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,It is not explicitly mentioned what typical housewarming gifts are in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Harar,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,Red,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-01,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-02,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-04,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-05,Food,Wheat-based dishes such as injera (flatbread) with stews or soups are often considered cost-effective and quick meals in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-07,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-08,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-10,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-11,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-12,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-17,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-18,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-19,Sport,Addis Ababa Stadium,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-23,Sport,"The information provided does not contain details about the most famous Paralympian in Ethiopia. It focuses on Ethiopian athletics, including marathon runners from Arsi and Shewa, elite fields in the Great Ethiopian Run, and pastoralist regions needing special support due to their lifestyle. Therefore, no answer can be determined based solely on the given information.",,
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-26,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-38,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-41,Work life,"The information provided does not contain details about the most well-known or successful entrepreneurs in Ethiopia. Therefore, no specific answer can be given based on the provided data.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-47,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-49,Family,The name of the most famous family in Ethiopia is not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-50,Family,The information provided does not contain details about the most common family names in Ethiopia.,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-55,Family,Orthodox,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-56,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-59,Family,Gambella,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-68,Education,The provided background information does not specifically address repercussions for bad behavior in schools in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-69,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-70,Education,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-72,Education,None of the provided resources directly address which online resources students typically use for studying in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-75,Education,8,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Addis Ababa Bole International Airport,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Somali Region,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-87,Holidays/Celebration/Leisure,The Great Staircase (Konso Cultural Landscape),0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-en-90,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-05,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-06,Food,There is no specific information provided about the most popular food among young people in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-08,Food,Beer,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-13,Food,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-15,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-21,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-24,Sport,Marathon,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-29,Sport,Great Ethiopian Run,1,0.6666666666666666
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-47,Work life,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-58,Work life,Unpaid family worker,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-07,Food,kocho,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-08,Food,gebeta,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-09,Food,gebeta,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-13,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-19,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ha-66,Family,Not provided in the given background information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-01,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-03,Food,Injera,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-33,Work life,Dire Dawa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-34,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-62,Education,Addis Ababa University,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-63,Education,Addis Ababa University,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Not provided in the given background information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-in-80,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-01,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-02,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-03,Family,None of the provided background information specifically mentions a most popular children's song that Ethiopian families sing together.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-04,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-05,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-06,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,"The customary symbol of condolence used at funerals in Ethiopia, as described in the background information provided, is buna.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-08,Work life,Elementary occupations,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-09,Work life,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-ko-10,Work life,Working as skilled agricultural and fishery workers,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-02,Food,Injera,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-06,Food,Awaze,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-11,Food,"Without specific information about the most commonly used spices or herbs in Ethiopian cuisine, it's not possible to provide a definitive answer. Ethiopian cooking can vary widely depending on regional preferences and ingredients available locally.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-16,Sport,"The information provided does not explicitly mention a ""most famous traditional sport"" in Ethiopia. Therefore, no specific answer can be given based solely on the provided background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-20,Sport,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-45,Work life,The information provided does not specify the usual work schedule during the month of Ramadan in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-47,Family,05/01,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-49,Family,None of the provided background information specifically mentions praying or gathering to pray together.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-53,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-54,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-59,Family,4,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-65,Education,2,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-66,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-74,Education,"The provided background information does not contain any specific data regarding the average annual tuition fee for public universities in Ethiopia. Therefore, I cannot provide an accurate answer based on the given information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,None of the provided background information specifically mentions activities in parks in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,The name of the most famous tower in Ethiopia is not specified in the provided information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-01,Food,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-04,Food,Tea,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-05,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-15,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-27,Education,"The provided information does not directly give the average education level for people in Ethiopia. It discusses aspects such as pre-primary education policy, teacher numbers, household sizes, and age distribution but does not specify an average education level.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-37,Education,Doctor,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-60,Family,Friday,1,0.6
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-65,Family,"The information provided does not mention Independence Day or its celebration. Therefore, no answer can be determined from the given background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-68,Family,Sweet beverages,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,"The information provided does not mention Independence Day or any specific celebrations for it in Ethiopia. Therefore, there isn't enough data to determine the most popular place to celebrate Independence Day based on the given background information. The answer cannot be determined from the provided text.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-01,Food,Enset pancakes (also known as injera or sagay) are usually sold in front of schools in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-09,Food,Oil,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-10,Food,Enset,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-15,Food,tej,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-17,Sport,I do not have specific information about sports facilities in parks in Ethiopia. The provided background does not mention details about park facilities.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-21,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-24,Sport,None of the provided information specifically mentions common sports played by parents and children together in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-28,Sport,White,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-33,Education,Not enough information provided to determine the common dress code for school teachers in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-34,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-42,Education,"The question about which religion is mainly taught in schools in Ethiopia does not have a clear or definitive answer based on the provided background information. The data given focuses on school enrollment, ownership, and programs but does not specify religious education policies or practices in Ethiopian schools.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-45,Education,09/08,,
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-50,Work life,Elementary,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-51,Work life,"The information provided does not specifically mention the main occupations of people in coastal areas in Ethiopia. Therefore, no specific answer can be given based on the provided data.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-57,Work life,"Assuming based on the provided information, cattle are commonly raised in Ethiopia as enset (also known as false banana or guinea corn) is mentioned as a staple food for southern and western regions, which often rely on pastoralist lifestyles involving livestock. However, without specific data on the most common livestock, this answer remains speculative.",1,0.75
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-58,Work life,Cattle,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-59,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-60,Work life,It is not specified what farmers in Ethiopia usually eat for lunch based on the provided information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-71,Family,Unspecified,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-75,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-77,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-81,Holidays/Celebration/Leisure,The given information does not specify what clothes grooms usually wear at weddings in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-82,Holidays/Celebration/Leisure,The given information does not specify what clothes brides usually wear at weddings in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Addis Ababa Cathedral,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,New-su-88,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-02,Education,15:30,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-03,Education,19,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-06,Education,6,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-12,Education,Addis Ababa University,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-13,Education,18,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-15,Education,7,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-19,Work life,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-20,Work life,16,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-21,Work life,14,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,People in Ethiopia traditionally eat qallullu (fermented coffee) and tibs (marinated meat slices) on Christmas Day.,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Gifaataa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-05,Education,9,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-06,Education,05/01,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-11,Education,07:00,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-20,Family,07/15,,
+qwen2.5-3b,Ethiopia,English,inst-4,Nu-in-40,Work life,Dire Dawa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-1,Food,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-13,Food,Teff,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-16,Sport,"The information provided does not specify the most popular soccer (football) team among the people of Ethiopia. Therefore, no specific answer can be determined based on the given background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-22,Sport,Addis Ababa University,1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-31,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-32,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-37,Family,None,,
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-6,Food,Not explicitly provided in the given information.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-7,Food,Injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Sa-en-9,Food,None of the provided information specifically mentions what people from Ethiopia eat at the beach.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-10,Family,23.7,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-11,Family,17.1,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-13,Family,4,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-17,Sport,Running,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-21,Sport,"None of the provided background information specifically mentions playing soccer. Therefore, no answer can be derived from the given information for this specific question.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-22,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-23,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-25,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-29,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-30,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Buurisame,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Teff injera,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-01,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-03,Sport,"The information provided does not mention any professional sports leagues in Ethiopia. Therefore, no answer can be determined from the given background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-05,Sport,"The information provided does not specify the most popular women's sports team in Ethiopia. It only mentions that the Ethiopian Football Federation has separate national coaches for its men's and women's teams, but it does not provide details about their popularity or performance.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-09,Sport,The information provided does not contain details about the most popular tournaments in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-11,Sport,The information provided does not specifically identify the most popular sportsperson in Ethiopia.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-12,Sport,None of the provided information specifically mentions a particular sport where Ethiopia has been most successful in international competitions. The background information focuses on cultural sports events rather than international sporting achievements.,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-15,Sport,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-19,Work life,Gondar,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-21,Work life,"Birr 7,534 for men",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-22,Work life,"The given information does not specify a particular ""catastrophic"" economic period for Ethiopia, nor does it provide data on historical economic performance to identify such an era. Therefore, no specific answer can be provided based solely on the given background information.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-24,Work life,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-27,Work life,Agriculture,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-35,Family,lunch,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-36,Family,"Hosting one's own buna typically follows marriage or setting up a home, as mentioned in Platt's study. However, this does not directly describe a common weekend activity for children in Ethiopia. Given the provided background information, there is no specific mention of a popular family activity with children on weekends.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-37,Family,5,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-38,Family,Plat's buna,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-39,Family,gebeta,,
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-41,Family,15,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-43,Family,0,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-44,Family,Unavailable,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-45,Family,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-48,Education,Answer: 12,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-49,Education,"The national exam mentioned in the background information that admitted about 20% of test-takers, which was relevant to university education around 1999 in Ethiopia, could be considered significant. However, it is not explicitly stated as the most important exam for high school students today. For current high school students, the most important exam would likely refer to the national exams or entrance tests specific to their secondary schools and universities, which are not detailed in the provided information.",1,0.5
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-51,Education,None,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-53,Education,"None of the provided information specifically mentions a ""most popular extracurricular social event"" at schools in Ethiopia. The given data focuses on school enrollment, ownership, and types of education but does not provide details about extracurricular activities or events.",0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Th-en-58,Education,Grade 8,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Tmp-ar-01,Education,Addis Ababa,0,0
+qwen2.5-3b,Ethiopia,English,inst-4,Tmp-ar-02,Education,Bus,1,1.0
+qwen2.5-3b,Ethiopia,English,inst-4,Tmp-ar-04,Education,It is not specified what elementary students in Ethiopia usually do after school based on the provided information.,0,0

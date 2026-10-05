@@ -5,7 +5,8 @@ how they reach the LLM, where the answers are saved, and how they are scored.
 
 > **Baseline** = ask the LLM the question with **no extra information** (no RAG).
 > It measures what the model already "knows" about each culture.
-> Later, RAG runs the exact same flow with retrieved KB text added to the prompt.
+> RAG runs the exact same flow with retrieved KB text added to the prompt. Section 9 explains
+> RAG v1 (Always-RAG) and the current version, **RAG v2** (reranked, gated retrieval).
 
 ---
 
@@ -14,8 +15,8 @@ how they reach the LLM, where the answers are saved, and how they are scored.
 ```
  ┌──────────────────────┐   ┌──────────────────────┐   ┌──────────────────┐   ┌──────────────────────┐
  │ 1. QUESTIONS         │   │ 2. PROMPT            │   │ 3. LLM           │   │ 4. RESPONSE FILE     │
- │ BLEnD/data/questions │──►│ BLEnD/data/prompts   │──►│ Ollama on GPU PC │──►│ results/baseline/    │
- │ {Country}_questions  │   │ inst-4 / pers-3      │   │gemma/mistral/qwen│   │ *_result.csv         │
+ │ BLEnD/data/questions │──►│ BLEnD/data/prompts   │──►│ Ollama on GPU PC │──►│ results/<run>/raw/   │
+ │ {Country}_questions  │   │ inst-4 / pers-3      │   │gemma/mistral/qwen│   │ <model>.jsonl        │
  └──────────────────────┘   └──────────────────────┘   └──────────────────┘   └──────────┬───────────┘
                                                                                          │
  ┌──────────────────────┐   ┌──────────────────────────────────────────────┐             │
@@ -122,24 +123,24 @@ Models (see PLAN.md §2):
 
 ## 4. Where the responses go
 
-One CSV per **(model, country, language, prompt)**:
+All prompts of a run are first written to one jobs file, `jobs/<run>.jsonl` (`build_jobs.py`), one line per
+prompt with `job_id = "Country|Language|prompt_no|ID"`. On the PC, `remote/run_ollama.py` writes **one JSONL
+per model**, which `pc.py pull` copies back:
 
 ```
-results/baseline/{model}-{Country}_{Language}_{prompt}_result.csv
-e.g.  results/baseline/gemma3-4b-South_Korea_Korean_inst-4_result.csv
+results/<run>/raw/<model>.jsonl
+e.g.  results/baseline/raw/gemma3-4b.jsonl
+{"job_id": "South_Korea|Korean|inst-4|Al-en-09", "model": "gemma3:4b", "response": "츄러스", "seconds": 0.21}
 ```
 
-This name pattern and these columns are **exactly what BLEnD's scorer expects**, so the scorer can read our files:
+Count per model: 9 (country, language) pairs × 2 prompts × 500 = **9,000 answers**; 27,000 for 3 models.
 
-| ID | question | prompt | response | prompt_no |
-|---|---|---|---|---|
-| Al-en-09 | 대한민국의 놀이공원에서… | 다음 질문을 읽고… | 츄러스 | inst-4 |
-
-Count per model: 9 (country, language) pairs × 2 prompts = **18 files × 500 rows = 9,000 answers**.
-For 3 models: 54 files, 27,000 answers.
-
-The runner is **resumable**. If a file already has some IDs, those are skipped, so a crash or SSH drop
+The runner is **resumable**. Job IDs already in the output file are skipped, so a crash or SSH drop
 doesn't waste finished work.
+
+`score.py` then converts each (model, country, language, prompt) group into **exactly the CSV format
+BLEnD's scorer expects** (`results/<run>/csv/…_result.csv`, columns ID / question / prompt / response /
+prompt_no) and calls the official function on it.
 
 ---
 
@@ -211,7 +212,7 @@ This FINAL number is what the paper reports in its Tables 10/11, and what we com
 
 ## 6. The summary table
 
-Our summarise step collects every FINAL number into `results/scores.csv`, and prints a table like:
+`score.py` collects every FINAL number into `results/<run>/scores.csv` and `table.csv`, and prints a table like:
 
 | Model | US-en | ES-es | ES-en | KR-ko | KR-en | AZ-az | AZ-en | ET-am | ET-en |
 |---|---|---|---|---|---|---|---|---|---|
@@ -219,8 +220,9 @@ Our summarise step collects every FINAL number into `results/scores.csv`, and pr
 | mistral-7b | … | | | | | | | | |
 | qwen2.5-3b | … | | | | | | | | |
 
-We also keep **per-question** 0/1 scores (`results/baseline/*_response_score.csv`). Later, the RAG
-comparison and the category analysis are built on those without re-running any LLM.
+We also keep **per-question** 0/1 scores (`results/<run>/per_question.csv`, and one file per group in
+`results/<run>/groups/`). The RAG comparisons and the category analysis are built on those without
+re-running any LLM.
 
 ---
 
@@ -231,7 +233,7 @@ glue scripts around them:
 
 | BLEnD file | Problem | What we do |
 |---|---|---|
-| `model_inference.py` | crashes on startup (`parser.add.argument` typo); downloads prompts from the authors' Google Sheet instead of the CSVs; expects files named `*_full_final_questions.csv`, which don't exist; built for 2024 API models | **Replace** with our own runner `rag_pipeline/run.py` (steps 2–4 above) |
+| `model_inference.py` | crashes on startup (`parser.add.argument` typo); downloads prompts from the authors' Google Sheet instead of the CSVs; expects files named `*_full_final_questions.csv`, which don't exist; built for 2024 API models | **Replace** with our own `rag_pipeline/build_jobs.py` + `pc.py` + `remote/run_ollama.py` (steps 2–4 above) |
 | `evaluation/evaluate.py` | for English runs it calls the multiple-choice scorer with undefined variables, so it crashes | **Replace** with `rag_pipeline/score.py`, which calls `soft_exact_match` directly |
 | `evaluation/exact_match.py` | the logic is fine, but at the top it imports tools for **all 13 languages**, some of them folders not in the repo (`SUSTEM`, `stemmer`, `indic_nlp_library`). The import alone fails | Import the file **unchanged**, register harmless stand-ins for the languages we don't use (Sundanese, Greek, Assamese, …), and install the real tools for our 5 languages |
 
@@ -239,20 +241,21 @@ The official scoring function itself runs **untouched**, so our numbers are dire
 
 ---
 
-## 8. What the commands will look like
+## 8. The commands (baseline)
 
-(These scripts are written in the next task; this shows how they'll be used.)
+Everything is started from the laptop; the PC only runs Ollama.
 
 ```bash
-# on the GPU PC
-python rag_pipeline/run.py   --condition baseline --model gemma3-4b          # 18 files, ~9k answers
-python rag_pipeline/run.py   --condition baseline --model mistral-7b
-python rag_pipeline/run.py   --condition baseline --model qwen2.5-3b
-python rag_pipeline/score.py --condition baseline                           # official scorer on all files
-python rag_pipeline/summarize.py                                           # prints/saves the table
+python rag_pipeline/build_jobs.py --run baseline        # jobs/baseline.jsonl (9,000 prompts)
+python rag_pipeline/pc.py push   --run baseline         # copy runner + jobs to the PC
+python rag_pipeline/pc.py start  --run baseline         # gemma → mistral → qwen, detached on the PC
+python rag_pipeline/pc.py status --run baseline         # progress
+python rag_pipeline/pc.py pull   --run baseline         # answers → results/baseline/raw/
+python rag_pipeline/score.py --run baseline --languages English,Korean,Azerbaijani   # Windows venv
+python rag_pipeline/score.py --run baseline --languages Spanish,Amharic              # WSL (needs Spark)
 ```
 
-A pilot comes first (`--limit 50`: 50 questions per file) to check that answers are short and clean
+A pilot came first (`build_jobs.py --run pilot --limit 20`) to check that answers are short and clean
 before spending GPU time on the full run.
 
 ### Files at a glance
@@ -262,8 +265,66 @@ before spending GPU time on the full run.
 | Prompt templates | `BLEnD/data/prompts/{Country}_prompts.csv` | BLEnD |
 | Gold answers | `BLEnD/data/annotations/{Country}_data.json` | BLEnD |
 | Scoring logic | `BLEnD/evaluation/exact_match.py` (+ `evaluation_utils.py`) | BLEnD (used unchanged) |
-| Inference runner | `rag_pipeline/run.py` | us |
-| Scorer wrapper | `rag_pipeline/score.py` | us |
-| Summary | `rag_pipeline/summarize.py` → `results/scores.csv` | us |
-| Model answers | `results/baseline/*_result.csv` | generated |
-| Per-question scores | `results/baseline/*_response_score.csv` | generated |
+| Jobs builder | `rag_pipeline/build_jobs.py` → `jobs/<run>.jsonl` | us |
+| PC control + runner | `rag_pipeline/pc.py`, `rag_pipeline/remote/run_ollama.py` | us |
+| Scorer wrapper | `rag_pipeline/score.py` → `results/<run>/{scores,table,per_question}.csv` | us |
+| Knowledge bases | `KB_Articles/{Country}_KB*.jsonl` (v1), `KB_Articles/{Country}_KB_v2_additions.jsonl` (v2) | us |
+| Retrievers | `rag_pipeline/retrieve.py` (v1), `rag_pipeline/retrieve_v2.py` (v2) | us |
+| Gate / merge | `rag_pipeline/merge_gated.py` | us |
+| Model answers | `results/<run>/raw/<model>.jsonl` | generated |
+| 3-way comparison | `results/comparison_baseline_rag_ragv2.csv` | generated |
+
+---
+
+## 9. How a RAG run works (v1 and the current v2)
+
+RAG adds **one step before the prompt**: find a few KB cards about the question's country and put them
+in front of the unchanged baseline prompt. Everything after that (Ollama, scoring) is identical.
+
+```
+ question (e.g. Amharic) ─┐
+                          │  English version of the same question (BLEnD's own translation)
+                          ▼
+              ┌─────────────────────────┐
+              │ RETRIEVAL (laptop, once)│   only this country's KB cards
+              └───────────┬─────────────┘
+                          ▼
+          0 cards ───────────────────────► baseline prompt → reuse the baseline answer   (v2 only)
+          1–3 cards ─────► [instruction + cards] + baseline prompt in the ORIGINAL language → PC → answer
+                                                                                              │
+                                                                         official scorer ◄────┘
+```
+
+### RAG v1 — Always-RAG (first attempt)
+1. Score every card of the country: **0.5 × BM25 + 0.5 × bge-m3 cosine** (each min-max normalised).
+2. Always take the **top 3**.
+3. Prompt header: *"Background information about {country} (may or may not be relevant):"*.
+
+**Result:** it hurt all models (−9 to −14 points). The KB contained the answer for only 7–14% of
+questions, so most cards were noise; models refused ("not provided") or copied wrong facts from cards.
+
+### RAG v2 — current version
+1. **KB:** KB v1 + KB v2 additions for Azerbaijan and Ethiopia (question-driven everyday cards).
+2. **Candidates:** dense-only (bge-m3 cosine, α = 1.0) → top 20 cards.
+3. **Rerank:** a cross-encoder (`ms-marco-MiniLM-L-12-v2`) reads (question, card) together and gives a
+   relevance score from 0 to 1.
+4. **Cut-off:** keep at most 3 cards with score ≥ **τ = 0.45**. α and τ were chosen **only on US / Spain /
+   South Korea**, never on Azerbaijan / Ethiopia.
+5. **Gate:** if no card passes, the prompt is exactly the baseline prompt. Decoding is greedy, so the answer
+   is the baseline answer, and we reuse it instead of asking the LLM again.
+6. **Prompt v2 header:** *"Background information about {country}. Use it only if it directly helps to
+   answer the question; otherwise ignore it and answer from your own knowledge. Always give an answer and
+   never say that the information is not provided."*
+
+**Result:** every Azerbaijan/Ethiopia setting improves for every model (+8.6 to +36.9); the high/low resource
+gap falls from 27.2 to 2.0 points. US/Spain/Korea (old KB only) lose 1.7–6.4 points.
+
+```bash
+python rag_pipeline/kb_v2/build_kb_v2.py          # write KB v2 files
+python rag_pipeline/retrieve_v2.py                # retrieval + rerank + τ → results/retrieval/v2_rerank_top3.jsonl
+python rag_pipeline/build_jobs.py --run rag_v2 --pc-run rag_v2_pc --prompt-version v2 \
+       --retrieval results/retrieval/v2_rerank_top3.jsonl --countries Azerbaijan Ethiopia
+python rag_pipeline/pc.py push|start|status|pull --run rag_v2_pc     # only prompts that got cards
+python rag_pipeline/merge_gated.py --run rag_v2 --pc-run rag_v2_pc   # fill the rest with baseline answers
+python rag_pipeline/score.py --run rag_v2                            # (Amharic/Spanish in WSL)
+```

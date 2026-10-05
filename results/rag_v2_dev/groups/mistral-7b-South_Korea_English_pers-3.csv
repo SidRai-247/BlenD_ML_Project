@@ -1,0 +1,535 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,South_Korea,English,pers-3,Al-en-01,Food, Tteok (rice cakes) or Ggakdugi (spicy cubed radish kimchi) are common snacks for preschool kids in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-02,Food," Kimchi Jeon (Kimchi Pancake) or Makgeolli (Rice Wine) are popular choices to accompany beer in South Korea. However, if you're referring to a single item, it would be Makgeolli itself, as it is traditionally paired with Korean bar food rather than specific dishes like Kimchi Jeon.",0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-04,Food, The most popular fruit in South Korea is the Asian Pear (Yangpearu).,0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-06,Food, Kimbap (Korean sushi roll) or Tteokbokki (spicy rice cakes).,1,0.75
+mistral-7b,South_Korea,English,pers-3,Al-en-08,Food," Tteokbokki (Spicy Rice Cakes), Odeng (Fish Cake Skewers), and Hoddeok (Korean Sweet Pancakes) are popular snacks at shopping malls in South Korea.",1,0.5
+mistral-7b,South_Korea,English,pers-3,Al-en-09,Food, Tteokbokki (떡볶이) - Spicy rice cakes are a popular snack at amusement parks in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-16,Education,"3 (Kindergarten in South Korea is typically for children aged 3-6 years old, but some may start at 2 or 3 years old depending on the school and the child's readiness.)",1,0.25
+mistral-7b,South_Korea,English,pers-3,Al-en-17,Education, Badminton (배드민턴),0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-18,Education,87.7% of elementary students in South Korea take private education for various subjects.,0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-19,Education, English,1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-21,Education," Mathematics and Science (Science, Technology, Engineering, and Mathematics - STEM) are considered the most important subjects for gifted education in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-32,Holidays/Celebration/Leisure," The main dish for Thanksgiving in South Korea is ""Samgyetang,"" a ginseng chicken soup. However, it's important to note that South Korea doesn't celebrate Thanksgiving like other Western countries do. Instead, Chuseok (Korean Thanksgiving) is the traditional harvest festival of Korea.",0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-33,Holidays/Celebration/Leisure," People in South Korea celebrate ""Pepero Day"" on October 31st instead of Halloween. It is a day to eat Pepero sticks, a popular chocolate-covered biscuit snack.",0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-34,Holidays/Celebration/Leisure," People in South Korea visit their families, clean their homes, and participate in traditional rituals such as ""Sebae"" (bowing to elder family members for blessings) and eating ""Tteokguk"" (rice cake soup). They also make New Year's resolutions and exchange gifts.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-35,Holidays/Celebration/Leisure," People in South Korea celebrate Christmas as a social holiday, often going out for dinner or drinks with friends and family. It is not a national holiday but is increasingly becoming more popular, especially among the younger generations. Giving and receiving gifts is also common on this day.",0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-36,Holidays/Celebration/Leisure," In South Korea, the food associated with Halloween is called ""pepero."" It's a long, stick-shaped cookie snack that resembles a candy corn, often used as a symbol for the holiday.",,
+mistral-7b,South_Korea,English,pers-3,Al-en-37,Holidays/Celebration/Leisure," In South Korea, the food associated with Christmas is Bibimbap (mixed rice bowl).",0,0
+mistral-7b,South_Korea,English,pers-3,Al-en-38,Holidays/Celebration/Leisure, Chocolate or strawberries are often associated with Valentine's Day in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-39,Holidays/Celebration/Leisure," In South Korea, it is customary to eat ""birthday cake"" (케이크) and ""tteok"" (떡), a type of rice cake, on one's birthday.",1,0.4
+mistral-7b,South_Korea,English,pers-3,Al-en-40,Holidays/Celebration/Leisure, Everland or Lotte World are popular outdoor places for families with little kids in South Korea. Both are amusement parks offering various attractions and entertainment.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Al-en-43,Holidays/Celebration/Leisure," Board games or ""Nori-jeon"" (Korean pancakes) making are popular indoor activities for families in South Korea.",1,0.5
+mistral-7b,South_Korea,English,pers-3,An-ar-02,Education," University students in South Korea typically have lunch at cafeterias on campus or nearby restaurants called ""Gukhoejeon"" (University Restaurants).",1,1.0
+mistral-7b,South_Korea,English,pers-3,An-ar-03,Education,3 (March) or 6 (June) depending on the school's academic calendar.,1,0.75
+mistral-7b,South_Korea,English,pers-3,An-ar-08,Education," The information provided does not specify how many hours per day students in South Korea spend at high school. However, it is known that students in private education spend an average of 7.6 hours a week on it, which equates to approximately 1.1 hours per day if we assume a 7-day school week. Keep in mind that this does not account for homework or other educational activities outside of school hours.",0,0
+mistral-7b,South_Korea,English,pers-3,An-ar-09,Education,2 (Korean and English),1,0.5
+mistral-7b,South_Korea,English,pers-3,An-ar-34,Sport, The most popular team sport played in schools in South Korea is soccer (football).,1,1.0
+mistral-7b,South_Korea,English,pers-3,An-ar-35,Sport," Kim Dae-jung (김대중) is not a sport commentator but a former President of South Korea and a Nobel Peace Prize laureate. The most popular sport commentator in South Korea is likely Kim Jong-guk (김종국), known for his work in football commentary.",0,0
+mistral-7b,South_Korea,English,pers-3,An-ar-36,Sport," The most popular sports team in South Korea varies depending on the specific sport. For football (soccer), it's FC Seoul or Suwon Samsung Bluewings. In baseball, it's the Doosan Bears or LG Twins. However, these teams' popularity can change over time and may differ among individuals.",1,1.0
+mistral-7b,South_Korea,English,pers-3,An-ar-43,Sport, Sports bars (스포츠 바) and cafes (카페) are common places where individuals in South Korea gather to watch sports broadcasts.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-05,Food,3,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-06,Food," Breakfast (아침 식사) is not the most important meal of the day in South Korea. The most significant meal is Dinner (저녁 식사), which is often shared with family and friends, and includes a variety of dishes such as rice, kimchi, banchan (side dishes), and a main dish like bulgogi or jjigae.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-08,Food, Rice or Jang (soybean paste/soy sauce),1,0.5
+mistral-7b,South_Korea,English,pers-3,Ca-sp-09,Food, Red Bean Pancake (Patbingsu) or Rice Cakes with Sugar Syrup (Tteokkkukki) are common Korean desserts.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-11,Food, Sundays (일요일),1,0.4
+mistral-7b,South_Korea,English,pers-3,Ca-sp-14,Food," The most popular hot drink in South Korea is ""Dongdongju"" or ""Ddeokbokki Tea"". However, it's important to note that the most widely consumed hot drink is actually green tea (Sejak/Daejak), but when referring to traditional Korean drinks, Dongdongju and Ddeokbokki Tea are popular choices. Dongdongju is a fermented rice beverage, while Ddeokbokki Tea is made from the broth of spicy rice cakes (Ddeokbokki).",1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure, Soju (소주) or Chamisul (차미슈ル) are popular alcoholic beverages among young people in South Korean nightclubs.,1,0.5
+mistral-7b,South_Korea,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,8 or 12 (Chuseok or Lunar New Year),1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure," The traditional custom on South Korea's New Year's Eve (Seollal) is called ""Bbowl-shaped Rice Cake Pounding"" or ""Tteokguk-makki"". This involves making a rice cake soup dish, Tteokguk, by pounding and shaping the rice cakes.",0,0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-38,Family, Apartment,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-41,Family, Chogkwon (촌궐) or Senior Citizen Welfare Facilities,0,0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-42,Family,63,0,0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-43,Family,60 (weeks),0,0
+mistral-7b,South_Korea,English,pers-3,Ca-sp-45,Family, A popular destination for a family vacation in South Korea is Jeju Island.,0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-05,Sport, Taekwondo and Badminton,0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-06,Sport," One popular sport among men in South Korea is ssireum, a traditional wrestling game. However, it's important to note that football (soccer) and baseball are also widely enjoyed.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-07,Sport, Kim Sun-il,0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-08,Sport, The most popular sport among children in South Korea is soccer (football).,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-09,Sport," Badminton and Volleyball are popular among Korean women. However, it's important to note that individual interests can vary greatly.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-11,Sport, Summer Olympics - Archery,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-15,Sport, Soccer (Football) and Basketball are the most popular sports among male university students in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-16,Family,2.16 (Based on the data provided in [1]),0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-18,Family,"1.06 (Based on data from Statistics Korea for 2024, the total fertility rate was approximately 1.06 children per woman, which is a rough estimate of the number of children couples usually have in South Korea.)",1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-31,Education,6,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-32,Education,6 + 3 + 3 = 12,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-33,Education,6,0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-38,Education,4 years,1,1.0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-40,Education,14:30 (2:30 PM),0,0
+mistral-7b,South_Korea,English,pers-3,Gu-ch-41,Education,3,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-02,Work life," Fridays (주말 금요일) are commonly preferred for company dinners in South Korea. However, it's essential to note that schedules can vary depending on the specific organization and its culture.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-03,Work life, Seoul,1,0.25
+mistral-7b,South_Korea,English,pers-3,Ji-ko-07,Work life, Samsung Electronics,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-08,Work life,52 (40 regular + 12 overtime),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-09,Work life, Kimchi Jjigae (Kimchi Stew) or BBQ (Galbi/Samgyupsal).,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-14,Work life, Electronics and K-pop music,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-15,Work life,1 hour,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-16,Family," Mothers typically stay at a ""Mother and Child Health Care Center"" (어머니 아이 건강관리소) in South Korea for a certain period after childbirth for recovery.",0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-19,Family, The most commonly given flower on Parents' Day in South Korea is the Chrysanthemum (Mugunghwa in Korean).,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-22,Family," In South Korea, many people traditionally use their first salary to buy a new suit or formal attire, symbolizing their transition into adulthood and professional life. However, modern trends may also include investing in personal development, technology, or travel experiences.",0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-24,Family, Playground (공원 또는 놀이터),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-25,Family, Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving).,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-26,Family,"1. Coming of Age Ceremony (19 or 20 years old)
+2. Enlistment for Military Service (for males, usually around age 18-28)
+3. College Graduation (usually late teens to early twenties)
+4. First Job and Financial Independence (early twenties to thirties)
+5. Marriage and Establishing Own Household (mid-twenties to thirties)",1,0.25
+mistral-7b,South_Korea,English,pers-3,Ji-ko-27,Family," Perilla oil or ""gajusang-yi"" is a common gift given to elderly parents in South Korea, symbolizing health and longevity.",0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-28,Family," The first day that people celebrate after a child is born in South Korea is called ""Eummaeki"" or ""Charyeok"" and it takes place on the 3rd day after birth.",0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-29,Family,60th Birthday (60살 생일),0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-31,Education, Middle and high school students in South Korea usually study for exams at home or private education institutes (hagwon).,1,0.25
+mistral-7b,South_Korea,English,pers-3,Ji-ko-33,Education, Study Rooms or Cram Schools (Hagwon),1,0.25
+mistral-7b,South_Korea,English,pers-3,Ji-ko-34,Education, Elementary school students in South Korea typically attend school in a classroom setting with class sizes of approximately 20.9 students (as per 2024 data). Some may also engage in private education outside of regular school hours.,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-35,Education, The most common form of private education in South Korea is tutoring or cram school (hagwon).,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-36,Education, Middle or high school students most frequently attend academies for Mathematics and English in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-37,Education, Uniforms (School Uniforms),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-38,Education, Medicine (의학),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-39,Education, The most commonly learned musical instrument by elementary school students in South Korea is the Gayageum.,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-40,Education, Study or participate in extracurricular activities (clubs/sports teams).,0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-41,Education," Students in South Korean schools typically wear sports shoes or slip-on shoes called ""Nike Air Max"" (or similar brands) due to their comfort and practicality for physical education classes. However, it's important to note that the specific type of shoe can vary depending on individual preference and school rules.",0,0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-42,Education," In South Korea, the university entrance exam primarily focuses on Korean Language, Mathematics, English, and Social Studies (which includes History, Geography, Economics, and Politics). Additionally, students often take elective subjects based on their interests or intended major. However, specific requirements may vary depending on the university and program.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-44,Education," Seocho-gu district in Seoul, South Korea, is known for its high academic fervor due to the concentration of top-tier educational institutions such as Yonsei University and Sungkyunkwan University.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ji-ko-45,Education," Friendship, Food, and Entertainment (Performances, Games, etc.)",1,1.0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-01,Sport, The second most popular sport in South Korea is football (soccer).,1,0.25
+mistral-7b,South_Korea,English,pers-3,Jo-sp-02,Sport, Taekwondo,0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-09,Sport, Golf and Equestrianism,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-13,Sport, The most popular water sport in South Korea is Windsurfing.,1,0.25
+mistral-7b,South_Korea,English,pers-3,Jo-sp-14,Sport, Go-stop (Baduk),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-18,Work life,10,0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-19,Work life, Jeolla Province (전라 지방),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-21,Work life,"12:30 (in HH:MM format) is a common time for people to leave work for lunch in South Korea. However, it can vary depending on the company and individual schedules.",0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-31,Education,15:30 (3:30 PM),0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-32,Education, Soccer (Football),1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,Jo-sp-36,Education,9 (weeks),0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-37,Education,6 (weeks),0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-39,Education,6,0,0
+mistral-7b,South_Korea,English,pers-3,Jo-sp-43,Education,1 (English),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-01,Food, Chopsticks and spoons (dugi and cirot) are commonly used eating utensils in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-04,Food, Coca-Cola or Binggrae's Milkis (banana-flavored milk drink) are popular choices among South Koreans.,1,0.25
+mistral-7b,South_Korea,English,pers-3,Jod-ch-06,Food, Andong Soju is one of the traditional liquors popular in South Korea.,1,0.5
+mistral-7b,South_Korea,English,pers-3,Jod-ch-07,Food,1.5 (Hours for an average dinner at a restaurant in South Korea),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-09,Food,"20:00 (8 PM) is a common time for dinner in South Korea. However, it can vary depending on the individual's schedule and lifestyle.",0,0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-12,Food, Kimchi Jjigae (Kimchi Stew) or Doenjang Jjigae (Soybean Paste Stew) are popular soups in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-13,Food, Tteokbokki (Spicy Rice Cakes) is a popular South Korean street food.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-15,Food," People in South Korea enjoy a variety of seafood, including anchovies, mackerel, squid, octopus, oysters, clams, abalone, and prawns.",1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure, The biggest festival in South Korea is Chuseok (추석).,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure, High-Speed Rail (KTX) or Train (Korail),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure," The Lunar New Year (Seollal) and Chuseok festivals in South Korea are adorned with traditional Korean decorations such as Jeonggaek (lanterns), Baekseji (rice cake offerings), and Chimseki (traditional New Year's gifts). Additionally, the symbol of Ddakji (traditional Korean paper game) is often seen during these celebrations.",,
+mistral-7b,South_Korea,English,pers-3,Jod-ch-37,Sport, Volleyball and Golf are among the popular sports that many women in South Korea enjoy watching.,1,0.2
+mistral-7b,South_Korea,English,pers-3,Jod-ch-38,Sport," In South Korea, one popular sport that many men enjoy watching is football (soccer). However, a traditional Korean sport that also garners significant attention is ssireum, which involves wrestling while gripping belts on the waist and thigh.",1,0.75
+mistral-7b,South_Korea,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure, K-pop dance practice or visiting cafes and shopping malls are common leisure activities for females in their 20s in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure, Playing video games or participating in online gaming communities (PC Bangs) is quite popular among young males in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-46,Work life,1.5,1,0.25
+mistral-7b,South_Korea,English,pers-3,Jod-ch-48,Work life, Bap (rice) with banchan (side dishes) and a main dish like bulgogi or dakgalbi.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-50,Work life," According to available data, the average commute time for people in South Korea is approximately 50 minutes.",0,0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-51,Work life, Subway (Seoul Metropolitan Area) or Commuter Train (Other Cities),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-54,Work life,5,1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-56,Work life,"60 (According to the information provided, it seems that the retirement age for both men and women in South Korea is 60 years old. However, it's important to note that this might not reflect any potential changes or exceptions in the current system.)",1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-57,Work life,60 (according to the Employment Insurance Act),1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-58,Work life," In South Korea, the professions that are highly respected often include doctors, teachers, engineers, and government officials due to their significant roles in society. However, it's important to note that respect for professions can vary among individuals and regions.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-60,Work life,9,1,0.2
+mistral-7b,South_Korea,English,pers-3,Jod-ch-61,Work life," I cannot definitively say that one occupation is most preferred among all females in South Korea as preferences vary greatly among individuals. However, it's worth noting that traditionally, education and office work have been popular choices for women, but more recently, there has been a growing trend towards entrepreneurship and creative industries.",0,0
+mistral-7b,South_Korea,English,pers-3,Jod-ch-62,Work life," Among males in South Korea, Engineering or Business-related fields are commonly preferred. However, it's important to note that individual preferences and career choices can vary greatly.",1,0.5
+mistral-7b,South_Korea,English,pers-3,Ki-pe-17,Education," In South Korea, on average, students typically pursue their education up to High School level. However, it's important to note that a significant percentage of Korean students also engage in private education beyond the mandatory schooling years.",1,0.2
+mistral-7b,South_Korea,English,pers-3,Ki-pe-24,Education, Korean is taught in schools in South Korea besides English.,0,0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-30,Education," In South Korea, schools are typically closed on Sundays and national holidays.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-32,Food, Kimchi and Banchan (various side dishes) are commonly prepared for guests in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-34,Food," The usual drink in a typical Korean breakfast is Makgeolli (막걸리), a traditional rice wine, or tea (차). However, many Koreans also consume coffee or milk.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-36,Food, Japan (Sushi and Ramen are quite popular),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-39,Food, Kimbap (Korean sushi rolls) or Bibimbap (mixed rice bowl) could be options for a family picnic in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-40,Food," I cannot definitively say that a specific Korean food is universally considered disgusting by the rest of the world, as tastes and preferences vary greatly among individuals. However, it's worth noting that some foreigners may find certain traditional Korean dishes unusual due to their unique ingredients or preparation methods. An example could be Haejang-guk (spicy beef soup), which is often eaten after a night of heavy drinking and contains organs such as ox blood and tripe.",0,0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-43,Food," The popular bread in South Korea is called ""Kkokkalguksu Bread"" or simply ""Buns."" It is often served with spicy wheat noodle soup (kkokkalguksu).",0,0
+mistral-7b,South_Korea,English,pers-3,Ki-pe-51,Work life," Government offices in South Korea typically close at 17:00 (5 PM). However, this can vary depending on the specific office or region. It's always best to check with the individual office for their exact hours of operation.",1,0.25
+mistral-7b,South_Korea,English,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure, The New Year (Seollal) has the longest duration in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"1. Parades, flag-raising ceremonies, and patriotic concerts are common activities on South Korea's Independence Day (March 1st). Additionally, many people visit historical sites or participate in community events to commemorate the day.",0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure, Buddhist Altar (Sea-bi-t) or Ancestral Tablet (Cho-seok-ki),,
+mistral-7b,South_Korea,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure," The pregnancy celebration or ceremony in South Korea is typically held during the first trimester, known as the ""Daeboreum"" (대보름) ceremony. This ceremony is traditionally held on the 15th day of the lunar first month. However, modern celebrations can occur at any time during pregnancy.",0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure," The ""Jeju Dol-jeongi"" or ""Jesa"" (ancestral rites) is often performed before a Korean wedding. This traditional ceremony honors the bride and groom's ancestors, asking for their blessings on the new union.",0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure, Tteokguk (rice cake soup) and Sebaetdat (lucky money in red envelopes) are usually shared with children during Lunar New Year in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure," In South Korea, there are no significant cultural practices related to Ramadan as it is not traditionally observed due to the predominantly Christian and secular population. However, if you're referring to a Korean holiday that falls around the same time, the Chuseok festival (추석) might be celebrated. This harvest moon festival involves family gatherings, traditional rituals, and various cultural activities.",,
+mistral-7b,South_Korea,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure," Gyeongbokgung Palace, Seoul",1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure," The most popular religious site for tourism in South Korea is the Bulguksa Temple, located in Gyeongsangbuk-do province. It's a UNESCO World Heritage Site and is renowned for its beautiful architecture and historical significance.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure, Hanbok (한복) is traditionally worn by women during graduation ceremonies in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-16,Food," Makgeolli (맥걸리) or Soju (소주) with makgeolli-bbang (막걸리빵, steamed rice cake made from makgeolli dough). However, during winter, many Koreans also enjoy hot versions of these drinks like makgeolli-tang (막걸리탕) and soju-tang (소주탕).",0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-17,Food," There is no direct correlation between Ramadan and the sale of fruits in South Korea as it is not a Muslim-majority country and does not observe Ramadan. The most common seasonal fruits you might find in South Korea are apples, pears, and persimmons.",,
+mistral-7b,South_Korea,English,pers-3,Kik-in-24,Food, Rice (Bap),0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-31,Sport, Taekwondo,1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-34,Sport," Soccer (Football), Baseball, Basketball, and Badminton are frequently broadcasted on national television in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-35,Sport," Badminton, eSports, and Martial Arts (Taekwondo) were popular among people in South Korea during the COVID-19 pandemic due to their adaptability to social distancing guidelines.",1,0.5
+mistral-7b,South_Korea,English,pers-3,Kik-in-36,Sport, Uli Stielike (유리 스티렐라이크) is currently the most popular soccer coach in South Korea. He has managed the South Korean national team since 2014.,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-37,Sport, Seoul E-Land vs Suwon Samsung Bluewings or Pohang Steelers vs Ulsan Hyundai Horangi,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-38,Sport," Green Cats (Verdeolle) vs Red Devils (Red Devils) - These are the fan groups of the two major football clubs in South Korea, FC Seoul and Suwon Samsung Bluewings, respectively. Their intense rivalry is known as the Seoul Derby or Gyeonggi Derby.",,
+mistral-7b,South_Korea,English,pers-3,Kik-in-40,Sport, Lee Yong-Dae,1,1.0
+mistral-7b,South_Korea,English,pers-3,Kik-in-41,Sport," Saina Nehwal (India) is more famous globally, but in South Korea, the most famous female badminton player is Sung Ji Hyun (also known as Jeon Hye-gyeong).",0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-44,Sport, Taekwondo,0,0
+mistral-7b,South_Korea,English,pers-3,Kik-in-45,Sport,"1. Soccer Field (Football Pitch)
+2. Basketball Court
+3. Baseball Diamond
+4. Volleyball Court
+5. Gymnasium
+6. Swimming Pool (Indoor or Outdoor)
+7. Tennis Courts
+8. Track and Field Facilities
+9. Badminton Courts
+10. Table Tennis Tables
+11. Martial Arts Training Areas (Taekwondo, Judo, etc.)
+12. Indoor Climbing Walls (in some schools)",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-02,Food, Americano (아메리카노) or Latte (라떼) are among the most commonly enjoyed cafe beverages in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-04,Food,탕수육 (Tangsuyuk) or 떡볶이 (Tteokbokki) are popular hangover cures in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-05,Food, Kimbap (Korean sushi rolls) or Pizza.,1,0.2
+mistral-7b,South_Korea,English,pers-3,Na-ko-07,Food, Beef is consumed most frequently by people in South Korea.,1,0.25
+mistral-7b,South_Korea,English,pers-3,Na-ko-08,Food, Pear (양파),1,0.25
+mistral-7b,South_Korea,English,pers-3,Na-ko-09,Food, Kimchi,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-11,Food, Kimbap (Korean sushi rolls) or Tteokbokki (spicy rice cakes).,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-15,Food, Kimchi Jjigae (Kimchi Stew),0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-16,Sport, Park Ji-Sung,1,0.75
+mistral-7b,South_Korea,English,pers-3,Na-ko-17,Sport, Soccer (Football) and Badminton are popular sports that male students often play during lunchtime at schools in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-18,Sport, Volleyball,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-19,Sport," Kim Yeon-koung, also known as Kim Yong-kyung, is widely recognized as one of the most popular volleyball players in South Korea. She has played professionally both domestically and internationally, and is a multiple Olympic medalist and World Champion.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-20,Sport, The sport that South Koreans passionately support the most in international competitions is Olympic Short Track Speed Skating.,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-22,Sport, Japan,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-23,Sport, Hagwon (Academy for Sports Specialization) or Sports High Schools,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-24,Sport, Kimbap (Korean sushi roll) or Tteokbokki (spicy rice cakes) are commonly eaten foods in sports stadiums while watching games in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-25,Sport," The typical sports played during South Korea's school sports day often include Track and Field events such as running, long jump, high jump, shot put, and relay races. Additionally, traditional Korean games like Yutnori (a board game) and Tuho (a game of skill with a bamboo stick and small stones) may also be played.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-26,Sport," Among middle-aged Koreans, popular sports include Badminton, Golf, and Soccer (Football). Additionally, traditional martial arts like Taekwondo and Hapkido also have a significant following.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-28,Sport, Yuna Kim (김연아),1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-29,Sport, Park Tae-hwan,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-30,Sport, League of Legends (LoL),1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure, Tteokguk (rice cake soup) is the symbolic food that people from South Korea eat on Lunar New Year.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure, Jeju Island (제주도),1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure, Red Wedding Blanket (홍백),0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure," A bottle of ""soju"" (Korean liquor) or a gift of money in a red envelope (called ""sebae"") is commonly given as a congratulatory gesture at a Korean friend's wedding.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,4 (Four days),0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure, White Chrysanthemums or white-colored food items such as rice cakes (ddeok) and white ginseng tea (inan cha).,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure, Rice Cakes (Tteok) and Rice Porridge (Juk) are commonly served at Korean funeral parlors.,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure," On the Lunar New Year's morning in South Korea, it is customary for families to gather together and perform a ritual called ""sebae,"" which involves bowing to one another as a sign of respect and wishing each other good fortune for the coming year.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure, Chuseok (추석) or Korean Thanksgiving Day.,0,0
+mistral-7b,South_Korea,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure, Jeju Island is the most popular honeymoon destination in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure, Chuseok or Seollal (Lunar New Year) are considered the most important national holidays in South Korea.,1,0.2
+mistral-7b,South_Korea,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure," People from South Korea do not observe Ramadan as it is a religious holiday observed by Muslims, and South Korea has a predominantly Christian and Buddhist population.",,
+mistral-7b,South_Korea,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure," People from South Korea do not celebrate Eid ul Fitr as it is an Islamic holiday. The traditional food of South Korea during festive occasions includes Kimchi, Bibimbap, Bulgogi, and Tteokbokki.",,
+mistral-7b,South_Korea,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure," People from South Korea do not celebrate Eid ul Adha as it is an Islamic holiday. However, they might share meals with their Muslim friends or colleagues who are celebrating this occasion. The traditional Korean meal for such a gathering could be Bibimbap (mixed rice bowl) or Bulgogi (grilled marinated beef).",,
+mistral-7b,South_Korea,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure," People from South Korea typically celebrate New Year's Day at home with family or visit Bosingak Bell in Seoul, which is rung 33 times at midnight for good luck on New Year's Eve.",0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure," There are no specific Eid festivities in South Korea as it does not have a significant Muslim population. However, Korean families often gather at home during traditional holidays such as Chuseok (Korean Thanksgiving) and Seollal (Lunar New Year).",,
+mistral-7b,South_Korea,English,pers-3,Ne-ar-16,Work life,Weekend in South Korea is on Saturday and Sunday.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-17,Work life,09:00 (in the morning),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-18,Work life," In South Korea, most people finish work around 18:00 (6 PM). However, it's important to note that overtime hours can extend the working day beyond this time.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-20,Work life," In South Korea, a secure job often refers to positions within the ""chaebol"" (large family-owned business conglomerates) such as Samsung, Hyundai, LG, or public sector jobs like teaching, healthcare, and government service. Additionally, stable employment in large corporations is also considered secure.",0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-24,Work life, Seoul,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-25,Work life, Information Technology (IT) and Electronics Manufacturing,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,Ne-ar-26,Work life, Samsung Group,0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-31,Food, Kimchi is considered one of the most famous dishes in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-32,Food," Rice with side dishes (Korean: 밥 옆Side, Baepjeonap Side) or a type of Korean pancake called ""Jeon"" (specifically Green Onion Pancake, Korean: 파전, Pajun).",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-33,Food,"12:00 (noon) or 13:00 (1 PM) is common for lunch time in South Korea. However, it can vary depending on the individual's schedule and lifestyle.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-34,Food, Kimchi,1,0.75
+mistral-7b,South_Korea,English,pers-3,Ne-ar-36,Food, Bibimbap (mixed rice bowl) during Chuseok (Korean Thanksgiving).,0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-37,Food, Apples,0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-38,Food, Tteok (rice cake) is often offered as charity in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-39,Food," The cheapest fast food in South Korea would be ""Gimbap"" (김밥), which is a type of sushi roll made with cooked rice, vegetables, and sometimes seafood, wrapped in gim (seaweed). It's often sold at convenience stores for around 1,000 to 2,000 won.",0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-43,Food, Dessert (Sweets or Pastries),0,0
+mistral-7b,South_Korea,English,pers-3,Ne-ar-44,Food," A snack called ""tteok"" (rice cake) or ""ppang"" (bread) is often enjoyed alongside coffee in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-am-02,Food, Kimchi is the most popular traditional food in South Korea.,1,0.25
+mistral-7b,South_Korea,English,pers-3,New-am-04,Food, Gochujang (Korean red pepper paste) is one of the most popular dipping sauces in South Korea.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-am-08,Food," Tteok (rice cake) or other simple, non-meat foods are commonly consumed during Christian fasting in South Korea.",,
+mistral-7b,South_Korea,English,pers-3,New-am-15,Food," In South Korea, a dish called ""Samgyetang"" (Ginseng Chicken Soup) is traditionally prepared during confinement for new mothers. It's believed to aid recovery and boost energy levels after childbirth.",0,0
+mistral-7b,South_Korea,English,pers-3,New-am-27,Sport," Park Sung-Hyun (Golf) or Shim Suk-Hee (Short Track Speed Skating), depending on the time period you are referring to. Both have won multiple Olympic medals and are highly respected in South Korean sports culture.",0,0
+mistral-7b,South_Korea,English,pers-3,New-am-34,Education, Most elementary school students in South Korea prepare for their exams at home or at private tutoring centers (hagwon).,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-am-41,Education,4th Grade (Elementary School Level),0,0
+mistral-7b,South_Korea,English,pers-3,New-am-53,Work life, Jeju Island,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-am-54,Work life, Jeolla Province (전라 지방),0,0
+mistral-7b,South_Korea,English,pers-3,New-am-59,Work life," There are no deserts in South Korea, as it is primarily a peninsula with a temperate climate.",,
+mistral-7b,South_Korea,English,pers-3,New-am-60,Work life," No animal is typically used for transportation in South Korea. However, oxen were historically used for agricultural work and transporting goods. Nowadays, modern vehicles are predominantly used.",,
+mistral-7b,South_Korea,English,pers-3,New-am-72,Family," The most popular comic book for children in South Korea is ""Leo the White Tiger"" (백우리 백호, Baekuri Baekho).",0,0
+mistral-7b,South_Korea,English,pers-3,New-am-73,Family, Cocomong (코코몽) is the most popular YouTube channel for children in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-am-74,Family," The most popular talk show in South Korea is ""Healing Camp, Aren't You Happy?"" (잠실 캠프 어머니 행복하시나요?) on MBC (Munhwa Broadcasting Corporation).",0,0
+mistral-7b,South_Korea,English,pers-3,New-am-77,Holidays/Celebration/Leisure, The most famous religious holiday in South Korea is Buddha's Birthday (Seokbulsujeong).,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-am-81,Holidays/Celebration/Leisure,12 (December),0,0
+mistral-7b,South_Korea,English,pers-3,New-am-83,Holidays/Celebration/Leisure, The most popular traditional musical instrument in South Korea is the Geomungo (Kayagum).,0,0
+mistral-7b,South_Korea,English,pers-3,New-as-01,Food, Rice,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-as-02,Food, The most popular wheat-based food item in South Korea is Kimchi Bokkeumbee (Kimchi Stir-fried Rice Cake).,0,0
+mistral-7b,South_Korea,English,pers-3,New-as-05,Food, Green Tea (Jeong-Won-Ju) or Water (Su-Ju) are the most common drinks offered to guests in South Korean households.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-as-07,Food," The most popular dish cooked with fish in South Korea is ""Haejangguk"" (spicy stew made with beef and fish soup). However, it's important to note that there are many other popular fish dishes such as ""Jeonbok-jjuk"" (abalone rice porridge) and ""Gukhwa-hoe"" (sea cucumber dish).",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-as-14,Food, Kimbap (Korean sushi roll) or Tteokbokki (spicy rice cakes).,0,0
+mistral-7b,South_Korea,English,pers-3,New-as-15,Food,맛나 (Mazuna) or Bitaemuk (비태무크) - Korean Iced Tea,0,0
+mistral-7b,South_Korea,English,pers-3,New-as-20,Sport, The most popular indoor sport in South Korea is Badminton.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-as-29,Sport," The sport that many men in South Korea enjoy watching is ssireum, a traditional wrestling game.",0,0
+mistral-7b,South_Korea,English,pers-3,New-as-30,Sport," In South Korea, women often enjoy watching traditional Korean sports such as Taekwondo and K-pop dance competitions. However, if you're referring specifically to a traditional sport, the answer would be Ganggangsullae, which is a circle-dance ritual performed by unmarried village women during the harvest festival of Chuseok.",0,0
+mistral-7b,South_Korea,English,pers-3,New-as-58,Work life, Green Tea (Jeong-Ju) or Coffee are commonly consumed beverages in South Korean workplaces.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-as-64,Family," On Chuseok, family members tend to reunite in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-as-76,Holidays/Celebration/Leisure," Families in South Korea traditionally play Yunnori and Neolttwigi during Seollal (Lunar New Year), and Tug-of-war games like Changnyeong Yeongsan, Dangjin Gijisi, Samcheok Gijuldarigi (Gangwon), Miryang Gamnae, Uiryeong Keunjulttanggigi, and Namhae Seongu during various holidays.",0,0
+mistral-7b,South_Korea,English,pers-3,New-as-80,Holidays/Celebration/Leisure," Hanbok, a traditional Korean attire, is commonly worn during South Korean festivals.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-as-89,Holidays/Celebration/Leisure, People in South Korea may wear traditional accessories such as belts (in ssireum) or mimic farm and fishing tools during the Ganggangsullae ritual.,0,0
+mistral-7b,South_Korea,English,pers-3,New-az-05,Food," Andong, South Korea is known as one of the most famous regions for traditional alcohol production, particularly for Soju.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-az-11,Food, Peaches (Yangtae) or Watermelons (Bokbunja) are commonly eaten during the summer season in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-az-12,Food, Jeju Island is known for its abundant and diverse seafood in South Korea.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-az-21,Sport, Pyeongchang,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-az-26,Sport," I cannot definitively say who the most popular martial arts player in South Korea is as popularity can vary and change over time. However, Taekwondo is widely recognized as one of the most popular martial arts in South Korea, with many world-renowned athletes hailing from there such as Ji Hyun-Joo, Jang Sung-Hwa, and Cha Dong-Min.",0,0
+mistral-7b,South_Korea,English,pers-3,New-az-27,Sport, Esports (eSports),0,0
+mistral-7b,South_Korea,English,pers-3,New-az-39,Education, The United States,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-az-49,Work life,"1 or more, depending on the family structure.",1,0.4
+mistral-7b,South_Korea,English,pers-3,New-az-60,Family, Kindergarten or Childcare Center (Early Education and Care Facility),0,0
+mistral-7b,South_Korea,English,pers-3,New-az-69,Holidays/Celebration/Leisure, Soju (소주),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-az-70,Holidays/Celebration/Leisure, Soju (소주),1,0.25
+mistral-7b,South_Korea,English,pers-3,New-az-73,Holidays/Celebration/Leisure,50-200,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-01,Food, Beef (Pork and Chicken are also common),1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,New-ch-02,Food,07:00-09:00 (Breakfast time in South Korea is typically between 7 AM and 9 AM.),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-04,Food, Kimchi fried rice or instant ramyeon (noodles) are common choices for late-night snacks in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-05,Food," The most famous spicy dish in South Korea is ""Tteokbokki"" (떡볶이). However, it's important to note that Kimchi (김치) is a staple food and not necessarily considered a spicy dish.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-07,Food," Andong Soju or Makgeolli (traditional Korean rice wine) are often paired with spicy Korean dishes such as Kimchi Jjigae (Kimchi stew), Tteokbokki (Spicy Rice Cakes), and Samgyetang (Ginseng Chicken Soup).",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-08,Food, Soybean paste (Jang) or soy sauce is an indispensable seasoning in cooking in South Korea.,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-ch-09,Food, Kimchi Jjigae (Kimchi Stew) or Tteokguk (Rice Cake Soup) are popular dishes during cold weather in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-13,Food, Hite Jinro Soju is one of the most famous alcohol brands in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-14,Food, Ginger tea (아날차) and rice porridge (육회죽) are commonly eaten by Koreans when they are sick.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-15,Food," Kimchi, Jang (soybean paste, soy sauce, red chili paste), and various types of instant noodles are commonly bought ready-to-eat at supermarkets in South Korea.",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-ch-16,Sport," The most famous sports-related movie in South Korea is ""Miracle on 1st Street"" (1st Base in Korean). It's a heartwarming story about underdog baseball team Donghak High School, which faces closure due to financial difficulties. The team's coach, played by Ma Dong-seok, rallies the students and leads them to the national championship.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-17,Sport," Bungee Jumping at the world's longest free-fall bungee site, V-Jump in Muju, South Jeolla Province.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-18,Sport,"100-meter dash or long jump are among the most popular events to watch during competitions in South Korea, but traditional Korean sports like ssireum also have significant following.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-19,Sport, Rhythmic Gymnastics (or sometimes Artistic Gymnastics) is the most popular gymnastics event to watch during competitions in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-23,Sport, Ryu Seung-min,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-26,Sport, Speed Skating,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-ch-27,Sport, Park Jung-man,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-30,Sport, Park Tae-hwan (박태환),0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-31,Work life," In South Korea, parents often aspire for their children to become ""civil servants"" or work in stable, prestigious professions such as medicine, law, engineering, and education. However, it's important to note that individual aspirations and career choices are becoming increasingly diverse and independent in modern Korean society.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-32,Work life," Microsoft Office (Word, Excel, PowerPoint) is commonly used in workplaces in South Korea. However, Google Workspace (Docs, Sheets, Slides) is also gaining popularity due to its cloud-based nature and collaborative features.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-38,Work life," Busan (for Port Activities), Incheon (for International Airport and Free Trade Zone), Seoul (for Finance and Service Industries), Gwangju (for Automobile Manufacturing), Daegu (for Textiles) and Ulsan (for Shipbuilding and Automobiles).",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-39,Work life,"11street or Coupang (similar to Amazon) are popular e-commerce platforms in South Korea. Additionally, Gmarket and Auction (G-Mall) are also widely used.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-44,Work life,3 months (90 days) is typically the probation period for new employees in South Korea before signing a formal contract.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-45,Work life," Information Technology (IT), Entertainment (K-pop, K-drama, gaming), and Beauty & Fashion are popular sectors for young entrepreneurs in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-49,Family, Video Call (KakaoTalk or Zoom),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-51,Family," Onjimjeon (온 Jimjeon) or Hanok Village (한옥 마을) guesthouses are commonly booked for family trips in South Korea, offering a traditional Korean living experience.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-54,Family, Apples,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-64,Education,12-18 (approximately),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-66,Education,0 (Free of charge),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-70,Education," In South Korea, all university students typically have compulsory courses in Korean language, Korean history, and ethics (Moral Education). Additionally, they often study English as a foreign language.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-71,Education,23.4 (based on data from 2025),1,0.5
+mistral-7b,South_Korea,English,pers-3,New-ch-72,Education, Engineering or Business Administration (especially IT and Finance),0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-73,Education, K-pop dance clubs or study groups (Hagwon) are most popular among university students in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-74,Education, Dormitories (학생지도실) or Off-campus Apartments (외주거래소) are common accommodations for university students in South Korea.,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-ch-75,Education,45 (minutes),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-78,Holidays/Celebration/Leisure," In South Korea, retired women often enjoy participating in social activities such as:
+
+1. Hobbies clubs (e.g., knitting, painting, calligraphy)
+2. Group exercise classes (e.g., tai chi, yoga, dance)
+3. Visiting temples and historical sites
+4. Participating in traditional festivals like Chuseok
+5. Socializing with friends over tea or meals at local cafes or restaurants.",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-ch-79,Holidays/Celebration/Leisure," Mahjong, Fishing, Visiting Senior Centers (Senior Citizen Clubs), Tea Houses, and Walking in Parks.",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-ch-80,Holidays/Celebration/Leisure, During Chuseok and Buddha's Birthday (Tanabata) are the holidays when people typically visit religious sites in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ch-81,Holidays/Celebration/Leisure, Jeon (Korean pancake) and alcohol (Soju or Makgeolli) are common housewarming gifts in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-82,Holidays/Celebration/Leisure," In South Korea, traditional wedding ceremonies often start around 14:00 (2 PM). However, modern weddings can vary and may start at different times.",,
+mistral-7b,South_Korea,English,pers-3,New-ch-83,Holidays/Celebration/Leisure," Gangneung is one of the cities in South Korea that frequently hosts festivals, particularly the Danoje Festival.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ch-84,Holidays/Celebration/Leisure, White or pastel-colored traditional Hanbok for women and formal Western attire (suit/dress) for men are commonly worn at Korean weddings.,,
+mistral-7b,South_Korea,English,pers-3,New-ch-85,Holidays/Celebration/Leisure, Black,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-01,Food, Tteokbokki (떡볶이) - Spicy rice cakes are commonly enjoyed while watching movies in South Korean cinemas.,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-02,Food, The most popular chip/crisp flavor in South Korea is Shrimp (Eomuk or Haemul in Korean).,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-04,Food, Baek Jong-won (백종원),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-05,Food," Instant Ramen (Ramenyeon) is a common, cost-effective, and quick meal option in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-07,Food," One of the most popular cooking shows in South Korea is ""Master Chef Korea"" (마스터 씨킷 코리아). Another well-known show is ""Korean Food Master"" (한국 요리 대전). These shows are widely watched and have contributed to the growing interest in Korean cuisine worldwide.",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-08,Food, Lotte Chocolate (로트 초콜릿),1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-en-10,Food," Halloumi (홀로미) is not traditionally consumed as a standalone cheese in South Korea, but it has gained popularity in recent years due to its high heat tolerance and versatility in cooking. However, the most commonly consumed cheese in South Korea is Cheddar (치즈).",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-en-11,Food, Radish (Mu),0,0
+mistral-7b,South_Korea,English,pers-3,New-en-12,Food, Kimchi fried rice or Tteokbokki (spicy rice cakes) are commonly found in food courts in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-17,Sport, Baek-gi (wooden clappers) and Hong-sul (metal drums) are the most common cheering tools used by sports fans in South Korea.,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-en-18,Sport, Cheering sticks (baek-gi) and flags (dae-gi).,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-19,Sport," The most well-known sporting stadium in South Korea is probably the Seoul World Cup Stadium (세울 월드컵 스타디움), which was built for the 2002 FIFA World Cup.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-23,Sport, The most famous Paralympian in South Korea is Oh Sung-Won. He has won multiple medals in swimming events at the Paralympic Games and holds several world records.,,
+mistral-7b,South_Korea,English,pers-3,New-en-26,Sport," Pansori is the best recognized cultural performance with a long-lasting chant in South Korea. However, if you are referring to a sporting chant, it would be the traditional wrestling game ""ssireum""'s victory cheer.",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-38,Work life, Technology and Creative Industries,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-41,Work life," Lee Kun-hee (이근혜), the former chairman of Samsung Group, is one of the most renowned entrepreneurs from South Korea.",1,0.25
+mistral-7b,South_Korea,English,pers-3,New-en-47,Family," A Hanok (traditional Korean house) often has a small courtyard or garden in its back area, which may contain a pond with fish, a rock garden, or seasonal flowers and plants.",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-49,Family," The Lee Family (이씨/李氏) is one of the most prominent and influential families in South Korean history, but it's important to note that modern-day South Korea does not have a single ""most famous"" family like royalty or aristocracy. However, in the business world, the Samsung Group, founded by the Lee family, is globally recognized.",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-50,Family," The most common family name in South Korea is ""Kim.""",1,0.75
+mistral-7b,South_Korea,English,pers-3,New-en-55,Family, Buddhism is the most commonly practiced religion by families in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-56,Family, English,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-59,Family, United States,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-en-68,Education," Expulsion or suspension, community service, academic probation, and loss of school privileges.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-69,Education,"1. Yi Sang (Modernist Poet)
+2. Hyeon-gyu Lee (Novelist)
+3. Kyung-sook Shin (Novelist)
+4. Han Yong-un (Poet of the Joseon Dynasty)
+5. Kim Man-jung (Author of ""The Tale of Chunhyang"")",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-70,Education," In South Korea, high schools typically have 2 major vacations and several shorter breaks throughout the year. The exact number can vary slightly depending on the specific school calendar, but it usually adds up to approximately:
+
+5 (five) significant breaks in a year.",1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,New-en-72,Education," Naver Knowledge iN (Naver Kakao iN) or Daum Kakao Encyclopedia (KakaoGuide) are commonly used study resources for students in South Korea. These platforms provide a wide range of information on various subjects, including academic topics.",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-75,Education,14 (weeks),1,0.25
+mistral-7b,South_Korea,English,pers-3,New-en-76,Holidays/Celebration/Leisure, Incheon International Airport (ICN) is the busiest airport in South Korea during the holiday season.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-en-79,Holidays/Celebration/Leisure," Jeonju (전주) region in North Jeolla Province (전라북도) is well-known for its traditional theatrical performances, particularly the Jeongga (정가) and Pansori (판소리).",0,0
+mistral-7b,South_Korea,English,pers-3,New-en-87,Holidays/Celebration/Leisure, The most famous historic landmark in South Korea is the Changdeokgung Palace in Seoul.,0,0
+mistral-7b,South_Korea,English,pers-3,New-en-90,Holidays/Celebration/Leisure," The most famous hotel brand in South Korea is likely ""Park Hyatt"". However, another well-known brand is ""Grand Hyatt Seoul"", which is also quite popular among tourists and locals alike. Both are part of the Hyatt Hotels Corporation.",0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-05,Food," Tteokbokki (Spicy Rice Cakes) or a variety of bread products like buns or toast with American-style fillings (e.g., ham and cheese, tuna mayonnaise).",1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-gr-06,Food, Kimchi fried rice (김치볶음밥) is a popular dish among young people in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-08,Food, Soju (소주),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-gr-13,Food," The most common morning drink in South Korea is Ddokbaji Cha (떡배지 차), which is a type of Korean rice cake soup with tea.",0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-15,Food, Tteokguk (rice cake soup) is one of the most popular traditional desserts in South Korea.,1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,New-gr-21,Sport, The most popular racket sport in South Korea is Badminton.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-gr-24,Sport," The most popular track and field sport in South Korea is not specifically identified as such. However, traditional sports like Ssireum (씨름) are quite popular, which involves wrestling while gripping belts on the waist and one thigh.",0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-29,Sport, The Summer Olympics is the most popular international sporting event in South Korea.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-gr-47,Work life,15,0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-58,Work life, Teaching (especially public school teaching) is often considered underpaid in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-76,Holidays/Celebration/Leisure, There is no specific traditional food served during Easter in South Korea as it is not a major holiday with religious significance for Koreans. The customs and traditions associated with Easter are not widely observed or celebrated.,0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-82,Holidays/Celebration/Leisure, Ganggangsullae Music,0,0
+mistral-7b,South_Korea,English,pers-3,New-gr-88,Holidays/Celebration/Leisure, Soju (소주),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-gr-89,Holidays/Celebration/Leisure, Soju (소주),0,0
+mistral-7b,South_Korea,English,pers-3,New-ha-07,Food, Kimchi,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-ha-08,Food, Kimchi (fermented vegetables),0,0
+mistral-7b,South_Korea,English,pers-3,New-ha-09,Food," The ""Jeonbae"" (전배) or Korean stone bowl is one of the most commonly used cooking and serving utensils in South Korea.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ha-13,Food, Kimchi (fermented vegetables) is essential and widely consumed in South Korean meals.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ha-19,Sport, Ox (or Bull) is used for the traditional sport of ssireum in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ha-66,Family," The most popular wedding venue in South Korea is a traditional Korean ""Chosun""-style wedding hall or a modern Western-style hotel ballroom.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-in-01,Food, Edyong Cafe (EDYOUNG) or A Twosome Place are among the most popular coffee shop brands in South Korea.,1,0.2
+mistral-7b,South_Korea,English,pers-3,New-in-03,Food, Kimchi (fermented vegetables) and Bibimbap (mixed rice bowl with vegetables and meat) are commonly found in South Korean restaurants overseas.,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-in-33,Work life, Jeolla Province (전라 도),0,0
+mistral-7b,South_Korea,English,pers-3,New-in-34,Work life, Jeju Island,,
+mistral-7b,South_Korea,English,pers-3,New-in-62,Education," Seoul National University (SNU) is a well-known university in South Korea for its engineering program. However, it's important to note that many universities in South Korea have strong engineering programs, such as Korea Advanced Institute of Science and Technology (KAIST), Pusan National University, and Ulsan National Institute of Science and Technology (UNIST). Each has its own strengths and specializations within the field of engineering.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-in-63,Education, Seoul National University College of Medicine (서울 national 대학교 의과학전공),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-in-78,Holidays/Celebration/Leisure, T-money or Credit/Debit Cards (Contactless Payment),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-in-80,Holidays/Celebration/Leisure, Everland Resort,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ko-01,Family," ""Porororo"" is a widely popular children's animation in South Korea.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ko-02,Family," The most popular prenatal education activity for pregnant women in South Korea is called ""Mom-to-be Education Classes"" (어머니 교육). These classes are designed to provide expectant mothers with essential knowledge about pregnancy, childbirth, and infant care. They often include lectures, discussions, and hands-on activities.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ko-03,Family," ""Arirang"" is a traditional Korean folk song that is widely known and sung by many South Koreans, including children and families. However, it's important to note that modern children's songs are also quite popular among families today.",0,0
+mistral-7b,South_Korea,English,pers-3,New-ko-04,Family, LEGO and Transformers toys are quite popular among boys in South Korea.,1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,New-ko-05,Family, Dolls or Teddy bears (Yeoldi/Yedam) and electronic toys (such as Robot Ttobotti) are popular among girls in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ko-06,Family," The most popular folk tale in South Korea that is typically told to children is ""The Tale of Chunhyang.""",0,0
+mistral-7b,South_Korea,English,pers-3,New-ko-07,Holidays/Celebration/Leisure, White Chrysanthemum (Baekho in Korean),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-ko-08,Work life," Convenience Stores (CU, 7-Eleven) or Restaurants (Burger King, McDonald's)",1,0.25
+mistral-7b,South_Korea,English,pers-3,New-ko-09,Work life, Team Retreats (팀 캠프) and Sports Activities (스포츠 활동) are commonly practiced team-building activities in South Korean companies.,0,0
+mistral-7b,South_Korea,English,pers-3,New-ko-10,Work life," Farming and fishing during the day, and circle-dancing under the full moon at night (Ganggangsullae). However, in modern times, many South Koreans also engage in part-time jobs such as tutoring, food delivery, or working in convenience stores.",1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-pe-02,Food, Ginseng (Geumsan ginseng) could be considered one of the most famous edible souvenirs for tourists in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-pe-06,Food," The most popular stew in South Korea is ""Kimchi Jjigae"" (김치찌개). It's a spicy stew made with kimchi, tofu, and various ingredients like pork, seafood, or vegetables.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-11,Food, The most common spice/herb used in dishes from South Korea is red chili pepper (gochugaru).,1,0.6666666666666666
+mistral-7b,South_Korea,English,pers-3,New-pe-16,Sport, The most famous traditional sport in South Korea is probably Ssireum.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-20,Sport, Volleyball is popular to play on the beach in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-pe-45,Work life," The usual work schedule during the month of Ramadan in South Korea remains unchanged as it is not a public holiday in the country. However, some Muslim individuals may adjust their schedules to accommodate religious observances.",,
+mistral-7b,South_Korea,English,pers-3,New-pe-47,Family,10/15 (October 15th),,
+mistral-7b,South_Korea,English,pers-3,New-pe-49,Family," In South Korea, families often gather at the Buddhist Altar (Seokdurim) or Christian Prayer Room (Chumonjang) within their homes for prayer and religious rituals.",,
+mistral-7b,South_Korea,English,pers-3,New-pe-53,Family," On Father's Day (or Parents' Day) in South Korea, common gifts for fathers include ties, watches, electronic devices, books, or practical items such as tools or kitchen appliances. However, the most cherished gift is often a heartfelt letter expressing gratitude and love from children.",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-pe-54,Family," Perennial plants or flowers such as azaleas, roses, or mums are common gifts for mothers on Mother's Day in South Korea. Other popular gifts include jewelry, cosmetics, and handmade crafts. However, it is also customary to give a ""mother's day money"" (어머니날 돈) which is a monetary gift given by children to their mothers.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-59,Family,1.2,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-65,Education,8 Subjects are taught in middle schools in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-pe-66,Education," Ganggangsullae (강강슬러이) is not an after-school curriculum but rather a traditional Korean folk dance that is taught in elementary-school music classes, as per your provided information. The most popular after-school curricular activities in South Korea often include subjects like English language, mathematics tutoring, arts and crafts, sports, coding, and music lessons (piano, guitar, etc.).",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-74,Education," I'm sorry for any confusion, but the provided background information does not specify the average annual tuition fee for public universities in South Korea. For that, you would need separate data or statistics.",0,0
+mistral-7b,South_Korea,English,pers-3,New-pe-76,Holidays/Celebration/Leisure, Picnicking or Hanokbang (traditional Korean house parties) in parks are popular activities in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-78,Holidays/Celebration/Leisure, The Busan International Film Festival (BIFF),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-83,Holidays/Celebration/Leisure, Go-stop (Korean Mahjong),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-85,Holidays/Celebration/Leisure, Japan,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-pe-86,Holidays/Celebration/Leisure, N Seoul Tower (Namsan Tower),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-01,Food, Silkworm Pupae (Beondae),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-04,Food, Rice,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-05,Food, Tteok (rice cake) and Patbingsu (shaved ice dessert) are among the most popular sweets in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-spme-15,Sport,"망고주스 (Mangoesooju) or Pocari Sweat by Otsuka Pharmaceutical Co., Ltd. is widely popular as a sports drink in South Korea, but 콜라 (Cola) and 레볼트 (Levante) are also commonly consumed for hydration purposes during sports activities.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-27,Education, The average education level for people in South Korea is high school graduation or above.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-37,Education, Engineering,0,0
+mistral-7b,South_Korea,English,pers-3,New-spme-60,Family, Sunday,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-spme-65,Family," The most popular way to celebrate Independence Day (March 1st) in South Korea is by visiting Irises at Daejongdae Pavilion in Cheonan or other Iris Festivals, and participating in traditional activities such as Tug-of-war (Jeokkori), Bamboo Chicken (Ssamgyetang), and traditional Korean games.",0,0
+mistral-7b,South_Korea,English,pers-3,New-spme-68,Family, The most popular beverage among children in South Korea is milk.,0,0
+mistral-7b,South_Korea,English,pers-3,New-spme-76,Holidays/Celebration/Leisure," Gyeongbokgung Palace, Seoul",1,0.5
+mistral-7b,South_Korea,English,pers-3,New-spme-78,Holidays/Celebration/Leisure," ""Happy Birthday"" (in Korean: 생일축하송) is commonly sung at birthday parties in South Korea, but traditional Korean folk songs like ""Arirang"" can also be sung.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-01,Food, Tteokbokki (Spicy Rice Cakes) and Odeng (Fish Cake Skewers),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-09,Food, Soybean Oil (양초油),0,0
+mistral-7b,South_Korea,English,pers-3,New-su-10,Food, Perilla leaf porridge (gajirasan-jjim) or seaweed soup (miyeokguk) are commonly consumed by pregnant women in South Korea.,,
+mistral-7b,South_Korea,English,pers-3,New-su-15,Food," The most popular traditional non-alcoholic drink in South Korea is Soju-cha (소주차), which is a ginseng and soju tea.",0,0
+mistral-7b,South_Korea,English,pers-3,New-su-17,Sport,"1. Outdoor basketball courts, tennis courts, and volleyball courts are common.
+2. Jogging tracks and fitness equipment are also frequently found.
+3. Children's playgrounds and pet exercise areas are also available in many parks.
+4. Some larger parks may have swimming pools or skateparks as well.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-21,Sport," Tai Chi, Walking, Socializing, Ball Games (Yutnori, Jegichagi), Fishing, Reading, Singing, Exercising with equipment.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-24,Sport, Soccer (Football) and Badminton are popular sports that parents and children often enjoy playing together in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-28,Sport, Red (Taegeukgi),1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-33,Education," In South Korea, school teachers typically wear formal business attire, which includes a long-sleeved blouse or shirt with a tie (for men) and a skirt or pants suit (for women). The color of their clothing is usually black or navy blue.",,
+mistral-7b,South_Korea,English,pers-3,New-su-34,Education, Ganggangsullae (강강슬러이) is the most popular extracurricular activity related to music in elementary schools in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-su-42,Education," Buddhism and Christianity are taught in South Korean schools, but it's important to note that South Korea does not have an official state religion.",,
+mistral-7b,South_Korea,English,pers-3,New-su-45,Education,10/10 (October 10th),0,0
+mistral-7b,South_Korea,English,pers-3,New-su-50,Work life, Farming and Forestry,0,0
+mistral-7b,South_Korea,English,pers-3,New-su-51,Work life, Fishing,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-57,Work life, Pigs,1,0.5
+mistral-7b,South_Korea,English,pers-3,New-su-58,Work life, Oxen (Northern Kyolsori) and Horses (Mangaldae) are traditionally used for agriculture in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,New-su-59,Work life, Hanok Ottchim (Korean traditional straw hat) and Jeogori (Korean traditional short jacket).,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-60,Work life, Kimchi Bap (Kimchi over Rice) or Doenjang Jjigae (Soybean Paste Stew) are common lunches for farmers in South Korea.,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-71,Family," In South Korea, it's customary for parents to give their children money (usually in sealed envelopes) on their birthdays as a sign of love and respect. This tradition is known as ""sil-jeok"" or ""ch'ok-bae."" The amount can vary widely depending on the family's financial situation, but it's often an even number to avoid any misunderstanding that the child owes the parent money.",0,0
+mistral-7b,South_Korea,English,pers-3,New-su-75,Family, Sedan (Compact Sedan),0,0
+mistral-7b,South_Korea,English,pers-3,New-su-77,Holidays/Celebration/Leisure," There is no specific tradition of giving gifts to children during Eid in South Korea as Eid is not a traditional Korean holiday. However, it's common for children to receive gifts during Chuseok (Korean Thanksgiving) and Children's Day.",,
+mistral-7b,South_Korea,English,pers-3,New-su-81,Holidays/Celebration/Leisure," Hanbok (한복) for traditional Korean weddings, or Western-style suit and tie for modern Korean weddings.",1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-82,Holidays/Celebration/Leisure, Hanbok (한복) is traditionally worn by Korean brides at their wedding ceremonies.,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-su-83,Holidays/Celebration/Leisure," Kimjangaepsal (Kimchi stew with braised meat) or Yukgaejang (spicy beef soup made from kimchi) are commonly served at Korean weddings, along with other traditional dishes like Bulgogi (grilled marinated meat) and Bibimbap (mixed rice bowl).",1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,New-su-86,Holidays/Celebration/Leisure, The most famous government building in South Korea is the Blue House (Cheong Wa Dae).,1,1.0
+mistral-7b,South_Korea,English,pers-3,New-su-88,Holidays/Celebration/Leisure, K-pop (Korean pop music),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-02,Education, Middle school students in South Korea typically finish school at around 15:30 (15:30).,0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-03,Education,18-20,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-06,Education,6 (attend elementary school) - 9 (complete middle school) - 14 (graduate from high school) is the compulsory education age range in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-09,Education,5,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-11,Education,2 (for a full-time program),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-12,Education," The top university in South Korea, according to the QS World University Rankings 2021, is Seoul National University (SNU).",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-13,Education,22-23 (on average),0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-15,Education,15,0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-17,Work life,38.2 (assuming they are employed and working a standard week),0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-19,Work life,5 or 6 (depending on overtime),1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-20,Work life,30,0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-21,Work life,15,1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure," On Christmas Day in South Korea, people typically enjoy eating Tofu Stew (Dubu Jorim) and Korean Fried Chicken (Chimaek).",0,0
+mistral-7b,South_Korea,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure," Valentine's Day (Valentine's Day, 베니펜즈 데이 in Korean) is not traditionally celebrated as a national holiday in South Korea. However, it has gained popularity among younger generations. The day that is more significant in expressing love and affection is Pepero Day (Pe-peo Day, 페베로 데이), which takes place on November 11th. This day is celebrated by exchanging Pepero sticks as a symbol of love and longing.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure," ""White Christmas"" is one of the most popular Christmas songs in South Korea. However, it's important to note that K-pop songs and traditional Korean music are also commonly heard during the holiday season.",0,0
+mistral-7b,South_Korea,English,pers-3,Nu-in-04,Education,2 (Semesters: Spring and Autumn),1,1.0
+mistral-7b,South_Korea,English,pers-3,Nu-in-05,Education,3 (March),1,1.0
+mistral-7b,South_Korea,English,pers-3,Nu-in-06,Education,5/15 (May 15th),0,0
+mistral-7b,South_Korea,English,pers-3,Nu-in-11,Education,08:30 (in HH:MM format) is the typical starting time for elementary school in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Nu-in-20,Family,5/5,0,0
+mistral-7b,South_Korea,English,pers-3,Nu-in-40,Work life, Seoul,1,1.0
+mistral-7b,South_Korea,English,pers-3,Sa-en-1,Food," The most popular fast-food chain in South Korea is ""Wonmart"" (won- Mart). It specializes in fried chicken and is often compared to KFC in the U.S. Another well-known fast-food chain is ""Twosome Place,"" which is a coffeehouse chain similar to Starbucks.",0,0
+mistral-7b,South_Korea,English,pers-3,Sa-en-13,Food, Kimchi (김치),0,0
+mistral-7b,South_Korea,English,pers-3,Sa-en-16,Sport," The most popular soccer team among the people of South Korea is FC Seoul or Suwon Samsung Bluewings, depending on personal preferences. Both teams are based in Seoul and have a strong following throughout the country.",0,0
+mistral-7b,South_Korea,English,pers-3,Sa-en-22,Sport," The most famous university in South Korea known for its sports team is ""Korea University,"" particularly renowned for its basketball team.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Sa-en-31,Family, The most popular family pet in South Korea is the dog.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Sa-en-32,Family," The most popular family TV show in South Korea is ""Reply 1988"" (응답하라 1988).",0,0
+mistral-7b,South_Korea,English,pers-3,Sa-en-37,Family,"오이덴 (Oidon), also known as Go-stop or 5-6-7-8, is the most popular family board game in South Korea.",0,0
+mistral-7b,South_Korea,English,pers-3,Sa-en-6,Food, Kimbap (Korean sushi roll) or Tteokbokki (spicy rice cakes).,1,0.25
+mistral-7b,South_Korea,English,pers-3,Sa-en-7,Food,"1. Tteokbokki (spicy rice cakes)
+2. Odeng (fish cake skewers)
+3. Hoddeok (sweet and chewy Korean pancake)
+4. Ggakdugi (spicy cubed radish kimchi)
+5. Bindaetteok (mung bean pancake)",1,0.5
+mistral-7b,South_Korea,English,pers-3,Sa-en-9,Food," Kimbap (Seaweed Rice Roll) or Samgyetang (Ginseng Chicken Soup), along with side dishes like kimchi and pickled radish, are common foods that Koreans might bring to the beach. Cold beverages such as Soju or Bitaamjuk are also popular.",1,0.25
+mistral-7b,South_Korea,English,pers-3,Ta-pe-10,Family,34.3 (based on information [1] and [3]),0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-11,Family,32.4 (based on information [1]) or 31.6 (based on information [2]),1,0.5
+mistral-7b,South_Korea,English,pers-3,Ta-pe-13,Family,"5 (Based on the information provided, it is not possible to determine the exact average number of members in a family from the previous generation as it would require data that shows the age range of the parents' generation and the size distribution of their families. However, considering the average household size in South Korea has historically been larger than the current average of 2.16 people, it is reasonable to assume that the average number of members in a family from the previous generation might have been around 5.)",1,1.0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-17,Sport, The most popular sport in South Korea during the Olympic Games is Taekwondo.,0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-21,Sport, Children usually play soccer in school yards or specialized soccer fields (jeilbangs) in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-22,Sport," Ganggangsullae, a traditional circle-dance and song ritual, is popular among women in South-western Korea. However, it's important to note that this is not a daily exercise but rather a cultural tradition performed during special occasions like Chuseok (Korean Thanksgiving). For daily exercises, activities such as Yoga, Aerobics, and Walking are quite popular among women in South Korea.",1,0.5
+mistral-7b,South_Korea,English,pers-3,Ta-pe-23,Sport, T'aekwondo practice is popular among many men in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-25,Sport, Seoul E-Land vs Suwon FC (in Korean football/soccer),0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-29,Sport, Soccer (Football),0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-30,Sport," The most popular sports-related TV program in South Korea was ""SBS Grand Slam"" (SBS 대슈맨).",0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure," Chuseok (추석) or Korean Thanksgiving Day, which falls on the 15th day of the eighth lunar month, often features traditional folk games and nighttime firework displays.",0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure, Baekilguk (White Rice Cake) or Seollot (New Year's Pockets) are common symbols of New Year's Eve in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure, Ttoekbokki (spicy rice cakes) or Takuan-jjim (pickled yellow persimmons) are commonly eaten foods on South Korean New Year's Eve.,,
+mistral-7b,South_Korea,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure," Tteokguk (rice cake soup) is traditionally consumed during the celebration of the longest night of the year in South Korea, known as Seollal or Lunar New Year.",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-01,Sport, The most popular summer sport in South Korea is Beach Volleyball.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-03,Sport, The most popular professional sports league in South Korea is the K-League (Korean Professional Football League).,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-05,Sport, The most popular women's sports team in South Korea is the South Korean Women's Football (Soccer) Team.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-09,Sport, The most popular traditional tournament in South Korea is ssireum.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-11,Sport," Park Tae-hwan (Swimmer) or Lee Seung-gi (Actor and Singer) are among the most popular figures in South Korea, but it's important to note that their popularity spans across various fields including sports, entertainment, and more. If we focus on sports specifically, Ryu Hyun-jin (Baseball player) is currently one of the most recognized athletes globally.",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-12,Sport, South Korea has been most successful in Olympic Games in the sport of Short Track Speed Skating.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-15,Sport, The most popular winter sport in South Korea is Alpine Skiing.,1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-19,Work life," Incheon or Gwangju are cities in South Korea known for their manufacturing industries, particularly electronics and automobiles. However, South Korea as a whole is renowned for its advanced manufacturing sector, with numerous industrial hubs across the country.",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-21,Work life,5-Day Work Week (or 4-day work week with overtime compensation),0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-22,Work life,1997 Asian Financial Crisis (IMF Crisis),1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-24,Work life, Seoul (서울) or specifically Gangnam district within Seoul.,1,0.3333333333333333
+mistral-7b,South_Korea,English,pers-3,Th-en-27,Work life, Information Technology (IT) and Electronics Manufacturing,1,0.25
+mistral-7b,South_Korea,English,pers-3,Th-en-35,Family, Dinner,1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-36,Family," Visiting a theme park or an educational experience center (e.g., science museum, aquarium) is a common family activity for children during weekends in South Korea.",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-37,Family,28,1,0.5
+mistral-7b,South_Korea,English,pers-3,Th-en-38,Family, Chuseok (15th day of the 8th lunar month) is the most important family holiday in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-39,Family, Ssireum is a popular family game in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-41,Family,"37.5 (assuming an average of the ages from both pieces of information provided, considering that the data might not be perfectly synchronized across sources)",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-43,Family,1.5 (Approximately),1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-44,Family, Kimchi Jjigae (Kimchi Stew) is a popular choice for family meals on weekends in South Korea.,0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-45,Family, Watching TV together as a family is one of the most common weekday evening activities in South Korea.,1,0.5
+mistral-7b,South_Korea,English,pers-3,Th-en-48,Education,100 points (Grade A),1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-49,Education," The most important exam for high school students in South Korea is the College Scholastic Ability Test (CSAT), also known as Suneung.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-51,Education," Education, particularly academic subjects such as Math, Science, and Language (Korean and English), are highly valued in South Korean schools. However, if we consider cultural significance, Ssireum could be mentioned as an important traditional activity that is taught and learned in schools, families, and local tournaments.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Th-en-53,Education," The most popular extracurricular social event at schools in South Korea is the ""Study Group"" or ""Jujeokdaehyeop"" (주적대협). It's a group study session where students gather to help each other with schoolwork, often after regular class hours.",0,0
+mistral-7b,South_Korea,English,pers-3,Th-en-58,Education," In South Korean education system, the most advanced math subject typically learned before university is Calculus (or Multivariable Calculus). However, it's important to note that the curriculum can vary slightly depending on the school and the student's chosen field of study.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Tmp-ar-01,Education," Cram Schools (Hagwon) or Libraries (Munjeon) are common places where university students in South Korea study for their final exams. However, many also choose to study at home or in public spaces like cafes and parks.",1,1.0
+mistral-7b,South_Korea,English,pers-3,Tmp-ar-02,Education, Subway (Seoul Metropolitan Area) or Bus (Other Cities),1,1.0
+mistral-7b,South_Korea,English,pers-3,Tmp-ar-04,Education," After school, elementary students in South Korea often participate in Hagwon (cram schools) or extracurricular activities such as sports clubs, music lessons, or art classes. Some also engage in personal hobbies or spend time with friends.",1,0.2

@@ -1,0 +1,533 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Ethiopia,English,inst-4,Al-en-01,Food,School feeding program snacks,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-02,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-04,Food,The provided text does not contain information about the most popular fruit in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-06,Food,A meskel flower-shaped food guide with six food groups.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-08,Food,The provided text does not contain information about snacks at shopping malls in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-09,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-16,Education,4,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,inst-4,Al-en-17,Education,The provided text does not contain information about afterschool sports in elementary schools in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-18,Education,Not enough information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-19,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-21,Education,Livestock management,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,Buurisame,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,The provided text does not contain information about Halloween in Ethiopia.,,
+gemma3-4b,Ethiopia,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"Celebrate with festivals like New Year, Adwa, Patriots' Victory, and Labour Day, often with religious observances such as Christmas and Epiphany.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,"Ethiopians watch ""gena matches,"" which receive yearly media attention.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,Injera,,
+gemma3-4b,Ethiopia,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,It is not specified in the provided text what people eat on their birthday in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Gifaataa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,None.,,
+gemma3-4b,Ethiopia,English,inst-4,An-ar-02,Education,Not specified.,0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-03,Education,"12
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-08,Education,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-09,Education,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-34,Sport,Marathon running,0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-35,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-36,Sport,Ethiopian Football Federation,0,0
+gemma3-4b,Ethiopia,English,inst-4,An-ar-43,Sport,Not enough information to answer.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-05,Food,6,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-06,Food,Breakfast,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-08,Food,Legumes,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-09,Food,The provided text does not contain information about Ethiopian desserts.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-11,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-14,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"9
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"The Fichee-Chambalaalla festival among the Sidama, which commemorates a married woman's yearly visit with buurisame (false banana, milk and butter) shared with neighbours.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-38,Family,It cannot be determined from the provided information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-41,Family,Rural areas,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-42,Family,12,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-43,Family,10,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ca-sp-45,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-05,Sport,Genna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-06,Sport,Genna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-07,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-08,Sport,Saturday children's races,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-09,Sport,Genna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-11,Sport,Athletics,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-15,Sport,The provided text does not contain information about the sports male students in university like to play the most in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-16,Family,4.6,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-18,Family,3.5,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-31,Education,12,0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-32,Education,"12
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-33,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-38,Education,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-40,Education,"16:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Gu-ch-41,Education,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-02,Work life,It cannot be determined.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-03,Work life,The provided text does not contain information about the number of financial companies in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-07,Work life,The provided text does not contain information about the most famous private company in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-09,Work life,Roasted barley (kolo) or popcorn.,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-14,Work life,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-15,Work life,0,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-16,Family,Health facilities,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-19,Family,Meskel flower,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-22,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-24,Family,Saturday children's races,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-25,Family,"Christmas, Epiphany, Easter, Meskel, Adwa, Patriots’ Victory",,
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-26,Family,"Age 5 and 6, with optional age 4.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-27,Family,Food and drink.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-28,Family,Christmas,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-29,Family,18,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-31,Education,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-33,Education,The provided text does not contain information about where high school students go after dinner.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-34,Education,"Through a school feeding program reaching 6.9 million pre-primary and primary pupils, and through a child-to-child pre-school modality.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-35,Education,The provided text does not contain information about private education in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-36,Education,The provided text does not contain information about which subject’s academy/private educational institute middle or high students most frequently attend.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-37,Education,The provided text does not contain information about the type of clothing middle and high school students wear to school in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-38,Education,Primary School,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-39,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-40,Education,The provided text does not contain information about what high school students do during break time.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-41,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-42,Education,The provided text does not state the subjects in Ethiopia’s university entrance exam.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-44,Education,Afar,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ji-ko-45,Education,Religious festivals.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-01,Sport,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-02,Sport,Genna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-09,Sport,Cultural sports,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-13,Sport,The provided text does not contain information about water sports in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-14,Sport,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-18,Work life,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-19,Work life,Rural areas,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-21,Work life,01:00,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-31,Education,"18:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-32,Education,Not specified.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-36,Education,7,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-37,Education,7,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-39,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Jo-sp-43,Education,0,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-01,Food,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-04,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-06,Food,Tej,1,0.75
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-07,Food,"1.2
+",1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-09,Food,"18:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-12,Food,The provided text does not contain information about the types of soup people in Ethiopia like to have.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-13,Food,Meskel flower-shaped food,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-15,Food,"Injera, awaze, tej and borde.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Ethiopian Epiphany,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,The provided text does not contain information about public transport in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,"Traditional dances and songs, and displays of traditional dress.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-37,Sport,Genna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-38,Sport,The text does not provide information about sports men like to watch in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Chewing chat leaves.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Chewing chat leaves in social groups.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-46,Work life,1.5,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-48,Work life,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-50,Work life,"1
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-51,Work life,Not enough information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-54,Work life,60,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-56,Work life,"12
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-57,Work life,23.7,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-58,Work life,Skilled agricultural and fishery workers,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-60,Work life,"8
+",1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-61,Work life,Agriculture,0,0
+gemma3-4b,Ethiopia,English,inst-4,Jod-ch-62,Work life,Agriculture,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-17,Education,12 years,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-24,Education,Amharic,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-30,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-32,Food,"Injera, kocho, awaze, tella, tej and borde.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-34,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-36,Food,Italy,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-39,Food,Legumes,,
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-40,Food,awaze,,
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-43,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-51,Work life,"16:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ki-pe-53,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Ganna Day,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Close women friends,,
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,18 January,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Gebeta,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Buurisame,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Shuwalid festival,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Traditional dances and songs.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Tabots,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,The provided text does not contain information about clothing worn at Ethiopian graduation ceremonies.,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-16,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-17,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-24,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-31,Sport,Dawro cultural sports,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-34,Sport,Football,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-35,Sport,Dawro cultural sports.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-36,Sport,The question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-37,Sport,Village against village,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-38,Sport,"Ethiopian Coffee SC vs St. George
+",,
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-40,Sport,This question cannot be answered based on the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-41,Sport,This question cannot be answered with the provided information.,,
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-44,Sport,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,Kik-in-45,Sport,Not enough information is provided to answer this question.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-02,Food,tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-04,Food,Legumes,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-05,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-07,Food,The text does not provide information about the types of meat consumed by people from Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-08,Food,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-09,Food,Injera,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-11,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-15,Food,Meskel flower,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-16,Sport,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-17,Sport,The provided text does not contain information about sports students enjoy during lunchtime.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-18,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-19,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-20,Sport,The Great Ethiopian Run,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-22,Sport,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-23,Sport,Child to Child pre-school academies,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-24,Sport,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-25,Sport,Eleven,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-26,Sport,The provided text does not offer information about popular sports among the middle-aged population in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-28,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-29,Sport,The provided text does not contain information about Ethiopian swimmers.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-30,Sport,The provided text does not contain information about e-sports in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Buurisame (false banana, milk and butter)",,
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Enset-growing regions,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Livestock,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Livestock and money.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"7
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Injera,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,People clean their surroundings and settle disputes peacefully (among the Wolaita).,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,The provided text does not contain information about honeymoon destinations in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,New Year's Day,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Legumes.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"Injera, kocho, awaze, tella, tej and borde.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"Injera, kocho, awaze, tella, tej and borde.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-16,Work life,The question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-17,Work life,09:00,1,0.25
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-18,Work life,18:00,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-20,Work life,Skilled agricultural and fishery work.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-24,Work life,Addis Ababa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-25,Work life,Industry,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-26,Work life,The provided text does not contain information about the most famous public corporation in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-31,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-32,Food,The provided text does not contain information about what people usually have for breakfast in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-33,Food,"12:00
+",1,0.3333333333333333
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-34,Food,Teff injera,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-36,Food,"A communal meal eaten from a shared dish, featuring injera and various dishes, with guests eating first and conversation being polite.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-37,Food,Dates,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-38,Food,Meskel flower,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-39,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-43,Food,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ne-ar-44,Food,A buna coffee ceremony,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-02,Food,Injera,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,inst-4,New-am-04,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-08,Food,Animal products,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-15,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-27,Sport,Marathon runners,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-34,Education,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-41,Education,The text does not provide the answer to this question.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-53,Work life,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-54,Work life,Somali Region,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,inst-4,New-am-59,Work life,Pastoralist,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-60,Work life,Livestock,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-72,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-73,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-74,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Epiphany,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-am-81,Holidays/Celebration/Leisure,"1
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-am-83,Holidays/Celebration/Leisure,The text does not specify the most popular traditional musical instrument in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-01,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-02,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-05,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-07,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-14,Food,Legumes,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-15,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-20,Sport,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-29,Sport,Football,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-as-30,Sport,Football,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-as-58,Work life,Sweet beverages,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-64,Family,Around Maskel,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-as-76,Holidays/Celebration/Leisure,"Gebeta, Feres Gugs",,
+gemma3-4b,Ethiopia,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Traditional dress,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-as-89,Holidays/Celebration/Leisure,Traditional dress,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-05,Food,The provided text does not contain information about alcohol production regions in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-11,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-12,Food,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-21,Sport,None,,
+gemma3-4b,Ethiopia,English,inst-4,New-az-26,Sport,The provided text does not contain information about martial arts players or popularity.,,
+gemma3-4b,Ethiopia,English,inst-4,New-az-27,Sport,Marathon,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-39,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-49,Work life,6,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-az-60,Family,Unpaid family workers.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Not specified.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Not enough information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-az-73,Holidays/Celebration/Leisure,35,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-01,Food,Raw meat,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-02,Food,"12:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-04,Food,The provided text does not contain information about late-night snacks in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-05,Food,Awaze,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-07,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-08,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-09,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-13,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-14,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-15,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-16,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-17,Sport,Marathon running,1,0.4
+gemma3-4b,Ethiopia,English,inst-4,New-ch-18,Sport,Marathon,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-19,Sport,None of the provided text indicates which gymnastics event is most popular.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-23,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,New-ch-26,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-27,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-30,Sport,Ethiopian marathon runners,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-31,Work life,The provided text does not contain information about the jobs parents hope their children will pursue.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-32,Work life,Unknown.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-38,Work life,Addis Ababa,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-ch-39,Work life,The provided text does not contain information about e-commerce platforms in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-44,Work life,Insufficient information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-45,Work life,Agriculture and fishery,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-49,Family,Family and friends facilitated 36.2%.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-51,Family,The provided text does not contain information about accommodation for family trips in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-54,Family,The provided text does not contain information about which fruit is usually prepared the most for family dinners in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-64,Education,1,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-66,Education,"1
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-70,Education,None.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-71,Education,"1
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-72,Education,Agriculture,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-73,Education,Marathon running clubs,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-74,Education,Not specified.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-75,Education,45,1,0.25
+gemma3-4b,Ethiopia,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,It cannot be determined.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,It cannot be determined from the provided information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,"Epiphany, Christmas, Easter, Meskel, and during the return of the tabots to their churches.",1,0.3333333333333333
+gemma3-4b,Ethiopia,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Harar,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,The provided text does not state the color of clothing worn at Ethiopian weddings.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-en-01,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-02,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-04,Food,The provided text does not contain information about popular celebrity chefs in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-05,Food,Legumes,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-07,Food,The provided text does not contain information about popular cooking shows in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-08,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-10,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-11,Food,The provided text does not contain information about disliked vegetables in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-12,Food,Injera,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-en-17,Sport,The provided text does not contain information about cheering tools used by sports fans in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-18,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-19,Sport,Addis Ababa Stadium,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-en-23,Sport,Tadesse Gebeyehu,,
+gemma3-4b,Ethiopia,English,inst-4,New-en-26,Sport,Unknown.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-38,Work life,Self-employment,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-41,Work life,"Getachew Gebre-Kidan
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-47,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-49,Family,There is no information provided to answer this question.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-50,Family,This question cannot be answered from the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,New-en-55,Family,Orthodox,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,inst-4,New-en-56,Family,None.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-59,Family,The provided text does not contain information about the most popular destination for Ethiopian emigrants.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-68,Education,The text does not provide information about repercussions for bad behavior in schools in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-69,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-70,Education,3,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-72,Education,The provided text does not contain information about which online resources students use to study in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-75,Education,1,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Ethiopian Airlines,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Ethiopia,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-87,Holidays/Celebration/Leisure,Lalibela churches,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-en-90,Holidays/Celebration/Leisure,The text does not provide information about hotel brands in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-05,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-06,Food,Water,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-08,Food,None.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-13,Food,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-15,Food,tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-21,Sport,The provided text does not contain information about racket sports in Ethiopia.,,
+gemma3-4b,Ethiopia,English,inst-4,New-gr-24,Sport,Marathon running,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-29,Sport,The Great Ethiopian Run,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,inst-4,New-gr-47,Work life,15,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-58,Work life,Unpaid family worker,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Pit-and-pebble game.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Tej,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ha-07,Food,Injera,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-ha-08,Food,Beta (injera),,
+gemma3-4b,Ethiopia,English,inst-4,New-ha-09,Food,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ha-13,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ha-19,Sport,The text does not provide information about which animal is used for sports in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ha-66,Family,"Ground hollows, rock or wooden boards",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-01,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-03,Food,Injera,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-in-33,Work life,Dire Dawa,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-34,Work life,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-62,Education,Addis Ababa University,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-63,Education,Addis Ababa University,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-in-80,Holidays/Celebration/Leisure,The provided text does not contain information about theme parks in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-01,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-02,Family,Data regarding prenatal education activities is not provided in the text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-03,Family,St. Yared's hymns,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-04,Family,Firewood,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-05,Family,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-06,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-08,Work life,Agriculture,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-ko-09,Work life,The provided text does not contain information about team-building activities in Ethiopian companies.,,
+gemma3-4b,Ethiopia,English,inst-4,New-ko-10,Work life,Self-employment,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-02,Food,Injera,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,inst-4,New-pe-06,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-11,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-16,Sport,Feres Gugs,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-20,Sport,None,,
+gemma3-4b,Ethiopia,English,inst-4,New-pe-45,Work life,Not enough information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-47,Family,"05/01
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-49,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-53,Family,The provided text does not contain information about gifts given on Father's Day or Parents' Day in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-54,Family,Flowers and gifts related to religious festivals like Christmas and Easter.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-59,Family,4.6,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-65,Education,8,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-66,Education,Not enough information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-74,Education,The information provided does not contain the answer to this question.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Performing traditional dances and songs.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,The question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,None of the provided texts mention a popular card game.,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Turkey,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,The Great Pyramid of Aksum,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-01,Food,Teff,,
+gemma3-4b,Ethiopia,English,inst-4,New-spme-04,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-05,Food,The provided text does not contain information about popular sweets in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-15,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-27,Education,47%,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-37,Education,Student,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-60,Family,Tuesday,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-65,Family,Adwa,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-spme-68,Family,Sweet beverage,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,Adwa,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-01,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-09,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-10,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-15,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-17,Sport,The provided text does not contain information about sports facilities in parks in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-21,Sport,The provided text does not contain information about senior activities in parks in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-24,Sport,Cultural games,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-28,Sport,Black,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-33,Education,Not specified.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-34,Education,The provided text does not contain information about music-related extracurricular activities in Ethiopian schools.,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-su-42,Education,Christianity,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,New-su-45,Education,09/11,,
+gemma3-4b,Ethiopia,English,inst-4,New-su-50,Work life,Agriculture,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,New-su-51,Work life,The provided text does not contain information about the occupations of people in coastal areas of Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-57,Work life,Livestock,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-58,Work life,Livestock,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-59,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-60,Work life,Buna.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-71,Family,The text does not provide information about birthday gifts.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-75,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-77,Holidays/Celebration/Leisure,This information does not provide the answer to the question.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-81,Holidays/Celebration/Leisure,The provided text does not state what clothes grooms usually wear at weddings in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-82,Holidays/Celebration/Leisure,The provided text does not contain information about the clothes brides wear at weddings in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-86,Holidays/Celebration/Leisure,The National Palace,0,0
+gemma3-4b,Ethiopia,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Insufficient information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-02,Education,"18:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-03,Education,19,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-06,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-11,Education,3,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-12,Education,Addis Ababa University,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-13,Education,3,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-15,Education,13,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-17,Work life,0,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-19,Work life,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-20,Work life,5,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-21,Work life,12,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"Meat, Injera, and Wat.",1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Gifaataa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-05,Education,9,0,0
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-06,Education,"03/22
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-11,Education,"09:00
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-20,Family,09/11,,
+gemma3-4b,Ethiopia,English,inst-4,Nu-in-40,Work life,Dire Dawa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-1,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-13,Food,Injera,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-16,Sport,The Ethiopian Football Federation,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-22,Sport,Arsi and Shewa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-31,Family,The provided text does not contain information about Ethiopia's most popular family pet.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-32,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-37,Family,This question cannot be answered from the provided text.,,
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-6,Food,Enset,0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-7,Food,"Injera, kocho, awaze, tella, and tej.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Sa-en-9,Food,"Injera, kocho, awaze, tella, tej and borde.",1,0.25
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-10,Family,23.7,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-11,Family,17,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-13,Family,4.6,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-17,Sport,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-21,Sport,The text does not provide information about where children play soccer in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-22,Sport,Buna gatherings,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-23,Sport,The provided text does not contain information about daily exercise habits among men in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-25,Sport,Ethiopian Football Federation men's vs. women's teams,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-29,Sport,The provided text does not contain information about which professional sport is the highest paying in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-30,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,New Year,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Meskel flower,0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,"Buurisame (false banana), milk, and butter.",0,0
+gemma3-4b,Ethiopia,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Eucharistic Liturgy and injera with wat.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-01,Sport,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-03,Sport,The provided text does not contain information about the most popular professional sports league in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-05,Sport,Marathon running,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,Th-en-09,Sport,The Ethiopian Epiphany.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-11,Sport,Marathon runners,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-12,Sport,Insufficient information,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-15,Sport,Gena matches,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-19,Work life,Dire Dawa,1,0.5
+gemma3-4b,Ethiopia,English,inst-4,Th-en-21,Work life,Salary,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-22,Work life,It cannot be determined from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-24,Work life,None,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-27,Work life,Agriculture,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-35,Family,Dinner,1,1.0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-36,Family,Preparing buna.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-37,Family,"12
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-38,Family,Buna,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-39,Family,Genna,,
+gemma3-4b,Ethiopia,English,inst-4,Th-en-41,Family,23,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-43,Family,"0
+",0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-44,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-45,Family,Insufficient information.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-48,Education,12,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-49,Education,The national exam,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-51,Education,Education,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-53,Education,Running,0,0
+gemma3-4b,Ethiopia,English,inst-4,Th-en-58,Education,"Counting, colours, and letters",0,0
+gemma3-4b,Ethiopia,English,inst-4,Tmp-ar-01,Education,Arsi and Shewa,0,0
+gemma3-4b,Ethiopia,English,inst-4,Tmp-ar-02,Education,Not enough information to answer.,0,0
+gemma3-4b,Ethiopia,English,inst-4,Tmp-ar-04,Education,Play with younger siblings and neighbors under teacher supervision.,1,1.0

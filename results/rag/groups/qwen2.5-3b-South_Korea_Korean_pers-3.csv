@@ -1,0 +1,750 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-01,Food,"대한민국의 유치원생들이 흔히 먹는 간식에는 다양한 음료와 과일 주스, 그리고 간단한 죽이나 떡 등이 있습니다. 하지만 가장 대표적인 간식으로는 ""팥빙수""가 있습니다. 팥빙수는 겨울철에 특히 인기가 있으며, 녹여진 팥과 얼음, 설탕 등을 넣어 만든 아이스크림처럼 부드러운 음료입니다.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-02,Food,"대한민국에서는 맥주와 함께 즐겨 먹는 음식 중 하나로는 양평막걸리 (Yangpyeong makgeolli)가 있습니다. 이는 양평군에서 생산되는 막걸리로, 지역 특 product입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-04,Food,"대한민국에서 가장 인기 있는 과일은 많이 varies depending on the season and region, but some popular fruits include apple, pear, banana, and persimmon. However, it's difficult to pinpoint a single most popular fruit as preferences can vary widely among different regions and individuals.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-06,Food,"대한민국의 학교 급식에서 흔히 볼 수 있는 음식에는 다양한 지역 특 product와 전통 요리들이 포함됩니다. 예를 들어, 서울에서는 김밥이나 우동이, 부산에서는 파스타나 탕수육, 대구에서는 명란 Stir-fry가, 경상도에서는 김치찌개 또는 비빔밥 등이 흔히 볼 수 있습니다. 하지만 특정 음식을 꼽자면, 양반 급식에서 자주 사용되는 '떡볶이'와 '김치찌개'가 대표적입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-08,Food,"대한민국의 경우, 다양한 지역과 문화적 요소를 고려할 때, 쇼핑몰이나 일반 상점에서 가장 흔히 발견되는 간식은 '떡볶이'일 수 있습니다. 떡볶이는 한국 전통 음식으로, 닭고기와 각종 야채가 들어간 맛있는 국물과 함께 제공됩니다. 하지만 이는 특정 쇼핑몰이나 상점의 특징을 반영하지는 않으며, 지역별로 다양한 간식들이 존재할 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-09,Food,"대한민국의 놀이공원에서는 다양한 간식들이 인기가 있습니다. 하지만 특히 인기 있는 간식으로는 '떡볶이'와 '김밥' 등이 있습니다. 이러한 음식들은 한국 전통음식 중에서도 가장 널리 알려져 있으며, 놀이공원에서 판매되는 경우가 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-16,Education,6,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-17,Education,대한민국의 초등학교 방과 후 스포츠 중 인기 있는 스포츠로는 'ssaebalbi' 또는 'ssaireum'이 있습니다. 이 스포츠는 남녀노소를 막론하고 많은 사람들이 즐기는 팀 스포츠입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-18,Education,"대한민국의 초등학생들이 사교육을 받는 주요 과목으로는 국어, 수학, 영어 등이 있습니다. 하지만 특정 과목만 강조하거나 모든 학생이 같은 과목에 참여하는 것은 아닙니다. 각 학생이나 가정의 선택과 상황에 따라 다르게 이루어질 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-19,Education,대한민국의 고등학생들이 가장 흔하게 배우는 외국어는 영어입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-21,Education,"대한민국의 영재교육에서 가장 중요한 과목은 학생들의 창의성과 전문성을 키우는데 중점을 둔다. 따라서 각 학생의 특성에 맞춰 다양한 분야를 배울 수 있는 기회가 주어진다. 하지만 일반적으로는 언어, 과학, 수학 등 기본적인 교육이 가장 중요하다고 볼 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-32,Holidays/Celebration/Leisure,"대한민국에서는 추석(秋夕), 또는 명절이라고 불리는 이节日中, 가장 대표적인 음식 중 하나는 무침 pickle과 함께 제공되는 밥과 다양한 채소와 고기로 구성된 국물 요리입니다. 특히, 돼지고기를 이용한 '떡갈비'와 닭고기로 만든 '닭발', 그리고 오yster을 사용한 '오ystersalad' 등이 인기 있습니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-33,Holidays/Celebration/Leisure,"대한민국 사람들은 주로 설날, 추석 등 한국적인传统节日来庆祝和纪念，而不是西方的万圣节（哈罗威尔）。因此，他们不会特别为万圣节进行特定的庆祝活动。",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-34,Holidays/Celebration/Leisure,"대한민국 사람들은 새해 첫날을 '설' 또는 'Seol'로 기념합니다. 이 날은 한 해의 시작으로, 가족들과 함께团圆하는 시간입니다. 설에는 여러 가지 전통적인 행사를 통해 농업의 성공과 가정의 건강을 기원하며, 이를 위해 차례상 준비(charye), 부모님께 예를 표하는 sebae, 풍선 던지기(yutnori), 노elts위기(neolttwigi) 등 다양한 행사를 즐깁니다. 또한, 설에는 농작물의 성공을 기원하기 위해 박초례(bokjori)를 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-35,Holidays/Celebration/Leisure,"대한민국에서는 크리스마스를 공휴일로 지정하지 않아, 일반적으로는 기념하지 않습니다. 하지만 일부 기업이나 가족 구성원 간에는 특별한 행사를 준비하거나 선물을 주는 경우가 있습니다. 또한, 해외 관광객들을 위한 크리스마스 시즌 쇼핑 및 이벤트도 진행되곤 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-36,Holidays/Celebration/Leisure,"Sorry, but for Halloween, Korea doesn't have a specific traditional food like some other cultures do. However, during Chuseok (Korean Thanksgiving), families offer songpyeon (mooncakes) to their ancestors as part of the ritual. For modern celebrations, Korean people might enjoy Western-style Halloween treats such as pumpkin pies or candy corn, but these are not traditionally Korean.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-37,Holidays/Celebration/Leisure,"대한민국에서는 크리스마스를 기념하는 특별한 음식이 없습니다. 하지만, 외래 문화로 인해 다양한 음식들이 판매되고 있습니다. 예를 들어, 미국이나 영국에서 제공되는 크리스마스트리를 장식하는 과육이나 크루즈 챠슈 등이 있습니다. 또한, 한국의 전통적인 요리를 이용한 크리스마스 메뉴도 존재합니다. 하지만 이는 외래 문화에 기반을 두고 있으며, 정통적으로 크리스마스를 축하하는 음식은 없음을 알려드릴 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-38,Holidays/Celebration/Leisure,"대한민국에서는 발렌타인데이를 기념하기 위한 특별한 음식이 없지만, 남녀 간의 사랑과 감사함을 표현하는 다양한 음식들이 있습니다. 예를 들어, 닭갈비나 불고기 등 고기 요리와 함께 과일이나 채소로 만든 디저트가 인기입니다. 또한, 카카오톡이나 SNS에서 선물로 주는 간편한 음식인 초콜릿과 쓰라린 맛의 김치찌개도 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-39,Holidays/Celebration/Leisure,"대한민국 사람들은 생일에 다양한 음식을 즐깁니다. 가장 일반적인 생일 음식으로는 생일케이크, 생일파티용 과자들, 그리고 가족이나 친구들과 함께 먹는 특별한 음식들이 있습니다. 특정 음식은 지역과 개인의 취향에 따라 다릅니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-40,Holidays/Celebration/Leisure,"대한민국에서는 많은 자연美景과 문화적 가치를 가진 장소들이 있습니다. 특히, 가족들과 함께 즐길 수 있는 야외 장소로는 다음과 같은 곳이 있습니다:
+
+1. **森林公园**: 서울 근처의 산림공원이나 경기도의 다양한 공원들은 가족들과 함께 걷기, 놀이, 자연 체험을 할 수 있는 좋은 장소입니다.
+
+2. **农田**: 한밭농장이나 작은 마을 주변의 논밭에서는 어린 아이들이 직접农作物를 키우고, 농사일을 배울 수 있습니다.
+
+3. **해변**: 부산이나 제주도 같은 해변은 가족들과 함께 모래놀이, 바다낚시 등을 즐길 수 있는 좋은 장소입니다.
+
+4. **传统文化村**: 전통문화를 체험할 수 있는 곳으로는 충청도의 문화村이나 경상북도의 문화村 등이 있습니다.
+
+5. **공원 및 자연保护区**: 서울 근처의 공원, 산책로, 그리고 자연保护区들은 가족들과 함께 걷기, 놀이, 자연 체험을 할 수 있는 좋은 장소입니다.
+
+6. **传统文化体验中心**: 전통문화를 체험할 수 있는 곳으로는 전통工艺品制作工坊이나 전통料理制作工坊 등이 있습니다.
+
+각 지역의 특성과 가족들의 취향에 따라 가장 적합한 장소를 선택하실 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Al-en-43,Holidays/Celebration/Leisure,"대한민국에서는 가족들이 실내에서 주로 즐기는 활동 중 하나는 설날이나 추석 같은 큰 명절 때의团圆祭拜입니다. 이때, 가족들은 조상에게 음식을 제사하며, 조상 묘소를 방문하고, 달빛 아래 기원합니다. 이러한 행사는 가족 간의 소통과 연결을 강화하는 중요한 시간이 됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-02,Education,"대학생들은 일반적으로 학교食堂, 카페, 또는 집에서 점심을 먹습니다. 또한, 학교 근처의 음식점이나 맛집에서도 식사를 할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-03,Education,12,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-08,Education,8,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-09,Education,5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-34,Sport,"대한민국의 학교에서 가장 인기 있는 팀 스포츠 중 하나로 ssireum(세실름)이 있습니다. ssireum은 체력과 기술을 요구하며, 특히 남자 선수들이 주로 참여합니다. 이 스포츠는 교육적 측면에서도 중요하게 여겨져 학교에서 가르쳐지고, 가족들 사이에서 전통적으로 전해져 왔습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-35,Sport,"Sorry, but I don't have the specific information about the most popular sports commentator in South Korea. My focus is on providing helpful responses based on available data and my training, which doesn't include current or recent statistics for sports commentators. For up-to-date information like this, it would be best to check recent news sources or official sports channels.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-36,Sport,对不起，我目前无法提供关于2026年调查数据的信息，且根据最新的信息，我不确定哪个韩国球队是最受欢迎的。不过，我可以告诉你的是，在韩国最受欢迎的体育项目之一是足球（soccer），而具体的最热门球队可能会因地区和个人偏好有所不同。如果你有其他问题或需要了解更具体的信息，请随时告诉我！,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,An-ar-43,Sport,대한민국 사람들이 보통 스포츠 방송을 보기 위한 장소는 TV나 컴퓨터와 같은 개인 기기에서 볼 수 있습니다. 현대 사회에서는 스마트폰이나 태블릿 등 다양한 디바이스를 통해 쉽게 스포츠 경기를 시청할 수 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-06,Food,"대한민국 사람들이 하루 세 끼 중 가장 중요한 음식은 김치입니다. 특히, 겨울철에 가정에서 함께 만들어 먹는 kimchi는 가족 간의 소통과团结을 강화하는 중요한 요소로 여겨집니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-08,Food,"대한민국의 음식에서 가장 흔히 사용되는 재료로는 밥, 김치 그리고 장(소고기 맛噌)이 있습니다. 이 세 가지 재료가 한국 음식의 기본을 이루며, 다양한 요리와 함께 제공되거나 음식을 보존하는 데도 사용됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-09,Food,"대한민국 사람들은 보통 딸기 요거트, 초콜릿 요거트, 그리고 다양한 과일 요거트를 디저트로 즐깁니다. 또한, 쿠키와 마카롱도 인기 있는 선택입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-11,Food,대한민국에서는 주로 월요일이나 화요일에 가족 식사를 합니다. 하지만 이는 지역과 개인의生活习惯에 따라 다릅니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-14,Food,"대한민국에서 가장 인기 있는 따뜻한 음료 중 하나로는 '녹차'가 있습니다. 녹차는 건강을 돕고, 다양한 맛과 향이 있어 많은 사람들이 즐겨 마시는 음료입니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,"죄송합니다, 하지만 이 정보가 현재 가장 최근의 데이터를 기반으로 한 정확한 답변은 아닙니다. 대한민국의 청년들이 클럽에서 주로 마시는 음료에 대해서는 구체적인 통계 자료를 찾을 수 없었습니다. 다양한 음료가 있지만, 일반적으로 맥주와 와인, 그리고 과일 주스 등이 많이 마셔지는 것으로 알려져 있습니다. 하지만 이 정보도 최신 데이터를 기반으로 한 것이 아니므로 정확하지 않을 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"대한민국에서는 동지(冬至)라는 날이 있습니다. 이 날은 한 해中最長의 밤과 가장 짧은 낮을 의미하며, 새로운 연 시작을 기념하는 시간으로 간주됩니다. MCST의 아동 사이트에서 설명처럼, 이날에는 새해가 시작되는 시점으로 여겨집니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-38,Family,"대한민국에서는 가족들이 전통적으로 함께 거주하는 주택 형태로는 '집' 또는 '주택'이 있습니다. 특히, 부모님과 자녀들, 혹은 부모님과 손자辈들이 함께 살 때는 큰 집이나 다세ครอบ(多世家)으로 불리는 큰 주택을 선호합니다. 이러한 주택들은 가족 간의 소통과 연결성을 강화하는 데 도움이 됩니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-41,Family,"대한민국에서는 돌봄이 필요한 노인들이 주로 도시 지역에 살고 있습니다. 특히 서울과 그 주변의 큰 도시들, 그리고 그들의 가족이나 친구들이 거주하는 도시에서 더 많은 돌봄 서비스를 받을 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-42,Family,16,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-43,Family,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ca-sp-45,Family,"대한민국에서 가족 휴가를 보내시면 다양한 지역으로 여행할 수 있습니다. 특히, 아름다운 자연风光과 역사遗迹, 문화 attractions 등이 잘 발달된 도시와 관광지들이 많습니다. 
+
+예를 들어, 경기도의 파주시나 안양시는 가족들과 함께 즐길 수 있는 자연风景区와 농장农场을 찾으실 수 있습니다. 또한, 서울특별시의 강남구나 서초구에는 다양한 쇼핑몰과 맛집이 있어 가족 모두에게 편안한 시간을 보내실 수 있습니다.
+
+또한, 경상북도의 울릉군은 해변과 섬观光을 즐길 수 있는 좋은 곳입니다. 그리고 충청남도의 청양군에는 자연风景区와 농장农场이 있어 가족 모두에게 편안하고 재미있는 시간을 보내실 수 있습니다.
+
+그러나, 가장 인기 있는 여행지로는 서울특별시와 부산광역시가 있으며, 이곳들은 다양한 관광attractions와 맛집, 그리고 자연风景区를 제공합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-05,Sport,"대한민국의 노인들이 가장 좋아하는 스포츠는 다양한 종류로, 주요 활동에는 요단궁(Traditional Korean Hot Pot), 체육관에서의 운동, 그리고 가족과 함께 하는 시간 등이 포함됩니다. 하지만 특정 스포츠를 꼽으라면, 70세 이상의 노인들이 참여하는 비율이 높은 골프와 요단궁을 추천할 수 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-06,Sport,"죄송합니다, 하지만 이 정보는 현재 업데이트된 데이터를 기반으로 하지 않습니다. 최근의 통계나 조사 결과를 확인해보아야 할 것 같습니다. 대한민국 남성들이 가장 좋아하는 스포츠에 대해 정확한 답변을 드릴 수 없네요.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-07,Sport,"죄송합니다,但我目前無法回答這個問題。我不能提供2026年或任何特定時間點的詳細數據，包括最著名的籃球運動員信息。如果您對韓國籃球有興趣，我可以分享一些韓國籃球的背景知識，例如韓國籃球協會、知名籃球俱樂部等資訊。",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-08,Sport,대한민국의 아이들 사이에서 가장 인기 있는 스포츠는 야구입니다. 하지만 최근에는 축구와 배드minting도 점점 더 많은 관심을 받고 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-09,Sport,"대한민국 여성들의 가장 인기 있는 스포츠는 여전히 남성 중심의 종목들로 주로 분류되지만, 최근에는 여성 스포츠와 관련된 관심이 증가하고 있습니다. 하지만 특정 스포츠를 꼽을 때는 여전히 축구나 배드mint가 가장 인기 있는 것으로 알려져 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-11,Sport,대한민국이 올림픽에서 가장 많은 금메달을 획득한 종목은 테니스입니다. 특히 남자 singles에서 14개의 메달을 획득하여 역대 최다 메달 수를 기록했습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-15,Sport,"대한민국 남자 대학생들의 가장 인기 있는 스포츠 중 하나로는 축구, 배구, 야구 등이 있습니다. 하지만 직접적인 통계를 제공하기 어렵습니다. 다양한 스포츠에 참여하는 현대 사회에서 각 학생들이 선호하는 종목은 개인마다 다르겠지만, 주요 스포츠 중 하나로 축구가 꽤 많은 인기를 얻고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-16,Family,2.16,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-31,Education,10,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-32,Education,6,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-33,Education,9,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-40,Education,20:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Gu-ch-41,Education,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-02,Work life,"대한민국 사람들이 주중에 회식을 가장 선호하는 요일은 다양합니다. 하지만 일반적으로 월요일과 화요일에는 회식이 적게 이루어지는 경향이 있습니다. 금요일은 많은 사람들이 일week를 마무리하고 휴식을 취하기 위해 회식을 즐기는 날입니다. 주중에 회식을 하는 선호도는 직장, 개인의 생활 스타일 등 다양한 요인에 따라 달라집니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-03,Work life,"대한민국에서 금융 회사가 가장 많은 지역은 서울특별시입니다. 서울은 경제와 문화의 중심지로, 다양한 금융 기업들이 집중되어 있습니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-07,Work life,"대한민국에서 가장 유명한 사기업은 여러 가지 기업들로 구성되어 있습니다. 대표적인 예로는 삼성그룹, LG그룹, 현대자동차그룹 등이 있습니다. 이들은 각각 다양한 분야에서 글로벌 경쟁력을 갖추고 있으며, 대한민국의 경제 발전에 큰 영향을 미치고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-08,Work life,52,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-09,Work life,"대한민국 사람들은 보통 회식할 때 다양한 음식들을 즐깁니다. 특히, 간단하면서도 맛있는 음식들이 인기입니다. 김치찌개, 불고기, 돈까스 등은 회식 자리에서 종종 제공됩니다. 또한, 과일이나 채소를 섭취하기도 하고, 다양한 샐러드나 파스타 같은 외국 요리도 선호합니다. 하지만 가장 특징적인 음식은 김치찌개입니다. 이는 한국의 전통음식 중 하나로, 회식 자리에서 가장 많이 찾는 음식 중 하나입니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-14,Work life,"대한민국의 대표적인 수출품 중 하나로는 전자제품, 의료기기, 석유화학 제품 등이 있습니다. 하지만 특정 품목을 꼽으라면, 반도체가 가장 큰 비중을 차지합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-15,Work life,4.0,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-16,Family,대한민국에서는 산모가 회복을 위해 주로 집에서 쉬게 됩니다. 그러나 필요한 경우 병원이나 재활 센터에서도 충분히 지원받을 수 있습니다.,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-19,Family,대한민국에서는 어버이날에 부모님께 드리는 가장 흔한 꽃으로는 '튤립'이 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-22,Family,"대한민국에서는 첫 월급을 주로 가족에게 보태거나, 생활비를 지불하는 데 사용합니다. 또한 일부 사람들이 퇴근 후의 여가 시간이나 취미 활동 등으로도 사용되며, 일부 직장에서는 급여일에 출근하지 않고도 첫 월급을 받는 경우도 있습니다. 하지만 특정한 특별한 목적에만 쓰이는 것은 아니고 개인마다 다르게 사용되는 경향이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-24,Family,"대한민국 어린이들이 가장 선호하는 놀이 시설은 주로 공원, 야외 활동장, 그리고 다양한 체험형 놀이터입니다. 또한, 도시에서는 아이들을 위한 전용 스타트업이나 아케이드가 많이 있습니다. 하지만 특정 데이터를 기반으로 한 정확한 순위는 어렵습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-25,Family,"대한민국의 가족 관련 주요 공휴일에는 설날(Seollal), 추석(Chuseok) 등이 있습니다. 이들은 모두 중요한 가족 모임과 선물을 나누는 기념일로, 한국 사회에서 매우 중요하게 여겨집니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-26,Family,"대한민국에서는 일반적으로 20세가 되면 학업과 관련된 모든 의무를 완료하고, 사회생활을 시작하는 시점으로 간주됩니다. 이 때까지는 여전히 부모의 지원 아래에 있지만, 법적으로는 독립합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-27,Family,"대한민국에서는 노부모를 방문할 때 주로 선물을 준비합니다. 일반적으로는 다음과 같은 선물들이 많이 사용됩니다:
+
+1. 과일: 사과, 배 등 다양한 과일을 선물로 드릴 수 있습니다.
+2. 초콜릿: 특히 여성들에게 인기 있는 선물입니다.
+3. 음료: 차 또는 커피를 선물로 드릴 수도 있습니다.
+4. 채소류: 당근, 양배추 등 건강에 좋은 채소를 선물로 드릴 수 있습니다.
+5. 곡식류: 떡볶이 떡이나 전 등의 곡식류도 좋습니다.
+
+또한, 노부모에게 직접적인 도움을 주는 선물들도 많이 사용됩니다. 예를 들어, 가방이나 의류 등 생활에 필요한 물품을 준비하는 경우가 있습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-28,Family,"대한민국에서는 아기가 태어난 후 사람들이 처음으로 축하하는 날은 설날(Seol)입니다. 이 날에는 가족 간의团圆과 건강을 기원하며, 다양한 전통 Customs를 따르는데, 예를 들어 찬례(charye), 서배(sebae), 유 Thornton리(yutnori), 노elltwikgi(neolttwigi), 키팅(flying kite) 그리고 복경(bokjori) 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-29,Family,"대한민국에서는 Buddha's Birthday (불자일)이 가장 크게 기념됩니다. 이 날은 4월 8일로, 불교의 중요한 축제 중 하나입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-31,Education,"대한민국의 중고등학생들은 주로 집이나 공부방, 또는 학원에서 시험공부를 합니다. 하지만 개인적인 선택과 환경에 따라 위치가 다릅니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-33,Education,"죄송합니다, 이 질문에는 제가 직접 조사를 해서는 알 수 없는 정보입니다. 대한민국의 고등학생들이 저녁 식사 후에 자주 가는 장소를 정확히 알려드리기는 어렵습니다. 다양한 요인(학업 스트레스, 여가 활동 등)이 영향을 미치기 때문입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-34,Education,"대한민국의 초등학생들은 대부분 버스, 자전거 또는 부모님 차량으로 등교합니다. 또한 일부 학교에서는 교통 편의를 위해 도보로 등교하는 경우도 있습니다. 최근에는 교통 상황을 개선하기 위해 다양한 교통 수단이 활용되고 있으며, 특히 도시 지역에서는 버스와 자전거 이용 비율이 높습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-35,Education,"대한민국에서 사교육은 다양한 분야와 수준으로 이루어져 있습니다. 하지만 가장 흔하게 이용되는 사교육 분야는 학습능력 개선, 공부법 교육, 그리고 대학 입시 준비 등입니다. 특히 초등학교부터 고등학교까지 많은 학생들이 개인적인 학습 지원을 위해 사교육을 받습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-36,Education,"대한민국의 중고등학생들이 가장 많이 다니는 과목 학원은 영어, 수학 그리고 한국语입니다. 하지만 특정 순위를 제공하기 위해서는 더 구체적인 통계 데이터가 필요합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-37,Education,"대한민국의 중고등학생들이 입는 옷은 다양합니다. 하지만 일반적으로, 학생들은 학교복이나 학교 정식 의상을 입습니다. 이는 학교에서 요구하는 특정 스타일의 옷을 의미하며, 대부분의 경우 청바지와 티셔츠 또는 셔츠와 팬츠로 구성됩니다. 일부 학교에서는 여학생들이 더 예쁘게 보이도록 레스베라트루스나 스웨터를 입는 경우도 있습니다. 또한, 최근에는 학생들이 자신의 취향에 따라 다양한 옷을 선택하는 경향이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-38,Education,"대학 입시에서 가장 합격하기 어려운 전공은 개인의 취향과 관심사, 그리고 지원하는 대학의 경쟁률에 따라 다르지만 일반적으로는 의료 Science, 공학, 컴퓨터 과학 등이 상위권을 차지합니다. 하지만 이러한 정보는 정확하지 않을 수 있으므로, 구체적인 합격률은 각 대학 및 전공별로 다릅니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-39,Education,"대한민국 초등학생들이 가장 많이 배우는 악기는 피아노와 건반악기입니다. 하지만, 다양한 악기가 교육 목표에 따라 다르게 배워질 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-40,Education,"대한민국의 고등학생들이 쉬는 시간에는 다양한 활동을 즐깁니다. 주로 독서, 친구들과의 대화, 운동, 그리고 취미 활동 등을 합니다. 또한 일부 학생들은 공부를 계속하거나, 영화를 보거나 음악을 듣기도 하며, 스마트폰이나 컴퓨터를 사용해 온라인 게임을 즐기는 경우도 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-41,Education,"대한민국의 학교에서는 일반적으로 학생들이 신은 신발 종류는 다양합니다. 여름에는 티셔츠와 블라우스, 하의를 착용하고, 가을과 겨울에는 코트나 스웨터와 함께 신발을 신습니다. 특히 중학교와 고등학교에서는 학교에서 제공하는 특별한 신발인 '학교 신발'을 신는 경우가 많습니다. 이 신발은 학교 내에서만 사용되며, 학생들이 교통사고를 줄이기 위해 필요하다고 생각합니다. 하지만 최근에는 이러한 제限이 완화되고 일부 학교에서는 자유롭게 신을 수 있는 일반 신발을 선택하는 경우도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-42,Education,"대한민국의 대학 입시에서 필수 과목은 영어, 한국语(또는 한글), 수학 중 하나입니다. 다른 과목들은 학과와 전공에 따라 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-44,Education,"대한민국에서는 서울에서의 학구열이 가장 높다고 볼 수 있습니다. 수도권과 특히 서울 시내에서 공교육 비용이 상대적으로 높아지면서, 많은 가정들이 자녀들에게 좋은 교육을 받게 하기 위해 노력합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ji-ko-45,Education,"대한민국의 대학 축제에서는 다양한 활동과 행사들이 열립니다. 하지만 가장 많은 사람들이 기대하는 것은 아마도 학생들의 창작 공연, 음악회, 그리고 다양한 문화적 행사를 포함하는 다채로운 프로그램들일 것입니다. 또한, 지역 특색을 살린 축제나 전통 예술 공연 등이 인기입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-01,Sport,대한민국에서 두 번째로 인기 있는 스포츠는 축구입니다.,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-02,Sport,"대한민국에서 구기 종목 외 가장 인기 있는 스포츠로는 축구, 배구, 농구 등이 있습니다. 이러한 스포츠들은 전국적으로 널리 알려져 있으며 많은 사람들이 참여하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-09,Sport,"대한민국의 상류층에서 가장 일반적으로 인기가 있는 스포츠로는 축구와 농구가 있습니다. 특히, 남자 축구는 경제적 지위를 나타내는 중요한 요소 중 하나로 여겨집니다. 또한, 테니스도 상류 계층의 취미생활 중 하나로 인기가 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-13,Sport,"대한민국에서 가장 인기 있는 수상 스포츠는 스릴满满的 시ireum(시 ireum)입니다. 이 스포츠는 모자를 쓰고 철제 장갑을 착용한 두 사람으로 이루어지며, 서로 다른 방향으로 뛰어다니면서 상대방의 모자를 잡아당기는 경기입니다. 시ireum은 전통적인 한국 문화와 역사 속에서 중요한 위치를 차지하고 있으며, 특히 남북 간 평화 협상의 일부로도 활용되고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-14,Sport,"대한민국에서 가장 인기 있는 두뇌 스포츠로는 퀴즈나 뇌력 경쟁을 위한 다양한 게임이 있습니다. 하지만 특정 한 가지를 꼽으라면, ' crossword puzzle' 또는 'crossword'가 대표적인 예입니다. 이들은 언어 능력을 향상시키고 두뇌를 자극하는 유명한 스포츠 중 하나로 여겨집니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-18,Work life,15,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-19,Work life,"전통적으로 농업과 가장 밀접하게 연관되어 있는 지역은 경상도입니다. 경상도는 대한민국에서 가장 큰 농업 생산지 중 하나로, 특히 쌀과 옥수수 등의 작목을 많이 produces합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-21,Work life,21:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-31,Education,4:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-32,Education,"대한민국의 초등학생들은 주로 Ganggangsullae를 학교에서 배웁니다. 이 운동은 한국어 어린이 교육 과정에 포함되어 있으며, 특히 중년 여성들이 오늘날 그 기습을 유지하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-36,Education,4,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-37,Education,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-39,Education,6,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jo-sp-43,Education,2,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-01,Food,"대한민국에서는 주로 두 가지 종류의 음식叉를 사용합니다: 
+
+1. 김치 Fork (김치叉): 김치찌개나 다른 김치 요리를 먹을 때 사용됩니다.
+2. 일반 Fork (일반叉): Western-style meals이나 다양한 한국 요리에서 사용됩니다.
+
+또한, spoon과 knife도 함께 사용하며, 특히 Western-style meals에서는 이러한 세 가지 도구를 모두 사용합니다.",1,0.8
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-04,Food,"대한민국 사람들은 다양한 음료를 즐겨喝합니다. 주요 음료로는 콜라, 맥주, 과일주스, 레몬水中 등이 있습니다. 또한 최근에는 건강을 고려한 차와 커피도 인기가 많습니다. 하지만 특정 음료가 가장 좋아하는 것은 개인마다 다르지만, 일반적으로 다양한 종류의 음료를 선호합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-06,Food,"대한민국에서 가장 인기 있는 전통 술 중 하나로는 양평막걸리와 세종 섬각주가 있습니다. 이 두 종류의 막걸리는 지역 특산품으로 알려져 있으며, 양평막걸이는 특히 유명합니다. 이러한 전통 술들은 한국의 음식 문화와 깊게 연결되어 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-07,Food,4.5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-09,Food,20:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-12,Food,"대한민국 사람들은 다양한 종류의 음식과 문화를 사랑합니다. 특히 김치, 불고기, 탕 등 한국 전통 요리와 함께, 현대적인 요리를 포함하여 많은 사람들이 좋아하는 퓨전 코oks도 있습니다. 국악, 춤, 그리고 자연 경관을 즐기는 사람들도 많습니다. 또한, 다양한 종류의 책과 영화를 사랑하며, 문화 예술 활동에도 관심이 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-13,Food,"대한민국 사람들은 다양한 길거리 음식을 즐겨먹습니다. 특히 김밥, 우동, 짜장면 등은 대표적인 길거리 음식으로 인기があります. 또한 떡볶이와 김치찌개도 매우 인기가 있습니다. 그리고 요즘에는 스시나 치킨 등의 해외 음식도 길거리에서 쉽게 즐길 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-15,Food,"대한민국 사람들은 다양한 해산물을 선호합니다. 특히 김치를 만드는데 사용되는 담배鱼와 다른 유기物, 그리고 여러 가지 고기를 좋아합니다. 하지만 가장 특별히 알려진 것은 바로 김치입니다. 김치는 한국 음식의 핵심 요소로, 다양한 종류의 해산물을 사용하여 맛을 더하는 것이 일반적입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,"대한민국에서 가장 큰 축제 중 하나로는 한해中最盛大的な 축제 중 하나인 성명축제(성명절)이 있습니다. 이 축제는 3월 1일에 열리며, 대한민국의 독립을 기념하는 중요한 날입니다. 성명축제에서는 다양한 문화행사와 공연, 그리고 체육 행사들이 진행됩니다. 하지만 가장 큰 규모를 차지하는 축제로는 성명축제가 아닌 다른 축제도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,"대한민국에서 도시 간 이동 시 가장 많이 이용하는 대중교통 수단은 버스와 지하철입니다. 특히 서울 metropolitan area에서는 지하철이 넓게 퍼져 있으며, 수도권에서는 지하철과 버스를 결합한 '경 commuter' 서비스도 활발하게 운영되고 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,"대한민국에서 가장 큰 축제 중 하나로 꼽히는 한해의 시작을 기념하는 설날(Chuseok) 축제에서는 주로 백미를 의미fully 준비하고, 가족들이 모여团圆(Team-up)하며 풍요와 평화를 기원하는 장식이 많이 사용됩니다. 특히, 설날 축제에서 가장 중요한 상징은 '떡'입니다. 모든 가족 구성원이 함께 떡을 만들어 먹는 행위는 가족 간의团结(Teamwork)과 풍요로운 삶의 기원을 의미합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-37,Sport,"대한민국에서는 여성이 가장 많이 관람하게 되는 스포츠 중 하나로는 축구가 있습니다. 축구는 국민적인 취미 활동으로, 남녀노소를 막론하고 많은 사람들이 즐기는 스포츠입니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-38,Sport,"죄송합니다, 하지만 이 정보를 가지고 특정 스포츠를 정확히 추론할 수 없습니다. 대한민국 남성들의 선호하는 스포츠에 대해 구체적인 통계나 데이터가 제공되지 않았기 때문입니다. 다른 질문이나 정보가 필요하시면 알려주세요!",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"대한민국의 20대 여성들의 주요 여가 활동에는 여행, 영화 관람, 음악 공연, 커피숍에서의 시간 등이 포함될 수 있습니다. 또한 스트레칭과 요가를 통해 건강을 유지하거나 독서와 같은 개인적인 시간도 중요하게 생각합니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"대한민국의 20대 남성들의 주요 여가 활동에는 운동, 영화 관람, 음악 청취, 게임 플레이 등이 포함됩니다. 또한 여행, 취미 활동(예: 사진 찍기, 캠핑)도 인기가 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-46,Work life,4.0,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-48,Work life,"대한민국에서는 근무일에 점심 식사는 개인의 취향과 회사 정책 등에 따라 다양하게 이루어집니다. 하지만 일반적으로, 회사 규정이 있으면 그에 따르거나, 직장 내에서 자유롭게 식사를 할 수 있는 경우가 많습니다. 또한, 일부 기업에서는 근무 시간 중 점심시간을 제공하기도 합니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-50,Work life,30,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-51,Work life,"대한민국에서는 개인 자동차를 이용하는 경우가 많습니다. 하지만 지하철, 버스, 공항철도 등 대중교통을 이용하는 비율도 높습니다. 특히 서울과 같은 큰 도시에서는 대중교통이 더 편리하고 저렴하게 이용할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-54,Work life,30,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-56,Work life,60,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-57,Work life,60,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-58,Work life,"대한민국에서는 의사, 간호사 등 의료 professionals과 교사, 변호사 등 법률 professionals이 매우 존경받는 직업으로 손꼽힙니다. 그러나 문화적으로 보면, 예술가들이 특히 존경받습니다. 국악인, 작곡家, 화가, 그리고 다양한 예술ジャンル의 창작자들이 문화적 가치를 인정받고 있습니다.
+
+또한, 사회 구성원 모두가 가족과 사회에 대한 책임감을 가지고 있는 직업으로 평가되는 부모님들과 종교지도자들도 존경받는 직업입니다. 하지만 가장 일반적으로 가장 존경받는 직업은 의료 professionals와 교사로 간주됩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-60,Work life,52,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-61,Work life,"대한민국 여성들이 가장 선호하는 직업은 다양합니다. 그러나 2025 사회조사에서 대졸 이상의 13-34세 연령 그룹이 선호하는 직장 형태로는 대기업, 정부 기관, 공공기관 순으로 나타났습니다. 이 조사 결과를 통해可以看出，大企業、政府機構和公營機構是年輕女性最偏好的職業類型。",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Jod-ch-62,Work life,"대한민국 남성들이 가장 선호하는 직업은 대기업, 정부 기관 순으로 선택한다고 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-17,Education,대한민국의 평균적인 학생들이 일반적으로는 고등학교를 졸업하고 나서야 교육을 마치게 됩니다.,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-24,Education,"대한민국의 학교에서는 한국어를 기본으로 하며, 중학생 때부터 영어와 수학을 시작으로 다른 외국어들도 선택적으로 배울 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-30,Education,대한민국의 학교는 주로 토요일과 일요일을 쉬어갑니다. 하지만 이는 지역이나 학교 종류에 따라 다릅니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-32,Food,"대한민국에서는 집에 손님이 온다고 하면, Chuseok(추석)이 가장 특별히 문화적으로 의미 있는 날입니다. 이날에는 가족들이 조상에게 음식을 제물로 바치며, 무량토막을 찾아가祭拜합니다. 또한, 가족들은 함께 식사를하며 서로의 건강과 행복을 기원합니다.
+
+Chuseok에 대한민국에서는 특별히 준비하는 음식으로는 다음과 같은 요리들이 있습니다:
+
+1. 송편 (Songpyeon)
+2. 찹쌀cakes (Japchae)
+3. 나물 (Namul) - 다양한 재료로 만든 야채 요리
+4. 잔치국수 (Jeon) - 여러 재료가 들어간 국수 형태의 요리
+5. 과일
+
+이 외에도 개인적인 취향에 따라 다른 음식을 준비할 수 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-34,Food,"대한민국 사람들은 보통 아침 식사 때 우유, 달걀 노烧, 또는 빵과 함께 커피를 마십니다. 하지만 이는 지역性和 개인의 취향에 따라 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-36,Food,"대한민국의 음식은 세계적으로 매우 유명합니다. 특히 김치, 불고기, 짜장면 등은 한국을 대표하는 음식으로 알려져 있습니다. 하지만 최근에는 외국인들이 더 다양한 한국 음식에 관심을 가질 수 있도록 노력하고 있습니다. 예를 들어, 일식과 중식처럼 전 세계적으로 인기가 많은 다른 나라의 요리와는 다르게, 대한민국의 음식은 그 자체로 독특한 맛과 문화적 배경을 가지고 있어 외국인들에게 매력적인 선택이 되고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-39,Food,"대한민국에서는 가족 소풍 때 주로 준비하는 음식 중 하나로는 죽과 김치가 있습니다. 또한, 따뜻하고 간단하면서도 맛있는 음식들이 많습니다. 예를 들어, 양념된 고기와 야채, 과일 등이 일반적으로 소풍 때 제공됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-40,Food,"대한민국의 음식 중 일부가 외국인들에게 혐오스러워질 수 있는 경우가 있습니다. 예를 들어, 불법어류(특히 멍게)와 불법어류 요리가 일부 외국인들에게 부적절하다고 느껴질 수 있기 때문입니다. 또한 특정 음식에 대한 민족주의나 정치적인 오해도 있을 수 있습니다. 하지만 이러한 경우는 매우 개인적이며, 일반적으로 한국 음식은 다양하고 맛있으며 많은 사람들로부터 사랑받습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-43,Food,"대한민국에서는 다양한 종류의 빵이 있습니다만, 특히 '팥빵'과 '떡볶이빵'이 인기가 많습니다. 팥빵은 겨울철에 특히 인기 있으며, 떡볶이빵 또한 요즘 유행하는 음식으로 많이 먹힙니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-51,Work life,22:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ki-pe-53,Work life,20:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-01,Holidays/Celebration/Leisure,"대한민국에서 가장 기간이 길게 지정된 공휴일은 설날(Seollal)입니다. 설날은 3일 동안 진행되며, 이 기간 동안 많은 사람들이 귀향하여 치례(charye), 세배(sebae), 천궁(tteokguk)을 즐기고, 함께 어울리는 다양한 민속놀이(yunnori, neolttwigi)를 즐깁니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"대한민국에서는 광복절을 기념하기 위해 주로 제례礼仪 (charye)와 세바예 (sebae), 천국떡국 (tteokguk) 등의 음식을 먹으며, 가족과 함께团圆 (tteunyeo)하는 활동이 흔합니다. 또한, 이날에는 전통놀이如仁樂 (yunnori와 neolttwigi)를 즐기는 등 가족 간의 소통과团圆을 강조합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-04,Holidays/Celebration/Leisure,"대한민국에서는 가족 구성원이 사망했을 때, 일반적으로는 가족의 침실에서 사용했던 소품이나 특별히 의미 있는 물건들을 집 앞에 두곤 합니다. 이는 가족과의 추억을 상기시키며, 앞으로도 그들이 함께 살았음을 상징화하는 방식입니다. 하지만 특정 물건이 명시적으로 두어지는 것은 아니며, 지역이나 개인의 문화적 관습에 따라 다릅니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"대한민국에서는 임신 축하 행사는 주로 임신 16주 이후부터 출산 후 약 한 달 정도까지 다양한 형태로 진행됩니다. 가장 일반적인 날짜는 임신 20주가 되는 날이나 출생 예정일을 기념하는 경우가 많습니다. 이러한 행사는 가족, 친구, 또는 직장에서 함께 증상을 축하하고 응원합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-06,Holidays/Celebration/Leisure,"대한민국에서는 결혼식 전에 ""향연"" 또는 ""향례""라고 불리는 중요한 이벤트가 있습니다. 이 행사는 신부와 신랑의 가족들이 함께 참여하며, 신부의 부모님과 형제자매, 그리고 남편의 가족 등이 참석합니다. 향연에서는 다양한 축하 음식을 즐기고, 특별히 준비된 음악과 춤으로 신부와 신랑에게 축복을 보내는 시간입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-07,Holidays/Celebration/Leisure,"설날에는 아이들에게 음식 선물을 준비하고, 특히 '차례상'에서 다양한 곡식과 함께 '채례'를 통해 아_sibling들과의 관계를 strengthen하며, '별빛 술'과 같은 전통 음료를 마시며 가족 간의 따뜻한 분위기를 만듭니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"대한민국 사람들은 라마단이 시작되기 몇 일 전부터 제수를 준비합니다. 제수는 신년의 가장 중요한 기념일 중 하나로, 가족들과 함께 시간을 보내며 음식을 나눕니다. 이 시기에 주로 준비되는 것은 다양한 종류의 쌀밥과 채소 요리 등입니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-10,Holidays/Celebration/Leisure,"대한민국의 관광 명소 중 가장 인기 있는 곳은 여러 가지입니다. 하지만 특히 유명하고 많은 외국 관광객들이 찾는 곳으로는 다음과 같은 장소들이 있습니다:
+
+1. 서울: 대한민국의 수도이자 최대 도시로, 다양한 문화적 경관과 현대적인 시설을 볼 수 있는 곳입니다.
+2. 부산: 해변과 전통 건축물로 유명하며, 특히 해운대와 해미 등에서 관광객들이 많이 찾습니다.
+3. 제주도: 아름다운 바다와 섬 경관으로 인해 많은 외국 관광객이 방문합니다.
+4. 경상북도의 울릉군과 무안군: 자연 환경이 풍부하여 해양 스포츠와 자연 체험을 즐길 수 있는 곳입니다.
+
+그러나 가장 인기 있는 명소는 지역마다 다르며, 방문 계절이나 개인 취향에 따라 달라집니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-11,Holidays/Celebration/Leisure,"대한민국에서 관광객들에게 가장 유명하고 인기 있는 종교적 장소는 경상북도 울산시의 부처입니다. 이곳은 대한민국 최古老的 불교 명승 중 하나로, 1300년 전부터 존재하는 것으로 추정됩니다. 부처에는 다양한 불상을 모아놓았으며, 특히 대웅전과 석굴암이 유명합니다. 이 장소는 역사와 문화를 체험할 수 있는 좋은 곳으로, 많은 관광객들이 찾고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-15,Holidays/Celebration/Leisure,"대한민국에서는 여성이 일반적으로 졸업식에 입는 옷은 학생복입니다. 이 학생복은 각 대학이나 고등학교의 특성과 맞추어 제작되며, 종종 청바지와 티셔츠 또는 카라무스를 포함합니다. 또한 일부 경우에서는 더 예찬하게 보이는 옷을 입기도 하지만, 대부분의 경우 학생복이 졸업식에서 주로 사용됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-16,Food,"대한민국에서는 추운 날씨를 대비해 다양한 따뜻하고 달콤한 음료들이 인기입니다. 주요 음료로는 다음과 같은 것을 들 수 있습니다:
+
+1. 초콜릿 커피: 뜨거운 커피에 설탕과 초콜릿을 추가하여 만드는 음료입니다.
+2. 우유: 따뜻한 우유를 마시면 몸이 따뜻해집니다.
+3. 녹차 차: 녹차를 따뜻하게 마셔 건강에도 좋습니다.
+4. 레몬차: 레monsauce와 함께 마시는 레몬차가 추운 날씨에 특히 인기가 있습니다.
+
+추운 날씨에는 이러한 음료들이 많이 즐겨 먹히며, 따뜻함을 느끼고 몸을 сог持합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-17,Food,"죄송합니다, 하지만 라마단 기간과 관련된 과일 판매 증가 또는 흔 finding이 대한민국에서 공식적으로 확인되지 않았습니다. 라마단 기간 동안 한국에서는 일반적으로 무(locally known as ""apple"" in Korean)와 같은 주요 과일들이 팔리고 있습니다. 하지만 특정 과일의 판매 증가 또는 흔 finding은 없습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-24,Food,대한민국 사람들이 패스트푸드점에서 치킨과 함께 가장 자주 먹는 탄수화물은 밥입니다. 또한 파스타와 같이 다양한 곡식류도 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-31,Sport,"대한민국에서 가장 잘 알려진 무술 중 하나로는 택inkyeon(跆拳道)이 있습니다. 이 무술은 주로 축농 tradition와 연관되어 있으며, 사회적 통합과 공공 건강을 촉진하는 데 사용됩니다. 현재 50명 정도의 인정받은 실천자들이 있고, 한국택inkyeon협회가 전수를 담당하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-34,Sport,"대한민국의 공영방송에서 자주 중계되는 스포츠로는 축구, 농구, 배구 등이 있습니다. 또한 테니스와 같은 국제적으로 알려진 종목도 종종 중계됩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-35,Sport,"During the period of the COVID-19 pandemic, weekly sports participation in South Korea was highest for people aged 70 and older at approximately 59.5%.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-36,Sport,对不起，我目前无法提供关于韩国足球教练最新排名的信息。如果您需要了解最新的信息，建议查阅最近的体育新闻或官方网站以获取准确数据。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-37,Sport,"대한민국에서는 여러 축구팀들이 라이벌 관계를 가지고 있습니다. 예를 들어, 서울 맨유와 울산 현대로의 경쟁은 꾸준히 관심을 받고 있습니다. 하지만 특정 팀들의 모든 경쟁이 라이벌 관계임을 강조하지는 않습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-38,Sport,"대한민국에서 치열한 라이벌로 유명한 축구 팀들의 팬클럽 이름은 ""___ 대 ___""과 같이 서로 경쟁하며 팬들을 모으는 경우가 많습니다. 예를 들어, 서울 맨유 팬클럽은 'ManUtd Seoul'으로, FC서울 팬클럽은 'FC서울FC'으로 불립니다. 하지만 특정 팀 간의 팬클럽 이름을 말씀해 주시면 더 정확한 답변을 드릴 수 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-40,Sport,"대한민국에서 가장 유명한 남자 배드민턴 선수는 김건희(金根熙) 선수가 아닙니다. 현재 대한민국에서 가장 유명하고 성공적인 남자 배드민턴 선수로는 이재원(李在原), 정우성(鄭宇成), 그리고 최영준(崔永俊) 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-41,Sport,"대한민국에서 가장 유명한 여자 배드민턴 선수는 김연아 선수가 아닐까 합니다. 하지만 현재 가장 활약하고 인기 있는 선수로는 이규영, 김효진 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-44,Sport,대한민국에서 정부로부터 가장 많은 지원을 받는 스포츠는 축구입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Kik-in-45,Sport,"대한민국의 학교에는 다양한 종류의 스포츠 경기장을 찾을 수 있습니다. 특히, 체육관과 축구장, 농구 court 등 주요 스포츠를 위한 공간들이 많이 설치되어 있습니다. 또한 일부 초등학교에서는 스시름(Ssireum) 경기장도 운영하고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-02,Food,"대한민국 사람들이 가장 즐겨 마시는 카페 음료는 루테인 (Rutain)이라고 합니다. 이는 커피와 우유를 혼합하여 만든 음료로, 한국의 대표적인 카페 음료 중 하나입니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-04,Food,"대한민국에서는 다양한 해장 음식들이 있습니다. 주로 쌀飯과 함께 먹는 음식들이 많습니다. 예를 들어, 김치찌개, 된장찌개, 비빔밥 등이 인기입니다. 또한, 각 지역의 특산물이나 재료에 따라 지역별로 다양한 해장 음식이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-05,Food,"대한민국에서는 다양한 지역 특색과 맛있는 음식들이 있습니다. 배달음식으로는 서울의 부대찌개, 인천의 간장게장, 울진의 한우불고기 등이 유명합니다. 또한 경기도의 강릉 챠dlgali와 양양 삼계탕도 인기가 좋습니다. 이러한 음식들은 각 지역의 특성과 맛을 잘 보여주며, 많은 사람들이 좋아하는 배달음식으로 사랑받고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-07,Food,대한민국 사람들은 돼지고기와 닭고기를 가장 많이 소비합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-08,Food,대한민국 사람들은 가을철에 사과와 배를 많이 먹습니다. 이 두 가지 과일이 가을의 대표적인 과일로 알려져 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-09,Food,"대한민국 식탁에서 가장 흔하게 볼 수 있는 반찬으로는 김치, 된장찌개, 두부찌개 등이 있습니다. 이러한 음식들은 한국의 전통적인 요리 문화와 깊게 연관되어 있으며, 다양한 지역마다 특색있는 변형을 보이고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-11,Food,"대한민국 사람들은 축구 경기 시 종종 팬들이 음식점을 방문해 다양한 음식들을 즐깁니다. 특히, 맥주와 함께 소주 또는 라면 등도 인기 있습니다. 하지만 특정 음식은 없습니다.",1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-15,Food,"대한민국의 대표적인 보양식 중 하나로는 'samgyetang' (삼계탕)이 있습니다. 이는 닭고기와 Ginseng( Ginseng,人参), 당근 등을 넣어 만든 한약膳으로, 여름철에 특히 인기가 있으며, 건강을 돕는 음식으로 알려져 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-16,Sport,"Sorry, but I don't have the information about the most famous soccer player in South Korea or a relevant background on that topic. My focus is on providing helpful responses based on available data and my training, not on current events or specific individuals unless they are part of the provided context. For up-to-date information on sports figures, it would be best to check recent news sources.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-17,Sport,"죄송합니다,但这似乎是一个不合适的或不合适的问题。我不能提供关于特定学生群体的活动的具体信息，特别是关于男生在午餐时间喜欢的体育活动。我可以分享一些有关韩国学校文化的信息，比如学生们在学校通常会参与哪些课外活动或者学校教育的重点领域等。如果您有其他相关问题，我很乐意回答！",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-18,Sport,"대한민국의 체육 수업에서 여학생들이 가장 많이 하는 스포츠 중 하나로는 축구와 농구가 있습니다. 또한, ssireum(사기)도 주요 체육 활동으로 포함되곤 합니다. 하지만, 직접 질문하신 'ganggangsullae'라는 스포츠는 대한민국의 체육 수업에서 여학생들이 가장 많이 하는 스포츠로는 해당되지 않습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-19,Sport,"Sorry, but I don't have the information about the most popular volleyball player in South Korea at this moment. My focus is on providing accurate and up-to-date information based on my training data, and as of my last update, there isn't specific data available regarding the popularity of a particular volleyball player in South Korea. For such current or trending information, it would be best to check recent sports news sources.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-20,Sport,"대한민국 사람들이 국제 대회에서 가장 열정적으로 응원하는 스포츠 종목 중 하나는 축구입니다. 축구는 대한민국의 국민 스포츠로 여겨지고 있으며, 다양한 국제 대회에서도 높은 관심을 받고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-22,Sport,대한민국의 가장 큰 축구 라이벌은 중국으로 여겨집니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-23,Sport,"대한민국의 경우, 아이들이 가장 많이 다니는 스포츠 학원은 여전히 다양합니다. 하지만 일반적으로 인기 있는 종목으로는 축구, 배드mint, 야구, 테니스 등이 있습니다. 각 지역과 시기에 따라 선호도가 달라질 수 있으므로 특정 학원을 꼽기는 어렵습니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-24,Sport,"죄송합니다, 하지만 이 정보를 가진 답변을 드리기 어렵습니다. 대한민국의 스포츠 경기장에서 가장 많이 먹는 음식에 대해 구체적인 통계나 데이터가 없어 제가 정확한 답을 제공하기 어렵습니다. 다양한 음식이 있지만, 특정 음식이 가장 많이 먹히는 것은 아니라고 생각합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-25,Sport,"대한민국의 학교 운동회에서는 다양한 종류의 경기가 열립니다. 주요 경기로는 축구, 농구, 배구 등 스포츠 경기가 있으며, 또한 탑 클라이밍, 도전형 경기 등 체육관에서 즐기는 게임도 있습니다. 하지만 가장 대표적인 경기는 축구와 농구입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-26,Sport,"대한민국의 중년층에게 인기 있는 스포츠는 여러 가지가 있습니다. 하지만 주요 활동으로는 축구와 배구가 꽤 많은 사람들에게 사랑받고 있습니다. 또한, 요가와 테니스도 중년층에서 인기가 높습니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-28,Sport,"대한민국에서 가장 인기 있는 동계 스포츠는 설날 축제 중 하나인 ssireum입니다. 이 스포츠에서는 성인이 최종 대회에서 우승한 선수가 양(농업의 부재를 상징하는 동물)을 타고 시골로 치달아 다니며, 그 과정에서 'jangsa'라는 별명을 얻습니다. 이 스포츠는 유네스코 세계문화유산으로 지정되어 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-29,Sport,"Sorry, but I don't have information on the most famous swimmer in South Korea or any sports-related topics as my training data only goes up until 2021 and doesn't include recent events. My main focus is to provide helpful responses based on the background information provided about South Korea's cultural practices. If you have questions related to that specific information, I'd be happy to help!",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-30,Sport,"대한민국에서는 현재로썬 가장 인기 있는 e스포츠 게임으로는 Counter-Strike: Global Offensive (CS:GO), League of Legends (LoL), 그리고 Dota 2 등이 있습니다. 하지만 이들 중에서 가장 널리 알려져 있고 인기가 높은 것은 LoL입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-33,Holidays/Celebration/Leisure,대한민국 사람들은 설날에 상징적으로 밥과 쌀cakes인 소떡소락을 먹습니다. 이 외에도 다양한 전통 요리와 함께 합니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-37,Holidays/Celebration/Leisure,"대한민국 사람들이 가장 인기 있는 국내 휴가지는 여전히 varies depending on the time of year and personal preferences, but some popular destinations include Jeju Island, Busan, Seoul, Gyeongju, and Jeonju. These places offer a variety of experiences from natural beauty to cultural attractions.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-38,Holidays/Celebration/Leisure,대한민국에서는 신랑과 신부가 주고받는 가장 흔한 예물로는 '꽃'이 있습니다. 특히 꽃束(송편)이나 꽃다발이 많이 사용됩니다. 하지만 개인의 선택에 따라 다양한 물품을 선물하는 경우도 많습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-39,Holidays/Celebration/Leisure,"대한민국에서는 결혼식에 참석할 때, 친구가 선물로 주는 가장 일반적인 선물 중 하나는 화장품입니다. 특히 여름이나 가을에 맞춰 사용하기 좋은 제품들이 많이 있습니다. 또한 과일박스나 채소박스도 인기 있는 선택입니다. 하지만 결혼식마다 다르므로, 친구가 직접 선호하는 것을 선택하는 것이 좋습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"When attending a funeral in South Korea, it's important to prepare with respect and sensitivity. Here are some key items you might consider bringing:
+
+1. Flowers: Bringing flowers is a common gesture of condolence.
+2. Food: A traditional gift would be a small box of cookies or rice cakes (tteokbokki), which symbolize the hope for a better future.
+3. Money: It's customary to bring money as an offering, though it should not exceed 100,000 won (approximately $85 USD).
+4. Handwritten message: A condolence note or card can be very thoughtful and appreciated.
+
+It's also important to follow local customs and etiquette during the funeral service itself. If you're unsure about specific practices, it might be helpful to ask someone familiar with South Korean culture for guidance.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"죄송합니다, 하지만 대한민국의 장례식장에서 특정 음식이 공통적으로 제공되는 것은 일반적인 관행이 아닙니다. 각 지역이나 가정에 따라 다양한 음식이 준비될 수 있습니다. 대신 한국 장례식에서 보통 사용되는 음식들을 알려드리겠습니다:
+
+1. 생rosting (생rosting)
+2. 죽 (죽)
+3. 김치 (김치)
+4. 전 (전) 또는 잔치국수 (잔치국수)
+5. 양념된 돈육 (돈육)
+6. 다양한 샌드위치와 파스타류
+
+또한, 장례식장에서 제공되는 음식은 참석자들의 선호도에 따라 다릅니다. 가족이나 친구들이 좋아할 것으로 예상되는 음식을 준비하는 것이 일반적입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"대한민국 사람들은 설날(Chinese New Year) 아침에 부库리 (bokjori)를 먹습니다. 이 음식은 떡볶이와 비슷하지만, 특별히 설날에만 제공되는 전통적인 음식입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-44,Holidays/Celebration/Leisure,"죄송합니다, 하지만 특정 날짜로 정해진 '교통 체증이 가장 심한 날'이라는 개념이 대한민국에서는 존재하지 않습니다. 교통 체증은 주로 특정 시간대 또는 특정 지역에서 발생할 수 있으며, 이는 다양한 요인에 따라 달라집니다. 예를 들어, 대학 시즌이나 공휴일, 그리고 특히 금요일 오후와 토요일 아침이 교통체증이 심한 경우가 많습니다. 이러한 현상을 정확히 예측하거나 특정 날짜로 규정하는 것은 어렵습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Na-ko-45,Holidays/Celebration/Leisure,"대한민국에서 가장 인기 있는 신혼여행지는 여러 지역으로 알려져 있습니다. 서울, 부산, 제주 등이 주요 명소로 꼽힙니다. 각 지역마다 특색있는 관광지와 문화를 즐길 수 있으므로, 여행객들은 자신에게 맞는 장소를 선택할 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,"대한민국에서 가장 중요한 국경일로는 설날(Seollal)과 추석(Chuseok)이 있습니다. 이 두 날 모두 가족들이 모여团圆을 하며, 다양한 전통 의식과 게임을 즐깁니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"대한민국 사람들은 라마단 기간 동안 일반적으로 식사 시간인 해루와 해루 이후의 길이를 준다. 즉, 라마단 기간 중에는 절식을 하는 것이 일반적입니다. 하지만 이는 개인의 종교 belief에 따라 다릅니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"대한민국 사람들은 이드 알피트르에서 다양한 한국 음식을 즐깁니다. 특히, 이드 알피트르는 세계 각지의 문화를 체험할 수 있는 장소이기 때문에 한국 요리도 다양하게 제공되고 있습니다. 대표적인 한국 음식으로는 김치찌개, 불고기, 두부찌개, 탕수육 등이 있습니다. 또한, 현지에서 직접 구운 밥과 함께 먹으면 더욱 맛있을 것입니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"대한민국 사람들은 겨울的第一个重要节日 ""설날"" (Seollal)이나, 연말부터 시작되는 겨울 kimchi 제조 과정에서 가족과 인척, 친구들이 함께 참여하는 ""겨울 김치 만들기"" 때에 이드 알아드를 먹습니다. 이드 알아드는 한 해의 막을 여는 중요한 날이며, 이날은 사람들을 방문하고 조상 묘터를 찾아가는 등 다양한 행사를 즐깁니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,"대한민국 사람들은 새해 첫날, 즉 설날(Seol)을 기념하기 위해 대개 집에서 보내거나 친구와 가족과 함께 즐기는 풍습이 있습니다. 이 날에는 다양한 음식을 먹고, 가족 간의 사랑과 관심을 표현하며, 새해 복 많이 받기를 바라는 마음으로 서로 축하합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"대한민국 가족들은 이드 축제를 위해 대개 집에서 또는 친구들의 집에서 모입니다. 하지만, 일부 지역에서는 공원이나 도심 근처에서 이드 축제의 장을 마련하여 가족들과 함께 즐기는 경우도 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-16,Work life,대한민국의 주말은 토요일과 일요일입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-17,Work life,대한민국에서는 일반적으로 아침 07:00부터 일하기 시작하는 경우가 많습니다. 하지만 시간표와 업종에 따라 이 시간은 약간 변동될 수 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-18,Work life,"대한민국에서는 직장인들의 정규 근무 시간 종료 시간은 지역과 업종에 따라 다르지만 일반적으로 오후 6시 또는 7시가 대체로 퇴근 시간입니다. 따라서 대부분의 사람들은 18:00에 퇴근하는 경우가 많습니다. 하지만 이는 예외적인 경우이며, 정확한 근무 시간은 직장인 각각에게 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-20,Work life,在韩国，被认为稳定的职业通常包括医生、教师、公务员和工程师等。这些职业往往具有较高的社会地位和稳定的收入来源。此外，银行职员、会计师和律师等金融相关职位也常被视为相对稳定的选择。当然，具体的职业稳定性也会因个人背景、行业趋势和个人努力等因素而有所不同。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-24,Work life,대한민국의 주요 상업 중심지는 서울입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-25,Work life,"죄송합니다, 하지만 현재의 데이터로 특정 산업 종사자의 평균 급여를 정확히 알려드릴 수는 없습니다. 대한민국의 각 산업별 최고급여 직종은 시점과 경제 환경에 따라 변동될 수 있으며, 이 정보는 실시간으로 업데이트되는 데이터베이스나 통계청 등의 공식 자료를 통해 확인할 수 있습니다.
+
+대신 몇 가지 일반적인 패턴을 알려드리겠습니다:
+
+1. IT 및 제조업: 특히 AI, IoT 등 신기술 분야에서 고급 인력의 급여가 상대적으로 높습니다.
+2. 의료 및 보건 분야: 전문직 종사자들의 평균 급여는 일반적인 산업보다 높습니다.
+3. 금융 및 투자 분야: 특히 대기업이나 글로벌 금융 기관에서 근무하는 직원들의 급여가 상대적으로 높습니다.
+
+이러한 정보를 바탕으로 특정 산업 종사자의 평균 급여를 예측할 수 있지만, 정확한 답변을 드리기 위해서는 최신 통계 자료를 참조해야 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-26,Work life,"대한민국에서 가장 유명한 공기업 중 하나로는 한국石油公社 (KOGAS)과 대한석유공사 (DOSCO)가 있습니다. 하지만, 가장 널리 알려진 공기업으로는 삼성그룹이 광범위하게 인식되고 있습니다. 삼성그룹은 전기전자, 의약품, 건설, 패션 등 다양한 분야에서 세계적으로 유명한 기업입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-31,Food,"대한민국에서 가장 유명한 음식으로는 김치, 불고기, 탕수육 등이 있습니다. 하지만 가장 대표적인 음식 중 하나로는 김치를 꼽을 수 있습니다. 김치는 한국의 전통음식 중에서도 가장 널리 알려져 있으며, 다양한 요리를 맛볼 때 기본으로 사용되는 음식입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-32,Food,"대한민국에서는 일반적으로 아침에는 뷔페식, 즉 다양한 음식들을 선택할 수 있는 형태의 식사를 합니다. 또한, 아침에 밥과 김치를 함께 먹는 '김밥', 혹은 과일과 커피로 아침을 시작하는 사람들이 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-33,Food,12:00,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-34,Food,대한민국의 식사에서 kimchi가 일반적으로 없어서는 안 되는 중요한 요소입니다.,1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-36,Food,"대한민국의 축제 중 하나인 추석(Chuseok)에서는 다양한 전통음식이 준비되어 먹힙니다. 주요 음식으로는 송편(songpyeon), 찬(japchae), 나물(namul), 잔치국밥(jeon)과 과일 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-37,Food,"대한민국에서는 해외 방문객들에게 주로 추천하는 과일 중 하나는 사과입니다. 사과는 건강에 좋으며, 다양한 맛과 크기의 사과가 있어 개인의 취향에 맞게 선택할 수 있습니다. 또한, 사과는 한국 전통 음식인 김치와 잘 어울리는 과일로도 알려져 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-38,Food,"대한민국에서 Chuseok(추석)이라는 날에는 가족들이ancestor들 앞에 음식을 제시합니다. 자선 음식으로는 송편, 찹쌀cakes, 나물, 잔치국수와 과일 등이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-39,Food,대한민국에서 가장 저렴하게 판매되는 패스트푸드는 일반적으로 김밥과 파스타류입니다. 이 두 종류의 음식은 재료 비용이 낮아 가격이 비교적 저렴합니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-43,Food,"대한민국에서는 차와 함께 다양한 음식들을 곁들여 먹습니다. 특히, 김치찌개, 돈까스, 불고기 등과 같이 국수류와 함께 즐기는 경우가 많습니다. 또한, 차를 마시면서 과일이나 채소를 추가로 섭취하는 경우도 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ne-ar-44,Food,"대한민국에서는 커피를 음료로 즐기는 사람들이 많지만, 곁들인 음식은 다양합니다. 일반적으로는 초콜릿이나 우유가 많이 사용되며, 라면과 함께 마시는 경우도 있습니다. 하지만 특정 음식과 함께 커피를 먹는 것은 지역性和 개인적인 취향에 따라 다르므로 정확한 답변을 드리기는 어렵습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-02,Food,"대한민국에서는 다양한 지역과 문화가 복잡하게交织되어 있으며, 가장 인기 있는 전통 음식은 지역마다 다르지만, 김치와 된장찌개는 특히 널리 알려져 있습니다. 이 두 음식 외에도 한국 전통음식은 매우 다양합니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-04,Food,"대한민국에서 가장 인기 있는 찍어먹는 소스로는 장(醬)이 있습니다. 장은 고추장, 채소장, 해물장 등 다양한 종류로 만들어져 있으며, 한국 음식의 기본 소스로서 사용됩니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-08,Food,"대한민국에서 기독교인들의 금식 기간에는 종교적 이유로 대부분 음식을 먹지 않습니다. 대신, 이 기간 동안 많은 사람들이 건강에 좋은 음식들을 섭취합니다. 일반적으로는 채소와 과일, 냉면 등이 흔히 섭취됩니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-15,Food,"대한민국에서 산후에는 다양한 음식들이 있습니다. 주요 음식으로는 소고기와 돼지고기를 이용한 요리, 특히 삼겹살과 불고기가 많이 먹힙니다. 또한 삶은 계란이나 쌀밥도 인기입니다. 이러한 음식들은 산후 회복을 돕고 영양소를 공급하는 데 도움이 됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-27,Sport,"죄송합니다, 하지만 현재 대한민국에서 가장 인기 있는 여성 스포츠 선수에 대해 특정 이름을 제공하기 어렵습니다. 스포츠의 인기는 연도별로 변동되며, 다양한 종목과 선수들 사이에서 변화가 발생할 수 있습니다. 최신 데이터를 확인하거나 스포츠 매체를 통해 가장 최근의 정보를 찾아보시는 것이 좋을 것 같습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-34,Education,대한민국의 초등학생들은 주로 학교에서 시험 준비를 합니다. 하지만 일부 학생들이 집에서도 또는 외부培训班에서 추가적으로 공부하는 경우도 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-41,Education,"대한민국의 경우, 고등학교 1학년이 처음으로 전국 단위 시험인 수능(대학入学시험)을 친다고 볼 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-53,Work life,"대한민국에서 커피/차 삶사를 잘 하는 주요 지역 중 하나는 경기도의 과천입니다. 과천에는 다양한 차와 커피 브랜드들이 있습니다. 또한 서울특별시에서도 많은 차와 커피 매장이 있으며, 특히 강남구와 서초구에서는 세계적인 브랜드들이 많이 입점하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-54,Work life,"대한민국에서 축산업으로 유명한 지역 중 하나로는 경상북도의 울릉군과 부산광역시의 울산시 등이 있습니다. 이들 지역들은 다양한 종류의 해양축산물, 특히 어养殖物를 생산하며, 그들의 특산품인 고등어와 같은 해산물을 세계적으로 소비자들에게 알리고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-59,Work life,"죄송합니다, 하지만 이 정보가 현재 대한민국의 현실과 일치하지 않습니다. 대한민국에서는 사막이 존재하지 않고 대부분의 사람들이 도시와 농촌에서 생활하고 있습니다. 또한 특정 직업을 가진 사막居民에 대한 데이터도 없습니다.
+
+대한민국은 주로 도시화된 사회이며, 다양한 산업과 부문에서 일합니다. 주요 직업 분포는 다음과 같습니다:
+
+1. IT 및 제조 업계
+2. 금융 및 은행 시설
+3. 의료 서비스와 보건
+4. 교육 및 연구 기관
+5. 건강 및 환경 관련 산업
+
+또한, 최근에는 신기술과 디지털 혁신 분야에서 많은 일자리가 창출되고 있습니다.
+
+사막에 사는 사람들의 직업은 현재 대한민국의 현실과 맞지 않습니다. 이 질문이 특정 시나리오 또는 가상 세계를 묘사하는 것인지 확인해 주시면 감사하겠습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-60,Work life,"대한민국에서는 자동차가 일반적인 교통 수단으로 사용됩니다. 또한 버스, 트램, 지하철 등도 널리 이용되고 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-72,Family,"대한민국에서 아이들에게 가장 인기 있는 만화책은 다양합니다. 하지만 최근에는 ' supernovea ', ' 웹toon ' 등의 작품들이 특히 인기가 있습니다. 이러한 만화들은 다양한 주제와 캐릭터를 가지고 있어, 아이들의 관심을 끌고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-73,Family,"Sorry, but based on the information provided and available data up to my last update in 2023, I don't have specific details about which YouTube channel is most popular among Korean children. The cultural landscape can change over time, so for an accurate answer today, it would be best to check current sources or surveys.
+
+However, if you're looking for a general idea of what might be popular in South Korea, some channels that are known for engaging content and have a wide following include:
+
+- ""Kpopera"" (K-pop)
+- ""Squid Game Official""
+- ""The K-Beauty Channel""
+
+These are just examples and not necessarily the most popular among children. For precise information, checking recent surveys or ratings would be necessary.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-74,Family,"대한민국에서 가장 인기 있는 토크쇼는 ""유재석의 티격태격""입니다. 이 프로그램은 유명 진행자 유재석이hosts로, 다양한 주제와 참가자들을 통해 재미있는 대화를 자아내며 많은 시청자를 끌고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-77,Holidays/Celebration/Leisure,"대한민국에서 가장 유명하고 중요한 종교적 명절은 설날(Seollal)입니다. 이 날은 한국의 대표적인 연휴로, 가족들이 집으로 돌아와서 치례(charye), 세배(sebae), 천왕떡(tteokguk)을 먹으며 함께 즐기는 시간이 됩니다. 또한, 설날에는 부모님에게 세배를 하고, 동생들에게는 칭찬을 드리는 등 가족 간의 사랑과 감사함을 표현하는 기회가 되기도 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-81,Holidays/Celebration/Leisure,5,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-am-83,Holidays/Celebration/Leisure,"대한민국에서 가장 인기 있는 전통 악기는 불琶( pansori )입니다. 이는 17세기에 발달한 극적인 시吟歌로, 한 vocalist과 드럼만이 참여합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-01,Food,"대한민국에서는 다양한 농산물을 produces, 하지만 주요 농산물로는 쌀, 야채류(당근, 당배 등), 과일(사과, 배 등), 그리고 여러 종류의 해物들이 있습니다. 이러한 농산물들은 국내 소비뿐만 아니라 세계 시장에서도 중요한 역할을 하고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-02,Food,"대한민국에서 밀가루로 만든 음식 중 가장 인기 있는 음식으로는 김밥과 김치찌개가 있습니다. 두 음식 모두 매우 일반적이고 대중적인 요리입니다. 김밥은 간단하면서도 다양한 재료와 조합을 통해 개인의 취향에 맞게 변형할 수 있으며, 김치찌개는 한국 전통음식 중 가장 널리 알려진 요리 중 하나로, 가족과 친구들과 함께 즐기는 대표적인 음식입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-05,Food,"대한민국에서 손님에게는 종종 차를 나atively 제공합니다. 특히, 초겨울이나 겨울에는 뜨거운 차인 '녹차' 또는 '팥빙수'가 인기입니다. 또한, 한국의 전통 음료 중 하나인 '청량绿茶'도 손님들에게 선물하기常见합니다. 하지만 특정 음료는 집마다 다르며, 개인의 취향과 상황에 따라 달라집니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-07,Food,"대한민국에서 인기 있는 생선 요리로는 '물회'와 '삼겹살'이 있습니다. 하지만 가장 대중적인 생선 요리는 개인의 취향과 지역에 따라 다르지만, 일반적으로 '물회'가 더 높은 인기를 누립니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-14,Food,"비가 올 때, 한국에서는 따뜻한 음식들이 대세입니다. 특히, 따뜻한 국수인 김치전이나 따뜻한 차를 즐기는 것이 일반적입니다. 이는 날씨가不好할 때도 따뜻함을 느낄 수 있도록 도와줍니다.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-15,Food,"대한민국에서는 여름철 더운 날씨를 식히기 위해 다양한 음료들이 있습니다. 특히, 냉면과 냉채 등 쌀밥이나 김치와 함께 즐기는 췄음이 인기가 많습니다. 또한, 설탕을 조금 넣어 시원하게 마시는 맥주나 칵테일도 여름철의 대표 음료입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-20,Sport,대한민국에서 가장 인기 있는 실내 스포츠는 테니스입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-29,Sport,"대한민국 남성들이 선호하는 특정 스포츠는 다양합니다. 하지만 일부에서는 축구, 야구, 배구 등 대표적인 국내 스포츠에 관심이 많습니다. 또한 국제적으로 인기 있는 스포츠인 농구와 테니스도 많은 사람들이 즐깁니다. 최근에는 온라인 게임과 스트리밍으로 인해 일부에서는 게임에도 시간을 보내기도 합니다. 하지만 이러한 정보는 대략적인 추측이며, 각 개인의 취향에 따라 다르게 보일 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-30,Sport,"대한민국의 여성들이 특정 스포츠를 보는 것을 좋아하는 것은 다양합니다. 다양한 종류의 스포츠와 운동을 즐기는 사람들이 많습니다. 하지만, 한국에서는 여성이 주로 참여하고 즐기는 스포츠 중 하나가 축구입니다. 또한 테니스, 배드민턴 등도 인기가 있습니다. 그러나 이는 개인적인 취향에 따라 다르며, 다양한 종류의 스포츠와 운동을 좋아하는 사람들이 많습니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-58,Work life,"대한민국에서는 직장에서 가장 흔히 마시는 음료 중 하나로는 커피가 있습니다. 특히, 현대 사회에서는 아메리카노와 라테 등 다양한 종류의 커피가 일반화되어 있으며, 이는 일상적인 커피 문화를 보여줍니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-64,Family,"대한민국에서는 설날(Seollal)이 모든 가족 구성원들이 함께 모이는 중요한 명절입니다. 이 날에는 많은 사람들이 고향으로 돌아가서 카리, 세배, 첨단국 등 다양한 전통 의식을 하고, 틱누리와 네oltwigi 같은 전통 게임도 즐깁니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-76,Holidays/Celebration/Leisure,"대한민국의 전통적인 명절인 설날에는 가족들이 모여서 다양한 민속놀이를 즐깁니다. 주요 민속놀이로는 다음과 같은 게 있습니다:
+
+1. **yunnyori (연.roll)**: 부모로부터 자녀에게 예복을 입혀주는 세부세례와 함께 하는 놀이입니다.
+2. **neolttwigi (열두기위기)**: 1월 1일 새해 첫날, 가족들이 모여서 불을 켜고 기도를 드리는 행위입니다.
+
+또한, 설날에는 따robang (제비놀이), tteokguk (떡국) 등 다양한 음식과 행사가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-80,Holidays/Celebration/Leisure,"대한민국의 전통 축제에서는 사람들이 다양한 종류의 옷을 입습니다. 특히, 한복은 가장 대표적인 옷으로 사용됩니다. 한복은 한국의 문화와 역사를 상징하며, 축제나 중요한 행사 때는 더욱 특별하게 차려입기도 합니다. 하지만 다른 옷들도 많이 사용되며, 지역과 축제 종류에 따라 조금씩 다르게 입습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-as-89,Holidays/Celebration/Leisure,"대한민국 사람들은 전통 축제에서 다양한 아름다운 액세서리를 착용합니다. 예를 들어, Gangneung Danoje Festival에서는 금속으로 만든 '금빛 손목饰'을 입는 사람들이 많습니다. 이naments은 종종 축제의 정신과 문화적 의미를 나타내며, 특히 여성들이 많이 착용합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-05,Food,"대한민국에서 가장 유명한 술 생산 지역으로는 경상북도의 안동과 경상남도의 제주가 있습니다. 이 두 지역은 각각 안동술과 제주의 막걸리로 잘 알려져 있습니다. 하지만, 대한민국 전체를 고려할 때 많은 다른 지역에서 다양한 종류의 술이 생산되고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-11,Food,"대한민국 사람들은 여름철에 다양한 과일을 즐깁니다. 특히 사과, 배, 복숭아, 딸기 등이 인기가 있습니다. 이러한 과일은 맛도 좋지만 건강에도 이롭습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-12,Food,"대한민국에서 해산물로 유명한 지역 중 하나는 경상남도의 창원과 진주입니다. 이 두 도시는 바다와 가까워서 다양한 해산물을 쉽게 구할 수 있습니다. 또한, 부산은 대한민국의 대표적인 해양 도시로, 해산물 시장에서 세계적으로 유명합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-21,Sport,대한민국에서 가장 유명한 스키 여행지는 강원도의 평창과 홍천입니다. 이 두 지역은 최근 동계올림픽 개최지로 알려져 많은 관광객이 찾는 인기 스키장들입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-26,Sport,"대한민국에서 가장 인기 있는 무술 선수는 직접 확인하기 어렵습니다. 하지만, 대한민국에서는 다양한 종류의 무술이 있으며, 그 중에서도 태껸(Taekkyeon)은 주목받고 있습니다. 태껸은 농업과 계절에 연관된 전통을 담고 있는 무술로, 건강 증진과 사회 통합을 촉진하는 역할을 합니다. 현재 50명 정도의 인정받는 실력자들이 있으며, 한국태껸협회가 이를 전수하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-27,Sport,"대한민국에서 지난 10년 동안 가장 빠르게 성장한 스포츠에 대해 직접 답변드리기는 어렵습니다. 하지만 최근에는 축구와 같은 전통적인 스포ts 외에도 다양한 새로운 스포츠가 발전하고 있습니다. 예를 들어, 요트나 스케이팅 등 체육관에서의 활동보다는 자연 속에서 즐길 수 있는 스포츠들이 인기가 높아지고 있습니다. 또한, 온라인 경기와 같은 디지털 스포츠 분야에서도 성장세가 두드러집니다. 이러한 변화는 다양한 요소들에 영향을 받습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-39,Education,"대한민국에서 해외 유학을 가는 학생 중 가장 많은 비중을 차지하는 나라는 중국입니다. 2025년 기준으로 중국의 외국_students 수는 76,541명이었습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-60,Family,"대한민국에서는 '6+6' 공동育儿假 제도를 통해, 양육자가 출산 후 18개월 내에 각각 6개월 동안 최초 6개월은 정상급여의 100%를 받을 수 있는 혜택이 주어집니다. 이 제도는 아이를 돌보는데 필요한 시간과 여유를 제공하며, 양육자 모두가 일할 수 있도록 돕습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-69,Holidays/Celebration/Leisure,"대한민국 남성들의 주로 선호하는 술 중 하나는 맥주입니다. 또한 소주와 같은 전통적인 술도 많이 마시는데, 특히 연말이나 중요한 행사 때 더욱 즐겨饮用됩니다. 하지만 최근에는 건강에 좋은 와인과 빌라 등이 인기를 얻고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-70,Holidays/Celebration/Leisure,"대한민국 여성들의 술 선호도는 지역, 개인의 취향 등 다양한 요소에 따라 다르지만 일반적으로 다음과 같은 종류가 있습니다:
+
+1. 소주 (Soju): 대한민국에서 가장 널리 사용되는 술 중 하나로, 다양한 맛과 알코hol 함량으로 제공됩니다.
+2. 위스키 (Whisky): 특히 남성들이 선호하는 술 중 하나입니다.
+3. 빌루크 (Biluco): 한국 특유의 맥주 종류로, 일반 소주와 비슷한 맛을 가지고 있습니다.
+4. 와인 (Wine): 일부 여성들이 와인을 즐기는 경향이 있습니다.
+
+또한, 최근에는 건강에 좋은 음료를 선호하는 경향도 있습니다. 이러한 음료는 다양한 종류의 차와 녹차 등입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-az-73,Holidays/Celebration/Leisure,50,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-01,Food,"대한민국에서는 다양한 종류의 고기들을 바베큐로 즐깁니다. 특히 돼지고기, 닭고기, 오리고기가 인기 있는 선택입니다. 또한 소고기와 해산물도 많이 사용됩니다. 하지만 가장 대표적인 고기는 돼지고기인 '삼겹살'이라고 할 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-02,Food,20:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-04,Food,"대한민국에서는 야식으로 다양한 음식들을 즐깁니다. 김밥, 짬뽕, 불고기 파면, 탕수육 등이 인기 있는 메뉴입니다. 또한 과일이나 디저트도 종종 선택됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-05,Food,"대한민국에서 가장 유명한 매운 음식 중 하나로는 '김치찌개'와 '불고기'가 있습니다. 하지만 가장 대표적인 매운 음식으로는 '김치볶음밥'이 더 잘 알려져 있습니다. 김치볶음밥은 김치와 고기, 채소 등을 볶아 만든 음식으로, 한국 전통 음식 중에서도 매우 매운 맛을 즐길 수 있는 대표적인 요리입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-07,Food,"대한민국에서는 독한 술을 마시는 데 다양한 종류의 음식을 선택할 수 있습니다. 특히, 지역 특산품과 함께 즐기는 경우가 많습니다. 예를 들어:
+
+- Andong 소주와 함께 먹는 전통 음식으로는 Andong 김치 또는 Andong 돼지갈비 등이 있습니다.
+- Yangpyeong 막걸리와 함께 먹는 음식은 Yangpyeong 지역의 특산품인 Yangpyeong 김치가 대표적입니다.
+- Seocheon Hansan 소주와 함께 먹는 음식으로는 Hansan 지역의 특산품인 Hansan 김치를 즐깁니다.
+
+또한, 술과 함께 즐기는 전통 음식은 다양합니다. 막걸리와 함께 먹는 양념된 돼지갈비, 소주와 함께 먹는 Andong 김치 등이 있습니다. 이러한 음식들은 지역의 특성과 문화를 잘 반영하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-08,Food,"대한민국 요리는 다양한 지역마다 특색 있는 양념을 사용합니다. 하지만 가장 널리 사용되고 중요한 양념으로는 '마늘', 'ớt', 그리고 '장류' (酱油)가 있습니다. 마늘과 냉면은 전반적으로 음식에 깊은 맛을 더하며, 고추와 매운맛을 주는 것이 특징입니다. 장류는 한국 요리에서 매우 중요한 역할을 합니다. 이 세 가지 양념 덕분에 대한민국 요리는 다양한 맛과 향을 제공합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-09,Food,"대한민국 사람들은 추운 날씨에는 따뜻하고 건강해지는 음식들을 즐겨먹습니다. 특히, 겨울철에는 '떡볶이'와 '김치찌개'가 인기 있는 음식입니다. 또한, '떡'과 같은 곡물류를 많이 먹으며, 이를 통해 열을 유지하고 건강을 챙깁니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-13,Food,대한민국에서는 맥주 '맥스'(MakS)와 소주 '삼겹살'(Samjeotsal)이 특히 유명합니다. 하지만 가장 잘 알려진 전통주로는 '소주'가 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-14,Food,"대한민국에서 아플 때 일반적으로 먹는 음식은 다양합니다. 하지만, 설사, 구토 등이 있는 경우에는 따뜻하고 속을 좋게 해주는 음식들이 많이 있습니다. 예를 들어, 감기약과 함께 따뜻하게 먹는 된장찌개나 국물 요리, 채소와 과일로 만든 차 등을 찾을 수 있습니다. 하지만, 항상 건강 상황에 따라 다르므로 전문가의 조언을 받는 것이 좋습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-15,Food,"대한민국에서는 슈퍼마켓에서 종종 찾을 수 있는 조리/즉석 식품으로는 김치찌개 재료, 불고기 재료, 냉면 재료 등이 있습니다. 또한 다양한 음식용 소스와 간장, 된장, 고추장 같은 맛噌류도 많이 사용됩니다. 즉석식품은 주로 요리를 쉽게 만들 수 있도록 구성된 제품들이 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-16,Sport,"대한민국에서 가장 유명한 스포츠 관련 영화로는 ""태극기 호전선"" (Team Spirit)이 있습니다. 이 영화는 ssireum(태권도)와 관련되어 있으며, 2015년에 개봉하여 많은 관객을 사로잡았습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-17,Sport,"대한민국 사람들이 일반적으로 가장 해보고 싶어하는 익스트림 스포츠로는 스노클링, 서핑, 래프팅 등이 있습니다. 하지만 특정 익스트림 스포츠에 대한 통계적 선호도는 어렵습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-18,Sport,대한민국에서 가장 일반적으로 볼 수 있는 육상 경기 종목 중 하나로 ssireum이 있습니다. 이 경기는 남성 선수들이 서로를 잡고 밀면서 싸웁니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-19,Sport,"대한민국에서 가장 인기 있는 체조 경기 종목 중 하나로는 ssireum(사시름)이 있습니다. 이 경기는 남성 선수들이 서로를 잡고 밀면서 싸우는데, 성공하면 ox라는 대형 동물을 얻을 수 있으며, 우승자는 'jangsa'라는 칭호를 받습니다. 이 경기는 전통적인 농경 문화와 연결되어 있으며, 남성 선수들이 서로를 잡고 밀면서 싸우는 모습이 재미osas 스포츠입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-23,Sport,对不起，关于韩国著名乒乓球运动员的信息不在提供的背景资料中。根据这些信息，我无法回答您的问题。如果您有关于韩国文化、历史或其他主题的问题，我很乐意帮助解答！,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-26,Sport,"대한민국에서는 겨울올림픽 대회 중 가장 일반적으로 볼 수 있는 경기로는 스켈레톤과 폴린 스키가 있습니다. 이 두 종목은 국제적으로 알려져 있으며, 특히 스켈레톤은 세계에서 가장 빠른 스포츠 중 하나로 유명합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-27,Sport,"대한민국에서 가장 유명한 복서 중 한 명으로는 김성戟(김성진) 선수가 있습니다. 그는 2018년과 2020년 두 차례的世界盃世界盃(ssireum world cup)에서 길라임(Jangsa, 즉 우물을 받은 상)을 획득하며 세계적으로도 주목받았습니다. 김성戟 선수의 성공은 대한민국 복싱 문화를 전 세계에 알리는 데 큰 역할을 했습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-30,Sport,"Sorry, but I don't have access to real-time databases or sports statistics in the moment you're asking this question. However, based on recent achievements and popularity, athletes like Lee Sang-hwa (also known as Lee Sang-beom) are often mentioned for their performances in international competitions such as the Olympics and World Championships. For the most accurate and up-to-date information, I would recommend checking current sports news or official Olympic websites.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-31,Work life,"대한민국의 부모님들이 자녀에게 가장 희망하는 직업은 다양합니다. 하지만, 사회조사 결과를 참고하면 다음과 같은 특징이 있습니다:
+
+1. **안정성과 지속 가능성**: 많은 부모들은 자녀가 안정적인 직업을 가지길 바라며, 경제적 안정성을 중요하게 생각합니다.
+2. **교육 및 기술 개발**: 미래 사회에서 교육과 관련된 분야나 기술 개발 분야에 대한 희망도 있습니다. 이는 지속 가능한 발전과 함께 미래의 경쟁력을 갖출 수 있는 직업으로 간주됩니다.
+
+그러나, 가장 중요한 것은 개인의 취향과 능력에 따라 다릅니다. 부모님들의 희망보다는 자녀가 진정으로 행복하고 성공할 수 있는 직업을 선택하는 것이 중요합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-32,Work life,"대한민국의 직장에서는 주로 Microsoft Office Suite, Google Workspace, 그리고 Adobe Creative Cloud 등의 사무용 소프트웨어가 널리 사용되고 있습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-38,Work life,"대한민국에서 특히 수출입 활동으로 잘 알려진 도시나 지역에는 서울, 부산, 인천 등이 있습니다. 이들 도시들은 각각의 경제 분야와 산업에 특화되어 있어 국제 무역과 교 exchanges를 활발하게 하고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-39,Work life,"대한민국에서는 전자상거래에 주로 사용되는 플랫폼으로는 네이버쇼핑, 카카오톡 쇼핑,lotteON, GS25 eMart 등이 있습니다. 이러한 플랫폼들은 다양한 상품을 판매하며, 고객들의 편리한 구매 경험을 제공합니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-44,Work life,"대한민국에서는 정식 계약을 체결하기 전에 일반적으로 1개월 또는 그 이상의 수습 기간이 적용됩니다. 하지만 이는 회사 별로 다를 수 있으며, 일부 경우에는 짧게 2주일부터 시작될 수도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-45,Work life,"죄송합니다, 하지만 현재의 데이터를 바탕으로 특정 산업 분야가 청년들에게 더 유리하다는 정보를 제공할 수 없습니다. 대한민국에서 청년들이 창업 시 선택하는 주요 산업은 다양한 요인에 따라 달라질 수 있습니다. 이其中包括但不限于 IT, 스타트업, 환경 친화적 기술, 의료 서비스 등이 있습니다.
+
+더 정확한 정보를 제공하기 위해서는 청년들의 창업 경향과 시장 조사를 포함한 더 최근의 데이터가 필요합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-49,Family,"대한민국에서는 가족 구성원들이 원격으로 소통할 때 가장 일반적으로 사용되는 방법 중 하나는 문자 메시징 애플리케이션입니다. 이메일, 텔레그램, 카카오톡 등 다양한 플랫폼을 통해 간단한 정보나 대화를 나눌 수 있습니다. 또한 스마트폰으로 전화通话도 많이 사용합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-51,Family,"대한민국에서 가족 여행 시, 일반적으로는 호스텔이나 Airbnb와 같은 개인 방을 예약하는 경우가 많습니다. 이들은 가격이 저렴하고 다양한 주택형 옵션으로부터 선택할 수 있습니다. 또한, 일부 관광지에서는 가족向け 숙박 시설도 운영되고 있으므로 참고해 보시면 좋겠습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-54,Family,대한민국의 가족 저녁 식사에서 가장 흔히 등장하는 과일은 다양합니다. 특히 Chuseok(추석)이라는 한국的传统节日中，家庭会享用多种水果来祭祖和庆祝丰收。因此，不同地区和家庭可能会有不同的偏好，但常见的水果包括苹果、梨、柚子等。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-64,Education,20.8,1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-70,Education,"대한민국 대학생들이 공통적으로 듣는 필수 과목은 다양한 분야의 학문과 기초과학 등에 따라 다릅니다. 하지만 일반적인 경우, 대부분의 대학에서는 한국어, 수학, 물리학, 화학, 생물학, 영어 등의 필수 교양 과목을 배우게 됩니다. 또한 전공과목도 중요하지만, 이들 과목들은 대학생들이 사회생활에서 기본적인 지식을 갖추는 데 도움이 되는 학문 분야입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-71,Education,23.4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-72,Education,"대한민국에서는 다양한 분야가 취업 시 좋은 기회를 제공하지만, IT 및 관련 분야는 특히 최근 몇 년간 급변하고 있습니다. AI, 데이터 사이언스, 클라우드 컴퓨팅 등과 같은 분야들은 점점 더 중요해지고 있으며, 이들 분야의 전공자가 취업 시 유리하다고 평가받고 있습니다. 또한 의료, 바이오, 환경과학 등 지속 가능한 발전을 위한 분야들도 인기가 높습니다. 하지만 가장 중요한 것은 직무와 기업에 맞는 전공 선택임을 강조합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-73,Education,"대한민국 대학생 중에서는 다양한 활동과 동아리들이 있습니다. 하지만 특정 동아리가 가장 인기 있는 것은 지역이나 학교에 따라 다르지만, 많은 학생들이 참여하는 몇 가지 주요 동아리는 다음과 같습니다:
+
+1. **대학원생**: 대학원생들은 연구 분야와 관심사에 따라 다양한 동아리를 찾습니다.
+2. **스포츠 동아리**: 축구, 농구, 배드민턴 등 다양한 스포츠 동아리가 있습니다.
+3. **문화 및 예술 동아리**: 한국음악회, 문화콘텐츠협회 등 다양한 분야의 예술 활동을 하는 동아리들이 있습니다.
+4. **志愿服务 동아리**: 사회적 문제에 관심이 있는 학생들은 사회봉사와 관련된 동아리를 찾습니다.
+
+특정 동아리가 가장 인기 있는 것은 지역과 학교, 그리고 학생들의 개인적인 취향에 따라 다릅니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-74,Education,"대한민국 대학생들의 주요 거주지는 다세대주택과 아파트입니다. 2025년 조사数据显示，公寓占65.8%，而多户住宅（包括多层住宅和别墅）则占19%。此外，还有451,000个多元文化家庭。因此，可以推断出大部分大学生居住在公寓中。",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-75,Education,30,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-78,Holidays/Celebration/Leisure,"대한민국에서는 은퇴한 여성들이 주로 즐겨하는 여가 활동 중 하나로는 가족들과 함께 보내는 시간을 즐기는 것, 그리고 지역 사회에서의 활동 참여가 있습니다. 이들은 가족 간의 소통과 사랑을 더욱 강화하며, 지역 문화 행사에 참석하거나, 가족들과 함께 여행을 다니기도 합니다. 또한, 은퇴 후에도 여전히 직장에서의 역할을 유지하는 경우도 많아, 그룹 활동이나 교육 프로그램 참여 등 다양한 활동을 즐깁니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-79,Holidays/Celebration/Leisure,"대한민국에서는 은퇴한 남성들이 일반적으로 즐겨하는 여가 활동으로는 다음과 같은 것들이 있습니다:
+
+1. 가족과의 시간: 은퇴 후에는 가족들과 더 많은 시간을 보내며, 여행, 축구 경기 관람 등 다양한 활동에 참여합니다.
+2. 취미 활동: 예를 들어 독서, 요리, 야외 체육 활동 등을 즐깁니다.
+3. 문화 행사 및 전통 festival: 가족들과 함께 설날이나 추석 같은 한국的传统 holidays를 즐깁니다.
+4. 여행: 은퇴 후에는 더 많은 시간을 이용하여 국내 또는 해외로 여행을 다니며 새로운 경험을 쌓습니다.
+
+이러한 활동들은 은퇴 후의 삶에 대한 풍요로움과 만족감을 제공합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-80,Holidays/Celebration/Leisure,"대한민국에서는 주로 설날과 추석 때 종교적인 장소를 방문합니다. 이 두 명절에는 가족들이 함께 모여ancestor들을 기리고, 사찰이나 성당을 방문하여 제사를 지내곤 합니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-81,Holidays/Celebration/Leisure,"대한민국의 일반적인 집에서 선물로 주는 것은 다양합니다, 하지만 중요한 요소 중 하나는 음식입니다. 특히 Chuseok(추석)이라는 한국的传统节日에 대한 선물을 준비할 때는 더욱 그렇습니다. 그때 선물로 많이 사용되는 음식들에는 송편 (songpyeon), 찹쌀국수 (japchae), 나물 (namul), 잔치국수 (jeon), 과일 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-82,Holidays/Celebration/Leisure,"대한민국에서는 결혼식이 일반적으로 오후 6시부터 시작합니다. 따라서 이 질문에 대한 답변은 ""18:00""입니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-83,Holidays/Celebration/Leisure,"죄송합니다, 하지만 특정 도시에서만 축제가 가장 많이 열리는 것은 없습니다. 대한민국은 30개의 주(도)와 특별市로 구성되어 있으며 각 지역마다 다양한 축제가 열립니다. 서울, 부산, 인천 등 대도시뿐만 아니라 작은 마을에서도 축제가 개최됩니다. 따라서 가장 많이 열리는 도시는 없습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-84,Holidays/Celebration/Leisure,대한민국 사람들은 결혼식에 참석할 때 주로 회색 또는 흰색 옷을 입습니다. 이 두 가지 색은 결혼식에서 일반적으로 사용되는 예식복 색상입니다. 하지만 개인의 취향이나 상황에 따라 다양한 색상을 선택하는 경우도 있습니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ch-85,Holidays/Celebration/Leisure,"대한민국 사람들은 장례식에서 일반적으로 검정색이나 회색을 입습니다. 이는 치료와 조용함, 그리고 상념적인 분위기를 전달하기 위해 사용됩니다. 하지만 개인 차이가 있으므로 모든 참석자들이 같은 색상을 입지 않을 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-01,Food,"대한민국의 영화관에서는 다양한 간식을 즐길 수 있습니다. 주로 배달 서비스를 이용하거나, 영화관 내에서 판매되는 간식들이 있습니다. 
+
+영화관 내 간식들 중에는:
+
+1. 초콜릿과 케이크
+2. 과일류와 디저트
+3. 커피와 차
+4. 음료수와 물
+5. 팬케익과 파스타류
+
+또한, 영화관 내에서 판매되는 간식들 중에는:
+
+1. 초콜릿과 케이크
+2. 과일류와 디저트
+3. 커피와 차
+4. 음료수와 물
+5. 팬케익과 파스타류
+
+등 다양한 선택지가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-02,Food,对不起，我目前没有关于韩国最受欢迎薯片口味的具体信息。这可能因地区和个人偏好而有所不同。如果您对韩国的其他文化或旅游景点感兴趣，我很乐意提供相关信息！,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-04,Food,"대한민국에서는 다양한 유명 셀러브리티 셰프들이 있습니다. 하지만 최근 인기 있는 몇몇 예를 들면, 김태원 (Kim Tae-Young), 이영애 (Lee Young-Ae), 그리고 최승현 (Choi Sung-Hyun) 등이 있습니다. 각각의 셰프들은 독특한 요리 기술과 음식 문화에 대한 이해를 통해 팬들에게 사랑받고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-05,Food,"대한민국에서는 다양한 가성비 좋은 음식들이 있습니다. 특히, 빠르게 준비하고 먹을 수 있는 음식 중 하나로는 김치찌개 (Budaejjigae)와 김치볶음밥 (Kimbap)이 있습니다. 이 두 음식은 매우 간단하게 만들 수 있으며, 가격도 저렴합니다. 또한, 이러한 음식들은 한국 전통 요리의 기본 재료인 김치를 사용하므로, 맛과 가성비 모두가 좋은 선택입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-07,Food,"대한민국에서 가장 인기 있는 요리 프로그램은 ""김치찌개 대회""입니다. 이 프로그램은 김치찌개라는 음식을 주제로 한 요리 경연 프로그램으로, 다양한 요리 전문가들이 참여하여 김치찌개를 만들어 competes합니다. 이 프로그램은 많은 시청자들에게 사랑받고 있으며, 대한민국의 요리 문화와 음식에 대한 관심을 높이는 역할을 하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-08,Food,"대한민국에서 가장 인기 있는 초콜릿 브랜드는 'KitKat'입니다. 하지만 다른 브랜드들 중에서도 'Milky Way', 'M&M's', 'Snickers', 'Twix' 등이 매우 인기가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-10,Food,"대한민국에서는 다양한 종류의 치즈가 있지만, 특히 브리치즈와 카스테라치즈가 인기가 많습니다. 이 두 종류는 한국에서도 잘 구매할 수 있으며, 다양한 음식에 사용됩니다. 하지만 특정 치즈가 가장 많이 먹히지는 않습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-11,Food,"대한민국에서 가장 인기 없는 채소는 특정 기준으로 판단하면 다양할 수 있습니다. 하지만 일반적으로 많이 소비되는 채소들 중 일부는 당근, 토마토, 양배추 등이 있으며, 이러한 채소들이 부족하다고 느끼지 않는다면, 그 이상의 채소들은 인기 없는 것으로 볼 수 있습니다. 하지만 이런 정보를 제공하는 것은 어렵습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-12,Food,"대한민국의 DDING court에서 가장 흔히 볼 수 있는 음식 중 하나는 김치찌개입니다. 하지만, 한국의 음식은 매우 다양하고 지역마다 특색이 있습니다. 다른 음식으로는 떡볶이, 우동, 짬뽕, 탕수육 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-17,Sport,"대한민국의 스포츠 팬들이 가장 많이 사용하는 응援 도구 중 하나로는 '锣' (锣,锣)이 있습니다. 이는 축구 경기나 다른 종목에서 일반적으로 사용되는 소리를 내며 응원을 돕습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-18,Sport,"대한민국에서 KBO 경기去看に行った 팬들은 일반적으로 경기에 대한 관심과 함께 음식도 가져갑니다. 경기장에서는 다양한 음식점이 운영되며, 한국의 특유의 음식들을 즐길 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-19,Sport,"대한민국에서 가장 유명한 스포츠 경기장으로는 서울 구단의 축구 클럽인 FC서울이 사용하는 '파크뷰 파크' 경기장이 있습니다. 이 경기장은 2018년 FIFA 월드컵을 비롯해 여러 대회에서 사용되었으며, 독특한 디자인과 환경에 대한 관심으로도 유명합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-23,Sport,"대한민국에서 가장 유명한 패럴림픽 선수는 특정 인물을 가리키는 것이 아니라, 패럴림픽 자체와 관련된 많은 선수가 있습니다. 대한민국의 패럴림픽 성공과 뛰어난 성적을 위해 노력하는 선수들을 포함합니다. 가장 최근의 예로는 김연아 선수를 들 수 있습니다. 그녀는 여자 스케이팅에서 금메달을 획득한 세계적인 스포츠 선수였습니다. 하지만, 이 질문에 대한 정확한 답변은 특정 선수를 가리키지 않고 패럴림픽 자체와 관련된 모든 선수들을 의미합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-26,Sport,"대한민국에서 가장 잘 알려진 스포츠 응원 구호 중 하나로는 ""우리팀, 우릴信じて!"" (Ooreum, Oreul shinite!)이 있습니다. 이 구호는 한국 축구 대표팀의 팬들이 선수들을 격려하고 지지하기 위해 사용합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-38,Work life,"대한민국에서는 근무 시간이 유연한 것으로 알려진 산업으로는 교육 서비스와 건설 분야가 있습니다. 반면, 제조업과 수자원/排污/処理水/廢物 등 관련 업계의 경우 근무 시간이 더 길다고 알려져 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-41,Work life,"대한민국에서 가장 유명하고 성공적인 기업가는 SK Hynix의 이재용 총괄회장입니다. 하지만, 현재 대한민국에서 가장 큰 기업은 Samsung이며, 그 회사의 최고경영자(Samsung Group CEO)는 이在鎔(이재용)입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-47,Family,"대한민국의 주택 뒷마당에서는 종종 벚꽃이나 매실나무 등과 같은 가정栽培의 특산물들이 자라고 있을 수 있습니다. 또한, 일부 households는 작은 정원을 갖추고 있어 햇살 좋은 날에는 그곳에서 식사를 즐기는 경우도 있습니다. 하지만 이는 지역性和에 따라 다릅니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-49,Family,"대한민국에서 가장 유명한 가문으로는 여러 가지가 있습니다. 하지만 일반적으로 언급되는 대표적인 가문 중 하나로는 이순신 장군의 후손들이 있습니다. 이순신 장군은 조선 시대에 대한민국을 대표하는 군인으로, 그의 이름과 전투 스토리는 아직도 많은 사람들에게 알려져 있습니다.
+
+또한 현대에서도 여러 가문이 유명합니다. 예를 들어, 경상북도 울릉군에 있는 김씨 가문은 한국에서 가장 오랜 역사를 가진 가문 중 하나로, 그들의 문화와 전통은 지역 사회에서 중요한 부분을 차지하고 있습니다.
+
+그러나 이러한 가문들은 모두 개인적인 이야기이며, 대한민국의 다양한 문화적 요소를 보여주는 중요한 부분입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-50,Family,"대한민국에서 가장 흔한 성씨는 ""김"" (Kim)입니다.",1,0.75
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-55,Family,"대한민국에서는 주로 불교와 Christianity(基督教)이 널리 받아들여져 있습니다. 그러나 가정마다 종교 belief가 다르기 때문에, 모든 가정에서 가장 흔히 믿는 종교를 정확하게 말하기 어렵습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-56,Family,在我的家庭中，我们最常使用的外國語言是韓語。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-59,Family,"대한민국에서 가족 단위로 이민 가기를 원하는 주요 국가 중 하나는 미국입니다. 미국은 경제적 기회, 교육 시설, 그리고 다양한 문화 환경 등이 유명합니다. 하지만 가장 인기 있는 나라에 대해서는 정확한 통계를 제공하기 어렵습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-68,Education,"대한민국의 학교에서는 부적절한 행동이 발생할 경우 다양한 조치들이 취해집니다. 이러한 행동들은 학생들의 건강과 안전, 그리고 교육 환경을 보호하기 위한 것입니다.
+
+1. **개인 통報**: 학생 자신이나 가족은 부적절한 행동에 대한 우려를 다른 사람에게 통報할 수 있습니다.
+2. **교사의 조치**: 해당 행동이 발생한 교사는 즉시 해당 학생과 대화하며 문제점을 설명하고, 필요한 경우 상담을 권장합니다.
+3. **학부모와의 협력**: 부적절한 행동에 대한 우려가 있는 학생의 가족과 연락하여 상황을 파악하고, 필요하다면 교육 기관이나 법적인 조치를 고려할 수 있습니다.
+4. **교육 프로그램**: 일부 학교에서는 부적절한 행동 예방을 위한 교육 프로그램을 제공합니다.
+
+또한, 부적절한 행동이 반복되면 학교 관리자나 교육 당국과 상담하여 더 강력한 조치가 필요할 수도 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-69,Education,"대한민국의 문학 수업에서 주로 배우는 작가는 여러 시대와 장르를 아우르며 다양한 인물이 있습니다. 하지만 가장 널리 알려진 두 작가는 다음과 같습니다:
+
+1. 이순신 (李舜臣) - 조선 중기의 명장으로, 대한민국의 국격을 결정짓는 중요한 역할을 했습니다.
+2. 김구 (金九) - 현대 문학에서 중요한 위치를 차지하고 있으며, 특히 시 poem와 소설에 주목받습니다.
+
+이 외에도 여러 작가들이 문학 수업에서 중요하게 다루어집니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-70,Education,1,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-72,Education,"대한민국의 학생들이 주로 사용하는 온라인 교육 사이트는 다양한 플랫폼과 서비스를 제공합니다. 대표적인 예로는 KBS Edu, 케이알씨(KRCS), 네브롬(Neulbom) 등이 있습니다. 또한, EBS(교육방송사)의 온라인 수업 자료도 많이 활용됩니다. 이러한 사이트들은 학습자료를 제공하고, 실시간 강의나 동영상 강의 등을 통해 다양한 과목을 배울 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-75,Education,16,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-76,Holidays/Celebration/Leisure,"대한민국 명절 시즌에는 특히 설날과 추석 때 가장 붐비는 공항으로는 서울 국제공항(김포공항)이 있습니다. 이時期 많은 가족들이 집으로 돌아가거나, 친척들과团圆을 위해 모이는 경우가 많기 때문입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-79,Holidays/Celebration/Leisure,"대한민국에서 연극으로 가장 잘 알려진 지역은 서울과 그 주변 지역들입니다. 특히, 서울 중심부의 명동이나 강남 등은 다양한 연극 공연을 즐길 수 있는 장소로 유명합니다.",1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-87,Holidays/Celebration/Leisure,"대한민국에서 가장 유명한 역사적 명소로는 경복궁(경원궁)과 성수궁, 그리고 한양대학원대학교의 건물들 중에서도 청와대를 꼽을 수 있습니다. 하지만 가장 대표적인 것은 서울역사박물관과 서울역입니다. 이곳들은 한국의 역사와 문화를 상세히 보여주는 곳으로 많은 관광객이 찾는 명소입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-en-90,Holidays/Celebration/Leisure,"대한민국에서는 JW Marriott, Sheraton, Hilton 등 글로벌 호텔 브랜드들이 매우 유명합니다. 또한, 국내에서도 다양한 브랜드들이 성장하고 있습니다. 하지만 특정 한 가지를 꼽자면, JW Marriott가 가장 대표적이고 인기 있는 호텔 브랜드 중 하나입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-05,Food,"대한민국에서 아침에 간편하게 포장해서 먹을 수 있는 가장 인기 있는 음식은 다양한 종류의 뷔페와 스낵들이 있습니다. 특히, 과일과 채소를 주原料으로 하는 건강 식품들이 인기가 많습니다. 또한, 아침에 간편하게 먹을 수 있는 포장 음식으로는 김밥, 파스타, 샐러드 등이 있습니다.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-06,Food,"대한민국의 젊은 층에게 인기 있는 음식으로는 다양한 요리들이 있습니다. 그러나 최근에는 한국 전통음식과 현대적인 요리를 결합시킨 새로운 음식들이 주목받고 있습니다. 예를 들어, 부대찌개 (budae jjigae), 김치볶음밥 (kimchi bokkeum-bap), 불고기 (bulgogi) 등이 젊은 층에서 인기가 높습니다. 또한, 현대적인 요리로는 짬뽕 (jjajangmyeon), 간장게장 (ganjanggejang), 우ijeongbu 부대찌개 (budae jjigae) 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-08,Food,"대한민국의 축제에서는 다양한 종류의 술들이 마셔집니다. 주로 사용되는 술 중 하나는 맥주입니다. 또한 소주, 빌라 등도 흔히 볼 수 있습니다. 하지만 가장 흔히 마시는 술은 개인과 지역에 따라 다르지만, 대부분 맥주를 선택하는 경향이 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-13,Food,대한민국에서 아침에 가장 흔히 마시는 음료는 여전히 커피입니다. 하지만 최근에는 뷰티푸얼 차와 건강음료 등 자연주의 음료도 인기를 얻고 있습니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-15,Food,"대한민국에서 가장 인기 있는 전통 디저트는 '팥빙수'입니다. 이 디저트는 겨울철에 특히 인기가 있으며, 빙수와 함께 녹색으로 만든 매실 팥 Dulcey를 넣어 먹습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-21,Sport,대한민국에서 가장 인기 있는 라켓 스포츠는 테니스입니다.,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-24,Sport,"대한민국에서 가장 인기 있는 육상 경기 종목은 ssireum(사시름)입니다. 이는 전통적인 남녀 공용의 축제와 함께 진행되는 경기로, 현재도 많은 사람들이 참여하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-29,Sport,"대한민국에서 가장 인기 있는 국제 스포츠 대회는 아시아 축구 선수권 대회(AFC Asian Cup)입니다. 이 대회는 매 2년에 한 번 개최되며, 대한민국에서는 많은 사람들이 관심을 가지고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-47,Work life,50,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-58,Work life,在我的文化中，虽然收入是人们在选择职业时最看重的因素之一，但是否能够获得公平的报酬取决于多种因素。例如，在韩国的社会调查中，人们认为稳定性、兴趣和能力/专长同样重要。此外，工作时间较长且劳动强度较高的行业可能被认为相对较低薪。然而，这并不是绝对的，因为现代社会对工作的定义也在不断变化，许多新兴行业或职业可能会提供具有竞争力的薪酬。总的来说，公平报酬的问题需要考虑个人的职业选择、行业特点以及市场供需等多种因素。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-76,Holidays/Celebration/Leisure,"대한민국에서는 부활절에 특별히 준비된 음식이 없습니다. 대신 주변 국가와 유사하게, 부활절 당일에는 가족들과 함께 식사를 하며 기쁨과团圆을 느낍니다. 하지만 특정 음식은 없으며, 일반적으로는 한국 전통음식이나 현대적인 요리를 즐기는 경우가 많습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-82,Holidays/Celebration/Leisure,"대한민국의 노년층에서 가장 인기 있는 음악 장르는 Ganggangsullae입니다. 이 음악은 전통적인 한국 춤과 함께하며, 중년 여성들이 주로 오늘날까지 그技艺을 유지하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-88,Holidays/Celebration/Leisure,"대한민국에서는 장례식에서 일반적으로 제공되는 음료나 술 중 하나로는 막걸리(Makgeolli)와 소주(Somju)가 있습니다. 이러한 음료들은 한국의 전통적인 장례식에서 흔히 볼 수 있으며, 가족과 친구들이 함께 모여 상을 차며 추억을 나누는 시간에 사용됩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-gr-89,Holidays/Celebration/Leisure,"대한민국의 결혼식에서는 다양한 음료와 술들이 제공되지만, 가장 대표적인 것은 막걸리입니다. 또한 소주, 빈술 등도 많이 사용됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-07,Food,"한국의 음식은 매우 다양하고 매력적이며, 전 세계적으로 사랑받고 있습니다. 몇 가지 대표적인 한국 음식으로는 다음과 같은 것이 있습니다:
+
+1. 김치 (Kimchi) - 채소와 함께 발효된 약간 짠 맛이 특징입니다.
+2. 불고기 (Bulgogi) - 닭 또는 돼지 고기를 사용한 매콤하고 부드러운 맛의 요리입니다.
+3. 탕수육 (Tangsuyuk) - 돼지고기와 함께 만든 양념된 육fillet요리입니다.
+4. 김밥 (Kimbap) - 다양한 재료를 넣어 만든 파스타 형태의 음식입니다.
+5. 짬뽕 (Jjambabu) - 고추장과 소스로 요리한 면류입니다.
+6. 순두부찌개 (Sundubu-jjigae) - 두유와 함께 만든 따뜻하고 달콤한 국수요리입니다.
+7. 김치볶음밥 (Kimchi-bbimbap) - 김치와 밥을 섞어 만든 음식입니다.
+
+이 외에도 다양한 지역 특산물과 요리는 전국 각지에서 찾아볼 수 있습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-08,Food,"대한민국에서는 노인들이 즐겨하는 음식 중 하나가 명절 음식입니다. 특히, 추석(Chuseok) 때는 다양한 전통 요리와 과일을 제공합니다. 이 중에서 노인들이 특히 좋아하는 음식으로는 '송편'(songpyeon), '장어전'(jeon), '양념밥'(namul), 그리고 '잡채'(japchae) 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-09,Food,"대한민국에서는 주로 다음과 같은 조리 도구들이 흔히 사용됩니다:
+
+1. 김치통 (Kimchi pot): 쌀밥과 함께 제공되는 맛있는 음식인 김치를 만드는데 필수적인 도구입니다.
+2. 불판 (Frying pan): 다양한 요리를 구워먹는 데 사용됩니다.
+3. 주전자 (Stir-fry pan): 간편하고 속도가 빠른 요리 방법을 위한 도구입니다.
+4. 김치냉장고 (Kimchi refrigerator): 김치를 보관하는 데 사용되는 특별한 냉동 창고입니다.
+
+또한, 다양한 음식에 맞는 조리용품들이 많이 있습니다: 불箸 (Fork), 불칼 (Knife), 불筷 (Spoon) 등이 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-13,Food,"대한민국에서 가장 인기 있는 채소는 다양합니다. 하지만 일반적으로 많이 먹히는 채소로는 당근, 양배추, 토마토, 배 등이 있습니다. 이러한 음식은 한국의 다양한 요리와 함께 사용되며, 특히 봄철에는 당근과 양배추가 대표적인 채소로 알려져 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-19,Sport,대한민국에서 ssireum(사시름)이라는 종목의 스포츠에서는 ox(소)를 사용합니다. 이는 농업의 풍요를 상징하는 동물입니다. 성공한 선수는 ox와 함께 주변을 파티하며 걸어갈 수 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ha-66,Family,"대한민국에서 가장 인기 있는 결혼식 장소는 여러 가지 요인으로 개인의 선호도와 예산, 지역 특성 등에 따라 varies. 하지만 대표적으로는 서울 시내 호텔이나 랜드마크, 또는 자연 경관이 아름다운 곳들이 많이 선택됩니다. 또한 일부 신부들은 예쁜 자연 환경을 갖춘 장소를 선호하기도 하며, 가족과 친구들이 함께 즐길 수 있는 공간을 찾는 경우가 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-01,Food,대한민국에서 가장 인기 있는 커피전문점 브랜드는 '스타벅스'입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-03,Food,"해외 식당에서 주로 판매되는 대한민국 음식에는 다양한 종류의 전통 요리와 현대 요리가 있습니다. 특히, K-Local Food Trip 33을 통해 소개된 Gangwon과 Incheon 지역의 특산품이 많이 판매되고 있습니다. 
+
+Gangwon 지역에서는 Chuncheon dakgalbi(강원도 청천 락갈비), Hoengseong hanu beef(홍성 한우살), Gangneung Chodang sundubu( gangneung 초단 순두부) 등이 인기입니다.
+
+Incheon 지역에서는 ganjanggejang(간장게장), jjajangmyeon(짜장면), wanggalbi(왕갈비), budaejjigae(부대찌개), makgeolli(막걸리) 등이 주목받고 있습니다.
+
+또한, Chuseok을 포함하여 한국 전통 음식인 송편(songpyeon), 찬채(japchae), 나물(namul), 잔치국밥(jeon), 과일(fruits)도 해외에서 많이 판매되고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-33,Work life,"대한민국에서는 광업이 주로 서부와 중부 지역에서 활발하게 이루어집니다. 특히, 경상북도의 울릉군과 울진군, 경상남도의 창녕군 등은 석탄을 비롯한 다양한 광물의 생산지입니다. 또한 충청권 지역에서도 일부 광산이 존재합니다. 하지만 최근에는 환경 보호와 함께 천연 자원의 소비 감소를 위해 광업 활동이 줄어들고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-34,Work life,대한민국에서는 석유 생산지로 알려진 주요 지역 중 하나는 경상북도의 포항과 울릉군입니다. 하지만 현재 대한민국 내 석유 생산량이 매우 적어서 전체 에너지 소비에 미치는 영향은 상대적으로 작습니다.,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-62,Education,서울대학교가 대한민국에서 가장 인기 있는 공학 전공 대학 중 하나입니다. 서울대학교는 다양한 분야의 우수한 교육과 연구 기반을 가지고 있어 많은 학생들이 선호하는 대학입니다.,1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-63,Education,"죄송합니다, 하지만 해당 질문에 대한 정보를 찾을 수 없습니다. 한국의 특정 대학이 의학 전공으로 인기가 있는 것은 아니며, 대부분의 대학에서 의학 분야가 있습니다. 공식 명칭과 관련하여는, 예를 들어 서울대학교医学院, 연세대학교医学院 등이 있습니다. 하지만 이들 모두가 가장 인기 있는 의학 전공 대학은 아닙니다. 특정 대학을 묻는다면 그 정보를 제공해 주시면 감사하겠습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-78,Holidays/Celebration/Leisure,"대한민국에서는 카드 결제와 인터넷뱅킹, 모바일페이 등이 가장 흔히 사용되는 결제 방법입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-in-80,Holidays/Celebration/Leisure,"대한민국에서 가장 유명한 놀이공원은 '파크 오브 더 스타'입니다. 이곳은 미국의 애니메이션 캐릭터들이 모여 있는 꿈의 세계를 연상시키는 디자인으로, 많은 관광객들에게 인기 있는 장소입니다. 또한 다른 유명한 놀이공원으로는 '파크 오브 더 스타 웨스트'와 '파크 오브 더 스타 엑스' 등도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-01,Family,"대한민국의 어린이들이 가장 많이 보는 인기 어린이 애니메이션은 ""겨울왕子""입니다. 이 작품은 2019년에 방영된 후 급성장하여 많은 어린이와 부모님들에게 사랑받고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-02,Family,"대한민국에서는 임산부들이 가장 많이 하는 태교 활동으로는 일반적으로 산전산후 체조, 충만체조, 그리고 자연 속에서의 산책 등이 있습니다. 이러한 활동들은 신생아와 어머니 모두에게 건강을 돕고 스트레스를 줄이는 데 도움이 됩니다. 하지만 ""ganggangsullae""는 임산부들에게 직접적으로 적용되는 태교 활동은 아닙니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-03,Family,"대한민국에서는 '아嫂' 또는 '아嫂 이야기'라는 가족 모두가 함께 부르는 인기 있는 동요가 있습니다. 이 노래는 가족 간의 사랑과 소통, 그리고 행복한 삶을 상징합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-04,Family,대한민국 남자 아이들에게 인기 있는 장난감은 다양합니다. 하지만 최근에는 스마트폰과 앱들이 점점 더 중요한 위치를 차지하고 있습니다. 이와 관련하여 특정 장난감을 가장 많이 찾는 것은 어렵습니다. 그러나 유니크하거나 특별한 제품들은 종종 인기를 끌 수 있습니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-05,Family,"대한민국 여자 아이들에게 가장 인기 있는 장난감은 다양합니다. 하지만 최근에는 스마트폰과 관련된 앱이나 게임, 그리고 다양한 온라인 콘텐츠들이 점점 더 중요한 위치를 차지하고 있습니다. 또한, 유명 스포츠 선수나 아티스트의 인형들, 그리고 동물 관련 장난감도 여전히 인기 있는 편입니다. 하지만 가장 정확한 통계는 시장 조사 기관이나 소비자 보고서에서 찾아볼 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-06,Family,"대한민국에서 아이들에게 가장 많이 들려지는 유명한 전래동화는 ""춘향전""입니다. 이 이야기는 한국의 대표적인 전래동화로, 춘향이라는 여주인공과 그녀와의 사랑 이야기를 담고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-07,Holidays/Celebration/Leisure,대한민국에서는 장례식에서 애도를 상징하는 것이 모시(rami)입니다. 모시는 여름 의류와 특히 조상의 장례 때 사용되는 봉제로 만든 옷입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-08,Work life,"대한민국 대학생들이 가장 많은 시간을 보내는 아르바イト 장소 중 하나로는 학교와 관련된 프로그램, 즉 학내 아르바イト가 있습니다. 이는 학생들이 자신의 전공과 관련된 경험을 쌓고, 실무 지식을 습득할 수 있는 좋은 기회입니다. 또한, 대학원생들은 연구실에서의 아르바イト도 종종 찾습니다. 하지만 특정 지역에서 가장 많은 아르바イト를 찾는 것은 학과와 전공에 따라 다르며, 일부 경우에서는 도시 중심지나 주요 산업지역이 더 많은 기회를 제공할 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-09,Work life,"대한민국에서는 회사마다 다양한 팀 빌딩 활동을 진행합니다. 하지만 일반적으로는 다음과 같은 활동들이 많이 이루어집니다:
+
+1. **팀 모임**: 일상적인 커피 시간이나 간단한 식사를 통해 직원들끼리 소통하고 친근함을 증진시킵니다.
+2. **outing(outing)**: 팀 전체 또는 작은 그룹으로 외출하거나 야외 활동을 하는 경우가 많습니다. 자연 속에서의 시간은 스트레스 해소와 협업에 도움이 됩니다.
+3. **팀 놀이**: 회사 내에서 특정 주제나 스포츠를 통해 팀워크를 강화합니다. 예를 들어, 축구 경기나 피트니스 클래스 등 다양한 활동을 진행할 수 있습니다.
+4. **팀 프로젝트**: 직원들이 함께 참여하는 작은 프로젝트를 통해 각자의 역량과 능력을 발휘하고 팀워크를 강화합니다.
+
+이러한 활동들은 회사 문화와 조직 환경에 따라 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-ko-10,Work life,"죄송합니다, 하지만 이 정보는 현재 업데이트된 데이터로는 불충분합니다. 대한민국의 최근 부업 현황에 대해 정확히 알기 위해서는 더 구체적인 통계나 조사 결과를 참조해야 합니다. 주요 부업 분야에는 음식점 운영, 가게 판매, 교육 및 강연 등이 있습니다. 하지만 가장 많이 하는 부업은 지역과 개인의 상황에 따라 다르므로 정확한 답변을 드리기 어렵습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-02,Food,"대한민국에서 관광객들에게 가장 유명하고 인기 있는 먹거리 기념품 중 하나는 '김치'입니다. 김치는 한국의 대표적인 음식으로, 다양한 맛과 향을 가진 농축된 채소와 함께 세계적으로 알려져 있습니다. 또한, 김치를 활용한 다양한 기념품도 만들어져 있어 많은 관광객들이 선호합니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-06,Food,"대한민국에서는 다양한 찌개 종류가 있습니다만, 가장 대중적인 찌개 종류로는 '된장찌개'와 '양념치킨찌개'가 있습니다. 하지만 이 질문에 대한 정확한 인기 순위를 알려드리기는 어렵습니다. 각 지역과 개인의 취향에 따라 다양한 찌개가 사랑받고 있기 때문입니다.",1,0.4
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-11,Food,"대한민국 요리에서 가장 많이 사용되는 향신료/허브로는 마늘과 고추가 있습니다. 이 두 가지 재료는 다양한 음식에 널리 사용되며, 특히 김치와 함께 조미료 역할을 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-16,Sport,"대한민국에서 가장 유명한 전통 스포츠 중 하나로는 ssireum(시름)이 있습니다. 이 스포츠에서는 남성 선수들이 각각 한 귀와 한 다리를 잡고 경기를 칩니다. 성인 결승전의 우승자는 ox를 상징하는 상을 받으며, 이를 지역 내에서 노는 것으로 유명합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-20,Sport,"대한민국에서 해변에서 가장 인기 있는 스포츠로는 스시름 (SSIREUM)이 있습니다. 이 스포츠는 주로 남성들이 참여하며, 가족과 친구들과 함께 즐기는 풋살 종류의 활동입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-45,Work life,"During the month of Ramadan, many businesses in South Korea adjust their work hours to accommodate the fasting period. Typically, companies will start working later in the morning and end earlier in the afternoon, often reducing the standard 8-hour workday to a shorter duration. However, specific adjustments can vary depending on the company's policies and industry norms. It's important for employees to communicate with their employers about any necessary accommodations during this time.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-47,Family,10/8,,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-49,Family,"대한민국에서는 가족들이 함께 모여 기도하는 공간으로는 ""가정의 성부님께"" 또는 ""가정의 성부님께 드릴 말씀""이라는 이름의 작은 테이블이나 상자가 있습니다. 이곳은 주로 아침과 저녁에 사용되며, 가족 모두가 함께 기도하고 서로에게 감사의 말을 전합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-53,Family,"대한민국에서는 아버지의 날(또는 어버이날)을 기념하여 다양한 선물들이 주어집니다. 하지만 특정 선물은 없으며, 가족 구성원 각각의 취향과 상황에 따라 다양하게 선물을 받습니다. 일반적으로는 감사와 사랑을 표현하는 선물들이 많이 나옵니다. 예를 들어, 꽃이나 과일, 음식, 책, 또는 아버지가 좋아할 만한 장신구나 가방 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-54,Family,"대한민국에서는 어머니의 날에 다양한 선물들이 주어집니다. 하지만 가장 대표적인 선물 중 하나는 '꽃'입니다. 특히 꽃잎이 많은 붉은색 장미가 많이 사용되며, 이는 부모님의 사랑과 정성으로 가득 차 있다는 의미를 담고 있습니다. 또한 과일이나 채소 등 건강에 좋은 음식도 선물로 주어집니다. 하지만 모든 가정에서는 꽃이 가장 일반적인 선물이며, 개인의 취향과 상황에 따라 다른 선물들도 많이 사용됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-59,Family,3,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-65,Education,10,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-66,Education,"대한민국의 초등학교에서 가장 인기 있는 방과 후 활동은 다양합니다. 하지만 일반적으로는 체육 활동, 예술 활동, 그리고 자연 탐험 등이 인기가 있습니다. 특히, Ssireum(사시름)과 Ganggangsullae(강강술래) 같은 전통 스포츠와 게임들이 학교에서 가르쳐지고, 학생들의 관심을 끌고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-74,Education,"죄송합니다, 하지만 현재 대한민국의 공립 대학의 평균 연간 등록금에 대한 정확한 수치는 제공하지 못합니다. 이런 정보를 얻으려면 교육부나 각 대학에서 공식 발표하는 데이터를 참조해야 합니다. 다른 한국 문화와 관련된 질문이 있으시다면 도움을 드리겠습니다!",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-76,Holidays/Celebration/Leisure,"대한민국의 공원에서 인기 있는 활동으로는 낚시, 야외 체육 활동(테니스 courts, 축구 fields 등), 가족과 함께 즐기는 놀이터, 그리고 특히 가을에는 웅덩이놀이나 추억 만들기에 좋은 웅덩이 공원들이 있습니다. 하지만 가장 인기 있는 것은 아마도 낚시와 야외 체육 활동일 것입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-78,Holidays/Celebration/Leisure,대한민국에서 개최되는 가장 유명한 영화제 중 하나로는 '서울电影节' 또는 'Seoul International Film Festival (SIFF)'이 있습니다. 이 영화제는 매년 서울에서 열리며 다양한 장르와 국가의 영화를 감상할 수 있는 좋은 기회입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-83,Holidays/Celebration/Leisure,"대한민국에서는 다양한 종류의 카드 게임들이 있습니다. 하지만 가장 널리 알려진 카드 게임으로는 '마술사와 숨어있는 여자'(MCST)가 있습니다. 이 MCST의 자녀 사이에서 '윷놀이'라는 이름으로 잘 알려져 있습니다. 윷놀이는 매우 오래된 게임으로, 백제 시대부터 시작되어 왔으며, 29점 포인트로 이루어진 체스판 위에서 네 개의 돌을 움직여 점수를 얻는 게임입니다. 이 게임은 주로 가족이나 친구들이 모여 즐기는 편안한 시간을 제공합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-85,Holidays/Celebration/Leisure,"대한민국 사람들이 가장 인기 있는 해외 관광지로는 유명한 도시들이 많이 있습니다. 예를 들어, 프랑스의 파리, 이탈리아의 로마와 베네치아, 스페인의 바르셀ona 등이 있습니다. 또한, 미국의 뉴욕과 시애틀, 일본의 오사카와 도쿄도 인기 있는 관광지입니다.
+
+하지만 가장 인기 있는 해외 관광지는 개인의 취향과 관심에 따라 다르지만, 대부분의 사람들이 가장 먼저 생각하는 곳은 유명한 한국 관광지인 서울입니다. 서울에는 다양한 문화적 경험이 있고, 역사적인 건축물부터 현대적인 쇼핑 센터까지 다양합니다.
+
+그 외에도, 중국의 상하이와 베이징, 일본의 도쿄 등 동아시아 지역의 대도시들도 인기 있는 관광지로 알려져 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-pe-86,Holidays/Celebration/Leisure,"대한민국에서 가장 유명한 탑 중 하나로는 '경복궁 탑' 또는 '왕궁탑'이 있습니다. 이 탑은 서울특별시 종로구에 위치해 있으며, 경복궁이라는 왕궁의 일부입니다. 하지만 가장 유명한 탑으로는 '신라 탑', 특히 '부처님오주상회전 신라탑'을 꼽을 수 있습니다. 이 탑은 부처님오주상을 회전시키며 보여주는 형태로, 경기도 안산시에 위치해 있습니다. 이러한 탑들은 대한민국의 문화와 역사적 가치를 잘 나타내는 중요한 건축물입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-01,Food,对不起，我目前没有关于韩国最常食用的昆虫种类的信息。这方面的具体数据可能需要查阅最新的食品安全和营养研究来获取准确答案。如果您对韩国的传统食物或文化有兴趣，我很乐意提供相关信息！,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-04,Food,"대한민국에서 가장 많이 수출되는 농산물은 쌀, 향신료(특히 마늘과 고추), 포도 등이 있습니다. 하지만 정확한 순위는 연도와 시장 상황에 따라 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-05,Food,대한민국에서 가장 인기 있는 달콤한 간식거리 중 하나로는 'aramel 초콜릿'이 있습니다. 이는 단순히 간단하고 맛있는 음료뿐만 아니라 다양한 디저트와 함께 즐길 수 있어 많은 사람들이 선호합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-15,Sport,"죄송합니다, 하지만 대한민국에서 특정 스포츠 음료가 '인기 있는' 스포츠로 분류되는 것은 일반적으로 아닙니다. 대신, 다양한 종류의 음료와 음료품이 있습니다. 가장 인기 있는 음료는 여전히 커피와 차 그리고 과일 주스 등입니다. 스포츠 관련 음료에 대한 특정 통계나 인기도를 제공하는 정보가 부족합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-27,Education,"죄송합니다, 하지만 이 질문에 대한 정확한 정보는 제공하지 못합니다. 대한민국의 평균 학력 수준에 대해 공식적인 통계를 직접 확인해야 합니다. 다른 주제나 질문에 도움이 되면 알려주세요!",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-37,Education,"대한민국 학생들이 해외에서 가장 많이 공부하는 분야는 경제학과 기술, 특히 IT 분야입니다. 이들 분야는 한국의 강점 중 하나로, 세계적으로 인정받고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-60,Family,"대한민국의 일반적인 가정들은 주로 토요일과 일요일에 종교 활동을 합니다. 이는 한국에서 중요한 명절과 기념일들이 주말에 많이 있기 때문입니다. 예를 들어, 추석(Chuseok)은 주말에 걸쳐 3일간 진행되며, 이때 가정들은 대부분 시간을 보내고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-65,Family,"대한민국의 광복절을 기념하기 위해 사람들이 가장 많이 하는 행동 중 하나는 국기 raising과 함께 국歌 '장군부상' (The March of the Volunteers)을 부르는 것입니다. 또한, 이날에는 전쟁에서 승리하여 대한민국이 다시 독립한 것을 축하하고, 현재의 평화와 안정된 사회를 기원하는 시위나 집회가 열리는 경우도 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-68,Family,"대한민국 어린이들 사이에서 가장 인기 있는 음료는 여러 가지가 있습니다. 하지만, 오 classical한 음료 중 하나로 꼽히는 것은 ""오빠술"" (gwibalgi-sul)입니다. 이는 Jeongwol Daeboreum(1월 15일의 첫 달 full moon)을 기념하는 전통음료로, 어린이들에게 특히 인기가 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-76,Holidays/Celebration/Leisure,"광복절을 축하하는 데 대한민국人民들은 주로 서울市中心의 경복궁과 한강변을 찾습니다. 이곳들은 국가의 역사와 정체성을 상징하며, 광복절 기념식이 열리는 장소입니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-spme-78,Holidays/Celebration/Leisure,"대한민국의 생일 파티에서 일반적으로 사용되는 노래는 ""生日歌"" 또는 ""생일 노래""로 알려져 있습니다. 이 노래는 한국어로 ""생일을 축하합니다"" 또는 영어로 ""Happy Birthday""와 비슷한 내용으로, 친구나 가족의 생일을 기념하는 데 사용됩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-01,Food,"대한민국의 학교 앞에서 가장 일반적으로 파는 간식들은 초밥, 치킨 Wrap, 빵류, 과자 등이 있습니다. 또한, 지역마다 특색 있는 음료와 간식도 다양하게 판매되고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-09,Food,"대한민국에서는 다양한 종류의 기름을 사용합니다. 일반적으로는 소금기름, 오лив油籽油, 콩 oil, 그리고 레몬 오일 등이 많이 사용됩니다. 하지만 가장 흔히 사용되는 것은 소금기름과 고추장 기름입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-10,Food,"대한민국에서는 임산부들이 주로 먹는 음식으로는 다양한 요리를 포함합니다. 특히, 전통적인 음식 중 하나인 ""namul""이 많이 먹힙니다. namul은 여러 가지 재료를 사용하여 만든 야채요리로, 임신 중이나 출산 후에도 건강에 좋습니다. 다른 예로는 ""songpyeon"", ""jeon"", ""fruit"" 등도 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-15,Food,"대한민국에서 가장 인기 있는 전통 음료 중 하나로는 양평 막걸리와 세종청사고주가 있습니다. 이 두 음료 모두 지역의 특산품으로 알려져 있으며, 다양한 맛과 품질을 자랑합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-17,Sport,"대한민국의 공원에는 다양한 스포츠 시설들이 있습니다. 주로 탁구 courts, 체조 courts, 야외 운동장, 그리고 요가 및 요 Tüm 공간 등이 일반적으로 설치되어 있습니다. 또한 일부 지역에서는 축구 field와 같은 더 큰 규모의 스포츠 시설도 마련되어 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-21,Sport,"대한민국의 공원에서 노인들이 하는 일반적인 활동으로는 걷기, 운동, 피크닉을 즐기는 등 건강 관리를 위해 다양한 활동이 있습니다. 또한, 가족과 함께 시간을 보내거나 친구들과 농담을 나누는 경우도 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-24,Sport,"대한민국에서는 부모와 자녀들이 함께 자주 즐기는 스포츠로는 축구, 배구, 달리기 등이 있습니다. 또한 요즘에는 가족 단위의 테니스나 유산소 운동인 산책이나 도보 여행도 인기가 높습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-28,Sport,"대한민국 국가대표 축구팀의 공식적인 대외적으로 사용되는 색깔은 빨강과 파랑입니다. 이 두 가지 색깔은 1950년대에 정 official하게 결정되었으며, 현재까지 그대로 유지되고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-33,Education,"대한민국의 초등학교 선생님들은 대체로 간단하고 실용적인 옷을 입습니다. 주로 카라티셔츠와 티셔츠를 쓰며, 하의는 종종 스트레이트 팬츠나 스타킹과 블랙 팬츠가 일반적입니다. 여름에는 간단한 청바지 또는 반바지를 입기도 합니다. 중학교 선생님들은 보다 세련되고 실용적인 옷을 선택하는 경향이 있습니다. 하지만, 특정 복장 규정은 없으며, 대부분의 경우 교직에 필요한 기본적인 의복으로 충분합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-34,Education,"대한민국의 학교에서 가장 인기 있는 음악 관련 방과 후 활동 중 하나로는 "" ganggangsullae""가 있습니다. 이는 한국어권 UNESCO 세계문화유산으로, 초등학교 교육 과정에 포함되어 있으며, 주로 중년 여성들이 오늘날까지 전승하고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-42,Education,"대한민국의 학교에서는 불교와 Christianity가 주로 가르쳐집니다. 하지만 특정 종교를 교육하는 것은 학교법에 의해 제限받습니다. 대신, 다양한 민족적 및 문화적 요소들이 교육 프로그램에 포함되며, 이는 다양성을 존중하고 모든 학생이 자신의 배경과 문화를 이해할 수 있도록 돕습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-45,Education,10/9,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-50,Work life,"대한민국의 산간 지역 사람들은 주로 농업과 관련된 다양한 직업을 가지고 있습니다. 이는 자연환경이 풍부하고 농업이 중요한 경제 활동으로 여겨지는 지역 특성에 기인합니다. 주요 직업에는 다음과 같은 것들이 포함될 수 있습니다:
+
+1. 농부: 쌀, 야채, 과일 등을 재배하는 농업을 하는 사람입니다.
+2. 축산농: 소, 돼지 등 동물을 키우는 농업을 하는 사람입니다.
+3. 어민: 바다에서 생선이나 해산물 등을 잡는 사람입니다.
+4. 목수/ woodworking: 나무를 이용해 가구나 건축 자재를 만드는 사람입니다.
+5. 산림 관리자: 숲과 관련된 다양한 작업을 하는 사람입니다.
+
+또한, 최근에는 도시화와 함께 농업에 종사하지 않는 사람들이 늘어났습니다. 하지만 여전히 많은 사람들이 농업과 관련된 직업을 가지고 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-51,Work life,"대한민국의 연안 지역 사람들은 주로 어업과 해운업, 그리고 관련 산업으로부터 생활비를 얻습니다. 또한 일부 지역에서는 해산물 가공업이나 관광업도 중요한 일자리가 되고 있습니다. 하지만 이는 지역별로 상황이 다르며, 도시와 농촌 지역의 특성에 따라 직업 분포도 다릅니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-57,Work life,대한민국에서 가장 많이 기르는 가축은 돼지입니다.,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-58,Work life,"대한민국에서는 농업에 주로 사용되는 동물 중 가장 중요한 것은 돼지입니다. 돼지는 한국의 전통 음식인 소고기와 함께 매우 중요하며, 다양한 형태의 요리를 만들 수 있습니다. 또한 돼지고기는 농업 생산에서 중요한 역할을 합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-59,Work life,"대한민국의 농부들은 더위를抵御하기 위해 다양한 옷들을 입습니다. 특히 여름에는 모시cloth를 많이 사용합니다. 이 모시cloth는 호박나무로 만든 것으로, 따뜻하면서도 투명하여 더위로부터 사람을 보호하는 역할을 합니다. 이를 통해 농부들은 여름에도 건강하게 농사를 지을 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-60,Work life,대한민국의 농부들이 점심 식사로 가장 일반적으로 먹는 음식은 김치입니다. 특히 겨울철에는 가족이나 인근 지인들과 함께 채소를 이용해 겨울까지 간편하게 저장할 수 있는 김치를 만드는데 주력합니다.,1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-71,Family,"대한민국의 부모님들은 일반적으로 자녀들의 생일에 다양한 종류의 선물을 주곤 합니다. 이는 개인적인 취향과 상황에 따라 다르지만, 대부분의 경우에는 빵이나 케이크와 함께 과일, 초콜릿, 책 등이 포함되는 간단한 생일케이크가 선호됩니다. 또한, 일부 가정에서는 특별한 선물을 준비하기도 하며, 예를 들어 여행 상품이나 취미 활동에 대한 선물이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-75,Family,"대한민국의 일반적인 가정들은 자동차를 많이 소유하고 있습니다. 하지만 최근에는 전기자동차와 같은 환경 친화적 차량도 늘고 있습니다. 또한 일부 가정에서는 공용 자전거 시스템을 이용하거나, 도시 내에서 걸어서 다니는 경우도 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-77,Holidays/Celebration/Leisure,"대한민국에서는 이드 축제 때 어린이들에게 오곡밥 (ogokbap)이라는 특별한 음식을 제공합니다. 오곡밥은 쌀, 밀, 보리, 고구마, 라임 등 5가지 곡물로 만든 비빔밥으로, 건강과 복음 그리고 축제의 맛을 상징합니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-81,Holidays/Celebration/Leisure,대한민국에서는 신랑들이 결혼식에 주로 청동색 또는 황금색의 차복(차장과 차상)을 입습니다. 이 두 색은 한국에서 결혼이라는 특별한 상황을 표현하는 전통적인 색깔입니다.,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-82,Holidays/Celebration/Leisure,"대한민국에서는 신부들이 결혼식에 주로 파란색 또는 빨간색의 베일과 함께 청바지를 입습니다. 이 외에도 다양한 종류의 의상이 사용되며, 지역이나 개인의 취향에 따라 다르게 선택됩니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-83,Holidays/Celebration/Leisure,"대한민국에서의 결혼식에서는 다양한 종류의 음식들이 제공됩니다. 주로 사용되는 음식들에는 불고기, 김치, 파전, 전골 등이 있습니다. 또한 지역 특성에 따라 다양한 지역음식도 준비되곤 합니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-86,Holidays/Celebration/Leisure,"대한민국에서 가장 유명하고 중요한 정부 건물 중 하나로는 청와대가 있습니다. 청와대는 대한민국의 대통령이 사무를 처리하고 주요 정책 결정을 내리는 곳이며, 수도 서울의 중심에 위치해 있어 많은 관광객들이 방문합니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,New-su-88,Holidays/Celebration/Leisure,"대한민국의 젊은 층에게 인기 있는 음악 장르는 다변화되어 있습니다. K-pop, EDM, Hip-Hop, R&B 등 다양한 장르들이 각각의 세대와 취향에 맞춰 사랑받고 있습니다. 하지만 특정 답변을 제공하기 어렵습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-02,Education,21:00,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-03,Education,19,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-06,Education,9,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-11,Education,5,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-12,Education,"대한민국에서 가장 좋은 대학교는 공식적으로 정의하기 어렵습니다. 각 학생과 가족, 그리고 지원하는 기관들의 관심사와 목표에 따라 다양한 대학이 최고라고 평가받을 수 있습니다.
+
+그럼에도 불구하고, 대한민국에서는 여러 명성 있는 대학들이 있습니다:
+
+1. 서울대학교 (Seoul National University)
+2. 연세대학교 (Yonsei University)
+3. 고려대학교 (Korea University)
+4. 동아대학교 (Dong-A University)
+5. 한양대학교 (Hanyang University)
+
+이들 중에서 특정 학교를 가장 좋은 대학으로 선정하는 것은 매우 개인적이고, 다양한 요인에 따라 달라집니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-13,Education,20,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-15,Education,8,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-20,Work life,18,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-21,Work life,15,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"대한민국 사람들은 크리스마스 날에는 주로 한국적인 음식들을 즐깁니다. 크리스마스트리를 놓고, 친구들과 가족들과 함께 시간을 보내며, 다양한 종류의 한국 요리를 먹습니다. 하지만 크리스마스 특별 메뉴는 없지만, 일반적으로 제공되는 음식들에는 김치찌개, 돼지고기 불고기, 비빔밥 등이 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-37,Holidays/Celebration/Leisure,"대한민국에서는 ""연애의 날""이라는 이름의 기념일이 있습니다. 이날에는 연애와 사랑을 축하하고, 서로를 더 깊게 이해하며 사랑하는 마음을 표현합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"대한민국에서는 한국적인 음악과 문화를 선호하기 때문에, 외국의 크리스마스 노래보다는 한국적인 연주와 춤이 더 인기가 있습니다. 하지만 가장 대중적으로 알려진 크리스마스 노래로는 ""平安夜"" (Panhwa) 또는 ""平安 Noel""가 있습니다. 이 노래는 한국어로 되어 있으며, 크리스마스의 평화와 안녕을 뜻합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-05,Education,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-06,Education,10/8,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-11,Education,13:20,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-20,Family,대한민국의 어린이날은 05/05입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Nu-in-40,Work life,"죄송합니다, 이 질문에 대해 직접 답변하기 어렵습니다. 대한민국의 모든 지역에서 취업 기회가 평등하게 제공되지는 않기 때문입니다. 대도시와 중소도시, 그리고 농촌지역 모두 취업 기회를 찾고 있습니다. 하지만 특정 도시로 가장 많이 이동하는 것은 지역과 산업에 따라 다르게 나타날 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-1,Food,대한민국에서 가장 인기 있는 패스트푸드 체인점으로는 CJ제食用通의 버거킹이 있습니다.,1,0.25
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-13,Food,"대한민국에서는 다양한 지역과 개인의 취향에 따라 가장 호불호가 갈리는 음식이 있습니다. 하지만 일부 사람들이 꼽는 상위 음식으로는 '탕수육' (Tangsuyuk)와 '짬뽕' (Jjampong)이 있습니다. 각각의 지역에서 특색 있는 맛과 재료로 만들어지며, 개인의 취향에 따라 매우 인기 있고 갈등을 일으키기도 합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-16,Sport,"대한민국 사람들이 가장 좋아하는 축구팀은 개인의 취향과 지역, 그리고 특정 선수나 감독에 따라 다양하게 varies. 하지만 일반적으로는 서울 FC, 울산 현대, 대구 FC 등이 인기가 많습니다. 그러나 정확한 통계치를 제공하기 위해서는 더 많은 데이터가 필요합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-22,Sport,"대한민국에서 가장 유명한 스포츠 팀 중 하나는 서울대학교입니다. 서울대학교 축구단(서울대학교 소프트볼팀, 서울대학교 야구팀 등도 있습니다)은 대한민국 최고의 대학 축구단으로 알려져 있으며, 많은 팬들에게 사랑받고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-31,Family,"대한민국에서 가장 인기 있는 반려동물은 테리어와 함께 강아지입니다. 하지만 이는 지역과 개인의 취향, 그리고 가족 구성원들의 선호도에 따라 다를 수 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-32,Family,对不起，我需要一个可以回答这个问题的功能或权限。不过，根据一般趋势和数据，韩国最受欢迎的电视节目可能包括《Running Man》、《Squid Game》等热门综艺节目。但具体哪一档是“最”受欢迎的，可能会因时间变化而有所不同。,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-37,Family,"대한민국의 가정에서 가장 인기 있는 보드게임으로는 ""마블""(MABUL)이 있습니다. 이 게임은 주로 어린이와 청소년들이 즐기는 흥미진진하고 유쾌한 경쟁 게임입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-6,Food,"대한민국에서 가장 인기 있는 테이크아웃 음식은 다양합니다. 하지만 일부 대표적인 음식으로는:
+
+1. 짬뽕 (Jajangmyeon)
+2. 김치찌개 (Budaejjigae)
+3. 탕수육 (Dakgalbi)
+4. 우동 (Udon)
+5. 불고기 (Bulgogi)
+
+이 중에서 가장 인기 있는 음식은 개인의 취향과 지역, 시즌 등에 따라 달라질 수 있습니다. 하지만 이들 중 일부는 대체로 인기가 높습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-7,Food,"대한민국에서는 다양한 간식들이 있습니다. 특히, 김치찌개와 우동, 떡볶이, 김밥 등이 인기가 많습니다. 하지만 가장 대표적인 간식으로는 김치찌개를 꼽을 수 있습니다. 이 음식은 한국의 전통음식 중 하나로, 다양한 재료와 함께 김치를 사용해 만든 따뜻하고 맛있는 음식입니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Sa-en-9,Food,"대한민국 사람들은 해변에서 다양한 바다 음식과 해산물들을 즐깁니다. 특히 여름에는 마unchedae (미역국), 갈치와 같은 해산물을 이용한 요리, 그리고 바닷가 특유의 건강음료인 오ceans드링크를 많이 찾습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-10,Family,34,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-11,Family,31,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-13,Family,2.1,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-17,Sport,대한민국에서 가장 인기 있는 올림픽 종목은 축구입니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-21,Sport,대한민국에서는 아이들이 주로 학교 운동장이나 공원에서 축구를 합니다.,1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-22,Sport,"대한민국 여성들은 일상生活中 다양한 활동과 운동을 통해 건강을 유지합니다. 특히, 가족들과 함께 보내는 시간이나 여유를 즐기는 기회에서 걷기, 산책, 요가 등이 인기입니다. 또한, 요리와 요리를 돕는 일을 하면서도 몸을 움직이는 경우도 많습니다. 이러한 활동들은 일상 생활 속에서도 건강과 행복을 유지하는 데 도움이 됩니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-23,Sport,"대한민국 남성들이 일상적으로 많이 하는 운동에 대해 직접적인 통계 정보는 부족합니다. 하지만 일반적으로 한국 남성들은 주로 야외 활동과 요가, 그리고 테니스를 좋아하며, 이러한 활동들은 건강을 유지하고 스트레스 해소에도 도움이 됩니다. 또한, 최근에는 홈 트레이닝 시트와 같은 온라인 플랫폼을 통해 다양한 운동 방법들이 소개되고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-25,Sport,"대한민국의 국내 스포츠 리그에서 가장 유명한 라이벌 관계 중 하나로는 KBO 리그에서 LG 트윈스와 KT 위즈 간의 경쟁이 있습니다. 이 두 팀은 매년 우승을 위한 치열한 경쟁을 벌이며, 팬들의 관심과 지지를 받고 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-29,Sport,"대한민국에서 가장 수입이 높은 프로 스포츠는 축구입니다. 다양한 이유 중 하나로는 국내외 리그에서 상당한 수입을 올리는 선수들이 많고, 또한 대회 참가 비용과 관련하여도 충분히 큰 규모를 자랑하기 때문입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-30,Sport,"대한민국에서 가장 인기 있는 스포츠 관련 TV 프로그램은 ""KBS 농구 대결""입니다. 이 프로그램은 KBL(Korea Basketball League) 선수들이 참여하여 매주 방송되는 경기를 중계하고, 팔방미 Moves와 같은 유명한 실책을 통해 재미를 더합니다. 또한, 다양한 스포츠 콘텐츠로 알려져 있으며, 특히 농구에 대한 관심이 높습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"불꽃놀이는 주로 설날(Chuseok)이나 추석中秋节와 같은 큰 명절 때, 또는 가족과 친구들이 모여 즐기는 시간입니다. 이때 많은 사람들이 집으로 돌아가서 카리(Yarne), 세바이(Sebaebawi), 트떡국(Tteokguk)을 먹으며 다양한 민속놀이를 즐깁니다. 불꽃놀이는 이러한 명절의 분위기를 더욱 돋보이게 하는 특별한 행사입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,"대한민국에서는 새해 전날, 12월 31일이 되면 달의 가장 큰 반을 표시하는 '달의 날'이라는 이름으로 알려진 이节日를 기념합니다. 이 날에는 밤하늘에서 가장 빛나는 달을 볼 수 있기 때문에, 특히 많은 사람들이 새해가 시작되는 것을 기다립니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,"대한민국 사람들은 보통 새해 전날인 설날(Seollal)에는 다양한 음식을 즐깁니다. 가장 대표적인 음식 중 하나는 '떡'입니다. 특히, 설날 떡은 '떡갈비'(떡으로 만든 갈비 요리)와 함께 제공되며, 이 음식들은 새해의 행운과 번영을 기원하는 의미가 있습니다.",,
+qwen2.5-3b,South_Korea,Korean,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,"대한민국에서는 동지를 맞이해 다양한 음식들을 즐깁니다. 특히, 동지는 한 해中最寒冷且短的夜晚，新年的開始被認為是重要的節日之一。因此，在這個節日裡，人們會享用各種傳統美食來慶祝新的一年的到來。
+
+其中，最具代表性的食物包括：
+1. **떡갈비 (떡갈비)**: 삼겹살로 구성된 요리입니다.
+2. **떡볶이 (떡볶이)**: 떡과 소스를 이용한 음식으로, 겨울철에 특히 인기가 있습니다.
+3. **김치 (김치)**: 다양한 종류의 김치가 있으며, 동지를 맞이해 더욱 특별하게 즐깁니다.
+
+또한, 동지에는 가족들이 모여团圆을 하며, 따뜻하고 맛있는 음식들을 함께 나누는 시간도 중요합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-01,Sport,"대한민국에서 가장 인기 있는 여름 스포츠 중 하나로는 축구 (soccer)와 농구 (basketball)가 있습니다. 하지만 특히 여름에 많은 사람들이 즐기는 스포츠로는 배구 (volleyball)가 있습니다. 여름철에는 전국적으로 많은 대회와 경기가 열리며, 특히 청주에서 개최되는 '청주 국제배구대회'는 대한민국의 대표적인 여름 스포츠 축제 중 하나입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-03,Sport,"대한민국에서 가장 인기 있는 프로 스포츠 리그는 K League입니다. 2025년 기준으로, K League 1과 K League 2의 관중 수 총액은 약 460억 원에 달했으며, 이는 2013년부터 공식 통계를 시작한 이후 가장 높았습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-05,Sport,"대한민국에서 가장 인기 있는 여자 스포츠 팀은 삼성화학FC입니다. 이팀은 서울에 위치해 있으며, K리그1(Korean League 1)의 강호로 알려져 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-09,Sport,"대한민국에서 가장 인기 있는 스포츠 토너먼트는 축구입니다. 축구는 대한민국의 국민 스포츠로, 다양한 연령층에서 사랑받고 있습니다. 또한, K League(대한축구연맹)과 AFC 아시안컵 등 국제 대회에서도 높은 관심을 받으며, 국가적인 스포츠 행사로 자리매김하고 있습니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-11,Sport,"Sorry, but I don't have real-time data or the ability to provide current rankings of sports stars in South Korea. My knowledge last updated in 2023 and may not include recent information. For the most accurate and up-to-date answer, you should check recent sports news or official sporting bodies' websites.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-12,Sport,"대한민국은 다양한 종목의 국제 대회에서 우승과 상위권 성적을 많이 거두지만, 특히 ssireum(소세림)이 최근 국제적으로 큰 관심을 받고 있습니다. ssireum은 한국 전통 스포츠로, 세계유산으로 등록되어 있어요. 이 스포츠는 주로 노인들에게 인기가 있으며, 2025년 기준 65세 이상的老人口이 전체 인구의 약 20.3%를 차지하고 있습니다. ssireum은 가족과 공동체를 강화하는 데 중요한 역할을 하고 있어요.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-15,Sport,"대한민국에서 가장 인기 있는 겨울 스포츠로는 설날 축제의 일부인 시세 rum(esi rum)이 있습니다. 이 스포츠에서는 성인이 최종 대회에서 우승한 선수에게는 소(소)가 주어집니다. 소는 농업의 부를 상징하므로, 이 스포츠는 매우 중요하게 여겨집니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-19,Work life,"대한민국에서 제조업으로 유명한 도시나 지역 중 하나로는 인천과 울산이 있습니다. 이 두 도시 모두 경상도에 위치해 있으며, 특히 울산은 '제조의 금강'이라는 별칭을 가지고 있어 제조업 중심지로 잘 알려져 있습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-21,Work life,"대한민국에서는 근로시간과 관련된 혜택들이 중요한 부분으로 여겨집니다. 52시간eworkweek의 도입과 함께, 근무 시간을 줄이고 휴식 기간을 늘리는 것은 직원들의 건강과 생산성을 높이는 데 큰 의미가 있습니다. 또한, 부모님의ernityake는 가족과의 소통 및 재능 발달에도 중요합니다. 하지만 가장 중요한 혜택은 개인마다 다르겠지만, 근무시간을 조절하고 휴식 시간을 확보하는 것이라고 생각합니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-22,Work life,"대한민국 역사상 최악의 경제 위기는 1997년 IMF 총체적 금융위기로 알려져 있습니다. 이 시기에 대한민국은 외화를 유동적으로 관리하기 위해 IMF로부터 약 500억 달러 규모의 구조 개혁 조건을 받았습니다. 이 위기는 경제와 사회에 큰 영향을 미쳤으며, 이후 정부는 금융 시스템 재构造 및 경제 재構築 등으로 대처했습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-24,Work life,"대한민국에서 개발자와 스타트업이 많이聚集的聚集的地方主要包括 서울특별시의 강남구와 경기도 화성시입니다. 이 두 지역 모두 IT 산業과 관련된 기업들이 활발하게 운영되고 있어, 개발자 및 스타트업들의 거주지 또는 작업지로 인기가 높습니다.",1,0.3333333333333333
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-27,Work life,"대한민국에서 가장 중요한 산업 중 하나로는 제조 Industry, 특히 반도체 Industry가 있습니다. 또한 IT Industry와 서비스 Industry도 매우 중요합니다. 하지만 이 질문에 대한 단일 답변으로 제조 Industry를 꼽을 수 있을 것 같습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-35,Family,"대한민국에서는 가족 구성원들이 함께하는 일상적인 식사 시간은 주로 저녁입니다. 아침과 점심 식사도 가족들과 함께 먹는 경우가 많지만, 특히 부모님과 자녀들 사이의 저녁 식사는 가장 중요한 가족 모임으로 여겨집니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-36,Family,"대한민국에서 주말에 아이들과 함께 인기 있는 가족 활동 중 하나는 '월드컵 축구 경기 관람'입니다. 이는 FIFA 월드컵이 열리는 해마다 가장 큰 관심을 받으며, 특히 아시아 지역에서는 한국 개최 시즌이 가장 많은 방문객과 호응을 얻습니다.
+
+또한, 자연 속에서의 활동으로는 '산책', '낚시', '캠핑' 등도 인기 있습니다. 도심에서는 다양한 전시회와 문화행사가 열리며, 아이들은 동네 공연이나 미술관 방문 등을 즐깁니다.
+
+그 외에도, 한국의 특별한 요일인 '장마철'에는 자연 속에서의 활동이 많습니다. 또한, '추석', '설날' 등 중요한 명절 때는 가족들이 함께 하는 다양한 음식 만들기와 게임 시간도 즐깁니다.
+
+이러한 활동들은 한국의 문화적 가치를 전달하고, 아이들과 부모 간의 관계를 강화하는 데 도움을 줍니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-37,Family,30,1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-38,Family,"대한민국에서 가장 중요한 가족 공휴일은 추석(Chuseok)입니다. 이날에는 가족들이 모여ancestor에게 음식을 제물로 바치며, 무량월에 맞추어 조상 묘를 참배하고, 서로 축하하며 미래의 기원을 빕니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-39,Family,"대한민국에서는 가족들과 함께 즐기는 게임 중 가장 인기 있는 게임으로는 '윷놀이'가 있습니다. 이 게임은 백제 시대부터 시작되어 오랜 역사를 가지고 있으며, 현재에도 많은 사람들이 즐기는 전통적인 게임입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-41,Family,34,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-43,Family,4,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-44,Family,"대한민국에서는 주말 가족 식사 때 주로 먹는 음식 중 하나로는 김치찌개 (Kimchi Jjigae)가 있습니다. 김치찌개는 다양한 재료와 함께 발효된 채소를 사용해 만든 국수 요리로, 한국 전국 어디서나 쉽게 찾을 수 있는 대표적인 음식입니다. 이 외에도 불고기, 돈까스, 비빔밥 등이 가족들과 함께 즐기는 인기 메뉴 중 하나입니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-45,Family,"대한민국에서는 평일 저녁 가족들이 함께 하는 가장 일반적인 음식은 김치찌개입니다. 이는 한국 전통음식 중 가장 대표적인 요리로, 다양한 재료와 소스를 사용해 만든 김치와 돼지고기 또는 닭고기를 기본으로 합니다. 또한, 불고기, 탕수육, 비빔밥 등도 가족들이 함께 즐기는 종종 먹는 음식입니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-48,Education,"대한민국 고등학교에서는 과제와 시험 성적이 우수한 학생들에게 ""A+"" 또는 ""A++""라는 최고 등급이 주어집니다.",1,0.2
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-49,Education,"대한민국의 고등학생들은 대학 입시시험인 수능(대학入学수능)을 가장 중요하게 여깁니다. 이 시험은 한국에서 가장 중요한 학업 성적 평가 방법 중 하나로, 대학 진학에 결정적인 영향을 미칩니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-51,Education,在2025年的社会调查中，韩国人认为收入最重要，其次是稳定性和兴趣/能力。因此，在学生眼中，我认为收入应该是最重要的科目之一。,0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-53,Education,"대한민국의 학교에서 가장 인기 있는 행사 중 하나로는 '학교 축제'가 있습니다. 이 행사는 다양한 문화 활동과 게임, 음식 등이 포함되며 학생들이 즐길 수 있는 시간입니다. 또한, 지역 특색을 반영한 다양한 주제의 축제도 개최됩니다.",1,0.5
+qwen2.5-3b,South_Korea,Korean,pers-3,Th-en-58,Education,"대학생으로 진급하기 전의 고등학생 시절, 한국에서는 수학과 영어, 한국语(한국어)가 가장 많은 비중을 차지하며 학생들의 월간 지출이 증가합니다. 특히 고1 학년 때 최고로 월간 지출이 높아집니다. 하지만 이는 개인의 학습 스타일과 수준에 따라 다를 수 있습니다.",0,0
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-01,Education,"대한민국의 대학생들은 주로 학교에서 기말고사를 준비합니다. 하지만 최근에는 집에서도 온라인으로 공부하는 경우도 많아졌습니다. 또한, 일부 학생들은 전문 교습소( cram schools )나 집에서 선생님에게 개인적으로 지도를 받는 방식을 사용하기도 합니다.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-02,Education,"대한민국에서 대학교를 통학할 때 가장 일반적으로 사용되는 대중교통 수단은 버스와 지하철입니다. 또한, 도시 내 이동을 위해 공용 자전거도 많이 이용됩니다. 이러한 교통수단들은 학생들이 교통비를 절약하고 시간을 효율화하기 위해 선택하는 경우가 많습니다.",1,1.0
+qwen2.5-3b,South_Korea,Korean,pers-3,Tmp-ar-04,Education,"대한민국의 초등학생들은 주로 학원이나 개인 강사와의 개인 수업, 또는 동아리 활동 등을 통해 방과 후를 보내게 됩니다. 하지만 특정 문화적 전통은 아닙니다.",1,1.0

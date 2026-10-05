@@ -1,0 +1,513 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-01,Food,Comida del desayuno.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-02,Food,Paella,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-04,Food,La información proporcionada no especifica cuál es la fruta más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-06,Food,Pan con jamón y queso,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-08,Food,La información proporcionada no incluye detalles específicos sobre los aperitivos más consumidos en los centros comerciales de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-09,Food,"Não está claro se há um parque de atracções em Ourense que organize o festival do pulpo. A informação fornecida menciona apenas o Festival do Pulpo de O Carballiño, que ocorre no segundo domingo de agosto em um municipal park, servindo pulpo á feira e outras comidas, mas não especifica se é um parque de atracções.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-16,Education,6,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-17,Education,Tug of war,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-18,Education,Matemáticas,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-19,Education,Spanish,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-21,Education,No hay información específica sobre las asignaturas más importantes para la educación de los superdotados en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-32,Holidays/Celebration/Leisure,"La pregunta no proporciona información relevante sobre los platos principales para el Día de Acción de Gracias en España. La información dada se refiere a la compra de alimentos y actividades relacionadas con la gastronomía española, pero no menciona específicamente el Día de Acción de Gracias o sus tradiciones culinarias.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-33,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles sobre cómo se celebra Halloween en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-34,Holidays/Celebration/Leisure,"La pregunta no proporciona información sobre cómo las personas celebran el Año Nuevo en España. Las estadísticas mencionadas son sobre hábitos deportivos y trabajo extra en España, no sobre festividades de Año Nuevo.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-35,Holidays/Celebration/Leisure,"Las personas en España celebran la Navidad con turrón, especialmente el turrón de Jijona de Alicante, que se presenta en la mesa durante la temporada festiva y es un elemento tradicional del aguinaldo (regalo navideño).",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-36,Holidays/Celebration/Leisure,No existe una comida específica asociada con Halloween en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-37,Holidays/Celebration/Leisure,Turrón,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-38,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-39,Holidays/Celebration/Leisure,No se proporciona información específica sobre qué comerse en cumpleaños en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-40,Holidays/Celebration/Leisure,Parque infantil,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Al-en-43,Holidays/Celebration/Leisure,No hay información específica sobre actividades de interior populares para las familias en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-02,Education,No se menciona específicamente dónde almuerzan los estudiantes universitarios en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-03,Education,10,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-08,Education,15,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-09,Education,2,1,0.25
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-34,Sport,"No hay información específica sobre el deporte de equipo más popular que se juegue en las escuelas en España. La pregunta no está claramente relacionada con la información proporcionada, que habla principalmente sobre deportes populares entre adultos y un juego específico del País Vasco.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-35,Sport,La información proporcionada no incluye datos sobre los comentaristas deportivos más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-36,Sport,Football (soccer),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,An-ar-43,Sport,No se menciona específicamente en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-06,Food,No está claro desde el contexto proporcionado cuál es la comida más importante del día para la gente de España. Las respuestas podrían variar y no hay información específica sobre esto en los datos suministrados.,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-08,Food,Olive oil,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-09,Food,"La pregunta específica sobre qué suelen comer los españoles de postre no está claramente proporcionada en el background dado. Las opciones más comunes incluyen helados, tartas, flanes y alfajores, pero sin información específica sobre la tradición española de postres, no puedo proporcionar una respuesta precisa.",1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-11,Food,Compactada,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-14,Food,"No está claro desde el texto proporcionado cuál es la bebida caliente más popular en España. Las informaciones dadas se refieren a fiestas, deportes y carnavales específicos de ciertas regiones españolas, pero no mencionan ninguna bebida caliente como la más popular nacionalmente.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,La información proporcionada no incluye datos específicos sobre qué suelen beber los jóvenes de España en las discotecas.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,8,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"No existe una tradición específica única para ""Nochevieja"" (la noche del año nuevo) en España. Las celebraciones pueden variar significativamente entre regiones y ciudades.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-38,Family,Couples with or without children,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-41,Family,"En España, las personas mayores dependientes suelen vivir con sus descendientes o en hogares de ancianos. Según el dato proporcionado, un 43.1% de las personas que viven solas en España son mayores de 65 años, y la mayoría de ellos (71.9%) son mujeres. Sin embargo, no se especifica exactamente dónde suelen vivir estas personas mayores dependientes.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-42,Family,16,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-43,Family,16,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ca-sp-45,Family,Paella valenciana.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-05,Sport,Football (fútbol),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-06,Sport,Football,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-07,Sport,LeBron James,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-08,Sport,No hay información específica sobre el deporte más popular entre los niños en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-09,Sport,Video juegos,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-11,Sport,No está claro desde el texto proporcionado cuál es el evento deportivo en el que España ha ganado más medallas de oro en los Juegos Olímpicos. El texto no incluye información específica sobre resultados olímpicos ni sobre la cantidad de medallas obtenidas por España en diferentes disciplinas deportivas.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-15,Sport,No hay información específica sobre los deportes preferidos por los estudiantes universitarios en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-16,Family,1.10,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-31,Education,10,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-32,Education,10,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-33,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-38,Education,8,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-40,Education,09:00,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Gu-ch-41,Education,0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-02,Work life,La pregunta no está relacionada directamente con el contenido proporcionado como background. No se menciona nada sobre preferencias por días de la semana para cenas de empresa en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-03,Work life,No se proporciona información relevante sobre el número de empresas financieras por región o ciudad en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-07,Work life,"La información proporcionada no incluye ninguna referencia específica a empresas privadas españolas, mucho menos las más famosas. Por lo tanto, no puedo proporcionar una respuesta con base en los datos dados.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-09,Work life,No se menciona específicamente qué suelen comer las personas durante una reunión de empresa en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-14,Work life,Cider,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-15,Work life,0.5,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-16,Family,"En España, el período de recuperación que las madres pasan después del parto varía según la duración de los permisos activos concedidos por el gobierno. En el primer semestre de 2025, las madres tuvieron un periodo de 110.6 días (112.6 días para mujeres y 108.9 días para hombres) durante el cual se consideraba que estaban recuperándose.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-19,Family,Rosas rojas,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-22,Family,No está especificado en los datos proporcionados cómo gastan especialmente las personas su primer sueldo en la sociedad española.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-24,Family,No se proporciona información específica sobre las instalaciones recreativas preferidas por los niños en España en el texto dado.,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-25,Family,1 May,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-26,Family,No se proporcionan datos específicos sobre hitos clave asociados con la independencia de los niños de sus padres en la sociedad española en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-27,Family,8 de diciembre,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-28,Family,1 January,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-29,Family,No se proporciona información relevante sobre cumpleaños celebrados con mayor pompa en la sociedad española en el background dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-31,Education,Colegio Rural Agrupado (CRA),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-33,Education,No se menciona específicamente dónde suelen ir los estudiantes de secundaria después de cenar en la información proporcionada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-34,Education,"Con clases agrupadas en varios pueblos, donde un solo maestro atiende a grupos de 3 a 12 estudiantes por edificio escolar, con sesiones que pueden extenderse hasta julio para tareas administrativas. Además, el rendimiento educativo varía significativamente entre comunidades autónomas y niveles socioeconómicos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-35,Education,El modo más frecuente de educación privada en España es la escuela concertada.,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-36,Education,Vocational,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-37,Education,La información proporcionada no incluye detalles específicos sobre el tipo de ropa que llevan los estudiantes de secundaria y bachillerato en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-38,Education,"No está claro qué carrera se considera la más difícil para ser admitida en España basado solo en los datos proporcionados. Los datos mencionan información sobre licencias deportivas, natalidad y educación preescolar/primaria, pero no comparan las dificultades de admisión entre diferentes carreras académicas.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-39,Education,Vocational training,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-40,Education,"Los estudiantes de secundaria en los colegios de España tienen dos 15-minute breaks durante sus clases del 9:00 a las 14:00, divididos en dos pausas de 15 minutos cada una.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-41,Education,La información proporcionada no incluye detalles específicos sobre qué tipo de zapatos usan los estudiantes en las escuelas en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-42,Education,"Las asignaturas obligatorias en la prueba de acceso a la universidad (Prueba Básica de Acceso a la Universidad, PBAU) en España varían según el centro y la carrera elegida. No hay una lista generalizada de asignaturas obligatorias para todas las carreras o centros educativos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-44,Education,Catalonia,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ji-ko-45,Education,No hay información proporcionada sobre lo que más esperan las personas de los festivales universitarios en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-01,Sport,Basketball,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-02,Sport,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-09,Sport,Hunting,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-13,Sport,Hunting,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-14,Sport,"No se proporciona información sobre el deporte mental más popular en España. La información dada se refiere a los deportes físicos populares y federados, pero no menciona ningún deporte mental.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-18,Work life,10,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-19,Work life,Andalucía,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-21,Work life,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-31,Education,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-32,Education,No hay información específica sobre el deporte que suelen practicar los alumnos de primaria en los colegios de España en la pregunta proporcionada ni en el contexto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-36,Education,16,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-37,Education,8,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jo-sp-43,Education,2,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-01,Food,"Paella pan, paella valenciana, tablas para cortar pulpo á feira, platos para romerías.",1,0.25
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-04,Food,Honey,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-06,Food,Cider,1,0.25
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-07,Food,N/A,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-09,Food,21:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-12,Food,La información proporcionada no incluye detalles sobre los tipos de sopa que las personas de España prefieren.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-13,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-15,Food,No se menciona ningún tipo específico de mariscos en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Fallas,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Autobús,1,0.6
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Fallas,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-37,Sport,No hay información proporcionada que responte específicamente a qué deportes le gustan más a las mujeres en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-38,Sport,Football,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,No hay información específica sobre las actividades de ocio comunes en las mujeres de unos 20 años en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,No hay información específica sobre las actividades de ocio comunes en las que participan los hombres de unos 20 años en España en el conjunto de datos proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-46,Work life,45.0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-48,Work life,La pregunta no está claramente relacionada con el contenido proporcionado como background sobre España. El texto dado no menciona detalles sobre la comida que las personas consumen durante sus almuerzos laborales en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-50,Work life,45,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-51,Work life,No hay información proporcionada sobre el medio de transporte más común utilizado por las personas para ir al trabajo en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-54,Work life,0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-56,Work life,40,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-57,Work life,45,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-58,Work life,No hay información específica sobre las profesiones más respetadas en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-60,Work life,31.7,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-61,Work life,No hay información específica sobre la ocupación más preferida entre las mujeres en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Jod-ch-62,Work life,No hay información proporcionada que responte específicamente a cuál es la ocupación más preferida entre los hombres en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-17,Education,Secundaria,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-24,Education,Basque,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-30,Education,"Lunes hasta viernes, excluyendo los fines de semana y festivos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-32,Food,"Las comidas que suelen preparar los anfitriones para los invitados en España pueden variar, pero comúnmente incluyen platos tradicionales como paella, tortilla española, croquetas y tapas diversas. Sin embargo, la respuesta específica a esta pregunta no está claramente proporcionada en el contexto dado.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-34,Food,No hay información específica sobre la bebida habitual en el desayuno en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-36,Food,Italian cuisine,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-39,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-40,Food,No se menciona en los datos proporcionados que alguna comida española sea considerada asquerosa por el resto del mundo.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-43,Food,Pan de Galicia,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-51,Work life,14:00,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-01,Holidays/Celebration/Leisure,12 de octubre,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-02,Holidays/Celebration/Leisure,No hay información específica sobre las actividades comunes que la gente de España realiza para celebrar el Día de la Independencia en los datos proporcionados.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Tumba,,
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-05,Holidays/Celebration/Leisure,No se menciona ninguna celebración o ceremonia específica relacionada con el embarazo en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Sant Jordi,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-07,Holidays/Celebration/Leisure,"No se menciona específicamente qué se comparte con los niños durante el Año Nuevo Lunar en España. La información proporcionada es sobre divorces, edad al primer embarazo, número de hijos promedio y hábitos culturales entre padres e hijos menores de 18 años en España.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-08,Holidays/Celebration/Leisure,No se menciona específicamente ninguna actividad comúnmente realizada en España los días previos al Ramadán en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Magosto,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-11,Holidays/Celebration/Leisure,No se proporciona información relevante sobre lugares religiosos populares para el turismo en España en la pregunta dada ni en el contexto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-15,Holidays/Celebration/Leisure,No se proporciona información relevante sobre la ropa que llevan las mujeres durante la ceremonia de graduación en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-16,Food,No hay información específica sobre qué bebida se consume comúnmente en España cuando hace frío en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-17,Food,No existe información específica sobre qué frutas se venden o se encuentran más comúnmente durante el Ramadán en España. La pregunta no está relacionada con los hábitos alimenticios españoles ni con las tradiciones del Ramadán específicas de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-24,Food,"No hay información específica sobre el uso del pollo en restaurantes de comida rápida en España. Las preguntas mencionadas son más relevantes para platos tradicionales como la paella valenciana o el cocido madrileño, que no se relacionan directamente con los alimentos rápidos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-31,Sport,"La respuesta a esta pregunta específica no se encuentra claramente mencionada en los datos proporcionados. Los datos presentan información sobre deportes y actividades tradicionales, pero no especifica un deporte de artes marciales en particular como el más famoso en España.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-34,Sport,Basque rural sports (herri kirolak),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-35,Sport,No se proporciona información específica sobre los deportes populares en España durante la pandemia de COVID-19 en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-36,Sport,La información proporcionada no incluye datos sobre el entrenador de fútbol más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-37,Sport,Real Madrid CF vs Barcelona FC,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-38,Sport,La Liga Española (LaLiga) contra Real Madrid CF y Barcelona FC,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-40,Sport,"La pregunta no proporciona información relevante sobre los jugadores de bádminton masculinos más famosos en España. La información dada se refiere a licencias federadas y matrimonios, pero no menciona datos sobre deportistas específicos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-41,Sport,"La información proporcionada no incluye datos sobre jugadores o jugadoras de bádminton en España. Por lo tanto, no se puede determinar quién sería la jugadora de bádminton más famosa de España basándose únicamente en los datos proporcionados.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-44,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Kik-in-45,Sport,Cortinas de padel.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-02,Food,No hay información específica sobre qué bebida de café disfrutan más comúnmente las personas en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-04,Food,La información proporcionada no incluye detalles específicos sobre las comidas favoritas para aliviar la resaca en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-05,Food,La comida a domicilio típica en España no se explica específicamente en el background proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-07,Food,Meat,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-08,Food,No hay información específica sobre frutas que se consumen a menudo en España durante la temporada de otoño en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-09,Food,No hay información específica sobre una guarnición que se sirva más comúnmente en una mesa de comedor en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-11,Food,"No se menciona específicamente en el texto proporcionado cómo las personas de España ven un partido de fútbol. La información proporcionada es sobre paella valenciana y hábitos deportivos, pero no aborda la comida que consumen durante los partidos de fútbol.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-15,Food,Pan (bread),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-16,Sport,Lionel Messi,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-17,Sport,No hay información específica sobre deportes que disfrutan los estudiantes varones durante la hora del almuerzo en el colegio en España. La información proporcionada es general y no menciona ningún deporte en particular.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-18,Sport,"No hay información específica sobre el deporte más común en el que participan las chicas durante las clases de educación física en España. La información proporcionada se refiere a la participación en deportes recreativos y licencias federadas, pero no especifica el comportamiento educativo o los deportes preferidos por las estudiantes en sus clases de educación física.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-19,Sport,La información proporcionada no incluye datos sobre el jugador de voleibol más popular en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-20,Sport,Ciclismo,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-22,Sport,No España,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-23,Sport,Football (fútbol),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-24,Sport,La información proporcionada no incluye detalles sobre la comida más consumida en los estadios deportivos durante partidos en España. No puedo responder con base en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-25,Sport,Institucional wrestling,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-26,Sport,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-28,Sport,La información proporcionada no incluye detalles sobre los deportistas de invierno más populares en España. No puedo proporcionar una respuesta basada solo en la información dada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-29,Sport,Cristóbal Llavería,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-30,Sport,Football (soccer),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Paella valenciana,,
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-37,Holidays/Celebration/Leisure,No hay información específica sobre el destino de vacaciones nacional más popular entre los españoles en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-38,Holidays/Celebration/Leisure,No se menciona específicamente cuál es el regalo de boda más común entre novios en España en la información proporcionada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Abrazos y deseos de éxito para el nuevo matrimonio.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Galician pulpo á feira,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-42,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles sobre el tipo de comida ofrecida en las funerarias en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-43,Holidays/Celebration/Leisure,No se proporciona información específica sobre qué hacer las personas en España en la mañana del Año Nuevo lunar.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-44,Holidays/Celebration/Leisure,La información proporcionada no incluye datos sobre el día con la congestión de tráfico más severa a nivel nacional en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Cádiz,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,12 de octubre,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,No hay información específica sobre lo que las personas de España comen durante el Ramadán en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"No está claro si hay información específica sobre lo que se come durante Eid ul-Fitr en España. Las tradiciones pueden variar según la región y el grupo étnico, por lo que no puedo proporcionar una respuesta precisa sin más contexto.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles específicos sobre los alimentos que se consumen durante el Eid ul Adha en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,No hay información relevante en los datos proporcionados sobre a dónde van las personas de España para celebrar el Día de Año Nuevo.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,"La información proporcionada no incluye detalles sobre el Eid o cualquier celebración familiar en España. Las tradiciones mencionadas son específicas de la transhumancia, castells y paella valenciana, pero no se refieren a las festividades del Eid.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-16,Work life,"La pregunta no está clara. No se especifica cuál fin de semana se refiere o qué día de la semana comienza el ""fin de semana"" en España. En España, los fines de semana son por defecto los domingos y lunes, pero esto puede variar según las regiones y las fechas festivas locales. Si deseas saber sobre un fin de semana específico, por favor proporciona más detalles.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-17,Work life,07:30,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-18,Work life,18:00,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-20,Work life,"La información proporcionada no incluye directamente qué se considera un trabajo seguro en España. Las estadísticas presentadas son sobre el número de trabajadores, su rol dentro del equipo y la jornada laboral promedio, pero no especifican criterios para determinar si un trabajo es seguro o no.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-24,Work life,Madrid,1,0.75
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-25,Work life,No hay información específica sobre las industrias que mejor pagan en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-26,Work life,Cádiz,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-31,Food,Paella,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-32,Food,"Las personas en España suelen desayunar con un formato dulce, que representa 28% de la comida consumida en el hogar.",1,0.2
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-33,Food,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-34,Food,Olive oil,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-36,Food,Paella valenciana,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-37,Food,Plátano (Banana),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-38,Food,"No todos los datos proporcionados están directamente relacionados con el tema de la caridad alimentaria en España. Sin embargo, basándome únicamente en el contexto dado y sin tener acceso a información más específica sobre este aspecto, no puedo proporcionar una respuesta precisa. Los datos mencionados son sobre compras de alimentos y prácticas transhumantes, pero no especifican si o cómo las personas ofrecen alimentos como caridad en España.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-39,Food,La información proporcionada no incluye detalles sobre las comidas rápidas más baratas en España. Para responder a esta pregunta necesitaría datos específicos sobre precios de diferentes opciones de comida rápida en el país.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-43,Food,No se proporciona información específica sobre qué se toma con té en España en el texto de background dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ne-ar-44,Food,La pregunta no está claramente relacionada con los datos proporcionados sobre España. Las estadísticas mencionadas no proporcionan información sobre qué se toma con el café en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-02,Food,La información proporcionada no incluye detalles específicos sobre la comida tradicional más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-04,Food,Romesco sauce,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-08,Food,"La comida más consumida durante el ayuno cristiano en España, según el informe de 2024 sobre consumo alimentario del ministerio agrícola español, es el formato dulce.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-15,Food,No existe información específica sobre qué comida se suele preparar cuando las madres dan a luz en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-27,Sport,No se proporciona información específica sobre una deportista femenina más popular en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-34,Education,No está específicamente mencionado en el texto proporcionado dónde se preparan los estudiantes de primaria españoles para sus exámenes.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-41,Education,Primaria,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-53,Work life,No se menciona ninguna región de España ampliamente conocida por su industria del café o té en la información proporcionada.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-54,Work life,Dehesa de Extremadura,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-59,Work life,No se proporciona información relevante sobre trabajos de personas viviendo en los desiertos de España. La pregunta no está relacionada con la información dada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-60,Work life,Burro,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-72,Family,"La información proporcionada no incluye datos sobre cómics o su popularidad entre los niños en España. Por lo tanto, no puedo proporcionar una respuesta específica a esta pregunta con la información dada.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-73,Family,No se proporciona información relevante sobre el canal de YouTube más popular para niños en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-74,Family,"La información proporcionada no incluye detalles sobre programas de entrevistas populares en España, por lo que no puedo proporcionar una respuesta basada solo en la información dada.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-77,Holidays/Celebration/Leisure,La festividad religiosa más famosa de España es Navidad (25 de diciembre).,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-81,Holidays/Celebration/Leisure,8,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-am-83,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles sobre los instrumentos musicales tradicionales de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-01,Food,La información proporcionada no incluye detalles específicos sobre los principales productos agrícolas de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-02,Food,La información proporcionada no incluye detalles sobre los alimentos con trigo más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-05,Food,"La respuesta más probable, basada en el contexto proporcionado (referente a Córdoba y su Fiesta de las Patios), sería:
+
+Jerez
+
+El Jerez es una bebida típica de la región andaluza donde se celebra esta fiesta, especialmente en la ciudad de Jerez de la Frontera. Sin embargo, teniendo en cuenta que el contexto específico menciona Córdoba y no Jerez, podría ser más preciso responder:
+
+Flamenco guitar",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-07,Food,"La pregunta no está relacionada con ningún plato de pescado en España, por lo que no hay una respuesta válida basada en los datos proporcionados. Los datos mencionados son sobre paella valenciana y cocido madrileño, ambos sin pescado.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-14,Food,No hay información específica sobre qué comida les gusta comer a las personas de España durante el tiempo lluvioso en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-15,Food,"La respuesta específica a esta pregunta no está claramente proporcionada en los datos dados. Sin embargo, dado el contexto de fiestas y patios en Córdoba durante la primavera, una posible respuesta podría ser vino tinto, que es comúnmente consumido en estas celebraciones.",1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-20,Sport,Golf,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-29,Sport,Football (fútbol),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-30,Sport,No hay información específica sobre qué deportes les gustan ver a las mujeres en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-58,Work life,La información proporcionada no incluye datos sobre las bebidas preferidas por los trabajadores españoles en el lugar de trabajo.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-64,Family,1 May,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-76,Holidays/Celebration/Leisure,La información proporcionada no especifica qué juegos tradicionales juegan las familias durante las fiestas tradicionales en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-80,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles sobre el tipo de ropa que se usa durante los festivales tradicionales en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-as-89,Holidays/Celebration/Leisure,No se menciona específicamente en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-05,Food,Asturias,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-11,Food,No hay información específica sobre las frutas que se consumen a menudo durante la temporada de verano en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-12,Food,Valenciana,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-21,Sport,Não está disponível na informação fornecida.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-26,Sport,"La información proporcionada no incluye detalles sobre un deportista de artes marciales popular en España. Las estadísticas y descripciones presentadas se refieren a hábitos culturales, prácticas musicales y tradiciones artesanales específicas para Aragón, el País Vasco y Valencia, pero no mencionan ningún deportista de artes marciales.",,
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-27,Sport,Hunting,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-39,Education,Reino Unido,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-60,Family,Mujeres,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-69,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-70,Holidays/Celebration/Leisure,No se proporciona información sobre la bebida alcohólica preferida por las mujeres en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-az-73,Holidays/Celebration/Leisure,4,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-01,Food,No se menciona específicamente el tipo de carne para barbacoa en la información proporcionada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-02,Food,07:30,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-04,Food,La información proporcionada no incluye detalles específicos sobre las comidas típicas durante los tentempiés nocturnos en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-05,Food,La paella es el plato picante más famoso de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-07,Food,Bread,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-08,Food,Pimentón (paprika),1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-09,Food,"No hay información específica sobre qué comidas típicas se consumen en España cuando hace frío. La información proporcionada es sobre el canal principal de compra de alimentos y algunas prácticas tradicionales, pero no menciona los alimentos específicos que las personas consumen durante épocas de frío.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-13,Food,Cider,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-14,Food,No hay información específica sobre qué alimentos suelen comer las personas cuando están enfermas en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-15,Food,"Las personas en los supermercados de España suelen comprar comida preparada o lista para comer como legumbres cocidas, alimentos ready meals, atún enlatado, huevos y frutas, verduras, arroz, pasta y lácteos, siguiendo tendencias hacia el estilo de dieta mediterránea.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-16,Sport,"La pregunta no está relacionada con información sobre deportes o películas en España, sino que pide específicamente por una película relacionada con un deporte. No se proporciona ninguna lista de películas españolas ni deportivas para seleccionar. Por lo tanto, la respuesta a esta pregunta específica no puede darse sin más contexto o información adicional.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-17,Sport,Mountaineering/climbing,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-18,Sport,"No se proporciona información sobre pruebas de atletismo populares en España. La información dada se refiere a regatas y log-chopping, pero no menciona ninguna prueba de atletismo específica.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-19,Sport,Intense gym,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-23,Sport,"La pregunta no está relacionada con información sobre España ni con deportes, por lo que no puedo proporcionar una respuesta relevante basada en los datos proporcionados. Las respuestas a preguntas como esta requerirían conocimientos específicos sobre la cultura española y el tenis de mesa, que no están incluidos en los datos proporcionados.",,
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-26,Sport,No se menciona ningún evento olímpico invierno en la información proporcionada sobre España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-27,Sport,"La información proporcionada no incluye detalles sobre boxeadores españoles ni su fama. Por lo tanto, no se puede determinar al boxeador más famoso de España basándose únicamente en los datos mencionados.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-30,Sport,Juan Antonio Sánchez Martín (El Cid),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-31,Work life,Ingeniería,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-32,Work life,No hay información proporcionada sobre qué software de oficina utilizan las personas en el lugar de trabajo en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-38,Work life,No se proporciona información relevante sobre ciudades o regiones conocidas por sus actividades de importación y exportación en la pregunta dada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-39,Work life,Online shopping,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-44,Work life,1 mes,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-45,Work life,Ingeniería y Tecnología,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-49,Family,La información proporcionada no incluye detalles sobre cómo los miembros de una familia se comunican a distancia en España. No puedo proporcionar una respuesta basada solo en el contenido dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-51,Family,No hay información específica sobre el tipo de alojamiento que se reserva habitualmente para viajes familiares en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-54,Family,No hay información específica sobre una fruta que se prepare especialmente para las cenas familiares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-64,Education,0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-66,Education,0,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-70,Education,"No todas las asignaturas universitarias en España son obligatorias para todos los estudiantes. Esto puede variar según la carrera específica, el programa de estudios y el nivel académico (licenciatura, master, doctorado). Por lo general, las asignaturas obligatorias se definen por cada programa de estudio y pueden ser específicas del campo de investigación o profesión que el estudiante está siguiendo.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-71,Education,40,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-72,Education,Football (fútbol),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-73,Education,No se proporciona información sobre los tipos de clubes más populares entre los estudiantes universitarios en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-74,Education,Datos insuficientes para responder específicamente sobre dónde viven los estudiantes universitarios.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-75,Education,45,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-78,Holidays/Celebration/Leisure,No hay información específica sobre actividades de ocio que suelen gustar a las mujeres jubiladas en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-79,Holidays/Celebration/Leisure,No hay información específica sobre las actividades de ocio que suelen gustar a los hombres jubilados en España en el conjunto de datos proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-80,Holidays/Celebration/Leisure,15 August,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-81,Holidays/Celebration/Leisure,"No todos los regalos típicos para una inauguración de casa en España se pueden enumerar, pero algunos incluyen tapices, cuadros artísticos, muebles antiguos y objetos decorativos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-82,Holidays/Celebration/Leisure,09:00,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-83,Holidays/Celebration/Leisure,Galicia,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-84,Holidays/Celebration/Leisure,Blanco,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,New-ch-85,Holidays/Celebration/Leisure,Negro,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-01,Food,"La pregunta no proporciona información relevante sobre aperitivos que se consumen en el cine en España. Las opciones mencionadas en los datos proporcionados (cocido madrileño, visitas a museos y monumentos, entre otros) no están relacionadas con los aperitivos de cines.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-02,Food,La información proporcionada no incluye detalles sobre el sabor de las patatas fritas más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-04,Food,Pedro Rodríguez,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-05,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-07,Food,Green salad,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-08,Food,La información proporcionada no incluye detalles sobre la marca de chocolate más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-10,Food,El queso más consumido en España no se menciona directamente en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-11,Food,La pregunta no proporciona información relevante para determinar cuál es la verdura más odiada en España. Las estadísticas mencionadas son sobre el canal principal de compra de alimentos y otros temas menos relacionados con las preferencias alimentarias individuales.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-12,Food,"La comida que se encuentra más comúnmente en las zonas de comidas de España, según el informe del 2024 sobre consumo alimentario español, es la formato dulce.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-17,Sport,"Basque rural sports (herri kirolak) use logs and stones as basic implements. Therefore, the answer is:
+
+Logs and stones.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-18,Sport,"No se proporciona información relevante sobre lo que llevan los aficionados al asistir a un partido de fútbol o deporte en directo en España. Las preguntas mencionadas son sobre deportes tradicionales canarios y gallegos, no sobre el comportamiento de los aficionados españoles durante partidos deportivos.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-19,Sport,Estadio Santiago Bernabéu,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-23,Sport,Alberto Bartesaghi,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-26,Sport,"Basque Government's culture department describes log-chopping (aizkolaris) as the most popular of the Basque rural sports and, with trainera rowing regattas on the coast, the 'king' native sport. 
+
+Given this information, a possible answer to ""¿Cuál es el cántico deportivo más reconocido en España?"" could be:
+
+Log-chopping (aizkolaris)",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-38,Work life,Servicios gastronómicos y retail.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-41,Work life,La pregunta no proporciona información suficiente para identificar específicamente a un empresario más conocido y exitoso de España. Las afirmaciones dadas son variadas y no se relacionan directamente con la cuestión solicitada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-47,Family,Flor.,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-49,Family,"La información proporcionada no incluye ningún dato sobre las familias más famosas de España. Las preguntas y respuestas proporcionadas se refieren a datos estadísticos sobre títulos familiares en España, así como detalles sobre paella valenciana y la tradición de Fallas en Valencia. Por lo tanto, no es posible responder con una sola respuesta sin explicaciones a la pregunta ""¿Cuál es el nombre de la familia más famosa de España?"" basándome solo en los datos proporcionados.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-50,Family,No se proporciona información relevante sobre los apellidos más comunes en España en la pregunta o las respuestas dadas.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-55,Family,No hay información proporcionada sobre la religión de las familias en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-56,Family,Español,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-59,Family,No hay información relevante en los datos proporcionados sobre el destino más popular para las familias españolas que deseen emigrar.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-68,Education,"No se proporciona información específica sobre las repercusiones del mal comportamiento en las escuelas en España en la pregunta dada y sus respuestas. Las preguntas mencionadas son más relacionadas con la estructura educativa española, no específicamente con el comportamiento escolar.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-69,Education,"No todos los escritores se estudian comúnmente en la clase de literatura en España, pero algunos de los más famosos y relevantes incluyen Miguel de Cervantes Saavedra (autor de ""Don Quijote""), Federico García Lorca, José María Pemán, Ramón J. Sender, e Isabel Allende.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-70,Education,0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-72,Education,Online learning platforms,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-75,Education,9,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-76,Holidays/Celebration/Leisure,"La información proporcionada no incluye datos sobre los aeropuertos más concurridos de España durante las temporadas de vacaciones. Para obtener esta información necesitaría consultar fuentes actualizadas y confiables como el sitio web oficial del Ministerio de Transportes, Movilidad y Agenda Urbana de España o estudios de mercado especializados en turismo aéreo.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-79,Holidays/Celebration/Leisure,No se menciona ninguna región española conocida por sus representaciones teatrales en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-87,Holidays/Celebration/Leisure,La Catedral de Sevilla (Cathedral of Seville) es generalmente considerada como uno de los monumentos históricos más famosos de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-en-90,Holidays/Celebration/Leisure,La cadena hotelera más famosa de España es Hesperia.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-05,Food,La información proporcionada no incluye detalles específicos sobre las opciones de desayuno para llevar más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-06,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-08,Food,No se proporciona información específica sobre el consumo de bebidas alcohólicas durante los festivales en España. La pregunta no está relacionada con la información dada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-13,Food,La bebida matutina más común en España según el informe de alimentos de la agricultura española para 2024 es la bebida dulce.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-15,Food,La información proporcionada no incluye detalles sobre los postres tradicionales más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-21,Sport,Golf,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-24,Sport,No se proporciona información específica sobre el deporte de atletismo más popular en España en los datos proporcionados.,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-29,Sport,Football (soccer),1,0.25
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-58,Work life,Independiente,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-76,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-82,Holidays/Celebration/Leisure,Spanish pop,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-88,Holidays/Celebration/Leisure,No se menciona específicamente que se ofrezca una bebida en particular durante los funerales en España. Las prácticas pueden variar ampliamente entre regiones y familias.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-gr-89,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-07,Food,Paella,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-08,Food,Pan (tostada),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-09,Food,Air-fryer,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-13,Food,La información proporcionada no incluye datos sobre las verduras más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-19,Sport,No se menciona específicamente ningún animal utilizado para los deportes en España en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-ha-66,Family,Cádiz,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-01,Food,La información proporcionada no incluye datos sobre las marcas de cafeterías más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-03,Food,Cocido madrileño,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-33,Work life,No hay información relevante sobre la asociación de cualquier región de España con la minería en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-34,Work life,Andalusia,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-62,Education,La Universidad Politécnica de Madrid,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-63,Education,Universidad Complutense de Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-78,Holidays/Celebration/Leisure,Online shopping,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-in-80,Holidays/Celebration/Leisure,La pregunta no proporciona información sobre parques temáticos en España. No puedo proporcionar una respuesta basada solo en la información dada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-01,Family,No se proporciona información sobre series de animación infantil más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-02,Family,Vocational training,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-03,Family,"No se proporciona información sobre una canción infantil más popular en España que las familias canten juntas. Las informaciones dadas son sobre el Carnaval de Cádiz, la transhumancia y un cambio de jornada escolar en Cataluña.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-04,Family,No se proporciona información sobre los juguetes más populares entre los niños en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-05,Family,No está disponible información específica sobre los juguetes más populares entre las niñas en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-06,Family,No hay un cuento popular específico que se cuenten a los niños en España de manera particularmente famosa o universal. Las tradiciones y las historias populares pueden variar significativamente entre regiones y comunidades.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-07,Holidays/Celebration/Leisure,Rosas moradas (morada roses in Spanish),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-08,Work life,No hay información específica sobre dónde suelen trabajar a tiempo parcial los estudiantes universitarios en España en el texto proporcionado.,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-09,Work life,No se proporciona información relevante sobre actividades de team-building más practicadas en empresas con sede en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-ko-10,Work life,No hay información específica sobre actividades de trabajo secundario en la pregunta proporcionada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-02,Food,Cider de Asturias,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-06,Food,No se proporciona información sobre un guiso popular en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-11,Food,No hay información específica sobre la especia más común utilizada en los platos de España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-16,Sport,Fútbol,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-20,Sport,Trainera (traineras),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-45,Work life,La información proporcionada no incluye detalles específicos sobre los horarios laborales durante el Mes del Ramadán en España.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-47,Family,11/09,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-49,Family,No se menciona específicamente en el texto proporcionado dónde se reúnen las familias para rezar juntas en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-53,Family,No se menciona específicamente qué regalos reciben los padres en el Día del Padre (o Día de los Padres) en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-54,Family,"No todos los países ofrecen regalos específicos para el Día de la Madre o el Día de los Padres, pero en España no hay un regalo tradicional específico como se hace en algunos otros países. Las madres y padres reciben regalos por estas ocasiones, pero no es una costumbre específica como, por ejemplo, las rosas rojas en Estados Unidos para el Día de la Madre.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-59,Family,2.65,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-65,Education,10,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-66,Education,No hay información específica sobre la actividad extraescolar más popular en las escuelas primarias de España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-74,Education,No se proporciona información sobre la cuota de matrícula anual promedio para las universidades públicas en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-76,Holidays/Celebration/Leisure,No hay información específica sobre actividades populares para hacer en los parques en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-78,Holidays/Celebration/Leisure,"La pregunta no está relacionada con los festivales de cine en España, sino con festividades específicas como la Fallas y el Preba de la Sidra. No existe un festival de cine más famoso en España que se destaque entre todos los demás.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-83,Holidays/Celebration/Leisure,No hay información relevante sobre un juego de cartas popular que se juegue durante las reuniones sociales en España en los datos proporcionados.,1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-85,Holidays/Celebration/Leisure,No hay información específica sobre los destinos turísticos más populares en el extranjero para la gente de España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-pe-86,Holidays/Celebration/Leisure,Castell Valls,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-01,Food,La información proporcionada no incluye detalles sobre insectos comestibles en España. No puedo proporcionar una respuesta basada solo en la información dada.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-04,Food,La información proporcionada no incluye detalles sobre los productos agrícolas que más se exportan en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-05,Food,La información proporcionada no incluye detalles sobre los dulces más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-15,Sport,La información proporcionada no incluye detalles sobre las bebidas deportivas más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-27,Education,Primaria (10 años de escolaridad obligatoria),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-37,Education,No hay información específica sobre las profesiones que más estudian los estudiantes españoles en el extranjero en los datos proporcionados.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-60,Family,No información relevante disponible para responder a esta pregunta específicamente.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-65,Family,"La información proporcionada no incluye detalles sobre la celebración del Día de la Independencia en España. Las preguntas y respuestas proporcionadas se refieren a festividades específicas como San Sebastián, Cádiz Carnival y log-chopping en el País Vasco, pero no mencionan ninguna celebración nacional por la independencia.",,
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-68,Family,"La información proporcionada no incluye datos sobre las bebidas más populares entre los niños en España, por lo que no puedo responder a esta pregunta con base en el texto dado.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-76,Holidays/Celebration/Leisure,"La información proporcionada no incluye detalles sobre la celebración del Día de la Independencia en España. Por lo tanto, no se puede determinar un lugar más popular para esta festividad basándonos solo en los datos mencionados.",,
+qwen2.5-3b,Spain,Spanish,inst-4,New-spme-78,Holidays/Celebration/Leisure,"""Pobre de mí""",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-01,Food,"No se menciona específicamente qué aperitivos se venden habitualmente frente a las escuelas en España. La información proporcionada es sobre la educación y el Silbo Gomero, no sobre los productos que se vendan cerca de las escuelas.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-09,Food,Olive oil,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-10,Food,No hay información específica sobre los alimentos que las mujeres embarazadas en España consumen habitualmente en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-15,Food,Jerez,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-17,Sport,Padel clubs,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-21,Sport,No se menciona ninguna actividad específica de los mayores en los parques en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-24,Sport,"Cantabria promueve el bolos, un deporte que se está revitalizando mediante la rehabilitación de albertas como lugares para juego y encuentro social, así como la consolidación de clubes (peñas) escolares.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-28,Sport,Azul,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-33,Education,No se proporciona información específica sobre el código de vestimenta común para los profesores de escuela en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-34,Education,Spanish pop and rock,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-42,Education,No información relevante sobre la enseñanza de religiones específica en las escuelas españolas está proporcionada en el background dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-45,Education,Not available in the provided information.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-50,Work life,La información proporcionada no incluye detalles específicos sobre el principal trabajo de las personas en las zonas montañosas de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-51,Work life,La principal actividad laboral de las mariscadoras (personas que trabajan recolectando crustáceos) en las zonas costeras de España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-57,Work life,"El ganado más criado en España varía según regiones y usos, pero algunos de los más importantes incluyen el cerdo (para la producción de jamón), ovejas (para la cría de lana y carne) y vacas (para leche y carne). Sin embargo, sin información específica sobre cuál es el ganado ""más criado"", no puedo proporcionar una respuesta precisa.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-58,Work life,"Por lo que se menciona en el punto [3], los animales comunes utilizados para la agricultura en España son las cerdos acorn-fed, que son tradicionalmente manejados y sacrificados después de un uso exclusivo del montanera con almendras en dehesas de robles, cáñoles y galleres entre 1 de octubre y 31 de marzo.",1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-59,Work life,No se menciona específicamente que los agricultores lleven algo para protegerse del calor mientras trabajan en el campo en la información proporcionada.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-60,Work life,No hay información específica sobre lo que los granjeros de España comen para almorzar en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-71,Family,No se proporciona información específica sobre qué regalos suelen dar los padres a sus hijos por sus cumpleaños en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-75,Family,No se proporciona información relevante sobre los vehículos que suelen tener las familias en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-77,Holidays/Celebration/Leisure,No se menciona específicamente qué se da durante el Eid en España en el texto proporcionado.,,
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-81,Holidays/Celebration/Leisure,No se menciona específicamente qué ropa llevan los novios en las bodas en España en el texto proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-82,Holidays/Celebration/Leisure,No se proporciona información específica sobre qué ropa llevan las novias en las bodas en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-83,Holidays/Celebration/Leisure,"No cocido madrileño ni pulpo á feira específicamente se suele servir en las bodas en España. Las respuestas mencionadas son comidas típicas de diferentes regiones, pero no son comúnmente asociadas con bodas nupciales en el país.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-86,Holidays/Celebration/Leisure,La Catedral de Sevilla,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,New-su-88,Holidays/Celebration/Leisure,Spanish pop,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-02,Education,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-09,Education,0,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-12,Education,"La pregunta ""¿Cuál es la mejor universidad de España?"" no tiene una respuesta única, ya que la calidad y reputación de las universidades varían según los campos de estudio, ubicaciones geográficas, tamaño del instituto, entre otros factores. Además, el concepto de ""mejor"" puede ser subjetivo y cambiar con el tiempo.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-13,Education,18,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-15,Education,16,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-17,Work life,34.1,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-20,Work life,31.7,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-21,Work life,16,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Paella valenciana,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Sant Jordi,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ni-en-40,Holidays/Celebration/Leisure,La información proporcionada no incluye detalles sobre las canciones navideñas más populares en España. Las respuestas específicas varían según el año y pueden ser diferentes para cada región española.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-04,Education,6,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-06,Education,12/31,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-11,Education,09:00,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-20,Family,12/05,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Nu-in-40,Work life,Online shopping,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-1,Food,La información proporcionada no incluye detalles sobre las cadenas de comida rápida en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-13,Food,"La información proporcionada no incluye detalles sobre qué tipo de comida más divide, se ama o se odia en España.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-16,Sport,La información proporcionada no incluye datos sobre los equipos de fútbol más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-22,Sport,"La pregunta no proporciona información sobre las universidades más famosas de España en relación con sus equipos deportivos. La información dada se refiere a datos demográficos y culturales específicos de España, pero no menciona ninguna universidad conocida por su equipo deportivo.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-31,Family,La información proporcionada no incluye datos sobre las mascotas familiares más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-32,Family,Terrero y gloria,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-37,Family,No se proporciona información sobre juegos de mesa familiares populares en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-6,Food,La comida para llevar más popular en España no se explica directamente en el background proporcionado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-7,Food,La información proporcionada no incluye detalles sobre aperitivos populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Sa-en-9,Food,"No se menciona específicamente qué comen las personas de España en la playa. La información proporcionada habla sobre paella valenciana, pero no especifica su consumo en la playa.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-10,Family,39.9,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-11,Family,37.2,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-13,Family,3.5,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-17,Sport,Fútbol (Football),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-21,Sport,Indoor spaces,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-22,Sport,Spanish pop and rock,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-23,Sport,No hay información específica sobre el tipo de ejercicio diario que son más populares entre los hombres en España en las preguntas proporcionadas.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-25,Sport,La rivalidad más famosa en una liga deportiva nacional en España podría ser el Clásico entre Real Madrid y Barcelona en fútbol.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-29,Sport,Fútbol (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-30,Sport,Terrero y gloria,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,19 de marzo,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,"Nochevieja en España no tiene un símbolo específico común como tal, pero la decoración y las costumbres pueden incluir elementos como velas, arpilleras (tusquets), o el árbol de Nochebuena. Sin embargo, esta respuesta puede variar según regiones específicas.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,"No tengo información específica sobre qué comida suelen comer las personas de España en Nochevieja. La pregunta no está claramente relacionada con la información proporcionada, que se centra principalmente en paella valenciana y transhumancia.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"No hay información específica sobre una celebración de la ""noche más larga del año"" en España. Las opciones mencionadas como Galician magostos y espicha en Asturias son eventos relacionados con el mes de noviembre, pero no se refieren a una noche particularmente larga del año.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-01,Sport,Football (soccer),1,0.5
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-03,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-05,Sport,No hay información específica sobre un equipo de deporte femenino más popular en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-09,Sport,Teatro Falla contest en Cádiz Carnival,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-11,Sport,"No se puede determinar con certeza quién es el deportista más popular en España solo basándonos en los datos proporcionados. Los datos mencionan las preferencias de los españoles hacia el deporte, pero no especifican a qué deportistas son más fans.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-12,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-15,Sport,No hay información específica sobre deportes invernales populares en España en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-19,Work life,No se proporciona información relevante sobre una industria manufacturera específica en España en el texto dado.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-21,Work life,Compensación por horas extras.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-22,Work life,2010-2013,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-24,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-27,Work life,Supermercados,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-35,Family,Almuerzo,1,0.4
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-36,Family,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-37,Family,18,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-38,Family,Epifanía (Tres Reyes),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-39,Family,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-41,Family,32.6,1,1.0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-43,Family,No hay información proporcionada sobre el número de coches que poseen las familias típicas en España.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-44,Family,Bread,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-45,Family,Tríos charrúas (chirigotas),0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-48,Education,"La información proporcionada no incluye detalles específicos sobre las notas más altas otorgadas a estudiantes de secundaria. Por lo tanto, no puedo proporcionar una respuesta precisa para esta pregunta basándome solo en los datos mencionados.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-49,Education,"No existe un único ""examen más importante"" para todos los estudiantes de secundaria en España. Los exámenes finales del segundo ciclo de la ESO (Educación Secundaria Obligatoria) son cruciales, pero cada comunidad autónoma puede tener sus propios exámenes específicos.",,
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-51,Education,Vocational training,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-53,Education,"Sin información específica sobre eventos sociales extracurriculares populares en los colegios de España, no puedo proporcionar una respuesta con certeza.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Th-en-58,Education,"No está claro del texto proporcionado cuál sería el tema de matemáticas más avanzado que se aprende antes de la universidad en España. Las referencias mencionan datos sobre educación primaria, secundaria y específicamente sobre el modelo lingüístico D en la Comunidad Autónoma Vasca, pero no especifica temas matemáticos avanzados para niveles preuniversitarios.",0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Tmp-ar-01,Education,No se indica específicamente en la información proporcionada dónde suelen ir los estudiantes universitarios en España para estudar para sus exámenes finales. La información brinda datos sobre el sistema educativo español pero no menciona detalles sobre las prácticas de estudio durante los exámenes finales.,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Tmp-ar-02,Education,Tren,0,0
+qwen2.5-3b,Spain,Spanish,inst-4,Tmp-ar-04,Education,No se menciona específicamente qué hacen los estudiantes de primaria en España después del colegio en la información proporcionada.,0,0

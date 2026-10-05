@@ -1,0 +1,586 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Spain,Spanish,inst-4,Al-en-01,Food,El dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-02,Food,Tostada con tomate y jamón.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-04,Food,La pregunta no puede ser respondida con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-06,Food,Tostada con tomate y aceite.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-08,Food,No se proporciona información sobre los aperitivos más consumidos en los centros comerciales de España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-09,Food,Pulpo á feira,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-16,Education,6,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-17,Education,Tug of war,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-18,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-19,Education,Catalán,1,0.2
+gemma3-4b,Spain,Spanish,inst-4,Al-en-21,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-32,Holidays/Celebration/Leisure,"No hay información en el texto sobre el plato principal para el Día de Acción de Gracias en España.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Al-en-33,Holidays/Celebration/Leisure,"No hay información en el texto sobre cómo se celebra Halloween en España.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-34,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-35,Holidays/Celebration/Leisure,Comen turrón y celebran con tamborrada en San Sebastián y Azpeitia.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-36,Holidays/Celebration/Leisure,Dulces.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-37,Holidays/Celebration/Leisure,Turrón,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Al-en-38,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-39,Holidays/Celebration/Leisure,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-40,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Al-en-43,Holidays/Celebration/Leisure,No hay información suficiente para responder a esta pregunta.,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-02,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-03,Education,"6
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-08,Education,9,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-09,Education,0,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-34,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-35,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-36,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,An-ar-43,Sport,Peñas y bolos.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-05,Food,2,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-06,Food,El espicha.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-08,Food,Aceite de oliva,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-09,Food,Magostos,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-11,Food,No se puede determinar.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-14,Food,"Café
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"12
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,No hay información en el texto sobre una tradición específica para Nochevieja en España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-38,Family,Pareja con o sin hijos.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-41,Family,No se especifica.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-42,Family,16,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-43,Family,19,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ca-sp-45,Family,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-05,Sport,"Football (29.2%), hunting (7.5%) y golf (7.2%).
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-06,Sport,"Football, hunting, mountaineering and climbing, basketball.",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-07,Sport,La pregunta no puede ser respondida con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-08,Sport,No se puede determinar con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-09,Sport,"Padel
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-11,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-15,Sport,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-16,Family,2.10,0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-18,Family,2.  26 millones,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-31,Education,"10
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-32,Education,10,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-33,Education,"6
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-40,Education,"09:00
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Gu-ch-41,Education,"0
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-02,Work life,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-03,Work life,Andalucía,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-07,Work life,Inditex,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-09,Work life,Paella,,
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-14,Work life,Cider,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-15,Work life,45,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-16,Family,España,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-19,Family,No se menciona ninguna flor en el texto.,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-22,Family,"Alquiler de vivienda.
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-24,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-25,Family,No se pueden determinar festividades relacionadas con la familia basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-26,Family,"Participación en asociaciones de padres y madres (AMPAs), participación en centros educativos y práctica deportiva.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-27,Family,Turrón,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-28,Family,1 de enero,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-29,Family,Cumpleaños,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-31,Education,En centros de educación secundaria y bachillerato.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-33,Education,No se puede responder a esta pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-34,Education,"Varía según la comunidad autónoma y el tipo de colegio, incluyendo colegios rurales agrupados.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-35,Education,Concerdado schools,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-36,Education,Idiomas,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-37,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-38,Education,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-39,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-40,Education,Tienen dos descansos de 15 minutos cada uno.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-41,Education,"La pregunta no proporciona información sobre los zapatos que usan los estudiantes en España.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-42,Education,"La pregunta no proporciona información sobre las asignaturas obligatorias en la prueba de acceso a la universidad en España.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-44,Education,Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ji-ko-45,Education,La respuesta no se puede obtener de la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-01,Sport,"Baloncesto
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-02,Sport,Aizkolaris,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-09,Sport,Golf,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-13,Sport,Regatttas,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-14,Sport,Basketball,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-18,Work life,9,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-19,Work life,Andalucía,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-21,Work life,"14:00
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-31,Education,"18:00
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-32,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-36,Education,Hasta el final de julio.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-37,Education,0,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-39,Education,7,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jo-sp-43,Education,1,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-01,Food,"Pan, paella pan, madera.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-04,Food,"Turrón
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-06,Food,Sidra de Asturias,1,0.25
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-07,Food,2.15,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-09,Food,"20:30
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-12,Food,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-13,Food,No hay información en el texto sobre comida callejera.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-15,Food,No se puede determinar.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Albariño Wine Festival,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"Tren
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Ninots,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-37,Sport,Padel,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-38,Sport,Football,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Escuchar música.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Deportes,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-46,Work life,2,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-48,Work life,No se puede responder a esta pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-50,Work life,31.7,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-51,Work life,La información proporcionada no indica el medio de transporte más común.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-54,Work life,16,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-56,Work life,64,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-57,Work life,39.9,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-58,Work life,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-60,Work life,31.7,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-61,Work life,No se puede responder a esta pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Jod-ch-62,Work life,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-17,Education,Secundaria,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-24,Education,Basque,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-30,Education,Lunes a viernes.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-32,Food,Huevos,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-34,Food,No se puede determinar con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-36,Food,Latina,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-39,Food,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-40,Food,Jamón serrano,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-43,Food,Pan,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-51,Work life,"No se puede determinar.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-01,Holidays/Celebration/Leisure,25 de diciembre,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"No se proporciona información sobre las actividades comunes que la gente de España realiza para celebrar el día de la Independencia.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Paella.,,
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-05,Holidays/Celebration/Leisure,"En España, se suelen celebrar fiestas o ceremonias de embarazo en noviembre (Galicia) o el 23 de abril (Barcelona).",,
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Sant Jordi,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-07,Holidays/Celebration/Leisure,"No hay información en el texto sobre el Año Nuevo Lunar o lo que se comparte con los niños durante esta festividad en España.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-08,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en el texto proporcionado.,,
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Castanyada,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"Llagares.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Vestidos formales.,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-16,Food,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-17,Food,Naranja,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-24,Food,Pan,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-31,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-34,Sport,Lucha canaria,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-35,Sport,"Hiking and mountaineering, cycling, intense gym, swimming.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-36,Sport,No se puede determinar.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-37,Sport,Real Madrid vs. Barcelona,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-38,Sport,Barça contra Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-40,Sport,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-41,Sport,No se puede responder a la pregunta basándose en la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-44,Sport,Aizkolaris,0,0
+gemma3-4b,Spain,Spanish,inst-4,Kik-in-45,Sport,Padel courts,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-02,Food,Café solo.,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-04,Food,Pan con tomate.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-05,Food,Desconocido.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-07,Food,Carne,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-08,Food,Fruta y verduras.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-09,Food,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-11,Food,Paella.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-15,Food,"Pan dulce
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-16,Sport,Lionel Messi,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-17,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-18,Sport,Football,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-19,Sport,"No se puede responder a la pregunta con la información proporcionada.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-20,Sport,Fútbol,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-22,Sport,Francia,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-23,Sport,Football,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-24,Sport,Cocido madrileño,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-25,Sport,Deportes tradicionales y juegos canarios.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-26,Sport,Aizkolaris y remo.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-28,Sport,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-29,Sport,Jaime Paz García,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-30,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"No hay información en el texto sobre la comida simbólica que se come en España en el Año Nuevo Lunar.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-37,Holidays/Celebration/Leisure,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Turrón,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-39,Holidays/Celebration/Leisure,"Un sorbo del culín.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"8
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Pulpo á feira,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"No se puede responder a la pregunta basándose en el texto proporcionado.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-43,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Na-ko-45,Holidays/Celebration/Leisure,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,"25 de diciembre
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en el texto proporcionado.,,
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,No se puede responder a la pregunta basándose en el texto proporcionado.,,
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"No se puede responder a la pregunta basándose en el texto proporcionado.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Paella valenciana.,,
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-16,Work life,Lunes y martes.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-17,Work life,"09:00
+",1,0.75
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-18,Work life,"18:00
+",1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-20,Work life,"Trabajo con jefe pero sin subordinados.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-24,Work life,"Supermercados
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-25,Work life,No se puede determinar con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-26,Work life,Real Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-31,Food,Paella,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-32,Food,Formato dulce.,1,0.2
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-33,Food,"14:00
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-34,Food,Pan.,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-36,Food,Paella,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-37,Food,Chestnuts,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-38,Food,Pan dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-39,Food,"Desconocido.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-43,Food,Pulpo á feira,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ne-ar-44,Food,"No se puede responder a la pregunta basándose en el texto proporcionado.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-02,Food,El dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-04,Food,Romesco,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-08,Food,Pan.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-15,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,,
+gemma3-4b,Spain,Spanish,inst-4,New-am-27,Sport,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-34,Education,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-41,Education,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-53,Work life,Andalucía,,
+gemma3-4b,Spain,Spanish,inst-4,New-am-54,Work life,Dehesa de Extremadura,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,New-am-59,Work life,Pastoreo de ganado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-60,Work life,Ganado,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-72,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-73,Family,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-74,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-77,Holidays/Celebration/Leisure,Semana Santa,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-am-81,Holidays/Celebration/Leisure,1.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-am-83,Holidays/Celebration/Leisure,Aizkolari,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-01,Food,Cider,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-02,Food,Turrón,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-05,Food,Vino.,1,0.25
+gemma3-4b,Spain,Spanish,inst-4,New-as-07,Food,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-14,Food,Paella,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-15,Food,Sangría,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,New-as-20,Sport,Baloncesto,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-as-29,Sport,Fútbol,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-as-30,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-58,Work life,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-64,Family,6 de enero,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-76,Holidays/Celebration/Leisure,Juegos tradicionales y deportes nativos.,,
+gemma3-4b,Spain,Spanish,inst-4,New-as-80,Holidays/Celebration/Leisure,No se menciona en el texto.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-as-89,Holidays/Celebration/Leisure,"Ninots, bagpipers, pulpo á feira, pan de cea, empanada, queimada, Ribeiro wines.",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-05,Food,Asturias,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-11,Food,Fruta,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-12,Food,Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-21,Sport,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-26,Sport,No se puede responder a la pregunta con la información proporcionada.,,
+gemma3-4b,Spain,Spanish,inst-4,New-az-27,Sport,Basketball,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,New-az-39,Education,España,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-49,Work life,2,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-az-60,Family,Mujeres.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-69,Holidays/Celebration/Leisure,Sidra de Asturias,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-70,Holidays/Celebration/Leisure,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-az-73,Holidays/Celebration/Leisure,"1
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-01,Food,"Pollo, conejo y chorizo.",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-02,Food,"07:30
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-04,Food,El dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-05,Food,Paella.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-07,Food,Turrón,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-08,Food,"Aceite de oliva
+",1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,New-ch-09,Food,Pan con chocolate.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-13,Food,Sidra de Asturias,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-14,Food,"Canned tuna, eggs, cooked legumes, ready meals.",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-15,Food,Listo meals (ready meals).,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-16,Sport,Fútbol,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-17,Sport,Mountaineer/climbing,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-18,Sport,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-19,Sport,Intense gym,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-23,Sport,Félix Sánchez,,
+gemma3-4b,Spain,Spanish,inst-4,New-ch-26,Sport,Rowing,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-27,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-30,Sport,Usain Bolt,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-31,Work life,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-32,Work life,Microsoft Office,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,New-ch-38,Work life,Camariñas (A Coruña),0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-39,Work life,Supermercados,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-44,Work life,"No se proporciona información sobre el período de prueba en el texto.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-45,Work life,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-49,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-51,Family,Paella pan,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-54,Family,Manzana,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-64,Education,"1
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-66,Education,1,,
+gemma3-4b,Spain,Spanish,inst-4,New-ch-70,Education,La pregunta no puede ser respondida con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-71,Education,"1
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-72,Education,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-73,Education,"Padel
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-74,Education,Áreas rurales.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-75,Education,180,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-78,Holidays/Celebration/Leisure,Padel.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-79,Holidays/Celebration/Leisure,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-80,Holidays/Celebration/Leisure,"1 de enero, 6 de enero, Buen Viernes Santo, 1 de mayo, 12 de octubre, 8 de diciembre y 25 de diciembre.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-81,Holidays/Celebration/Leisure,"La información proporcionada no contiene información sobre regalos típicos para una inauguración de casa en España.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-82,Holidays/Celebration/Leisure,"21:00
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-83,Holidays/Celebration/Leisure,Ceuta,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ch-84,Holidays/Celebration/Leisure,Blanco,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,New-ch-85,Holidays/Celebration/Leisure,Blanco,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-01,Food,No se menciona ningún aperitivo que se coma en el cine en España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-02,Food,Patatas fritas con sal.,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-04,Food,Ferran Adrià,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-05,Food,Canned tuna,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-07,Food,Ensalada verde.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-08,Food,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-10,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-11,Food,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-12,Food,Canned tuna,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-17,Sport,Logros y piedras.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-18,Sport,"La pregunta no proporciona información sobre lo que llevan los aficionados consigo.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-19,Sport,Estadio Santiago Bernabéu,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-23,Sport,"Carlos Pastor
+",,
+gemma3-4b,Spain,Spanish,inst-4,New-en-26,Sport,Aizkolaris,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-38,Work life,Sector servicios.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-41,Work life,Amancio Ortega,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-47,Family,Flores,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-49,Family,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-50,Family,García,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,New-en-55,Family,Catolicismo,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-56,Family,Español,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-59,Family,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-68,Education,La pregunta no se responde con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-69,Education,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-70,Education,"0
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-72,Education,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-75,Education,18,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-76,Holidays/Celebration/Leisure,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-en-79,Holidays/Celebration/Leisure,Cataluña,1,0.25
+gemma3-4b,Spain,Spanish,inst-4,New-en-87,Holidays/Celebration/Leisure,La Alhambra,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-en-90,Holidays/Celebration/Leisure,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-05,Food,El formato dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-06,Food,Comida preparada fácil y rápida.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-08,Food,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-13,Food,La dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-15,Food,"Tarta de Santiago
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-21,Sport,Rowing,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-24,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-29,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-47,Work life,15,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,New-gr-58,Work life,Trabajos a través de agencias temporales.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-76,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-82,Holidays/Celebration/Leisure,Foreign pop and rock,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,New-gr-88,Holidays/Celebration/Leisure,Cider.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-gr-89,Holidays/Celebration/Leisure,Vino (cider),1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-ha-07,Food,Jamón.,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,New-ha-08,Food,El desayuno dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ha-09,Food,Air-fryer,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ha-13,Food,"No se puede responder a la pregunta basándose en el texto proporcionado.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ha-19,Sport,No se menciona ningún animal en el texto.,,
+gemma3-4b,Spain,Spanish,inst-4,New-ha-66,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-in-01,Food,No se proporciona información sobre marcas de cafeterías en el texto.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-in-03,Food,Cocido madrileño,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-in-33,Work life,Asturias,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-in-34,Work life,Andalucía,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-in-62,Education,Universidad de Politécnica de Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-in-63,Education,Universidad de Barcelona,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-in-78,Holidays/Celebration/Leisure,Supermercados,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-in-80,Holidays/Celebration/Leisure,Tibidabo,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-01,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-02,Family,"La pregunta no proporciona información sobre la actividad de educación prenatal más popular en España.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-03,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-04,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-05,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-06,Family,No hay información en el texto para responder a esta pregunta.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-07,Holidays/Celebration/Leisure,Flores,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-08,Work life,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-09,Work life,"No hay información en el texto para responder a esta pregunta.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-ko-10,Work life,No hay información en el texto para responder a esta pregunta.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-02,Food,Sidra de Asturias,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-06,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-11,Food,Air-fryer,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-16,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-20,Sport,Rowing,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-45,Work life,No se puede responder con la información proporcionada.,,
+gemma3-4b,Spain,Spanish,inst-4,New-pe-47,Family,"03/09
+",,
+gemma3-4b,Spain,Spanish,inst-4,New-pe-49,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-53,Family,No hay información sobre regalos para padres en España en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-54,Family,No se proporciona información sobre los regalos que reciben las madres en España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-59,Family,2.65,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-65,Education,"12
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-66,Education,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-74,Education,No se puede determinar con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-76,Holidays/Celebration/Leisure,Aizkolaris,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-78,Holidays/Celebration/Leisure,"No hay información sobre festivales de cine en el texto proporcionado.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-83,Holidays/Celebration/Leisure,"No hay información en el texto para responder a esta pregunta.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-85,Holidays/Celebration/Leisure,Reino Unido,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-pe-86,Holidays/Celebration/Leisure,Castells,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-01,Food,Grilo,,
+gemma3-4b,Spain,Spanish,inst-4,New-spme-04,Food,Cider.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-05,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-15,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-27,Education,Universidad,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-37,Education,No se puede responder a la pregunta con la información proporcionada.,,
+gemma3-4b,Spain,Spanish,inst-4,New-spme-60,Family,Lunes,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-65,Family,"No se puede responder a la pregunta basándose en el texto proporcionado.
+",,
+gemma3-4b,Spain,Spanish,inst-4,New-spme-68,Family,"No se puede responder a la pregunta con la información proporcionada.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-spme-76,Holidays/Celebration/Leisure,"No hay información en el texto sobre el Día de la Independencia de España.
+",,
+gemma3-4b,Spain,Spanish,inst-4,New-spme-78,Holidays/Celebration/Leisure,Pobre de mí,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-01,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-09,Food,Aceite de oliva.,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-su-10,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,,
+gemma3-4b,Spain,Spanish,inst-4,New-su-15,Food,"Clara
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-17,Sport,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-21,Sport,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-24,Sport,Bolos.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-28,Sport,Rojo,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-su-33,Education,No hay información en el texto sobre el código de vestimenta común para los profesores de escuela en España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-34,Education,Escuchar música.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-42,Education,Cristianismo,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,New-su-45,Education,"09/19
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-50,Work life,Recolección de mariscos.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-51,Work life,Recolección de mariscos.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-57,Work life,Cerdo,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-su-58,Work life,Cerdos,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,New-su-59,Work life,No se menciona en el texto.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-60,Work life,"Chorizo, vino y queimada.",0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-71,Family,No se puede responder a esta pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-75,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-77,Holidays/Celebration/Leisure,Dulces y golosinas.,,
+gemma3-4b,Spain,Spanish,inst-4,New-su-81,Holidays/Celebration/Leisure,No se proporciona información sobre la ropa que llevan los novios en las bodas en España.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-82,Holidays/Celebration/Leisure,No se menciona en el texto.,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-83,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-86,Holidays/Celebration/Leisure,Parlamento de España,0,0
+gemma3-4b,Spain,Spanish,inst-4,New-su-88,Holidays/Celebration/Leisure,Spanish pop and rock,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-02,Education,"18:00
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-03,Education,23,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-06,Education,"6
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-11,Education,2,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-12,Education,Universidad de Barcelona,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-13,Education,22,1,0.3333333333333333
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-15,Education,"14
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-17,Work life,31.7,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-19,Work life,3,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-20,Work life,"25
+",1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-21,Work life,16,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Turrón.,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Sant Jordi,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Turrón,0,0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-04,Education,8,0,0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-05,Education,1,0,0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-06,Education,10/1,0,0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-11,Education,"09:00
+",1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-20,Family,"12/31
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Nu-in-40,Work life,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-1,Food,"No hay información en el texto sobre cadenas de comida rápida.
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-13,Food,El dulce.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-16,Sport,Real Madrid,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-22,Sport,Universidad de Valladolid,,
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-31,Family,Perro,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-32,Family,"TV
+",0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-37,Family,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-6,Food,Desayuno.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-7,Food,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Sa-en-9,Food,Almejas.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-10,Family,39.9,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-11,Family,37.2,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-13,Family,6.2,1,0.6666666666666666
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-17,Sport,Fútbol,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-21,Sport,"En España, los niños suelen jugar al fútbol en espacios al aire libre.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-22,Sport,Escuchar música.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-23,Sport,No se puede responder a la pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-25,Sport,Fútbol (Real contra Barcelona),0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-29,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-30,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,2 de abril,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,1 de enero,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Jamón ibérico y queso.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"Cocido madrileño, magostos gallegos o espicha asturiana.",0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-01,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-03,Sport,Fútbol,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-05,Sport,Padel,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-09,Sport,Lucha canaria,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-11,Sport,Football,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-12,Sport,Fútbol,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-15,Sport,Mountaineer/climbing,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-19,Work life,Camariñas,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-21,Work life,Pago (salario),1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Th-en-22,Work life,2018,1,0.5
+gemma3-4b,Spain,Spanish,inst-4,Th-en-24,Work life,Madrid,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-27,Work life,Fútbol,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-35,Family,Desayuno,1,0.8
+gemma3-4b,Spain,Spanish,inst-4,Th-en-36,Family,No se puede responder a la pregunta basándose en el texto proporcionado.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-37,Family,No se puede responder a esta pregunta con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-38,Family,"6 de enero (Epiphany, Tres Reyes Magos)",0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-39,Family,Log-chopping (aizkolaris),0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-41,Family,32.6,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-43,Family,1.  5,1,0.75
+gemma3-4b,Spain,Spanish,inst-4,Th-en-44,Family,Pan (37% de ocasiones).,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-45,Family,Ir de Carnaval en Cádiz.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-48,Education,No se puede determinar.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-49,Education,"No se proporciona información en el texto para responder a esta pregunta.
+",,
+gemma3-4b,Spain,Spanish,inst-4,Th-en-51,Education,Vocacional,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-53,Education,Bolos,0,0
+gemma3-4b,Spain,Spanish,inst-4,Th-en-58,Education,No se puede responder con la información proporcionada.,0,0
+gemma3-4b,Spain,Spanish,inst-4,Tmp-ar-01,Education,Madrid,0,0
+gemma3-4b,Spain,Spanish,inst-4,Tmp-ar-02,Education,Autobús,1,1.0
+gemma3-4b,Spain,Spanish,inst-4,Tmp-ar-04,Education,No se puede responder a la pregunta con la información proporcionada.,0,0

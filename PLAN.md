@@ -108,15 +108,26 @@ the runner is written to allow more backends.
 `KB_Articles/{Country}_KB*.jsonl`, short English "evidence cards" (`text_en`) from non-BLEnD sources
 (UNESCO, national statistics offices, ministries, tourism boards, LoC…). This avoids contamination.
 
-| Country | Cards | Note |
-|---|---|---|
-| US | 150 | 25 per category |
-| Spain | 150 | 25 per category |
-| South Korea | 130 | sports/education thin |
-| Azerbaijan | 150 | cards are very short (~14 words) |
-| Ethiopia | 140 | partial |
+| Country | KB v1 cards | KB v2 additions (2026-10-05) | Total used by RAG v2 |
+|---|---|---|---|
+| US | 150 (25 per category) | — | 150 |
+| Spain | 150 (25 per category) | — | 150 |
+| South Korea | 130 (sports/education thin) | — | 130 |
+| Azerbaijan | 150 (cards very short, ~14 words) | 146 | 296 |
+| Ethiopia | 140 (partial) | 149 | 289 |
 
-**Decision: English-only KB.** We index `text_en` only.
+**Decision: English-only KB.** We index `text_en` (+ keywords) only.
+
+**KB v2 (question-driven extension, Azerbaijan + Ethiopia).** KB v1 is institutional and niche, and it
+contains a gold answer for only 10–17% of questions. KB v2 adds mainstream everyday facts, one or more
+cards per BLEnD *question type* ("The most common X in Ethiopia is Y …"), with local-language terms in
+brackets. Sources: labour law, Wikipedia (cuisine, education, holidays, sport, culture, economy) and
+news. The cards live in `rag_pipeline/kb_v2/{ethiopia,azerbaijan}_cards.py`, and
+`python rag_pipeline/kb_v2/build_kb_v2.py` writes `KB_Articles/{Country}_KB_v2_additions.jsonl`. Each
+card stores `written_for` (the question IDs whose template motivated it). That field is used **only**
+for the "leave own cards out" check, never at retrieval time. Gold answers were not consulted while
+writing, but the cards were written after the RAG v1 error analysis, so KB v2 is question-aware. About a
+third of the cards are `source_quality = high` (checked against a source); the rest are `medium`.
 
 ### Pipeline
 
@@ -126,11 +137,13 @@ question (local  │  prompt(inst-4 / pers-3, same language)  │──► LLM �
  or English) ────┤                                          │
                  └───────────────── RAG ────────────────────┘
                    1. retrieval query = English version of the question
-                      (for a local-language question we translate it ONLY for search)
-                   2. hybrid search in THIS country's KB only:
-                      BM25 (keywords) + bge-m3 embeddings (meaning), fused → top-k cards
-                   3. prompt = [retrieved English cards] + original prompt in the ORIGINAL language
-                   4. LLM ──► answer ──► official scorer
+                      (for a local-language question it is used ONLY for search)
+                   2. search in THIS country's KB only
+                      v1: 0.5·BM25 + 0.5·bge-m3 → always top-3
+                      v2: bge-m3 top-20 → cross-encoder rerank → keep ≤3 cards with score ≥ τ=0.45
+                   3. v2 gate: 0 cards → baseline prompt → reuse the baseline answer
+                   4. prompt = [context instruction + cards] + original prompt in the ORIGINAL language
+                   5. LLM ──► answer ──► official scorer
 ```
 
 Key rule: **translation is used only for searching.** The LLM always gets the original question in its
@@ -141,7 +154,7 @@ version of the question** (`Translation` column, a human "oracle" translation), 
 the whole project, not just the mid-term. Machine-translated queries (LLM or NLLB) are an optional
 extra for the final report, only if time allows.
 
-### Always-RAG: exact design (decided 2026-10-04)
+### RAG v1 (Always-RAG): exact design (decided 2026-10-04)
 
 Follows SOP §III-A: region-aware **hybrid BM25 + dense** retrieval restricted to the target country's KB,
 then grounded generation with the same prompts. All choices are fixed **before** looking at RAG results.
@@ -181,12 +194,70 @@ questions where any top-3 card contains one of the gold English answers. It tell
 **Planned sensitivity checks (final report, not mid-term):** k ∈ {1, 3, 5}; BM25-only and dense-only
 vs hybrid. These are reported as ablations, and the main number stays the a-priori setting above.
 
+**Result (2026-10-05):** RAG v1 lowers accuracy on all models (−8.9 to −14.3 points); see the report.
+
+### RAG v2: exact design (decided and run 2026-10-05)
+
+Why v1 failed (diagnosis, details in the report):
+- With a gold-bearing card in the top 3, v1 helps a lot (Azerbaijani 26→51, Amharic 8→30). That happens
+  for only 7–14% of questions, so for the rest the cards are noise.
+- Models refuse ("the information is not provided", 7–20% of answers) or copy distractors from the cards.
+- BM25 hurts: dense-only beats every fusion weight (e.g. ET hit@3 11.0 → 17.4).
+- SemEval-2026 Task 7 (built on BLEnD) agrees: CultRAG found plain RAG ≤ the LLM-only baseline, with
+  KB coverage the bottleneck; king001 (1st) used BLEnD's own QA pairs as the KB (≈ leakage, not copied).
+  We take king001's "no context if nothing relevant" rule.
+
+| Part | v1 | **v2** |
+|---|---|---|
+| KB | KB v1 | KB v1 + **KB v2 additions** (AZ, ET only) |
+| Query | BLEnD English question | same |
+| Candidates | 0.5·dense + 0.5·BM25, min-max per query | **α·dense + (1−α)·BM25, α = 1.0** (chosen on dev from {0.8, 1.0} by recall@20: 33.5 vs 34.0) → **top-20** |
+| Reranker | — | **`cross-encoder/ms-marco-MiniLM-L-12-v2`**, (EN question, card) → relevance 0..1, max length 256. (`BAAI/bge-reranker-v2-m3` was tried: ~1 pair/s on the laptop CPU, ≈12 h, so it was dropped) |
+| Cut-off | — | keep cards with relevance **≥ τ = 0.45**, at most **K = 3** → 0–3 cards per question |
+| τ tuning | — | grid 0.05…0.95; maximise **F0.5** of "card mentions a gold answer" over the sent cards, on **dev countries US/Spain/South Korea only**; frozen for AZ/ET |
+| Gate (Adaptive-RAG, PS-2) | — | 0 cards → prompt identical to baseline → **baseline answer reused** (greedy decoding), no LLM call |
+| Prompt | "Background information about {country} (may or may not be relevant):" | "Background information about {country}. Use it only if it directly helps to answer the question; otherwise ignore it and answer from your own knowledge. Always give an answer and never say that the information is not provided." |
+| Models / decoding / scorer | as baseline | same |
+
+Retrieval stats (v2): the share of questions that get context is US 7%, ES 42%, KR 42%, AZ 99.8%, ET 99.8%.
+Answer-hit for AZ/ET is 64.6% / 58.9% (v1: 9.8% / 11.0%). With each question's own `written_for` cards
+removed, dense hit@3 is still AZ 35.2% / ET 37.9%.
+
+**Result (2026-10-05), SEM-B 3-model mean, baseline → v1 → v2:**
+
+| Setting | Baseline | v1 | v2 |
+|---|---|---|---|
+| US en | 74.9 | 53.5 | 73.2 |
+| Spain es / en | 56.3 / 50.8 | 36.8 / 34.3 | 50.0 / 44.5 |
+| Korea ko / en | 48.0 / 47.7 | 39.2 / 35.8 | 43.7 / 42.3 |
+| **Azerbaijan az / en** | 23.6 / 47.6 | 18.0 / 30.6 | **53.3 / 65.4** |
+| **Ethiopia am / en** | 7.9 / 34.1 | 12.3 / 23.7 | **28.0 / 48.0** |
+| Per model (gemma / mistral / qwen) | 43.4 / 50.9 / 36.1 | 29.1 / 38.4 / 27.2 | **51.0 / 55.1 / 43.3** |
+| High − low resource gap | 27.2 | 18.7 | **2.0** |
+
+Every AZ/ET setting improves for every model (+8.6 to +36.9). High-resource countries (KB v1 only) lose
+1.7–6.4 points. Full table: `results/comparison_baseline_rag_ragv2.csv`.
+
+**Run commands (v2):**
+```bash
+python rag_pipeline/kb_v2/build_kb_v2.py                       # KB v2 jsonl files
+python rag_pipeline/retrieve_v2.py                             # → results/retrieval/v2_rerank_top3.jsonl (cached per country)
+python rag_pipeline/build_jobs.py --run rag_v2 --pc-run rag_v2_pc --prompt-version v2 \
+    --retrieval results/retrieval/v2_rerank_top3.jsonl --countries Azerbaijan Ethiopia
+python rag_pipeline/pc.py push/start/status/pull --run rag_v2_pc   # only prompts that have cards
+python rag_pipeline/merge_gated.py --run rag_v2 --pc-run rag_v2_pc # + baseline answers for 0-card questions
+python rag_pipeline/score.py --run rag_v2                         # Spanish/Amharic in WSL
+# same with --run rag_v2_dev --pc-run rag_v2_dev_pc --countries US Spain South_Korea
+```
+
 ### Conditions
 | Condition | What | Status |
 |---|---|---|
-| Baseline | no retrieval | **mid-term** |
-| Always-RAG | retrieve for every question | **mid-term** |
-| Adaptive-RAG | a gate decides per question: retrieve or not (retrieval score threshold / category prior) | final |
+| Baseline | no retrieval | ✅ |
+| RAG v1 (Always-RAG) | hybrid 0.5/0.5, always top-3, v1 prompt | ✅ |
+| RAG v2 (Adaptive) | KB v2 + dense → rerank → τ cut-off → gate, v2 prompt | ✅ |
+| Oracle-KB upper bound | cards built from BLEnD answers, a **separate** run and a separately labelled row | next |
+| KB v2 for US/ES/KR | question-driven cards for the high-resource countries too | optional |
 | Category analysis | Country×Category, Method×Category tables and heatmaps | final (no new LLM calls) |
 
 Useful fact: with greedy decoding, Adaptive-RAG needs **no new LLM runs**. For each question
@@ -211,22 +282,29 @@ PC time (gemma 28 min, mistral 3.7 h, qwen 1.3 h). RAG prompts are longer, so ex
 | 6 | **Retriever**: BM25 + bge-m3 per country, top-k with scores logged; retrieval diagnostic (how often a top-k card mentions a gold answer; diagnostic only, never used to edit the KB) | retrieval stats | ✅ |
 | 7 | **Always-RAG full run** + Baseline vs RAG delta table | RAG table | ✅ |
 | 8 | Mid-term slides/report: KB stats, baseline vs paper, RAG deltas, 3–5 qualitative examples | submission | ✅ |
-| 9 | Tier-2 models (Aya-101, GPT-OSS-20B) | more rows | final |
-| 10 | Adaptive-RAG gate (offline, reuses 5 + 7) | 3-way table | final |
-| 11 | MT-based pivot vs oracle English query | cross-lingual table | final |
-| 12 | Category analysis + error analysis + final report | final | final |
+| 9 | Diagnosis of v1 + SemEval-2026 research → RAG v2 design | PLAN/report | ✅ |
+| 10 | KB v2 (question-driven cards, AZ + ET) | `KB_Articles/*_KB_v2_additions.jsonl` | ✅ |
+| 11 | RAG v2: dense + rerank + τ + gate + prompt v2, all 9 settings | 3-way table | ✅ |
+| 12 | Oracle-KB upper bound (separate, labelled) | upper-bound row | next |
+| 13 | MT-based pivot vs oracle English query | cross-lingual table | final |
+| 14 | Category analysis + error analysis + final report | final | final |
 
-### Proposed code layout
+### Code layout (actual)
 ```
 rag_pipeline/
-  config.py        countries, languages, models, paths
-  data.py          load questions/prompts/annotations (fixes BLEnD quirks)
-  retriever.py     BM25 + bge-m3 hybrid, per-country index
-  prompts.py       baseline & RAG prompt builders
-  run.py           inference: --model --condition {baseline,rag} --countries ...
-  score.py         wraps BLEnD/evaluation/exact_match.soft_exact_match
-  analysis/        tables & plots
+  config.py          countries, languages, models (Ollama tags), paths, PC host
+  data.py            load questions/prompts/annotations (fixes BLEnD quirks), scorable filter
+  build_jobs.py      questions (+ retrieved cards) → jobs/<run>.jsonl; --prompt-version v1|v2, --pc-run, --countries
+  remote/run_ollama.py   runs on the PC: jobs → Ollama /api/chat (greedy) → results/<run>/<model>.jsonl (resumable)
+  pc.py              push / start / status / pull via ssh+scp
+  retrieve.py        RAG v1 retrieval (hybrid 0.5/0.5, top-3) → results/retrieval/oracle_en_top3.jsonl
+  retrieve_v2.py     RAG v2 retrieval (dense top-20 → MiniLM rerank → τ) → results/retrieval/v2_rerank_top3.jsonl
+  merge_gated.py     RAG v2 gate: PC answers for prompts with cards + baseline answers for the rest
+  score.py           official BLEnD soft_exact_match (module stubs), per-group cache → scores/table
+  kb_v2/             KB v2 card sources + build_kb_v2.py
 results/
-  {condition}/{model}-{Country}_{Language}_{prompt}_result.csv   (BLEnD format)
-  scores.csv
+  baseline/ rag/ rag_v2/ rag_v2_dev/      raw/, groups/, per_question.csv, scores.csv, table.csv
+  rag_v2_pc/ rag_v2_dev_pc/               raw PC answers for the prompts that got cards
+  retrieval/                              retrieval files, rerank cache, logs
+  comparison_baseline_rag_ragv2.csv       3-way table
 ```

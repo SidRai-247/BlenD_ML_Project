@@ -1,0 +1,525 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,South_Korea,English,pers-3,Al-en-01,Food,Pepero.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-02,Food,Budae jjigae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-04,Food,Apple.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-06,Food,Bibimbap.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-08,Food,Hotteok and gyeranppang.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-09,Food,떡볶이 (Tteokbokki),0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-16,Education,5,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-17,Education,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-18,Education,Math.,1,0.8
+gemma3-4b,South_Korea,English,pers-3,Al-en-19,Education,English.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-21,Education,Mathematics.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Jeongakchi.,1,0.2
+gemma3-4b,South_Korea,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,We mostly do themed parties and costume contests.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,They celebrate Dongji.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"We exchange gifts and decorate Christmas trees, often with a Western influence, and enjoy a traditional Christmas Eve dinner with family.",1,0.5
+gemma3-4b,South_Korea,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Songpyeon.,,
+gemma3-4b,South_Korea,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,생크림 케이크 (saengkeurim keikeu),0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,Chocolate.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Cold food.,0,0
+gemma3-4b,South_Korea,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Parks.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Playing Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,An-ar-02,Education,Often at school cafeterias.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,An-ar-03,Education,3,0,0
+gemma3-4b,South_Korea,English,pers-3,An-ar-08,Education,12,1,1.0
+gemma3-4b,South_Korea,English,pers-3,An-ar-09,Education,3,1,1.0
+gemma3-4b,South_Korea,English,pers-3,An-ar-34,Sport,Soccer.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,An-ar-35,Sport,Lee Cha-young.,0,0
+gemma3-4b,South_Korea,English,pers-3,An-ar-36,Sport,FC Seoul,0,0
+gemma3-4b,South_Korea,English,pers-3,An-ar-43,Sport,Local bars and restaurants.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-06,Food,Breakfast.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-08,Food,Rice.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-09,Food,Yakgwa and dasik.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-11,Food,The first day of the first lunar month.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-14,Food,Barley tea.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Soju.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,4,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,Dongji.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-38,Family,Hanok,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-41,Family,With their children.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-42,Family,"6
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-43,Family,"6
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Ca-sp-45,Family,Jeju Island.,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-05,Sport,Walking.,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-06,Sport,Baseball.,1,0.4
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-07,Sport,Ham Cudi.,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-08,Sport,Soccer.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-09,Sport,Badminton,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-11,Sport,Swimming,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-15,Sport,Soccer.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-16,Family,2.16,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-18,Family,1.  3,1,0.75
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-31,Education,6,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-32,Education,"12
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-33,Education,12,0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-40,Education,"15:30
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-02,Work life,Friday.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-03,Work life,Seoul,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-07,Work life,Samsung.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-08,Work life,52,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-09,Work life,Samgyetang.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-14,Work life,K-pop.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-15,Work life,1.  5,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-16,Family,At home.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-19,Family,Chrysanthemums.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-22,Family,A new smartphone.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-24,Family,Swimming pools.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-25,Family,"Seollal, Dano, and Chuseok.",0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-26,Family,Financial stability and moving out.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-27,Family,Fruit.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-28,Family,Seol.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-29,Family,Buddha’s birthday.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-31,Education,Private academies.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-33,Education,They usually go to private academies.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-34,Education,They take the subway.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-35,Education,After-school tutoring.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-36,Education,English.,1,0.8
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-37,Education,Jeogori and rok.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-38,Education,Medicine.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-39,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-40,Education,They study.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-41,Education,Sneakers.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-42,Education,"Korean Language, Math, Science, and Social Studies.",1,0.8
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-44,Education,Seoul.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ji-ko-45,Education,Seeing the Daebak.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-01,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-02,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-09,Sport,Golf.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-13,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-14,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-18,Work life,15,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-19,Work life,South-western Korea.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-21,Work life,12:30,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-31,Education,"16:30
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-32,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-36,Education,6,1,0.6666666666666666
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-37,Education,3,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-39,Education,6,0,0
+gemma3-4b,South_Korea,English,pers-3,Jo-sp-43,Education,2,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-01,Food,Chopsticks and a spoon.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-04,Food,Melon soda.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-06,Food,Soju.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-07,Food,"2.1
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-09,Food,"19:00
+",1,0.6666666666666666
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-12,Food,Samgyetang.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-13,Food,Tteokbokki.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-15,Food,Fermented seafood.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,Seollal (설날).,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,The KTX high-speed rail.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Danoje Festival.,,
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-37,Sport,Badminton,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-38,Sport,Baseball.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Watching K-dramas.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Playing PC방 (PC Bang).,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-46,Work life,45.0,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-48,Work life,They eat alone.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-50,Work life,35,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-51,Work life,Subway.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-54,Work life,"180
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-56,Work life,65,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-57,Work life,65,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-58,Work life,Teacher.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-60,Work life,58,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-61,Work life,Large corporations.,0,0
+gemma3-4b,South_Korea,English,pers-3,Jod-ch-62,Work life,Large corporations.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-17,Education,High school.,1,0.2
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-24,Education,Korean.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-30,Education,Sundays.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-32,Food,"Songpyeon, japchae, namul, jeon, and fruit.",1,0.5
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-34,Food,Soju.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-36,Food,Japan.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-39,Food,Songpyeon and japchae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-40,Food,Sannakji.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-43,Food,Bungeoppang.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-51,Work life,"18:00
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Pansori.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"We hold ceremonies and patriotic performances, and many people visit war memorials.",0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,A pine tree.,,
+gemma3-4b,South_Korea,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,During Chuseok.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Yeongsan Juldarigi.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,"Ogokbap, bureom-kkaegi, and gwibalgi-sul.",0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,There are no activities done days before Ramadan in South Korea.,,
+gemma3-4b,South_Korea,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,Seoul.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Bulguksa Temple.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,"A dark blue, formal hanbok.",0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-16,Food,Makgeoldu.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-17,Food,Persimmons.,,
+gemma3-4b,South_Korea,English,pers-3,Kik-in-24,Food,Dakgalbi.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-31,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-34,Sport,Baseball and football (soccer).,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-35,Sport,Running and online fitness classes.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-36,Sport,Park Hang-seo,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-37,Sport,Jeonbuk Hyundai vs. Ulsan Hyundai.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-38,Sport,Baecksu-cheolcheori (바ек수철철이) vs. Saerockcheori (새록초리),,
+gemma3-4b,South_Korea,English,pers-3,Kik-in-40,Sport,Lee Chang-ho,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-41,Sport,Shim Eunseo,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-44,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Kik-in-45,Sport,Basketball courts.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Na-ko-02,Food,Barista style coffee.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Na-ko-04,Food,Cold noodles.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-05,Food,"Songpyeon, japchae, and makgeolli.",0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-07,Food,Beef.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Na-ko-08,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-09,Food,Kimchi.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-11,Food,Ramyeon and beer.,1,0.75
+gemma3-4b,South_Korea,English,pers-3,Na-ko-15,Food,Samgyetang.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-16,Sport,Son Heung-min,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-17,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-18,Sport,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-19,Sport,Jeongeun Lee Sim.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-20,Sport,Baseball.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-22,Sport,Japan.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-23,Sport,Football academies.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-24,Sport,Dakgangjeong.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-25,Sport,Running and kicking a soccer ball.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-26,Sport,Sports participation.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-28,Sport,Yuzuru Hanyu.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-29,Sport,Park Tae-hwan.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-30,Sport,League of Legends,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Ogokbap.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Jeju Island.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,A set of tableware.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,A check-painted wooden ox.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,5,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,Incense and paper money.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,They greet ancestors and wish for family health and abundant farming.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,Buddha's Birthday.,0,0
+gemma3-4b,South_Korea,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Jeju Island.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Seollal.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,We don’t celebrate Ramadan.,,
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,We don’t celebrate Eid ul Fitr.,,
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,Kimchi.,,
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,They go to their homes to celebrate Seol.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,Mosques.,,
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-16,Work life,Saturday and Sunday.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-17,Work life,"09:00
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-18,Work life,"18:00
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-20,Work life,"A stable, large company job.",0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-24,Work life,Seoul,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-25,Work life,Technology.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-26,Work life,Samsung,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-31,Food,Kimchi.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-32,Food,Rice with soup.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-33,Food,12:00,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-34,Food,Kimchi.,1,0.75
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-36,Food,"Kimchi, songpyeon, japchae, namul, jeon, and fruit.",0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-37,Food,Apple.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-38,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-39,Food,Kimbap.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-43,Food,Rice.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ne-ar-44,Food,Coffee is huge.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-02,Food,Kimchi,1,0.25
+gemma3-4b,South_Korea,English,pers-3,New-am-04,Food,Jang.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-08,Food,Japchae.,,
+gemma3-4b,South_Korea,English,pers-3,New-am-15,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-27,Sport,Park Ji-hyun.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-34,Education,Jajangchon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-41,Education,High school year one.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-53,Work life,Jeju.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-54,Work life,Gyeongsang Province.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-59,Work life,Date farming.,,
+gemma3-4b,South_Korea,English,pers-3,New-am-60,Work life,Horse,,
+gemma3-4b,South_Korea,English,pers-3,New-am-72,Family,Maru.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-73,Family,Troll Family.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-74,Family,Running Man.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Chuseok.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-81,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,South_Korea,English,pers-3,New-am-83,Holidays/Celebration/Leisure,Gayageum.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-as-01,Food,Ox.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-02,Food,Bibim guksu.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-05,Food,Soju.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,New-as-07,Food,Hwe.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-14,Food,Kimchi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-15,Food,Buldak tea.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-20,Sport,Baduk (Go).,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-29,Sport,Baseball.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-as-30,Sport,Badminton,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-58,Work life,Coffee.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-as-64,Family,Seollal.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-76,Holidays/Celebration/Leisure,Yunnori and neolttwigi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-as-80,Holidays/Celebration/Leisure,Hanbok.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-as-89,Holidays/Celebration/Leisure,Ox belts and rope.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-05,Food,Jeju.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-11,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-12,Food,Southwestern Korea.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-21,Sport,Gangwon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-26,Sport,Jangsa in ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-27,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-39,Education,China.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-49,Work life,"1
+",1,0.4
+gemma3-4b,South_Korea,English,pers-3,New-az-60,Family,Nannies and daycare centers.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Makgeolli.,1,0.2
+gemma3-4b,South_Korea,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Makgeolli.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-az-73,Holidays/Celebration/Leisure,80,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-01,Food,Beef.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-02,Food,"07:00
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-04,Food,Kimchi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-05,Food,Kimchi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-07,Food,Samgyeopsal.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-08,Food,Gochujang.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-09,Food,"Songpyeon, japchae, namul, jeon, and fruit.",0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-13,Food,Soju.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-14,Food,Cold noodles.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-15,Food,Banchan.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-16,Sport,Taegukgaeseong.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-17,Sport,Skiing.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-18,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-19,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-23,Sport,Joo Min-jeong.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-26,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-27,Sport,Mu-hyeon Choi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-30,Sport,Hyeon Woo Park.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-31,Work life,A job with high income.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-32,Work life,Microsoft Office.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-ch-38,Work life,Busan and Incheon.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-39,Work life,Coupang.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-44,Work life,One month.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-45,Work life,IT and e-commerce.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-49,Family,KakaoTalk.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-51,Family,Hanok guesthouses.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-54,Family,Apple.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-64,Education,7.6,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-66,Education,"799,000",1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-70,Education,Korean language and culture.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-71,Education,23.4,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-72,Education,Computer science.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-73,Education,Talchum mask dance clubs.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-74,Education,Dorms and apartments.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-ch-75,Education,249,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,Weaving mosi ramie cloth.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,Playing neolttwigi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,Chuseok and Seollal.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Fruit.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",,
+gemma3-4b,South_Korea,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,Seoul.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,White.,,
+gemma3-4b,South_Korea,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-01,Food,Popcorn.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-02,Food,Seaweed.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-04,Food,Roy Choi.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-05,Food,Kimchi jjigae.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-07,Food,Noma Noma and Delicious Revenge.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-08,Food,Hershey's,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-en-10,Food,Gochujang cheese.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-11,Food,Bitter melon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-12,Food,Jjapangmyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-17,Sport,Giant banners and chants.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-18,Sport,Cheering culture and food.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-19,Sport,Seoul World Cup Stadium,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-23,Sport,Kim Min-gwi,,
+gemma3-4b,South_Korea,English,pers-3,New-en-26,Sport,Jangsa.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-38,Work life,Construction and education services.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-41,Work life,Lee Kun-hee.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,New-en-47,Family,A small yard and often a communal garden.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-49,Family,The Samsung family.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-50,Family,Kim,1,0.75
+gemma3-4b,South_Korea,English,pers-3,New-en-55,Family,Buddhism.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-56,Family,English.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-59,Family,United States.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,New-en-68,Education,"Students can be disciplined through detentions, suspension, or even reported to their parents and school authorities.",1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-69,Education,Ki-Young Yi and Shin Han-ul.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-70,Education,1,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-72,Education,EBS textbooks.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-75,Education,18,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Incheon International Airport.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-en-79,Holidays/Celebration/Leisure,South-western Korea.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-87,Holidays/Celebration/Leisure,Bulguksa Temple.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-en-90,Holidays/Celebration/Leisure,Lotte Hotel,1,0.2
+gemma3-4b,South_Korea,English,pers-3,New-gr-05,Food,Toast with cheese.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-gr-06,Food,Ramyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-08,Food,Makgeolli.,1,0.6666666666666666
+gemma3-4b,South_Korea,English,pers-3,New-gr-13,Food,Barley tea.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-15,Food,Yakgwa.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-gr-21,Sport,Badminton,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-gr-24,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-29,Sport,Football (soccer).,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-47,Work life,15,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-58,Work life,Teaching.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Ham and eggs.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Soju.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Soju.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ha-07,Food,Kimchi,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-ha-08,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ha-09,Food,A stone pot.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,New-ha-13,Food,Korean melon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ha-19,Sport,Ox.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ha-66,Family,Traditional Korean gardens.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-in-03,Food,Jajangmyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-in-33,Work life,Gyeongsang Province.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-in-34,Work life,Jeju.,,
+gemma3-4b,South_Korea,English,pers-3,New-in-62,Education,Korea University.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-in-63,Education,Seoul National University.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Cash on delivery.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Everland.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ko-01,Family,Tayo.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-02,Family,Mosi ramie weaving.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-03,Family,Arirang.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-04,Family,Ssireum figures.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-05,Family,Barbie dolls.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-ko-06,Family,Dangun myth.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,Mosi ramie cloth.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-08,Work life,Restaurants.,1,0.25
+gemma3-4b,South_Korea,English,pers-3,New-ko-09,Work life,Hometown or residence ties.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-ko-10,Work life,Driving delivery services.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-02,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-06,Food,Samgyetang.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-11,Food,Gochugaru.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-16,Sport,Ssireum.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-pe-20,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-45,Work life,Work hours are typically extended.,,
+gemma3-4b,South_Korea,English,pers-3,New-pe-47,Family,"05/05
+",,
+gemma3-4b,South_Korea,English,pers-3,New-pe-49,Family,Buddhist temples.,,
+gemma3-4b,South_Korea,English,pers-3,New-pe-53,Family,"A small, often hand-made, gift like a card or a simple, practical item.",0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-54,Family,Chamjori.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-59,Family,"2.1
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-pe-65,Education,13,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-66,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-74,Education,Around ₩4.5 million.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Sitting and enjoying *jogaksu*.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,Pusan International Film Festival.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Yutnori.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Japan,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,Lotte World Tower.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,New-spme-01,Food,Grasshoppers.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-04,Food,Rice.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-spme-05,Food,Yakgwa and dasik.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-15,Sport,Baedara.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-27,Education,Very high.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-37,Education,Business.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-60,Family,Sunday.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-spme-65,Family,National Liberation Day parades.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-68,Family,Gwibalgi-sul.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Gwangju.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Samilteo.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-01,Food,Pepero and Hallabong.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-09,Food,Sesame oil.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-su-10,Food,Songpyeon.,,
+gemma3-4b,South_Korea,English,pers-3,New-su-15,Food,Makgeolli.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-17,Sport,Basketball courts and running tracks.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-su-21,Sport,Playing Mahjong and chatting.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-24,Sport,Ganggangsullae and tug-of-war.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-28,Sport,Black and White,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-33,Education,"A dark-colored, modest suit.",,
+gemma3-4b,South_Korea,English,pers-3,New-su-34,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-42,Education,Buddhism.,,
+gemma3-4b,South_Korea,English,pers-3,New-su-45,Education,"03/03
+",0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-50,Work life,Agriculture.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-su-51,Work life,Fishing.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-su-57,Work life,Chickens.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,New-su-58,Work life,Oxen.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-59,Work life,Chima and Baji.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-60,Work life,Kimchi.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-su-71,Family,Money.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-75,Family,A small SUV.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Ogokbap.,,
+gemma3-4b,South_Korea,English,pers-3,New-su-81,Holidays/Celebration/Leisure,A *gat* (갓).,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-82,Holidays/Celebration/Leisure,Hanbok.,1,0.3333333333333333
+gemma3-4b,South_Korea,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Songpyeon.,0,0
+gemma3-4b,South_Korea,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The Blue House.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,New-su-88,Holidays/Celebration/Leisure,K-pop.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-02,Education,16:30,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-03,Education,18,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-06,Education,6,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-11,Education,"4
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-12,Education,Seoul National University.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-13,Education,22,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-15,Education,14,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-19,Work life,5,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-20,Work life,18,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-21,Work life,16,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Kimchi.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,Jingle Bells.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-04,Education,2,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-05,Education,3,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-06,Education,"03/21
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-11,Education,"09:00
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-20,Family,"05/05
+",1,1.0
+gemma3-4b,South_Korea,English,pers-3,Nu-in-40,Work life,Seoul,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-1,Food,Lotte Mart's Pizza Maru.,0,0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-13,Food,Sogogi.,0,0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-16,Sport,FC Seoul.,0,0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-22,Sport,Yonsei University.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-31,Family,Dogs.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-32,Family,*Crash Landing on You*,0,0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-37,Family,Baduk (바둑).,0,0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-6,Food,Korean fried chicken.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Sa-en-7,Food,"Pepero, bungeoppang, and hotteok.",1,0.5
+gemma3-4b,South_Korea,English,pers-3,Sa-en-9,Food,Grilled seafood.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-10,Family,"34
+",0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-11,Family,"31
+",1,0.5
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-13,Family,5,1,0.25
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-17,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-21,Sport,Parks and schoolyards.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-22,Sport,Taekwondo.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-23,Sport,Taekwondo.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-25,Sport,FC Seoul vs. Jeonbuk Hyundai Motors.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-29,Sport,Baseball.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-30,Sport,Squid Game.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,Dongji.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,Dongji.,0,0
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Tteokguk.,,
+gemma3-4b,South_Korea,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Tteokguk.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-01,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-03,Sport,K League 1.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-05,Sport,The Hyungbok Ladies.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-09,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-11,Sport,Park Ji-sung.,1,0.2
+gemma3-4b,South_Korea,English,pers-3,Th-en-12,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-15,Sport,Ice hockey.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-19,Work life,Busan.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-21,Work life,Parental leave.,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Th-en-22,Work life,The 1997-1998 Asian Financial Crisis.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-24,Work life,Gangnam.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-27,Work life,Semiconductors.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-35,Family,Dinner,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-36,Family,Visiting a temple.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-37,Family,25,1,0.5
+gemma3-4b,South_Korea,English,pers-3,Th-en-38,Family,Chuseok.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-39,Family,Yutnori.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-41,Family,30,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-43,Family,1.2,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-44,Family,Kimchi jjigae.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-45,Family,Eating alone.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-48,Education,A+,1,0.2
+gemma3-4b,South_Korea,English,pers-3,Th-en-49,Education,The College Scholastic Ability Test (CSAT).,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Th-en-51,Education,Academic aptitude/interest.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-53,Education,Ssireum practice.,0,0
+gemma3-4b,South_Korea,English,pers-3,Th-en-58,Education,Calculus.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Tmp-ar-01,Education,Hagwons.,0,0
+gemma3-4b,South_Korea,English,pers-3,Tmp-ar-02,Education,The subway.,1,1.0
+gemma3-4b,South_Korea,English,pers-3,Tmp-ar-04,Education,They often attend private tutoring classes.,0,0

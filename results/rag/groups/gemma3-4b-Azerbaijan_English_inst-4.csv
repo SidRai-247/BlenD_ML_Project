@@ -1,0 +1,531 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-01,Food,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-02,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-04,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-06,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-09,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-16,Education,"3
+",1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-17,Education,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-18,Education,The provided text does not contain information about private education in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-19,Education,Russian,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-21,Education,Azerbaijani language and literature,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,Pilaf,,
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,Azerbaijan does not celebrate Halloween.,,
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,People meet to congratulate each other before the Novruz holiday.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,The provided text does not contain information about how people celebrate Christmas in Azerbaijan.,,
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,None,,
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Paklava,,
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Dolma,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-02,Education,The provided text does not contain information about where university students have lunch in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-03,Education,"12
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-08,Education,12,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-09,Education,7,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-34,Sport,The provided text does not contain information about school sports in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-35,Sport,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-36,Sport,I cannot answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,An-ar-43,Sport,The provided text does not contain information about where individuals in Azerbaijan watch sports broadcasts.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-05,Food,2,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-06,Food,Pilaf,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-08,Food,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-09,Food,Pakhlava,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-11,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-14,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,The provided text does not contain information about Azerbaijan’s New Year’s Eve traditions.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-38,Family,The provided text does not offer information about the typical type of house for a family in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-41,Family,The provided text does not contain information about where dependent elderly people live in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-42,Family,26,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-43,Family,14,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ca-sp-45,Family,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-05,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-06,Sport,Wrestling,1,0.2
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-07,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-08,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-09,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-11,Sport,None,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-15,Sport,The provided text does not contain information about the sports male students in university like to play in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-16,Family,5,1,0.25
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-18,Family,3.  5,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-31,Education,6,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-32,Education,9,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-33,Education,"12
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-40,Education,"16:00
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Gu-ch-41,Education,"0
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-02,Work life,It cannot be determined from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-03,Work life,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-07,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-09,Work life,Pakhlava and Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-14,Work life,Tea and citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-15,Work life,2.5,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-16,Family,The provided text does not contain information about where mothers stay for recovery after childbirth in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-19,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-22,Family,Lankaran tea and bazaar goods.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-24,Family,The provided text does not contain information about recreational facilities or children's preferences.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-25,Family,The provided text does not contain information about family-related holidays in Azerbaijan.,,
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-26,Family,The court determines the arrangement with the child’s rights and interests after divorce.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-27,Family,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-28,Family,March 20–21,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-29,Family,None of the provided information answers the question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-31,Education,Azerbaijani as the state language.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-33,Education,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-34,Education,Most school students receive instruction in Azerbaijani as the state language.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-35,Education,The provided text does not contain information about private education in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-36,Education,Insufficient information to answer.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-37,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-38,Education,Preschool groups in general education schools.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-39,Education,The provided text does not contain information about musical instruments.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-40,Education,The provided text does not contain information about what high school students do during break time.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-41,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-42,Education,The provided text does not contain information about Azerbaijan's university entrance exam subjects.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-44,Education,The provided text does not contain information to answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ji-ko-45,Education,Subject olympiads,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-01,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-02,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-09,Sport,"Wrestling, zorkhana games, and individual performances.",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-13,Sport,The provided text does not contain information about water sports in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-14,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-18,Work life,0,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-19,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-21,Work life,"01:00
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-31,Education,"18:00
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-32,Education,Azerbaijani,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-36,Education,"8
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-37,Education,7,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jo-sp-43,Education,6,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-01,Food,None specified.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-04,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-06,Food,The provided text does not contain information about Azerbaijani alcohol.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-07,Food,0.5,1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-09,Food,"19:00
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-12,Food,The provided text does not contain information about the types of soup people in Azerbaijan like to have.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-13,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-15,Food,The provided text does not contain information about the seafood people from Azerbaijan like to eat.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Novruz,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,The provided text does not contain information about public transport in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,"Water, fire, earth, and air/wind.",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-37,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-38,Sport,Wrestling,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Drinking tea before and after meals,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Drinking tea before and after meals.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-46,Work life,0,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-48,Work life,The provided text does not state what people eat for lunch during the working days in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-50,Work life,"1
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-51,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-54,Work life,10,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-56,Work life,60,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-58,Work life,It cannot be determined from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-60,Work life,10,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-61,Work life,The provided text does not contain information to answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Jod-ch-62,Work life,The provided text does not contain information about the most preferred occupation among males in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-17,Education,High school,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-24,Education,"Russian, German, French, Arabic, Persian, and Georgian.",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-30,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-32,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-34,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-36,Food,Iran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-39,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-40,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-43,Food,Lavash,1,0.25
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-51,Work life,"18:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Novruz,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,The provided text does not contain information about activities people from Azerbaijan do to celebrate Independence Day.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,None of the provided text contains the answer to this question.,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,Novruz marks spring and the vernal equinox around March 20–21.,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Tea drinking,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Dolma,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,This question cannot be answered with the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,The provided text does not contain information about religious sites.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,The provided text does not contain information about the clothes women wear on graduation commencement ceremonies in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-16,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-17,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-24,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-31,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-34,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-35,Sport,"Wrestling, zorkhana games, and performances.",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-36,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-37,Sport,The provided text does not contain information about famous soccer rivalries in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-38,Sport,Neftchi vs. Sabail,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-40,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-41,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-44,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Kik-in-45,Sport,Badminton and athletics training drills.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-02,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-04,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-05,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-07,Food,Meat,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-08,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-09,Food,Pilaf,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-11,Food,Tea and Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-15,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-16,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-17,Sport,Badminton and athletics,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-18,Sport,Physical training and sport,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-19,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-22,Sport,Iran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-23,Sport,Athletics,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-24,Sport,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-25,Sport,"Badminton, athletics, artistic gymnastics, table tennis, taekwondo, and cycling.",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-26,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-28,Sport,Pehlevanliq practitioner,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-29,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-30,Sport,This question cannot be answered based on the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Baklava, gogal, shekerbura and painted eggs",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Lankaran tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"3
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,People meet to congratulate each other before the Novruz holiday.,,
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Novruz,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,The provided text does not contain information about Eid ul Fitr or what people eat during that holiday.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,The provided text does not contain information about Eid ul Adha or what people eat during that holiday.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,The provided text does not contain information about where people in Azerbaijan celebrate New Year's Day.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,The text does not provide information about where families gather for Eid festivities in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-16,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-18,Work life,"18:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-20,Work life,Employment numbers by economic region and administrative territorial unit.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-24,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-25,Work life,Data from official labor statistics.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-26,Work life,Plov,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-31,Food,Plov,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-32,Food,Butter and cheese with lavash.,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-33,Food,13:00,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-34,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-36,Food,Pilaf,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-37,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-38,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-39,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-43,Food,Pears,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ne-ar-44,Food,Pear-shaped armudu glasses.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-02,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-04,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-15,Food,Samani,,
+gemma3-4b,Azerbaijan,English,inst-4,New-am-27,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-34,Education,Azerbaijan,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-41,Education,The provided text does not contain the answer to this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-53,Work life,Lankaran,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-54,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-59,Work life,The provided text does not contain information about the main occupation of people living in deserts in Azerbaijan.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-am-60,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-72,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-73,Family,I cannot answer this question based on the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-am-74,Family,I cannot answer this question. The provided text does not contain information about talk shows in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-81,Holidays/Celebration/Leisure,"3
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-am-83,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-01,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-02,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-05,Food,Lankaran tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-07,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-14,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-15,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-29,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-30,Sport,Sport,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-58,Work life,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-64,Family,Novruz,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-76,Holidays/Celebration/Leisure,Wrestling and zorkhana games,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Pehlevanliq,,
+gemma3-4b,Azerbaijan,English,inst-4,New-as-89,Holidays/Celebration/Leisure,None.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-az-05,Food,The provided text does not contain information about alcohol production in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-11,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-12,Food,Lankaran,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-21,Sport,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-26,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-27,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-39,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-49,Work life,"1
+",1,0.25
+gemma3-4b,Azerbaijan,English,inst-4,New-az-60,Family,Both parents share responsibility.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-69,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-70,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-az-73,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-01,Food,Meat,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-02,Food,"09:00
+",1,0.25
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-04,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-05,Food,Plov,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-07,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-09,Food,Black tea and lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-13,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-14,Food,The provided text does not contain information about foods people eat when sick in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-15,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-16,Sport,I cannot answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-17,Sport,Armwrestling,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-18,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-19,Sport,Artistic gymnastics,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-23,Sport,Dmitri Tkatchenko,,
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-26,Sport,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-27,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-30,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-31,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-32,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-38,Work life,The provided text does not contain information about cities or regions known for import and export activities in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-39,Work life,The provided text does not contain information about e-commerce platforms in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-44,Work life,The provided text does not contain information about probation periods.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-45,Work life,Cultural and creative industries,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-49,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-51,Family,Family-related demographic and social statistics for Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-54,Family,Samani,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-64,Education,"1
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-66,Education,"1
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-70,Education,Azerbaijani as the state language.,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-71,Education,"1
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-72,Education,Education level.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-73,Education,The provided text does not contain information about university student clubs in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-74,Education,The provided text does not contain information about university student accommodation.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-75,Education,45,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,Tea and citrus production.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,Tea and citrus production.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,The provided text does not state the color of clothing worn at weddings in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-01,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-02,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-04,Food,The provided text does not contain information about popular celebrity chefs in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-05,Food,Pilaf,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-07,Food,The provided text does not contain information about popular cooking shows in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-08,Food,I cannot answer this question based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-10,Food,Butter and cheese,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-11,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-12,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-17,Sport,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-18,Sport,Pear-shaped armudu glasses.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-19,Sport,Bakı Stadionu,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-23,Sport,I cannot answer this question based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-26,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-38,Work life,Cultural and creative industries.,1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,New-en-41,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-47,Family,Tea and citrus plants,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-49,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-50,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-55,Family,Islam,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-56,Family,English,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-59,Family,The provided text does not contain the answer to this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-68,Education,The provided text does not contain information about repercussions for bad behavior in schools in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-69,Education,Azerbaijani language and literature,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-70,Education,1,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-72,Education,Azerbaijani schools.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-75,Education,"1
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-76,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-87,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-en-90,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-05,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-06,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-08,Food,The provided text does not contain information about alcoholic drinks consumed at festivals in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-13,Food,Tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-15,Food,Pakhlava,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-21,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-24,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-29,Sport,Mathematics,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-47,Work life,"15
+",1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-58,Work life,The provided text does not contain information about which jobs are considered underpaid in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,The provided text does not contain information about music genres or preferences among the elderly population in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Lankaran tea,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-07,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-09,Food,Dolma,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-13,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-19,Sport,None,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ha-66,Family,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-01,Food,The provided text does not contain information about coffee shop brands in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-03,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-33,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-34,Work life,Azerbaijan,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-62,Education,Azerbaijan State University of Oil and Industry,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-63,Education,Azerbaijan Medical University,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-78,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-in-80,Holidays/Celebration/Leisure,The provided text does not contain information about theme parks in Azerbaijan.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-01,Family,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-02,Family,The provided text does not contain information about prenatal education activities in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-03,Family,This question cannot be answered with the provided information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-04,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-05,Family,The provided text does not contain information about popular toys among girls in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-06,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,Samani,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-08,Work life,The provided text does not contain information to answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-09,Work life,The provided text does not contain information about team-building activities in companies based in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-ko-10,Work life,The provided text does not contain information about side jobs in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-02,Food,Pakhlava,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-06,Food,The provided text does not contain information about the most popular stew in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-11,Food,None specified.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-16,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-45,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-47,Family,09/28,,
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-49,Family,The text does not provide information about where families gather to pray together.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-53,Family,Tea,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-54,Family,Kelaghayi,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-59,Family,3,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-65,Education,3,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-66,Education,Subject Olympiads,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-74,Education,The provided text does not contain information about the average annual tuition fee for public universities in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,The provided text does not contain information about popular activities in parks in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,The provided text does not contain information about popular card games in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Flame Towers,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-01,Food,The provided text does not contain information about edible insects eaten in Azerbaijan.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-04,Food,Citrus,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-05,Food,"Baklava, gogal, shekerbura, and painted eggs.",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-15,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-27,Education,Insufficient data to determine.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-37,Education,The provided text does not contain information about which profession is most commonly studied abroad by students from Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-60,Family,The provided text does not contain information about which day of the week families in Azerbaijan practice religious activities.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-65,Family,This question cannot be answered from the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-68,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-01,Food,The provided text does not contain information about snacks sold in front of schools in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-09,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-10,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-15,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-17,Sport,Swimming pools and complex sport establishments.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-21,Sport,The provided text does not contain information about common activities seniors do in parks in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-24,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-28,Sport,Green,1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,New-su-33,Education,The provided text does not contain information about the common dress code for school teachers in Azerbaijan.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,inst-4,New-su-34,Education,The provided text does not contain information about music extracurricular activities in schools in Azerbaijan.,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-42,Education,None.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-su-45,Education,"09/24
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-50,Work life,The provided text does not contain information about the main occupation of people in mountainous areas in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-51,Work life,Tea and citrus production,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-57,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-58,Work life,The provided text does not contain information about animals used for agriculture in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-59,Work life,Kelaghayi,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-60,Work life,Tea.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-71,Family,The provided text does not contain information about birthday gifts given to children in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-75,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-77,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,New-su-81,Holidays/Celebration/Leisure,Lavash preparation is associated in the source with weddings.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-82,Holidays/Celebration/Leisure,Lavash preparation is associated in the source with weddings.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-86,Holidays/Celebration/Leisure,The provided text does not contain information about the most famous government building in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,New-su-88,Holidays/Celebration/Leisure,The provided text does not contain information about music genres in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-02,Education,"14:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-03,Education,"20
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-06,Education,6,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-11,Education,2,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-12,Education,Baku State University,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-13,Education,23,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-15,Education,12,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-19,Work life,4,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-20,Work life,15,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-21,Work life,16,1,0.25
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,,
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-04,Education,18,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-05,Education,"9
+",1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-06,Education,10/23,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-11,Education,"09:00
+",1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-20,Family,05/28,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Nu-in-40,Work life,The text does not provide the answer to this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-1,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-13,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-16,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-22,Sport,Baku State University,,
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-31,Family,The provided text does not contain information about Azerbaijan's most popular family pet.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-32,Family,I cannot answer this question.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-37,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-6,Food,Paklava,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-7,Food,Pakhlava and Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Sa-en-9,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-10,Family,20,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-11,Family,20,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-13,Family,7,1,0.5
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-17,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-21,Sport,The provided text does not contain information about where children play soccer in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-22,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-23,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-25,Sport,Sumqayıraqarşi vs. Qaradağlı,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-29,Sport,Insufficient information.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-30,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,March 20–21,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Samani,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Paklava,,
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-01,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-03,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-05,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-09,Sport,Chess tournament,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-11,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-12,Sport,None,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-15,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-19,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-21,Work life,Employment numbers.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-22,Work life,Insufficient information to answer.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-24,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-27,Work life,Tea and citrus production,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-35,Family,Breakfast,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-36,Family,The provided text does not contain information about popular family activities in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-38,Family,Novruz,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-39,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-41,Family,25,1,1.0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-43,Family,"0
+",0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-44,Family,Lavash,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-45,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-48,Education,Not provided in the text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-49,Education,Subject Olympiads,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-51,Education,Subjects covered in annual subject olympiads.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-53,Education,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Th-en-58,Education,Mathematics,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Tmp-ar-01,Education,The provided text does not contain information about where university students in Azerbaijan study for their final exams.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Tmp-ar-02,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,Azerbaijan,English,inst-4,Tmp-ar-04,Education,Participate in international subject olympiads.,0,0

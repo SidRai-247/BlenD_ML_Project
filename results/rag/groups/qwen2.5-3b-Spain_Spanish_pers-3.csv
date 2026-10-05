@@ -1,0 +1,503 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-01,Food,"Un tentempié común para niños de preescolar en España é o desayuno, que muitas vezes inclui frutas e pão com manteiga.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-02,Food,"El churro es una comida muy popular para acompañar la cerveza en España, especialmente durante las tardes de verano y festividades.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-04,Food,La sandía es considerada como la fruta más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-06,Food,"Una comida común en las cafeterías escolares de España suele ser el ""pavo con puré y arroz"", que consiste en pollo asado, puré de patata y arroz. También se encuentran opciones vegetarianas como ensaladas o platos de legumbres.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-08,Food,"Los aperitivos más consumidos en los centros comerciales de España no se mencionan específicamente en el contexto dado. Sin embargo, es importante destacar que en general, los españoles disfrutan de una variedad de aperitivos y tapas durante la comida o como aperitivo antes del principal.",1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-09,Food,Pulpo á feira,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-16,Education,6,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-17,Education,"El tug of war es un deporte extraescolar popular en las escuelas primarias de España, especialmente en el País Vasco, donde se lleva a cabo a través del proyecto Bizkaian Sokatira Landuz.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-18,Education,Matemáticas,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-19,Education,El español,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-21,Education,Matemáticas,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-32,Holidays/Celebration/Leisure,"El plato principal para el Día de Acción de Gracias (Nochebuena) en España no es un plato específico como en algunos países norteamericanos, pero la cena tradicional incluye arroz con garbanzos, pavo o pollo asado y una variedad de ensaladas.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-33,Holidays/Celebration/Leisure,"En España, Halloween no es una festividad oficialmente reconocida y no se celebra con gran intensidad como sí lo hace por ejemplo en Estados Unidos. Sin embargo, algunas familias pueden organizar pequeñas fiestas con trajes de fantasía, dulces para los niños y luces temáticas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-34,Holidays/Celebration/Leisure,"Las personas en España celebran el Año Nuevo con fiestas familiares y amigos, donde se suele compartir comida típica como croquetas o salmorejo, beber cava (vinagre espumado) y encender velas para desear un año nuevo lleno de bendiciones. También hay tradiciones como romper el hielo con una navaja en la puerta principal del hogar para desechar los malos augurios del año anterior, aunque esta práctica ha disminuido en popularidad.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-35,Holidays/Celebration/Leisure,"En España, durante la Navidad, las personas celebran con turrón, árboles de navidad decorados, velas encendidas, y el aguinaldo, un regalo que se intercambia entre familiares y amigos. Además, los niños reciben dulces como churros o gominolas en lugar de regalos.",1,0.4
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-36,Holidays/Celebration/Leisure,"En España, Halloween no es tan popular como en otros países europeos, pero si se celebra, los dulces tradicionales de Halloween como las ""candy corn"" y las ""sugar pumpkins"" son comunes. Sin embargo, la comida más asociada con Halloween en España sigue siendo el ""brazo de gitano"", una galleta dulce y suave que se come durante todo el año pero también es popular durante esta festividad.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-37,Holidays/Celebration/Leisure,Turrón,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-38,Holidays/Celebration/Leisure,La cocido madrileño se asocia con el día de San Valentín en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-39,Holidays/Celebration/Leisure,"En España, el cumpleaños tradicionalmente se celebra con una paella valenciana, que es un plato especial y festivo.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-40,Holidays/Celebration/Leisure,"Un lugar al aire libre popular para que las familias se diviertan con niños pequeños en España es el parque de atracciones o feria, donde los niños pueden disfrutar de juegos mecánicos y otros entretenimientos infantiles.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Al-en-43,Holidays/Celebration/Leisure,No hay una actividad de interior muy popular para las familias en España específicamente mencionada en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-02,Education,"Los estudiantes universitarios en España almuerzan en una variedad de lugares, desde restaurantes locales hasta cafeterías y bares. También pueden optar por comer en casa con sus familias o amigos, especialmente si viven lejos del campus. Algunos incluso preparan sus propios alimentos para ahorrar tiempo y dinero.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-03,Education,12,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-08,Education,15,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-09,Education,2,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-34,Sport,El deporte de equipo más popular que se juega en las escuelas en España es el fútbol.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-35,Sport,El comentarista deportivo más popular en España es Toni Torrent.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-36,Sport,El fútbol es el equipo deportivo más popular en España según los datos del estudio de hábitos deportivos de 2024/25.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,An-ar-43,Sport,Los cines y los clubes de bowling suelen ser los lugares habituales donde la gente en España ve las retransmisiones deportivas.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-05,Food,2,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-06,Food,"El chuletón de jamón es considerado comúnmente como la comida más importante del día en España, especialmente durante festivos y celebraciones.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-08,Food,El aceite de oliva es el ingrediente más común utilizado en la dieta española según la información proporcionada.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-09,Food,"Los españoles suelen comer frutas como postre, especialmente en ocasiones especiales o durante las meriendas.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-11,Food,La información proporcionada no incluye detalles específicos sobre las comidas familiares organizadas en un día específico del weeknd en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-14,Food,La bebida caliente más popular en España es el café (especialmente el café solo o cortado) y el té.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Cerveza es el alcohol más comúnmente consumido por los jóvenes en las discotecas españolas.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,10,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"En España, durante la Nochevieja se celebra la Fiesta del Gallo, donde se espera que el gallo cante antes de las doce de la noche.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-38,Family,"El tipo de casa típica para una familia en España puede variar según las necesidades y preferencias individuales, pero comúnmente se encuentran casas medianas o grandes con un tamaño promedio de alrededor de 100 metros cuadrados. Las familias suelen optar por viviendas que permitan la inclusión de múltiples generaciones si es el caso, lo cual puede implicar espacios amplios y adaptables para diferentes usos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-41,Family,"En España, muchas personas mayores dependientes suelen vivir con sus descendientes o en hogares de ancianos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-42,Family,16,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-43,Family,16,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ca-sp-45,Family,"Playa y costa, donde disfrutar del sol, la playa y las actividades náuticas junto a la familia.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-05,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-06,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-07,Sport,Pau Gasol,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-08,Sport,El fútbol es el deporte más popular entre los niños en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-09,Sport,Padel,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-11,Sport,Atletismo,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-15,Sport,"Los estudiantes universitarios en España pueden practicar una variedad de deportes, pero algunos de los más populares incluyen el fútbol, la baloncesto y el voleibol. Además, también hay un fuerte interés por el ciclismo urbano y las carreras de montaña.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-16,Family,4,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-31,Education,10,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-32,Education,12,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-33,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-38,Education,6,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-40,Education,09:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Gu-ch-41,Education,7,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-02,Work life,Viernes,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-03,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-07,Work life,"La empresa privada más famosa de España puede variar según las preferencias personales y el contexto, pero algunas empresas españolas conocidas incluyen Inditex (fundadora de Zara), Repsol, BBVA, Telefónica, y Gas Natural Fenosa.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-09,Work life,"En una reunión de empresa en España, comúnmente se sirve paella valenciana como plato principal.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-14,Work life,"La sidra (cerveza de manzana) es considerada el producto de exportación representativo de España, especialmente proveniente de Asturias.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-15,Work life,1,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-16,Family,Madres en España pueden quedarse en hogares de reposo o casas de descanso especializadas durante un cierto período después del parto para recuperarse.,1,0.4
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-19,Family,La flor que se regala más comúnmente en España en el Día de los Padres es la margarita.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-22,Family,Las personas en España suelen invertir especialmente su primer sueldo en vivienda y seguros de salud.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-24,Family,"En España, las instalaciones recreativas preferidas por los niños incluyen parques infantiles, piscinas municipales, campos de fútbol y deportes de agua.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-25,Family,"Las principales festividades relacionadas con la familia en España incluyen el Día del Niño (1 de octubre), San José (19 de marzo), y Navidad. Además, los días feriados como 6 de enero (Pascua de Reyes) y 8 de diciembre (Día de la Constitución Española) también son celebrados con frecuencia por las familias.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-26,Family,Los hitos clave asociados con la independencia de los niños de sus padres en la sociedad española incluyen el inicio del secundario y el primer trabajo.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-27,Family,El regalo habitual que se da al visitar a los padres ancianos en España durante Navidad es el turrón.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-28,Family,1 de mayo,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-29,Family,El cumpleaños celebrado con mayor pompa en la sociedad española es el de los 40 años.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-31,Education,"Los alumnos de secundaria y bachillerato en España suelen estudiar en colegios normales o institutos, que son establecimientos educativos públicos y privados diseñados específicamente para este nivel académico.",1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-33,Education,Los estudiantes de secundaria en España suelen ir al cine o a algún lugar de ocio para después de cenar.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-34,Education,"En España, los alumnos de primaria suelen ir al colegio desde las 8:30 hasta las 14:00 horas, con un descanso para almuerzo. El horario puede variar ligeramente según la comunidad autónoma y el tipo de escuela (colegio rural agrupado o centro urbano).",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-35,Education,La forma más común de educación privada en España es la concertada.,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-36,Education,"Los estudiantes de secundaria o bachillerato en España asisten más frecuentemente a las academias o institutos privados de idiomas, especialmente inglés y francés.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-37,Education,"Los estudiantes de secundaria y bachillerato en España suelen llevar ropa casual o formal para el primer día de clases, pero luego adoptan una rutina de ropa que varía según la escuela y la zona geográfica. Algunos llevan pantalones cortos con camisetas, mientras que otros optan por jeans y camisas. En ciertas áreas urbanas o en colegios más formales, se puede ver ropa de marca o trajes de etiqueta para las clases de mayor nivel.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-38,Education,La carrera de Medicina es generalmente considerada la más difícil para ser admitida en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-39,Education,El tamboril o castañuelas son el instrumento musical más comúnmente aprendido por los estudiantes de primaria en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-40,Education,"Los estudiantes de secundaria en los colegios de España tienen dos 15-minute breaks durante sus clases del 9:00 a las 14:00, divididos en el medio día.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-41,Education,Los estudiantes en las escuelas de España suelen usar zapatillas o botines para el día a día escolar.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-42,Education,"Las asignaturas obligatorias en la prueba de acceso a la universidad (Prueba Básica Universitaria) en España son Matemáticas, Lengua Española y Filosofía.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-44,Education,Cataluña,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ji-ko-45,Education,"Las personas esperan disfrutar del ambiente festivo, conocer nuevos amigos y participar en actividades culturales y recreativas ofrecidas durante estos eventos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-01,Sport,Basketball,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-02,Sport,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-09,Sport,Hunting,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-13,Sport,El deporte acuático más popular en España es el natación.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-14,Sport,"La log-chopping (aizkolaris) es considerada el deporte mental más popular en España, según la información proporcionada sobre las actividades rurales y tradicionales del País Vasco.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-18,Work life,10,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-19,Work life,Andalucía,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-21,Work life,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-31,Education,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-32,Education,Baloncesto,1,0.75
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-36,Education,12,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-37,Education,12,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jo-sp-43,Education,2,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-01,Food,"En España, los utensilios de comida comunes incluyen cuchillos, tenedores, tazones y paelleras (panes para paella).",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-04,Food,"La gente en España suele disfrutar con el vino tinto como bebida no alcohólica durante las comidas y festividades. Sin embargo, también se consume agua y zumos naturales como una opción no alcohólica.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-06,Food,"La sidra de Asturias es el alcohol tradicional más popular en España, especialmente en la región de Asturias donde se produce 80% del cider español.",1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-07,Food,1.5,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-09,Food,20:30,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-12,Food,"Las personas de España suelen disfrutar con el _gado_ (sopa de fabes), una deliciosa sopa tradicional hecha principalmente con lentejas y guisada con tocino, panceta o jamón.",1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-13,Food,Las tapas son muy populares como comida callejera en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-15,Food,"Las personas de España no tienden a incluir mariscos en su dieta tradicional, con excepciones como el calamar en algunas recetas regionales. En general, los mariscos no son un ingrediente común en la cocina española.",1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,"El Albariño Wine Festival en Cambados (Pontevedra) celebrado durante la primera semana de agosto, que recibe a aproximadamente 150,000 personas, podría considerarse uno de los festivales más grandes de España. Sin embargo, es importante notar que hay muchos otros eventos culturales y festivos significativos en diferentes regiones del país.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,El tren es el medio de transporte público más utilizado por las personas para viajar entre ciudades en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,"El Fallas festival en Valencia es considerado el festival más grande de España, y sus fallas monumentales son los símbolos específicos más destacados. Estas fallas son gigantescas esculturas satíricas hechas de ninots (material reciclado) que se exhiben durante la semana previa al final del festival, antes de ser incendiadas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-37,Sport,Padel,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-38,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Escuchar música y asistir a conciertos de rock o pop españoles.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Jugar al fútbol o practicar algún deporte de equipo es una actividad de ocio común entre los hombres de unos 20 años en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-46,Work life,1.7,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-48,Work life,"En España, las personas pueden comer una variedad de platos tradicionales y modernos para el almuerzo durante los días laborables. Algunas opciones populares incluyen paella, arroz con mariscos, ensaladas mediterráneas, croquetas, pulpo a la gallega, tortilla española, jamón ibérico, patatas bravas y una variedad de quesos y embutidos. Además, los restaurantes ofrecen opciones vegetarianas y veganas para aquellos que prefieren o necesitan dietas especiales.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-50,Work life,45,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-51,Work life,El coche es el medio de transporte más común utilizado por las personas para llegar al trabajo en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-54,Work life,0,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-56,Work life,65,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-57,Work life,65,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-58,Work life,"La profesión más respetada en España puede variar según las encuestas y estudios realizados, pero generalmente se considera que los médicos y los ingenieros son muy apreciados por su dedicación y el impacto positivo que tienen en la sociedad.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-60,Work life,31.7,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-61,Work life,La profesión más popular entre las mujeres en España es la de enfermera.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Jod-ch-62,Work life,La información proporcionada no incluye datos específicos sobre las ocupaciones preferidas por los hombres en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-17,Education,Secundaria,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-24,Education,"El español se enseña en las escuelas de España, aunque también se puede aprender el inglés y otros idiomas como el francés o el alemán en algunas zonas urbanas.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-30,Education,Las escuelas en España no están cerradas los sábados y los domingos.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-32,Food,"Los anfitriones españoles suelen preparar tapas y pinchos como comida para los invitados, junto con vino tinto o blanco. También ofrecen ensaladas, pimientos asados y otras delicateses típicas de la cocina española.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-34,Food,La bebida habitual en el desayuno en España suele ser el café o el té.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-36,Food,"La cocina italiana es más popular en España, excepto por la comida originaria española.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-39,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-40,Food,"La paella en su versión tradicional con almejas y pulpo no es vista como asquerosa por el resto del mundo, pero puede ser considerada así por algunos extranjeros debido a la combinación de estos ingredientes.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-43,Food,"El pan popular en España se llama ""pan de molde"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-51,Work life,14:00,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Ki-pe-53,Work life,14:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-01,Holidays/Celebration/Leisure,12 October,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"Las actividades comunes que la gente de España realiza para celebrar el Día de la Hispanidad (12 de octubre) incluyen actos culturales, desfiles con banderas españolas, conciertos y performances artísticas. También se realizan ceremonias religiosas en ciudades como Madrid y Sevilla.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-04,Holidays/Celebration/Leisure,"Un paellera, una especie de plato grande para servir el paella valenciano.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"No se celebra una fiesta o ceremonia específica para el embarazo en España. Las fechas y tradiciones relacionadas con el embarazo son variadas y pueden variar según la región, pero no hay una festividad nacionalmente reconocida para este evento.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Sant Jordi,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-07,Holidays/Celebration/Leisure,"No se menciona específicamente cómo se celebra el Año Nuevo Lunar en España ni qué se comparte con los niños durante esta festividad. Las tradiciones pueden variar según la región y las familias, pero no hay información disponible sobre este tema en los datos proporcionados.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"En España, las actividades previas al Ramadán varían según el lugar y la comunidad religiosa, pero generalmente incluyen preparativos culinarios para la cena del viernes (iftar) y la celebración de la noche de Ramadan. Algunas familias pueden organizar reuniones familiares o sociales para compartir este momento especial.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-10,Holidays/Celebration/Leisure,"La atracción turística más popular para los visitantes extranjeros en España es el Festival de Castañas (Castanyada), que se celebra principalmente en Galicia y Cataluña, aunque también se encuentra en otras regiones. Este festival originalmente era una celebración tradicional de cosecha con elementos folclóricos como cuentos, leyendas y fogatas al aire libre, pero ha evolucionado para convertirse en un evento turístico atractivo.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-11,Holidays/Celebration/Leisure,"Los templos y iglesias más populares para el turismo en España varían ampliamente dependiendo de la región. Sin embargo, algunas ciudades históricas como Roma, Toledo, Segovia, Salamanca, Córdoba y Valencia atraen numerosos visitantes por sus impresionantes edificios religiosos.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Las mujeres suelen llevar trajes de chaqueta o vestidos formales para la ceremonia de graduación en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-16,Food,"La vino es una de las bebidas más comunes consumidas en España cuando hace frío, especialmente durante las cenas y los almuerzos fríos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-17,Food,Durazno (plátano),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-24,Food,Pan de molde,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-31,Sport,El karate es considerado el deporte de artes marciales más popular y reconocido en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-34,Sport,Fútbol y baloncesto son deportes muy populares que se ven a menudo en la televisión nacional en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-35,Sport,"Durante la pandemia de COVID-19, el 62.7% de las personas en España mayores de 15 años practicaron algún deporte en el año 2024/2025 según la encuesta de hábitos deportivos. Los deportes más populares mencionados fueron la montaña (30,8%), ciclismo (28,4%), gimnasia intensiva (28%), natación (27,2%) y el senderismo (19%).",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-36,Sport,El entrenador de fútbol más popular en España no se menciona específicamente en los datos proporcionados.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-37,Sport,Real Madrid CF vs FC Barcelona,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-38,Sport,Eléctricos,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-40,Sport,David Foster,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-41,Sport,"La jugadora de bádminton más famosa de España es Laura Elvira Martín González, conocida simplemente como Laura Elvira.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-44,Sport,Football (soccer) recibe el mayor apoyo del gobierno en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Kik-in-45,Sport,"En los colegios de España suelen estar disponibles instalaciones deportivas como campos de fútbol, pistas de atletismo, canchas de padel y zonas para el desarrollo del juego de la bola. Además, algunas escuelas tienen piscinas y salones multiusos.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-02,Food,La caféineña (espresso) es la bebida de café más comúnmente disfrutada por las personas en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-04,Food,"La comida preferida para curar la resaca en España generalmente se considera el ""pulpo a la gallega"" o calamares al ajillo, acompañado con vino blanco y pan.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-05,Food,"La comida a domicilio típica en España puede variar según el lugar y el momento histórico, pero algunas opciones populares incluyen paella, arroz con pulpo, fabada (sopa de beans y tocino), tortilla española y tapas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-07,Food,La carne más consumida en España es el pollo.,1,0.6
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-08,Food,Las personas de España comen habitualmente plátanos en la temporada de otoño.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-09,Food,"La paella valenciana es una guarnición muy común y popular en mesas de comer en España, especialmente en la región de Valencia.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-11,Food,Las personas de España pueden disfrutar de paella valenciana o tapas mientras ven un partido de fútbol.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-15,Food,El pan es considerado el alimento nutritivo representativo de España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-16,Sport,"La respuesta directa y breve sería:
+
+Messi",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-17,Sport,"Los estudiantes varones en España no tienen un deporte específico oficialmente asignado para jugar durante la hora del almuerzo. Sin embargo, es común que se utilice ese tiempo para actividades recreativas y de socialización entre compañeros.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-18,Sport,El fútbol,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-19,Sport,La información proporcionada no incluye datos sobre el jugador de voleibol más popular en España.,,
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-20,Sport,La gente de España apoya con más pasión el fútbol en las competiciones internacionales.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-22,Sport,Argentina,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-23,Sport,Football (fútbol) academy.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-24,Sport,"La cocido madrileño no es comúnmente la comida más consumida en los estadios deportivos durante partidos en España. Este plato típico de Madrid generalmente se sirve como comida casera o social, especialmente en celebraciones y eventos familiares. Las comidas más populares y consumidas en los estadios suelen ser más rápidas y fáciles de llevar, como pizzas, hamburguesas, batidos y snacks variados.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-25,Sport,"Los deportes típicos que se juegan en el día del deporte escolar en España incluyen la lucha canaria, el juego de pelota canaria y las tradicionales actividades físicas propias de cada isla.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-26,Sport,"Los deportes populares entre la población de mediana edad en España incluyen el fútbol, el baloncesto, el voleibol y las carreras de caballos. Además, también se encuentran log-chopping (aizkolaris) y regatas de remos en la costa, que son considerados deportes tradicionales muy populares.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-28,Sport,"No se menciona específicamente al deportista de deportes de invierno más popular en España en los datos proporcionados. Los datos principales son sobre licencias deportivas, deportes populares y algunas actividades recreativas como el log-chopping y la natación. No hay información específica sobre deportes de invierno.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-29,Sport,Cristóbal Llanes,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-30,Sport,Football (soccer),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-33,Holidays/Celebration/Leisure,La paella valenciana,,
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-37,Holidays/Celebration/Leisure,"El destino de vacaciones nacional más popular entre los españoles suele ser la Costa del Sol en Andalucía, conocida por su clima cálido y turístico vibrante.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-38,Holidays/Celebration/Leisure,"El regalo de boda más común entre novios en España suele ser la tarta de bodas, aunque también se dan joyas y objetos de valor como relojes o pulseras.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-39,Holidays/Celebration/Leisure,Un beso en la mejilla (beso de la suerte),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"Un guiso de pollo con judías verdes y tocino, acompañado de arroz negro y ensalada de frutas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"En España, las funerarias suelen ofrecer alimentos básicos y tradicionales como ensaladas, pan con tomate, queso, huevos fritos y café. Sin embargo, es importante notar que la comida en estas instalaciones puede variar según el lugar y los protocolos específicos de cada establecimiento.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"En la mañana del Año Nuevo Lunar en España, muchas familias celebran juntas con desayunos especiales y recuerdan a los fallecidos. Algunos también visitan tumbas de familiares o amigos que han muerto.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-44,Holidays/Celebration/Leisure,"El día con la congestión de tráfico más severa a nivel nacional en España suele ser el lunes por la mañana, especialmente después del inicio del nuevo mes.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Na-ko-45,Holidays/Celebration/Leisure,La playa de Cádiz es considerada uno de los destinos de luna de miel más populares en España debido a su ambiente festivo y la vibrante vida nocturna.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,El día festivo a nivel nacional más importante de España es Navidad (25 de diciembre).,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"Durante el Ramadán, las personas de España siguen tradiciones similares a otras culturas musulmanas, pero pueden variar según regiones y familias. Generalmente, se come una mezcla de comida vegetariana típica española como paella valenciana sin mariscos o pescado, acompañada con guisos de verduras y legumbres.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"En general, durante el Eid ul-Fitr en España, las familias celebran con comida tradicional y festiva, pero no hay una receta específica como la paella valenciana. Algunos platos que se pueden encontrar son arroz a banda (arroz con pollo), cocido madrileño, chuletón de ternera asado, y postres como el alfajor o el turrón.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"En general, durante el Eid ul Adha en España, los hogares preparan variedades de comida tradicionalmente musulmana que incluyen pascuas (paella), lomo saltado, arroz con conejo y otras especialidades regionales. Sin embargo, la comida específica puede variar según las preferencias personales y locales.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,A la playa.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"En España no existe una tradición específica como el Eid que requiera reuniones familiares específicas. Las festividades religiosas y culturales varían mucho entre países musulmanes, pero si se refiere a la comunidad española de origen árabe o turco, podrían celebrar en su hogar con amigos y familia.",,
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-16,Work life,El fin de semana en España generalmente comienza el viernes y termina el domingo.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-17,Work life,17:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-18,Work life,14:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-20,Work life,"En España, un trabajo considerado seguro generalmente se refiere a empleos establecidos con beneficios como vacaciones regulares, seguridad social y pensiones. Además, la estabilidad laboral y las condiciones de trabajo decentes son factores importantes para considerar un puesto como seguro.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-24,Work life,Madrid,1,0.75
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-25,Work life,"La industria que mejor paga en España generalmente son las profesiones médicas y técnicas, así como los ingenieros y científicos. Sin embargo, esta puede variar según el sector específico y la región del país.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-26,Work life,Caja Madrid,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-31,Food,El paella es el plato más famoso de España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-32,Food,"Las personas en España suelen desayunar pan con mantequilla o queso, café o té, y fruta como el plátano o los naranjas. También es común encontrar huevos revueltos o pochoclo (pan frito) en muchos hogares.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-33,Food,13:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-34,Food,El aceite de oliva es típicamente indispensable en las comidas españolas.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-36,Food,Paella valenciana,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-37,Food,Manzanas,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-38,Food,"En España, muchas personas ofrecen alimentos como caridad durante festividades y eventos locales, especialmente en Navidad y Semana Santa. Los panaderos y supermercados también a menudo donan productos alimenticios a organizaciones sin fines de lucro o a hogares necesitados.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-39,Food,"La comida rápida más barata en España suele ser el ""papas fritas"" o papas con mayonesa y un huevo poché. También se pueden encontrar opciones como hamburguesas de panes caseros, ensaladas simples y bebidas no alcohólicas a precios bajos en algunos establecimientos.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-43,Food,"En España, cuando toman té, generalmente se sirve con pan tostado y mantequilla o queso, conocido como ""tostada con té"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ne-ar-44,Food,"En España, las personas suelen tomar café con leche o solo café (espresso) en la mañana, acompañado de un poco de azúcar y un toque de miel. También es común encontrar cafés fríos como el café con hielo o el café cortado, especialmente en verano.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-02,Food,La paella es considerada la comida tradicional más popular en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-04,Food,La romesco sauce es la salsa para calçots más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-08,Food,"La comida más consumida durante el ayuno cristiano en España, según los datos del 2024, es el pan.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-15,Food,"En España, cuando las madres dan a luz, es común que se prepare el guiso de cordero o el caldo de pollo con judías verdes y tocino. Estos platos son tradicionales y suelen ser una parte importante del menú durante la recuperación post-parto.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-27,Sport,"La información específica sobre quién es la deportista femenina más popular en España no está disponible directamente de los datos proporcionados. Sin embargo, se puede inferir que hay varias destacadas deportistas femeninas populares en el país, dado el alto interés general por el deporte mencionado en el segundo punto (62.7% de las personas entre 15+ años participan en algún tipo de deporte).",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-34,Education,"La mayoría de los estudiantes de primaria en España preparan sus exámenes en el aula de su escuela correspondiente, generalmente durante las horas previas al día del examen.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-41,Education,Los estudiantes en España realizan su primer examen de ámbito nacional al finalizar el segundo ciclo del Educación Primaria (segunda etapa de la educación básica).,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-53,Work life,Madrid,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-54,Work life,La Sierra de Aracena en Huelva es ampliamente conocida por su producción de jamón Jabugo.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-59,Work life,"El principal trabajo de las personas que viven en los desiertos de España no se menciona específicamente en los datos proporcionados. Sin embargo, dado el contexto histórico y cultural del país, podría ser la ganadería o la transhumancia, como lo indica el punto 3 del background información, donde se habla sobre herderas que mueven a las vacas entre zonas de pastoreo según las estaciones.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-60,Work life,El burro se utiliza típicamente para el transporte en España.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-72,Family,"Lo siento, pero no tengo información específica sobre el cómic más popular para niños en España basada en los datos proporcionados. Los datos mencionados son sobre hábitos culturales y prácticas de lectura, música y visitas a lugares de arte, pero no incluyen información sobre cómics o entretenimiento infantil.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-73,Family,"El canal de YouTube más popular para niños en España es ""Pepe el Gato"" (Pepe the Cat).",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-74,Family,"El programa de entrevistas más popular en España es ""Sálvame"" producido por Mediaset España.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-77,Holidays/Celebration/Leisure,La festividad religiosa más famosa en España es Navidad (25 de diciembre).,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-81,Holidays/Celebration/Leisure,8,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-am-83,Holidays/Celebration/Leisure,El tamboril es el instrumento musical tradicional más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-01,Food,El principal producto agrícola producido en España es el tomate.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-02,Food,El pan es el alimento con trigo más popular en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-05,Food,La tapa más típica y comúnmente ofrecida a los invitados cuando visitan las casas en España es el vino tinto.,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-07,Food,"El plato más popular cocinado con pescado en España no parece ser paella valenciana ni cocido madrileño, según la información proporcionada. Los textos mencionan que estos dos platos tradicionales de España no contienen pescado. Por lo tanto, no puedo identificar un plato específico más popular con pescado en España basándome solo en esta información.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-14,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-15,Food,La sangría es una bebida comúnmente consumida en España cuando hace calor.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-20,Sport,"Basado en los datos proporcionados, el deporte de interior más popular en España es el fútbol, con un 29.2% de las federadas licencias.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-29,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-30,Sport,Baloncesto,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-58,Work life,La cerveza es la bebida más popular que los españoles le gustan beber en su lugar de trabajo.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-64,Family,15 August,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-76,Holidays/Celebration/Leisure,"Las familias españolas juegan juegos como el juego del oso, la pelota vasca (pelota a mano), el ajedrez y el dominó durante sus fiestas tradicionales.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-80,Holidays/Celebration/Leisure,"Las personas de España durante los festivales tradicionales suelen vestir trajes típicos regionales como el traje de chaqueta (en Cataluña), la falda y el chal (en Andalucía) o el traje de paño (en Galicia).",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-as-89,Holidays/Celebration/Leisure,"La gente de España lleva diversos accesorios tradicionales de fiesta, como sombreros de paja, chinelas (zapatos de playa), y en algunas regiones, el traje de flamenca para las fiestas más formales.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-05,Food,Asturias,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-11,Food,"Las personas de España en general y especialmente en el sur del país como Valencia, donde se originó el paella valenciano, tienden a comer principalmente fresas durante la temporada de verano.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-12,Food,Andalucía,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-21,Sport,La información proporcionada no incluye datos sobre las regiones más populares para esquiar en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-26,Sport,"El log-chopper (aizkolaris) es considerado el deportista de artes marciales más popular en España, según la información relevante proporcionada.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-27,Sport,Hunting,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-39,Education,Francia,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-49,Work life,3,1,0.2
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-60,Family,Más comúnmente son las abuelas y abuelos quienes asumen esta responsabilidad en España cuando ambos padres trabajan.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-69,Holidays/Celebration/Leisure,Cider (Sidra),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-70,Holidays/Celebration/Leisure,La cerveza es la bebida alcohólica más popular entre las mujeres en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-az-73,Holidays/Celebration/Leisure,200,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-01,Food,"La gente en España suele comer ternera y cerdo cuando hacen barbacoa, aunque también pueden incluir pollo o cabrito según el gusto personal.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-02,Food,07:30,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-04,Food,Las personas en España suelen disfrutar de tapas y pinchos durante los tentempiés nocturnos.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-05,Food,La paella es el plato picante más famoso de España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-07,Food,"En España, comúnmente se sirven pan con tomate o simplemente pan como aperitivo junto con las bebidas alcohólicas fuertes.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-08,Food,El pimentón es indispensable para cocinar en España.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-09,Food,"En España, cuando hace frío, los habitantes tienden a disfrutar del caldillo de cordero o el guiso de ternera con judías verdes, que son platos muy apreciados y reconfortantes. También se preparan las fabes (frijoles) en caldo con tocino y pimentón, una comida típica que ayuda a mantener la energía durante los días fríos.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-13,Food,"Cider, especialmente el sidra de Asturias con su DOP (Denominación de Origen Protegida) reconocida por la UE.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-14,Food,"En España, cuando las personas están enfermas, generalmente optan por alimentos ligeros y fáciles de digerir como frutas frescas, yogur, batidos vegetales y caldos.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-15,Food,"Las personas en los supermercados de España suelen comprar alimentos preparados o listos para comer como legumbres cocidas, comidas ready-to-eat, atún enlatado, huevos y productos lácteos, manteniendo una tendencia hacia la dieta mediterránea.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-16,Sport,"La película relacionada con el deporte más famosa en España podría ser ""El Gran Premio de Cataluña"" (The Grand Prix of Catalonia), aunque no existe una película específica sobre un deporte en particular que sea tan icónica como esta.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-17,Sport,Mountaineering/climbing,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-18,Sport,"La prueba de atletismo más popular para ver durante las competiciones en España, según los datos proporcionados, parece ser el log-chopping (aizkolaris) en la región del País Vasco.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-19,Sport,La intensa gimnasia es la prueba de gimnasia más popular para ver durante las competiciones en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-23,Sport,Albert Costa,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-26,Sport,"La bandera de La Concha regata, celebrada en Donostia (San Sebastián) en septiembre, es considerada uno de los tres eventos principales de regatas en España y se conoce como ""Rowing Olympics"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-27,Sport,"El boxeador más famoso de España es Julio César Chávez Jr., aunque también cabe mencionar que Miguel Cotto ha tenido un éxito significativo en su carrera.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-30,Sport,"Atletas como David García y María José Martínez (alias Mireia) Montañés han sido muy conocidos en España por su éxito en maratón, pero actualmente no hay un atleta español de atletismo que sea extremadamente famoso a nivel mundial comparado con otros países.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-31,Work life,Profesionales liberales o autónomos.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-32,Work life,Las personas en el lugar de trabajo en España suelen utilizar Microsoft Office Suite como principal software de oficina.,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-38,Work life,Madrid,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-39,Work life,Amazon España,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-44,Work life,3 meses,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-45,Work life,La información proporcionada no incluye detalles específicos sobre las industrias preferidas por los jóvenes para comenzar negocios en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-49,Family,La forma más común en que los miembros de una familia se comunican a distancia en España es mediante el uso del teléfono móvil y las aplicaciones de mensajería instantánea.,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-51,Family,Habitualmente se reservan casas de vacaciones o apartamentos con jardín para viajes familiares en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-54,Family,La naranja es comúnmente preparada y consumida para las cenas familiares en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-64,Education,30,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-66,Education,0.5,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-70,Education,"Matemáticas, Física, Química, Historia, Filosofía, Lengua Española e Inglés.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-71,Education,20,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-72,Education,"La carrera que se considera que conduce más al empleo en España es la ingeniería, seguida por las carreras de negocios y administración.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-73,Education,"Los clubs de padel parecen ser los más populares entre los estudiantes universitarios en España, según los datos mencionados.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-74,Education,"Los estudiantes universitarios en España suelen vivir principalmente en campus universitarios propios o en casas de estudiantes cerca de sus respectivas universidades. También pueden optar por vivir con familias anfitrionas locales, especialmente si están buscando un ambiente más familiar y económico.",1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-75,Education,45,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-78,Holidays/Celebration/Leisure,Jardineras y padel.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-79,Holidays/Celebration/Leisure,"Jubilados españoles tienden a disfrutar de actividades como el golf, la pesca, las excursiones por la naturaleza, y asistir a conciertos o eventos culturales. También les gusta pasar tiempo con amigos y familiares, así como relajarse en playas o piscinas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-80,Holidays/Celebration/Leisure,Las personas suelen visitar lugares religiosos durante el Año Santo de Compostela y la Semana Santa.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-81,Holidays/Celebration/Leisure,"Los regalos típicos para una inauguración de casa en España pueden incluir productos locales como vino, tapas gourmet, jamón ibérico y dulces tradicionales. También se ofrecen flores y plantas, especialmente rosas y claveles, que simbolizan amor y buena suerte.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-82,Holidays/Celebration/Leisure,14:00,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-83,Holidays/Celebration/Leisure,Ponferrada,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-84,Holidays/Celebration/Leisure,Blanco,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-ch-85,Holidays/Celebration/Leisure,Blanco,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-01,Food,"En España, no es común consumir un aperitivo específico en el cine. La mayoría de las salas de cine ofrecen snacks como palomitas de maíz y galletas, pero no hay una tradición específica para un aperitivo especial en el cine como se podría encontrar en otros países.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-02,Food,"El sabor más popular para las patatas fritas en España suele ser el salado con un toque de azúcar. Sin embargo, también se encuentran opciones con salsa mayonesa y especias variadas según la preferencia del consumidor.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-04,Food,Jamfón,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-05,Food,"Una opción de comida rápida y económica en España podría ser el ""pisto montillé"", una ensalada de judías verdes, pimientos, cebolla y tomates que se cocina rápidamente y puede prepararse con ingredientes básicos. También existen opciones como los ""tacos españoles"" o ""tortilla española"", que son fáciles de hacer y económicas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-07,Food,La receta de ensalada verde es el programa de cocina más popular en España según el informe de consumo alimenticio del 2024.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-08,Food,La marca de chocolate más popular en España es Ferrero Rocher.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-10,Food,El queso más consumido en España es el Manchego.,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-11,Food,La cebolla es generalmente considerada como la verdura más odiada en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-12,Food,"La comida más comúnmente encontrada en las zonas de comidas de España es el _pasta_ y los _frutos secos_. Sin embargo, también se encuentran legumbres cocidas, productos lácteos como el queso y la leche, así como frutas y verduras típicamente mediterráneas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-17,Sport,"Los instrumentos de animación más comunes utilizados por los aficionados al deporte en España incluyen la bandera nacional, el himno nacional, megafones para gritar apoyos y cámaras fotográficas o videocámaras para capturar momentos especiales.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-18,Sport,Los aficionados llevan sus banderas nacionales y cascos con el escudo de su equipo preferido al asistir a un partido en directo en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-19,Sport,"El estadio deportivo más conocido de España es el Estadio Santiago Bernabéu en Madrid, sede del Real Madrid CF.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-23,Sport,David Medel,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-26,Sport,"El cántico deportivo más reconocido en España es ""La Marcha Real"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-38,Work life,Industrias como el turismo y la hostelería suelen tener horarios de trabajo más flexibles en España debido a las fluctuaciones del número de clientes durante los diferentes períodos del año.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-41,Work life,"The question seems to be asking for the most famous and successful businessman in Spain, which is not straightforward as there isn't a single individual who can claim this title. However, some notable figures include Jorge Paulo Lemann (founder of Ambev), Ramón Lázaro (CEO of Inditex, owner of Zara), and Ángel Villar (owner of Real Madrid). Each has made significant contributions to their respective industries.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-47,Family,Flowers,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-49,Family,"La familia más famosa de España no tiene un nombre específico como tal, ya que no hay una ""familia más famosa"" en términos generales. Sin embargo, algunas familias han ganado notoriedad por sus logros y contribuciones a la cultura española, como los Goyas o los Reinos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-50,Family,Sánchez,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-55,Family,"La mayoría de las familias en España practican la religión católica, aunque hay una diversidad significativa de creencias y prácticas religiosas.",1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-56,Family,El idioma extranjero más hablado por las familias en España es el español.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-59,Family,La información relevante no menciona ningún destino específico como el más popular para las familias españolas que deseen emigrar.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-68,Education,"Las repercusiones para el mal comportamiento en las escuelas en España pueden variar según la institución y los estamentos involucrados. En general, se implementan medidas disciplinarias como advertencias, suspensión temporal o permanente del alumno, y en casos graves, incluso expulsión. Además, hay programas de apoyo psicológico para ayudar a los estudiantes con problemas de conducta.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-69,Education,"Fernando Pessoa, Miguel de Cervantes, José María Heredia, Gustavo Adolfo Bécquer, and Lope de Vega are some of the common writers studied in Spanish literature classes.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-70,Education,0,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-72,Education,"Los estudiantes en España suelen utilizar recursos en línea como plataformas de aprendizaje en línea, sitios web educativos, aplicaciones de estudio y foros académicos para complementar sus estudios.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-75,Education,8,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-76,Holidays/Celebration/Leisure,El aeropuerto más concurrido de España durante la temporada de vacaciones es el Aeropuerto de Barajas en Madrid.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-79,Holidays/Celebration/Leisure,Cataluña,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-87,Holidays/Celebration/Leisure,El Monumento Histórico más famoso de España es la Mezquita-Catedral de Córdoba.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-en-90,Holidays/Celebration/Leisure,La cadena hotelera más famosa en España es Hesperia Hotels.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-05,Food,"La opción de desayuno para llevar más popular en España parece ser el formato dulce, según los datos del informe sobre consumo alimenticio de 2024.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-06,Food,"Las legumbres cocidas, las comidas preparadas rápidamente, el atún enlatado, los huevos y las verduras frescas son consideradas como la comida más popular entre los jóvenes en España según el informe de consumo alimenticio del 2024.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-08,Food,La cerveza es el tipo de bebida alcohólica más comúnmente consumida en los festivales en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-13,Food,La bebida matutina más común en España es el café.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-15,Food,El postre tradicional más popular en España es probablemente la tarta de queso (torta de roquefort).,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-21,Sport,El golf es el deporte de raqueta más popular en España según los datos del año 2025 mencionados.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-24,Sport,El fútbol es el deporte de atletismo más popular en España según los datos proporcionados.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-29,Sport,Fútbol (Football),1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-58,Work life,"En España, no existe una definición universalmente aceptada de qué trabajos sean ""mal pagados"". Las remuneraciones varían ampliamente dependiendo del sector, la ubicación geográfica y el tipo de contrato. Sin embargo, generalmente se considera que cualquier trabajo que paga menos del 10% por encima del salario mínimo interprofesional (SMI) puede ser visto como mal pagado para aquellos con familias a su cargo.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-76,Holidays/Celebration/Leisure,La Cocido Madrileño es la comida más común servida durante la Semana Santa en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-82,Holidays/Celebration/Leisure,El género musical más popular entre la población anciana en España no se menciona específicamente en los datos proporcionados.,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-88,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-gr-89,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-07,Food,El jamón ibérico es una comida originaria de España que se puede encontrar en todo el mundo debido a su fama mundial y sus altos estándares de calidad.,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-08,Food,Las tortillas de patatas.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-09,Food,Air-fryer,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-13,Food,"La verdura más popular en España puede variar según regiones y preferencias individuales, pero algunas verduras como el pimiento rojo asado (auchan), la zanahoria (zanahoria), el garbanzo (garrofón) y el tomate (tomate) son muy comunes y apreciadas en la cocina española.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-19,Sport,El toro se utiliza para los deportes tradicionales como el toreo y la corrida de toros en España.,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-ha-66,Family,Cádiz,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-01,Food,La información proporcionada no incluye datos sobre las marcas de cafeterías más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-03,Food,La cocido madrileño es uno de los platos típicos españoles que se sirve en restaurantes del extranjero.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-33,Work life,La región de España que se asocia normalmente con la minería es La Rioja.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-34,Work life,Andalucía,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-62,Education,Universidad Politécnica de Madrid,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-63,Education,Universidad Complutense de Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-78,Holidays/Celebration/Leisure,El método de pago más popular en España es el efectivo.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-in-80,Holidays/Celebration/Leisure,"El Parque Temático más famoso de España es Disneyland® Paris, ubicado en Francia pero con fuerte presencia española en su personal y cultura.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-01,Family,La información proporcionada no incluye datos sobre series de animación infantiles más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-02,Family,El taller de lactancia mamaria es comúnmente considerado como la actividad de educación prenatal más popular para las mujeres embarazadas en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-03,Family,"La canción infantil más popular en España que las familias cantan juntas es ""El tamborillo blanco"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-04,Family,"Los juguetes más populares entre los niños en España pueden variar según el año y las tendencias actuales, pero algunos de los más comunes incluyen pelotas, carros de juguete, muñecos, bloques de construcción, juegos de mesa como dominó o parchís, y figuras de acción.",1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-05,Family,"En España, no hay datos específicos sobre los juguetes más populares entre las niñas. Sin embargo, es importante mencionar que la cultura de juguetes puede variar significativamente según el área geográfica y la región del país.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-06,Family,El Cuento del Príncipe Midas es uno de los cuentos populares más conocidos y recitados en España a los niños.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-07,Holidays/Celebration/Leisure,"El símbolo habitual de condolencia utilizado en los funerales en España es la flores silvestres, como las margaritas o claveles.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-08,Work life,"En España, los estudiantes universitarios que trabajan a tiempo parcial generalmente lo hacen para cubrir sus gastos académicos y personales. A veces también pueden hacerlo para ganar experiencia laboral o complementar su ingreso estudiantil. Sin embargo, no es común encontrarlos en roles de trabajo a tiempo completo debido a la carga académica intensiva que tienen.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-09,Work life,"No se menciona específicamente ninguna actividad de team-building como práctica común en empresas españolas. Las prácticas variarán según el sector y la empresa, pero no hay datos sobre esta actividad particularmente destacada.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-ko-10,Work life,"En España, las personas realizan diversas actividades como trabajo secundario, pero el estudio mencionado no proporciona información específica sobre estas actividades. Sin embargo, se conoce que un 9.0% de los trabajadores españoles son independientes y hay 726,100 empleados contratados a través de agencias temporales, lo que sugiere que la economía flexible y el trabajo por cuenta propia son comunes en España.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-02,Food,"La sidra de Asturias, con su DOP reconocida por la UE en 2003.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-06,Food,"El guiso más popular en España varía según regiones y personalidades culinarias, pero uno de los platos emblemáticos que se come con frecuencia es la paella valenciana.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-11,Food,El pimentón es la especia más común utilizada en los platos de España.,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-16,Sport,El fútbol es considerado el deporte tradicional más famoso y popular en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-20,Sport,El deporte popular para jugar en la playa en España es el paddle surf (o windsurf).,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-45,Work life,"Durante el mes de Ramadán en España, los horarios laborales suelen ajustarse para permitir las oraciones diarias y los rituales relacionados con el fasto. Sin embargo, la flexibilidad puede variar según la empresa y el sector. Algunas empresas pueden mantener los mismos horarios pero permitir que los empleados tomen más descansos durante el día para rezar. Otros podrían ajustar los turnos de trabajo para coincidir con las horas de luz natural, lo cual puede afectar el inicio y final del turno laboral.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-47,Family,10/12,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-49,Family,En España no existe una tradición específica donde las familias se reúnan para rezar juntas de manera común. Las prácticas religiosas varían ampliamente entre los diferentes grupos étnicos y regiones del país.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-53,Family,"En el Día del Padre en España, los hijos a menudo regalan flores, chocolates y camisetas con mensajes amorosos. También se pueden encontrar regalos más personales como joyería o relojes.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-54,Family,"En España, las madres reciben flores como regalo tradicional en el Día de la Madre.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-59,Family,2.65,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-65,Education,9,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-66,Education,El juego de fútbol es la actividad extraescolar más popular en las escuelas primarias de España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-74,Education,"La cuota de matrícula anual promedio para las universidades públicas en España varía según el instituto, pero generalmente ronda los 600 a 1200 euros.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-76,Holidays/Celebration/Leisure,"Aizkolaris, o log-chopping, es una actividad muy popular y tradicional que se realiza en los parques durante el Carnaval de Cádiz.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-78,Holidays/Celebration/Leisure,"No existe un festival de cine más famoso que el Festival Internacional de Cine de Cannes celebrado anualmente en Francia. En España, los festivales cinematográficos más conocidos son el Festival de Málaga y el Festival de San Sebastián, pero no se considera uno ""más famoso"" como el de Cannes.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-83,Holidays/Celebration/Leisure,"La respuesta a esta pregunta no está directamente relacionada con los datos proporcionados sobre paella valenciana, el deporte en España o el cocido madrileño. Sin embargo, la cultura social española incluye juegos de cartas como una tradición durante las reuniones familiares y entre amigos. Un juego muy popular y típico en estas ocasiones es el **Tarot**.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-85,Holidays/Celebration/Leisure,La celebración del Magosto en Galicia es uno de los destinos turísticos más populares en el extranjero para las personas de España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-pe-86,Holidays/Celebration/Leisure,La Torre de Castells en Valls es considerada como una de las más famosas y reconocidas en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-01,Food,"La langosta (insecto conocido como ""langostino"" en español) se consume a menudo en España, especialmente durante las fiestas de San Isidro en mayo.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-04,Food,El producto agrícola que más se exporta en España es el aceite de oliva.,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-05,Food,"Los dulces más populares en España incluyen el alfajor, la tarta de queso, el churro y el roscón de reyes.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-15,Sport,La cerveza es la bebida deportiva más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-27,Education,"El nivel de educación promedio de las personas en España se encuentra generalmente entre primaria y secundaria, ya que la básica (primaria y secundaria inicial) dura diez años y está obligatoria. Sin embargo, muchos españoles continúan sus estudios después para obtener un título superior o profesional.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-37,Education,La profesión que más estudian en el extranjero los estudiantes de España son las ingenierías y ciencias técnicas.,,
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-60,Family,Viernes,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-65,Family,"La información proporcionada no incluye detalles sobre la celebración del Día de la Independencia en España. Los días de independencia varían por país y, en España, las fiestas nacionales importantes son el 12 de octubre (Día de la Hispanidad) y el 12 de septiembre (Día de Reyes). Sin embargo, no hay una celebración nacionalizada como ""Día de la Independencia"" en España.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-68,Family,La leche es la bebida más popular entre los niños en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-76,Holidays/Celebration/Leisure,"La información proporcionada no incluye detalles sobre la celebración del Día de la Independencia en España. Los principales días festivos nacionales en España son el 12 de octubre (Día de la Hispanidad) y el 12 de septiembre (Día de la Constitución), pero no se menciona específicamente el Día de la Independencia.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-spme-78,Holidays/Celebration/Leisure,"La canción que se suele cantar en las fiestas de San Fermín en Pamplona es ""Pobre de mí"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-01,Food,Tapas,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-09,Food,El aceite más común utilizado para cocinar en España es el aceite de oliva.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-10,Food,"En España, las mujeres embarazadas tienden a incluir en su dieta una variedad de alimentos saludables y nutritivos para el desarrollo del feto. Algunos alimentos que son comunes entre ellas son frutas como la manzana y los plátanos, verduras como el brócoli y el calabacín, lácteos como leche y queso, y proteínas magras como pescado y huevos.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-15,Food,La bebida tradicional sin alcohol más popular en España es el vino tinto seco.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-17,Sport,"En los parques de España se encuentran frecuentemente instalaciones deportivas como campos de fútbol, pistas de tenis, canchas de padel y áreas para el ciclismo.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-21,Sport,"En general, los mayores en España tienden a disfrutar de paseos tranquilos por el parque, leer libros o revistas, y observar niños jugar. También hay un aumento en la práctica de deportes como el tenis o el golf, así como en las actividades culturales como visitar exposiciones artísticas o museos.",1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-24,Sport,"Juegos tradicionales como el bolos y otros esparcimiento recreativo, promoviendo la práctica de estos deportes en escuelas y clubes para que los jóvenes aprendan y disfruten.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-28,Sport,Azul oscuro,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-33,Education,"El código de vestimenta común para los profesores de escuela en España varía según la región y la institución educativa. Sin embargo, generalmente se considera profesional y adecuado que los maestros lleven trajes o trajes combinados durante el primer trimestre del año escolar, especialmente en primaria.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-34,Education,La actividad extracurricular relacionada con la música más popular en las escuelas de España es el canto coral.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-42,Education,La religión no es una asignatura obligatoria en las escuelas españolas y no se enseña de manera predominante como ciencia o matemáticas.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-45,Education,05/06,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-50,Work life,"En las zonas montañosas de España, los principales trabajos incluyen agricultura, ganadería, turismo rural y la explotación forestal. Sin embargo, específicamente para áreas depopuladas como Castilla y León, Aragón y Andalucía, el principal trabajo es la docencia en escuelas rurales agrupadas, especialmente en zonas con pocos estudiantes donde algunas escuelas se encuentran en riesgo de cierre.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-51,Work life,"La principal actividad laboral en las zonas costeras de España está relacionada con la recolección de mariscos, principalmente realizada por mujeres.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-57,Work life,El ganado más criado en España es el oveja.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-58,Work life,"En España, los cerdos acorn-fed y las ovejas son animales muy comunes para la agricultura, especialmente en regiones como el Campo de Cazas y las dehesas.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-59,Work life,Sombrero de paja o sombreros de ala ancha tradicionales.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-60,Work life,"Los granjeros en España suelen comer chestnuts, chorizo, vino y queimada durante los magostos, celebrados generalmente en el primer semestre de noviembre.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-71,Family,"En España, los padres a menudo regalan libros y álbumes de recuerdos con fotos del niño o niña. También se dan juguetes y productos relacionados con la cultura española como el pañuelo nacional (el naranjillo) o camisetas de equipos deportivos populares.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-75,Family,"En general, los vehículos más comunes que tienen las familias en España son el coche y el turismo familiar.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-77,Holidays/Celebration/Leisure,"Durante el Eid en España, es común que los padres regalen juguetes y caramelos a sus hijos como forma de celebración.",,
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-81,Holidays/Celebration/Leisure,"Los novios en España suelen llevar trajes de chaqueta y corbata para el día del matrimonio tradicional. Sin embargo, también es común verlos optar por trajes de smoking o incluso vestidos si son parejas que desean un look más moderno o femenino.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-82,Holidays/Celebration/Leisure,Las novias en España suelen llevar trajes de talle alto o vestidos tradicionales andaluces como el falda y pañuelo.,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-83,Holidays/Celebration/Leisure,"En boda en España, es común servir el cocido madrileño, especialmente en celebraciones como Vaquilla de Los Molinos.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-86,Holidays/Celebration/Leisure,El Palacio Real de Madrid es el edificio gubernamental más famoso de España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,New-su-88,Holidays/Celebration/Leisure,"El género musical español pop y rock es el más popular entre la población joven en España, según los datos del 2024-2025 Survey of Cultural Habits and Practices.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-02,Education,14:00,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-12,Education,Universidad Complutense de Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-13,Education,18,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-15,Education,10,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-17,Work life,34.1,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-19,Work life,4,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-20,Work life,16,1,0.5
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-21,Work life,16,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"En España, durante el Día de Navidad se come turrón y postres variados, así como pudin de Reyes.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-37,Holidays/Celebration/Leisure,El día en el que la gente en España celebra el amor y el romanticismo se llama Sant Jordi.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"La canción de Navidad más popular en España es ""Ave María"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-04,Education,6,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-06,Education,11/05,1,0.3333333333333333
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-11,Education,09:00,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-20,Family,12/05,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Nu-in-40,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-1,Food,La cadena de comida rápida más popular en España es Burger King.,1,0.4
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-13,Food,El jamón ibérico es probablemente la comida que más divide en España entre los amantes y los críticos.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-16,Sport,Real Madrid CF,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-22,Sport,La Universidad de Barcelona es considerada como la más famosa de España en términos de su equipo deportivo.,,
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-31,Family,El toro español o Toro Levantino es considerado la mascota familiar más popular en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-32,Family,'Terrero y gloria' en Canarias,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-37,Family,La información proporcionada no incluye detalles sobre juegos de mesa familiares en España. No puedo proporcionar con certeza el juego de mesa familiar más popular basándome solo en los datos mencionados.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-6,Food,"La comida para llevar más popular en España es el ""tostado con jamón y queso"", seguido del ""pavo asado"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-7,Food,"Los aperitivos populares en España incluyen el jamón ibérico, el queso Manchego, las patatas bravas, el pulpo a la gallega y el vino tinto.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Sa-en-9,Food,"En la playa española, algunas personas disfrutan de tentempiés como churros y chocolate caliente, especialmente durante las vacaciones de Semana Santa. Sin embargo, no es común que las personas de España consuman alimentos directamente en la arena o en el agua.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-10,Family,39.9,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-11,Family,37.2,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-13,Family,4,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-17,Sport,Fútbol,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-21,Sport,Los niños suelen jugar al fútbol en campos deportivos o parques públicos cercanos a sus hogares.,1,0.6666666666666666
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-22,Sport,El ejercicio diario más popular entre las mujeres en España parece ser el running según los datos del 2024/25 Survey of Sporting Habits in Spain.,1,0.25
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-23,Sport,El levantamiento de pesas es muy popular entre los hombres en España como ejercicio diario.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-25,Sport,FC Barcelona contra Real Madrid,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-29,Sport,Fútbol (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-30,Sport,Terrero y gloria,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"6 January (Epiphany, Three Kings' Day)",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,El símbolo común de Nochevieja que suele encontrarse en España es el pavo.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,"En Nochevieja, las personas de España tienden a disfrutar del arroz con garrofó (paella) como plato principal.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,"En España, durante la celebración de la Nochevieja (la noche más larga del año), se come un plato tradicional llamado ""paella"" en muchas regiones, especialmente en Valencia y el sur de España. Sin embargo, cada región tiene sus propias costumbres culinarias para esta ocasión especial.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-01,Sport,El golf es el deporte de verano más popular en España según los datos del año 2025 mencionados en el background.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-03,Sport,La Liga Profesional de Deportes más popular en España es el fútbol.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-05,Sport,"El equipo de deporte femenino más popular en España parece ser el padel, según los datos mencionados sobre su rápido crecimiento y expansión.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-09,Sport,"El torneo más popular en España según los datos proporcionados es el Teatro Falla contest en Cádiz Carnival, donde se reúnen más de cien grupos y la final dura hasta el lunes.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-11,Sport,El deportista más popular en España según los datos mencionados es el jugador de fútbol (29.2%).,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-12,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-15,Sport,El patín sobre hielo es considerado como uno de los deportes de invierno más populares en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-19,Work life,Madrid,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-21,Work life,"El pago por horas extras es generalmente considerado como uno de los beneficios más importantes ofrecidos a los empleados en España, especialmente dado que la legislación permite compensar las horas trabajadas extra con pago o descanso dentro del siguiente año.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-22,Work life,"El período económico más catastrófico para España se considera generalmente entre 2010 y 2014, durante lo que se conoció como la ""crisis de los 5 años"" o ""la década perdida"".",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-24,Work life,La comunidad valenciana es un importante centro para trabajadores tecnológicos y start-ups en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-27,Work life,"La industria más importante de España en 2024 según el informe sobre compras de alimentos domésticos es las supermercados, con un 67.2% del volumen de ventas.",0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-35,Family,Almuerzo,1,0.4
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-36,Family,Jardín de infantes (infantile garden) o paseos por el parque.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-37,Family,18,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-38,Family,La festividad familiar más importante en España es Navidad (31 de diciembre).,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-39,Family,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-41,Family,32.6,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-43,Family,4,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-44,Family,La pan con tomate es muy común y popular como comida para las comidas familiares de los fines de semana en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-45,Family,Tríos chicharreros (chirigotas) durante el Carnaval en Cádiz.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-48,Education,"La nota más alta que se otorga a los estudiantes de secundaria en España, según las normas establecidas por el Ministerio de Educación, es una ""10"" o ""Siete Puntos Diez"".",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-49,Education,El Examen Nacional de Bachillerato (ENB) es considerado el examen más importante para los estudiantes de secundaria en España.,,
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-51,Education,Español (o Castellano) es considerada la asignatura más importante para los estudiantes en España.,0,0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-53,Education,El fútbol es el evento social extracurricular más popular en los colegios de España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Th-en-58,Education,La geometría diferencial o el álgebra lineal son temas de matemáticas avanzados que se aprenden antes de la universidad en España.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Tmp-ar-01,Education,"En España, los estudiantes universitarios suelen ir a las bibliotecas de sus respectivas universidades o a espacios similares prestados por estas instituciones para preparar y realizar sus exámenes finales.",1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Tmp-ar-02,Education,El autobús es un transporte público muy común utilizado por los estudiantes españoles para llegar a la universidad.,1,1.0
+qwen2.5-3b,Spain,Spanish,pers-3,Tmp-ar-04,Education,"Los estudiantes de primaria en España suelen realizar tareas domésticas y ayudar con las labores del hogar, además de dedicarse a actividades recreativas o deportivas. También pueden seguir sus estudios en casa si tienen acceso a la tecnología y los recursos necesarios.",0,0

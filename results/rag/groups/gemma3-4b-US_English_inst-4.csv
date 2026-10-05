@@ -1,0 +1,534 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,US,English,inst-4,Al-en-01,Food,"Eggs, grits, and biscuits",0,0
+gemma3-4b,US,English,inst-4,Al-en-02,Food,Barbecue,0,0
+gemma3-4b,US,English,inst-4,Al-en-04,Food,Watermelon,0,0
+gemma3-4b,US,English,inst-4,Al-en-06,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Al-en-08,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Al-en-09,Food,Cotton candy,1,1.0
+gemma3-4b,US,English,inst-4,Al-en-16,Education,5,0,0
+gemma3-4b,US,English,inst-4,Al-en-17,Education,Appalachian independent wrestling,0,0
+gemma3-4b,US,English,inst-4,Al-en-18,Education,Religion,1,1.0
+gemma3-4b,US,English,inst-4,Al-en-19,Education,Spanish,1,1.0
+gemma3-4b,US,English,inst-4,Al-en-21,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,The provided text does not state the main dish for Thanksgiving.,0,0
+gemma3-4b,US,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,0,0
+gemma3-4b,US,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,The provided text does not contain information about how people celebrate New Year's Day in the US.,0,0
+gemma3-4b,US,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,Celebrate Christmas with singing traditions and family gatherings centered around specific foods like caviar and escargots.,0,0
+gemma3-4b,US,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,Pumpkin pie,1,0.25
+gemma3-4b,US,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Caviar and escargots,0,0
+gemma3-4b,US,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Chocolate,1,1.0
+gemma3-4b,US,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Parks,1,1.0
+gemma3-4b,US,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Gathering for Christmas celebrations.,0,0
+gemma3-4b,US,English,inst-4,An-ar-02,Education,"In Greek American restaurants in Clifton, New Jersey.",0,0
+gemma3-4b,US,English,inst-4,An-ar-03,Education,"05
+",1,1.0
+gemma3-4b,US,English,inst-4,An-ar-08,Education,12,0,0
+gemma3-4b,US,English,inst-4,An-ar-09,Education,1,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,An-ar-34,Sport,Football,1,1.0
+gemma3-4b,US,English,inst-4,An-ar-35,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,An-ar-36,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,An-ar-43,Sport,Smithsonian collections.,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,US,English,inst-4,Ca-sp-06,Food,Thanksgiving,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-08,Food,Potatoes,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-09,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-11,Food,Sunday,1,1.0
+gemma3-4b,US,English,inst-4,Ca-sp-14,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"12
+",1,1.0
+gemma3-4b,US,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,None provided.,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-38,Family,Family household,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-41,Family,With their children,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-42,Family,4,0,0
+gemma3-4b,US,English,inst-4,Ca-sp-43,Family,7,1,1.0
+gemma3-4b,US,English,inst-4,Ca-sp-45,Family,California,0,0
+gemma3-4b,US,English,inst-4,Gu-ch-05,Sport,Baseball,1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-06,Sport,Baseball,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Gu-ch-07,Sport,Michael Jordan,1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-08,Sport,NASCAR races and youth soccer matches.,1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-09,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Gu-ch-11,Sport,Baseball,0,0
+gemma3-4b,US,English,inst-4,Gu-ch-15,Sport,The provided text does not contain information about the sports preferences of male students in university.,0,0
+gemma3-4b,US,English,inst-4,Gu-ch-16,Family,5,1,0.2
+gemma3-4b,US,English,inst-4,Gu-ch-18,Family,1.2,1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-31,Education,"12
+",0,0
+gemma3-4b,US,English,inst-4,Gu-ch-32,Education,"12
+",1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-33,Education,"12
+",0,0
+gemma3-4b,US,English,inst-4,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-40,Education,"15:00
+",1,1.0
+gemma3-4b,US,English,inst-4,Gu-ch-41,Education,0,1,0.3333333333333333
+gemma3-4b,US,English,inst-4,Ji-ko-02,Work life,Weekday,1,0.3333333333333333
+gemma3-4b,US,English,inst-4,Ji-ko-03,Work life,New York City,1,1.0
+gemma3-4b,US,English,inst-4,Ji-ko-07,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,US,English,inst-4,Ji-ko-09,Work life,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-14,Work life,Baseball,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-15,Work life,1.5,1,1.0
+gemma3-4b,US,English,inst-4,Ji-ko-16,Family,Not enough information to answer.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-19,Family,Tulips,,
+gemma3-4b,US,English,inst-4,Ji-ko-22,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-24,Family,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-25,Family,Christmas and Kwanzaa,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-26,Family,1974 and 2024.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-27,Family,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-28,Family,July 4th,,
+gemma3-4b,US,English,inst-4,Ji-ko-29,Family,Cinco de Mayo,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-31,Education,"Washington, D.C.",0,0
+gemma3-4b,US,English,inst-4,Ji-ko-33,Education,"Washington, D.C.",0,0
+gemma3-4b,US,English,inst-4,Ji-ko-34,Education,The provided text does not contain information about how elementary school students go to school.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-35,Education,Catholic private schools,1,1.0
+gemma3-4b,US,English,inst-4,Ji-ko-36,Education,High school,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-37,Education,Varies.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-38,Education,Undecided,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-39,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-40,Education,"Take spring-break school trips to Washington, D.C.",0,0
+gemma3-4b,US,English,inst-4,Ji-ko-41,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-42,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-44,Education,Lower East Side,0,0
+gemma3-4b,US,English,inst-4,Ji-ko-45,Education,The provided text does not contain information about university festivals in the US.,,
+gemma3-4b,US,English,inst-4,Jo-sp-01,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-02,Sport,Handball,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-09,Sport,Baseball and handball.,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-13,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-14,Sport,Baseball,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-18,Work life,7,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-19,Work life,The American West,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-21,Work life,12:00,1,1.0
+gemma3-4b,US,English,inst-4,Jo-sp-31,Education,"14:00
+",0,0
+gemma3-4b,US,English,inst-4,Jo-sp-32,Education,Karate,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-36,Education,"7
+",0,0
+gemma3-4b,US,English,inst-4,Jo-sp-37,Education,7,0,0
+gemma3-4b,US,English,inst-4,Jo-sp-39,Education,6,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Jo-sp-43,Education,3,1,0.25
+gemma3-4b,US,English,inst-4,Jod-ch-01,Food,forks and spoons,1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-04,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-06,Food,Beer,1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-07,Food,"0.5
+",0,0
+gemma3-4b,US,English,inst-4,Jod-ch-09,Food,"18:00
+",1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-12,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-13,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-15,Food,This question cannot be answered using the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Spam Festival,,
+gemma3-4b,US,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Spam,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-37,Sport,Baseball,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Jod-ch-38,Sport,Baseball,1,0.4
+gemma3-4b,US,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Camping,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"Camping
+",0,0
+gemma3-4b,US,English,inst-4,Jod-ch-46,Work life,"1.5
+",1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-48,Work life,This question cannot be answered from the provided information.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-50,Work life,"1
+",1,0.3333333333333333
+gemma3-4b,US,English,inst-4,Jod-ch-51,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-54,Work life,7,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-56,Work life,28.6,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-58,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-60,Work life,"8.1
+",1,1.0
+gemma3-4b,US,English,inst-4,Jod-ch-61,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Jod-ch-62,Work life,Data insufficient to answer.,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-17,Education,High school,1,1.0
+gemma3-4b,US,English,inst-4,Ki-pe-24,Education,Chinese,1,0.2
+gemma3-4b,US,English,inst-4,Ki-pe-30,Education,December 26 through January 1,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-32,Food,Tamales,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-34,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-36,Food,Poland,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-39,Food,Caviar and escargots,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-40,Food,This question cannot be answered with the provided information.,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-43,Food,Pizza,0,0
+gemma3-4b,US,English,inst-4,Ki-pe-51,Work life,"17:30
+",0,0
+gemma3-4b,US,English,inst-4,Ki-pe-53,Work life,"09:00
+",1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Thanksgiving,1,0.3333333333333333
+gemma3-4b,US,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,The text does not state what people do to celebrate Independence Day.,0,0
+gemma3-4b,US,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,A wreath,,
+gemma3-4b,US,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,December 26 through January 1,0,0
+gemma3-4b,US,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Bridgewater Gampfest,0,0
+gemma3-4b,US,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Butter lamb,,
+gemma3-4b,US,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,,
+gemma3-4b,US,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Smithsonian museums,0,0
+gemma3-4b,US,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,The provided text does not contain information about popular religious sites for tourism.,0,0
+gemma3-4b,US,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Formal dresses or suits.,1,0.3333333333333333
+gemma3-4b,US,English,inst-4,Kik-in-16,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,Kik-in-17,Food,Watermelon,,
+gemma3-4b,US,English,inst-4,Kik-in-24,Food,French fries,1,1.0
+gemma3-4b,US,English,inst-4,Kik-in-31,Sport,Baseball,0,0
+gemma3-4b,US,English,inst-4,Kik-in-34,Sport,Baseball and NASCAR,1,0.8
+gemma3-4b,US,English,inst-4,Kik-in-35,Sport,NASCAR races and youth soccer matches.,0,0
+gemma3-4b,US,English,inst-4,Kik-in-36,Sport,The question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,Kik-in-37,Sport,Nebraska vs. Massachusetts,,
+gemma3-4b,US,English,inst-4,Kik-in-38,Sport,NASCAR fans vs. Washington Capitals fans,,
+gemma3-4b,US,English,inst-4,Kik-in-40,Sport,This question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,Kik-in-41,Sport,The provided text does not contain information about female badminton players in the US.,,
+gemma3-4b,US,English,inst-4,Kik-in-44,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,Kik-in-45,Sport,The provided text does not contain information about sports field facilities at schools in the US.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-02,Food,Coffee,1,1.0
+gemma3-4b,US,English,inst-4,Na-ko-04,Food,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,Na-ko-05,Food,Household food preparation and cleanup.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-07,Food,Chicken,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Na-ko-08,Food,Chile,0,0
+gemma3-4b,US,English,inst-4,Na-ko-09,Food,Chicken,0,0
+gemma3-4b,US,English,inst-4,Na-ko-11,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,Na-ko-15,Food,Barbecue,0,0
+gemma3-4b,US,English,inst-4,Na-ko-16,Sport,Cristiano Ronaldo,1,0.5
+gemma3-4b,US,English,inst-4,Na-ko-17,Sport,The provided text does not contain information about what sports male students enjoy during lunchtime.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-18,Sport,Insufficient information,0,0
+gemma3-4b,US,English,inst-4,Na-ko-19,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-20,Sport,Baseball,1,1.0
+gemma3-4b,US,English,inst-4,Na-ko-22,Sport,The Smithsonian,,
+gemma3-4b,US,English,inst-4,Na-ko-23,Sport,The provided text does not contain information about the types of sports academies children attend.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-24,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-25,Sport,The provided text does not contain information about typical sports played in US school sports day.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-26,Sport,"Baseball, based on the provided collections documenting spectatorship and following sports.",1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Na-ko-28,Sport,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-29,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-30,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,A gift,1,1.0
+gemma3-4b,US,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,7,0,0
+gemma3-4b,US,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Tamales,0,0
+gemma3-4b,US,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Cake,0,0
+gemma3-4b,US,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,July 4,0,0
+gemma3-4b,US,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Juneteenth National Independence Day,1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,US,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,,
+gemma3-4b,US,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,The provided text does not contain information about where people from the US go to celebrate New Year's Day.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,The provided text does not contain information about where families gather for Eid festivities in the US.,,
+gemma3-4b,US,English,inst-4,Ne-ar-16,Work life,Saturday and Sunday,1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-18,Work life,"18:00
+",1,0.2
+gemma3-4b,US,English,inst-4,Ne-ar-20,Work life,A full-time job averaging 8.1 hours worked on weekdays.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-24,Work life,New York City,1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-25,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-26,Work life,Apple,1,0.5
+gemma3-4b,US,English,inst-4,Ne-ar-31,Food,Pizza,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Ne-ar-32,Food,"Eggs, grits, and biscuits.",1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-33,Food,12:00,1,1.0
+gemma3-4b,US,English,inst-4,Ne-ar-34,Food,Food traditions,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-36,Food,Fried chicken with dressing and pork,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-37,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-38,Food,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-39,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-43,Food,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ne-ar-44,Food,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-am-02,Food,Butter lamb,,
+gemma3-4b,US,English,inst-4,New-am-04,Food,Spicy SPAM Party Dip,0,0
+gemma3-4b,US,English,inst-4,New-am-08,Food,Fish,1,1.0
+gemma3-4b,US,English,inst-4,New-am-15,Food,Sweet potato pie,,
+gemma3-4b,US,English,inst-4,New-am-27,Sport,Althea Gibson,0,0
+gemma3-4b,US,English,inst-4,New-am-34,Education,The provided text does not contain information about where elementary school students prepare for exams.,1,1.0
+gemma3-4b,US,English,inst-4,New-am-41,Education,Eighth grade,0,0
+gemma3-4b,US,English,inst-4,New-am-53,Work life,Chicago,0,0
+gemma3-4b,US,English,inst-4,New-am-54,Work life,Utah,0,0
+gemma3-4b,US,English,inst-4,New-am-59,Work life,This question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,New-am-60,Work life,Horse,1,1.0
+gemma3-4b,US,English,inst-4,New-am-72,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-am-73,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-am-74,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Christmas,1,1.0
+gemma3-4b,US,English,inst-4,New-am-81,Holidays/Celebration/Leisure,"1
+",0,0
+gemma3-4b,US,English,inst-4,New-am-83,Holidays/Celebration/Leisure,Unknown,0,0
+gemma3-4b,US,English,inst-4,New-as-01,Food,Blue corn,1,1.0
+gemma3-4b,US,English,inst-4,New-as-02,Food,Bread,1,1.0
+gemma3-4b,US,English,inst-4,New-as-05,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-as-07,Food,Clams,0,0
+gemma3-4b,US,English,inst-4,New-as-14,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,New-as-15,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-as-20,Sport,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-as-29,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,New-as-30,Sport,NASCAR races,0,0
+gemma3-4b,US,English,inst-4,New-as-58,Work life,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-as-64,Family,Christmas,1,0.5
+gemma3-4b,US,English,inst-4,New-as-76,Holidays/Celebration/Leisure,Playing cards and video games.,1,0.5
+gemma3-4b,US,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Traditional folk and traditional attire.,0,0
+gemma3-4b,US,English,inst-4,New-as-89,Holidays/Celebration/Leisure,Spam memorabilia,,
+gemma3-4b,US,English,inst-4,New-az-05,Food,The American West,0,0
+gemma3-4b,US,English,inst-4,New-az-11,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,New-az-12,Food,New England,1,1.0
+gemma3-4b,US,English,inst-4,New-az-21,Sport,Colorado,1,1.0
+gemma3-4b,US,English,inst-4,New-az-26,Sport,This question cannot be answered based on the provided text.,,
+gemma3-4b,US,English,inst-4,New-az-27,Sport,Youth soccer,1,1.0
+gemma3-4b,US,English,inst-4,New-az-39,Education,Netherlands,0,0
+gemma3-4b,US,English,inst-4,New-az-49,Work life,1,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,New-az-60,Family,"ATUS data indicates a significant portion of the population, approximately 80%, engages in household activities daily, including caring for household children.",0,0
+gemma3-4b,US,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-az-73,Holidays/Celebration/Leisure,7,0,0
+gemma3-4b,US,English,inst-4,New-ch-01,Food,Barbecue,0,0
+gemma3-4b,US,English,inst-4,New-ch-02,Food,"07:00
+",1,1.0
+gemma3-4b,US,English,inst-4,New-ch-04,Food,"Turkey, potatoes, cranberries, apple pie, and pumpkin pie.",0,0
+gemma3-4b,US,English,inst-4,New-ch-05,Food,Hot Texas wiener,0,0
+gemma3-4b,US,English,inst-4,New-ch-07,Food,"Barbecue, watermelon, and red soda.",0,0
+gemma3-4b,US,English,inst-4,New-ch-08,Food,Salt,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-09,Food,Maple syrup and chile.,0,0
+gemma3-4b,US,English,inst-4,New-ch-13,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-ch-14,Food,Chicken soup,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-15,Food,The provided text does not contain information about prepared/ready-to-eat foods bought at supermarkets in the US.,0,0
+gemma3-4b,US,English,inst-4,New-ch-16,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-17,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-18,Sport,Track and field,0,0
+gemma3-4b,US,English,inst-4,New-ch-19,Sport,Uneven bars,0,0
+gemma3-4b,US,English,inst-4,New-ch-23,Sport,Althea Gibson,,
+gemma3-4b,US,English,inst-4,New-ch-26,Sport,Ice hockey,0,0
+gemma3-4b,US,English,inst-4,New-ch-27,Sport,Muhammad Ali,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-30,Sport,Jesse Owens,,
+gemma3-4b,US,English,inst-4,New-ch-31,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-32,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-38,Work life,The provided text does not contain information about cities or regions known for import and export activities in the US.,0,0
+gemma3-4b,US,English,inst-4,New-ch-39,Work life,Amazon,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-44,Work life,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-ch-45,Work life,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-ch-49,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-51,Family,Accommodation,0,0
+gemma3-4b,US,English,inst-4,New-ch-54,Family,Apple,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-64,Education,1,0,0
+gemma3-4b,US,English,inst-4,New-ch-66,Education,0,1,1.0
+gemma3-4b,US,English,inst-4,New-ch-70,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-71,Education,"1
+",0,0
+gemma3-4b,US,English,inst-4,New-ch-72,Education,Multiple jobholders,0,0
+gemma3-4b,US,English,inst-4,New-ch-73,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-74,Education,Not specified in the text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-75,Education,1,0,0
+gemma3-4b,US,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,"Camping, fishing, hunting, horseracing, video games, playing cards, toys, exercise equipment, and sports objects.",1,0.3333333333333333
+gemma3-4b,US,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,"Camping, fishing, hunting, horseracing, video games, playing cards, toys, exercise equipment, and sports objects.",1,0.2
+gemma3-4b,US,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,"The Library of Congress Botkin Lecture series provides resources on holidays and celebrations in the US, and the Smithsonian documents Catholic, Jewish, and Chinese American private schools as places where families maintained religious traditions.",0,0
+gemma3-4b,US,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"14:00
+",0,0
+gemma3-4b,US,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,New York,0,0
+gemma3-4b,US,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,1,0.5
+gemma3-4b,US,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+gemma3-4b,US,English,inst-4,New-en-01,Food,Watermelon,0,0
+gemma3-4b,US,English,inst-4,New-en-02,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-04,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-05,Food,Fried chicken,1,0.5
+gemma3-4b,US,English,inst-4,New-en-07,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-08,Food,Hershey's,1,1.0
+gemma3-4b,US,English,inst-4,New-en-10,Food,Mozzarella,0,0
+gemma3-4b,US,English,inst-4,New-en-11,Food,Data insufficient to answer.,0,0
+gemma3-4b,US,English,inst-4,New-en-12,Food,Fast food,0,0
+gemma3-4b,US,English,inst-4,New-en-17,Sport,Baseball cards and souvenir programs.,0,0
+gemma3-4b,US,English,inst-4,New-en-18,Sport,Souvenir programs and baseball cards.,0,0
+gemma3-4b,US,English,inst-4,New-en-19,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-23,Sport,Tyson Gay,,
+gemma3-4b,US,English,inst-4,New-en-26,Sport,Insufficient information,0,0
+gemma3-4b,US,English,inst-4,New-en-38,Work life,"Trades, industries, crafts, and professions covered by the Occupational Folklife Project.",0,0
+gemma3-4b,US,English,inst-4,New-en-41,Work life,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-47,Family,Vegetables,1,0.5
+gemma3-4b,US,English,inst-4,New-en-49,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-50,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-55,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-en-56,Family,Chinese,0,0
+gemma3-4b,US,English,inst-4,New-en-59,Family,The provided text does not contain information about which country families emigrate to.,0,0
+gemma3-4b,US,English,inst-4,New-en-68,Education,The provided text does not address repercussions for bad behavior in schools.,0,0
+gemma3-4b,US,English,inst-4,New-en-69,Education,Chinese American authors,0,0
+gemma3-4b,US,English,inst-4,New-en-70,Education,180,0,0
+gemma3-4b,US,English,inst-4,New-en-72,Education,The Smithsonian,0,0
+gemma3-4b,US,English,inst-4,New-en-75,Education,18,0,0
+gemma3-4b,US,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Hartsfield-Jackson Atlanta International Airport,1,1.0
+gemma3-4b,US,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Appalachian,0,0
+gemma3-4b,US,English,inst-4,New-en-87,Holidays/Celebration/Leisure,The White House,1,1.0
+gemma3-4b,US,English,inst-4,New-en-90,Holidays/Celebration/Leisure,Hilton,1,1.0
+gemma3-4b,US,English,inst-4,New-gr-05,Food,"Eggs, grits, and biscuits",0,0
+gemma3-4b,US,English,inst-4,New-gr-06,Food,Maple syrup,0,0
+gemma3-4b,US,English,inst-4,New-gr-08,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-gr-13,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-gr-15,Food,kransekake,0,0
+gemma3-4b,US,English,inst-4,New-gr-21,Sport,Tennis,1,1.0
+gemma3-4b,US,English,inst-4,New-gr-24,Sport,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-gr-29,Sport,The Super Bowl,0,0
+gemma3-4b,US,English,inst-4,New-gr-47,Work life,30,1,1.0
+gemma3-4b,US,English,inst-4,New-gr-58,Work life,Insufficient data to answer.,0,0
+gemma3-4b,US,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Old-time Appalachian music,0,0
+gemma3-4b,US,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Red soda,1,1.0
+gemma3-4b,US,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Red soda,1,0.5
+gemma3-4b,US,English,inst-4,New-ha-07,Food,Hot dogs,0,0
+gemma3-4b,US,English,inst-4,New-ha-08,Food,Green beans,0,0
+gemma3-4b,US,English,inst-4,New-ha-09,Food,"Potentially a knife, given the prevalence of food preparation.",0,0
+gemma3-4b,US,English,inst-4,New-ha-13,Food,Potato,1,1.0
+gemma3-4b,US,English,inst-4,New-ha-19,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,New-ha-66,Family,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,US,English,inst-4,New-in-03,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-in-33,Work life,The provided text does not contain information about US regions associated with mining.,0,0
+gemma3-4b,US,English,inst-4,New-in-34,Work life,Texas,1,1.0
+gemma3-4b,US,English,inst-4,New-in-62,Education,Massachusetts Institute of Technology,1,1.0
+gemma3-4b,US,English,inst-4,New-in-63,Education,Harvard University,1,1.0
+gemma3-4b,US,English,inst-4,New-in-78,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-in-80,Holidays/Celebration/Leisure,Walt Disney World,1,1.0
+gemma3-4b,US,English,inst-4,New-ko-01,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ko-02,Family,The provided text does not contain information about prenatal education activities.,0,0
+gemma3-4b,US,English,inst-4,New-ko-03,Family,This question cannot be answered with the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ko-04,Family,The provided text does not contain information about popular toys among boys in the US.,0,0
+gemma3-4b,US,English,inst-4,New-ko-05,Family,The provided text does not contain information about popular toys among girls in the US.,0,0
+gemma3-4b,US,English,inst-4,New-ko-06,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,The Pledge of Allegiance,0,0
+gemma3-4b,US,English,inst-4,New-ko-08,Work life,Data from the 2024 ATUS regarding time spent caring for and helping household members and children is relevant.,0,0
+gemma3-4b,US,English,inst-4,New-ko-09,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-ko-10,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-pe-02,Food,kransekake,0,0
+gemma3-4b,US,English,inst-4,New-pe-06,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-pe-11,Food,Chiles,0,0
+gemma3-4b,US,English,inst-4,New-pe-16,Sport,Football,1,1.0
+gemma3-4b,US,English,inst-4,New-pe-20,Sport,Soccer,0,0
+gemma3-4b,US,English,inst-4,New-pe-45,Work life,Insufficient information.,,
+gemma3-4b,US,English,inst-4,New-pe-47,Family,"03/21
+",,
+gemma3-4b,US,English,inst-4,New-pe-49,Family,"Catholic, Jewish, and Chinese American private schools",0,0
+gemma3-4b,US,English,inst-4,New-pe-53,Family,The provided text does not contain information about gifts given on Father's Day or Parents' Day.,0,0
+gemma3-4b,US,English,inst-4,New-pe-54,Family,The provided text does not contain information about gifts given on Mother's Day or Parents' Day in the US.,0,0
+gemma3-4b,US,English,inst-4,New-pe-59,Family,3,0,0
+gemma3-4b,US,English,inst-4,New-pe-65,Education,6,0,0
+gemma3-4b,US,English,inst-4,New-pe-66,Education,The provided text does not contain information about after-school curricula in elementary schools.,0,0
+gemma3-4b,US,English,inst-4,New-pe-74,Education,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Camping, fishing, hunting, and horseracing",1,0.3333333333333333
+gemma3-4b,US,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,Sundance Film Festival,1,1.0
+gemma3-4b,US,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,None,0,0
+gemma3-4b,US,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Kransekake,0,0
+gemma3-4b,US,English,inst-4,New-spme-01,Food,Grasshoppers,,
+gemma3-4b,US,English,inst-4,New-spme-04,Food,Corn,1,1.0
+gemma3-4b,US,English,inst-4,New-spme-05,Food,Apple pie and pumpkin pie,0,0
+gemma3-4b,US,English,inst-4,New-spme-15,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-spme-27,Education,Bachelor’s degree or higher,0,0
+gemma3-4b,US,English,inst-4,New-spme-37,Education,History,0,0
+gemma3-4b,US,English,inst-4,New-spme-60,Family,Monday,0,0
+gemma3-4b,US,English,inst-4,New-spme-65,Family,Independence Day,0,0
+gemma3-4b,US,English,inst-4,New-spme-68,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,"Washington, D.C.",1,1.0
+gemma3-4b,US,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-su-01,Food,The provided text does not contain information about snacks sold in front of schools.,,
+gemma3-4b,US,English,inst-4,New-su-09,Food,Bacon fat,0,0
+gemma3-4b,US,English,inst-4,New-su-10,Food,Turkey,0,0
+gemma3-4b,US,English,inst-4,New-su-15,Food,Picon Punch,0,0
+gemma3-4b,US,English,inst-4,New-su-17,Sport,Insufficient information,0,0
+gemma3-4b,US,English,inst-4,New-su-21,Sport,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-su-24,Sport,The provided text does not contain information about sports played by parents and children in the US.,0,0
+gemma3-4b,US,English,inst-4,New-su-28,Sport,Red,,
+gemma3-4b,US,English,inst-4,New-su-33,Education,The provided text does not contain information about the common dress code for school teachers in the US.,0,0
+gemma3-4b,US,English,inst-4,New-su-34,Education,Music education,0,0
+gemma3-4b,US,English,inst-4,New-su-42,Education,Catholic and Jewish,,
+gemma3-4b,US,English,inst-4,New-su-45,Education,"12/31
+",,
+gemma3-4b,US,English,inst-4,New-su-50,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-su-51,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,New-su-57,Work life,Chickens,1,1.0
+gemma3-4b,US,English,inst-4,New-su-58,Work life,Turkey,0,0
+gemma3-4b,US,English,inst-4,New-su-59,Work life,None provided.,0,0
+gemma3-4b,US,English,inst-4,New-su-60,Work life,"Turkey, potatoes, cranberries, apple pie, and pumpkin pie.",,
+gemma3-4b,US,English,inst-4,New-su-71,Family,The question cannot be answered from the provided text.,,
+gemma3-4b,US,English,inst-4,New-su-75,Family,SUV,1,1.0
+gemma3-4b,US,English,inst-4,New-su-77,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,US,English,inst-4,New-su-81,Holidays/Celebration/Leisure,A tuxedo or suit,1,1.0
+gemma3-4b,US,English,inst-4,New-su-82,Holidays/Celebration/Leisure,White wedding dresses,1,1.0
+gemma3-4b,US,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Cake,1,1.0
+gemma3-4b,US,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Smithsonian,0,0
+gemma3-4b,US,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,Ni-en-02,Education,15:00,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-03,Education,18,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-06,Education,18,0,0
+gemma3-4b,US,English,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-11,Education,"4
+",1,0.25
+gemma3-4b,US,English,inst-4,Ni-en-12,Education,Harvard University,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-13,Education,"23
+",1,0.25
+gemma3-4b,US,English,inst-4,Ni-en-15,Education,13,0,0
+gemma3-4b,US,English,inst-4,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-19,Work life,"5
+",1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-20,Work life,16,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-21,Work life,14,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Caviar and escargots,0,0
+gemma3-4b,US,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+gemma3-4b,US,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Unknown.,0,0
+gemma3-4b,US,English,inst-4,Nu-in-04,Education,18,0,0
+gemma3-4b,US,English,inst-4,Nu-in-05,Education,"09
+",1,1.0
+gemma3-4b,US,English,inst-4,Nu-in-06,Education,05/03,0,0
+gemma3-4b,US,English,inst-4,Nu-in-11,Education,"09:00
+",1,0.4
+gemma3-4b,US,English,inst-4,Nu-in-20,Family,"06/19
+",,
+gemma3-4b,US,English,inst-4,Nu-in-40,Work life,New York City,1,1.0
+gemma3-4b,US,English,inst-4,Sa-en-1,Food,Unknown,0,0
+gemma3-4b,US,English,inst-4,Sa-en-13,Food,Barbecue,0,0
+gemma3-4b,US,English,inst-4,Sa-en-16,Sport,Cannot be determined.,0,0
+gemma3-4b,US,English,inst-4,Sa-en-22,Sport,University of Michigan,0,0
+gemma3-4b,US,English,inst-4,Sa-en-31,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Sa-en-32,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Sa-en-37,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Sa-en-6,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Sa-en-7,Food,"Turkey, potatoes, cranberries, apple pie, pumpkin pie, kransekake.",0,0
+gemma3-4b,US,English,inst-4,Sa-en-9,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-10,Family,"30
+",1,1.0
+gemma3-4b,US,English,inst-4,Ta-pe-11,Family,28.6,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-13,Family,5,1,0.5
+gemma3-4b,US,English,inst-4,Ta-pe-17,Sport,Basketball,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Ta-pe-21,Sport,Youth soccer matches,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-22,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-23,Sport,The provided text does not contain information about popular daily exercises among men in the US.,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-25,Sport,Yankees vs. Red Sox,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-29,Sport,Basketball,1,0.5
+gemma3-4b,US,English,inst-4,Ta-pe-30,Sport,Unknown.,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,July 4,1,1.0
+gemma3-4b,US,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Butter lamb,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"Turkey, potatoes, cranberries, apple pie, and pumpkin pie.",,
+gemma3-4b,US,English,inst-4,Th-en-01,Sport,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,Th-en-03,Sport,The question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Th-en-05,Sport,Insufficient information.,0,0
+gemma3-4b,US,English,inst-4,Th-en-09,Sport,NASCAR,0,0
+gemma3-4b,US,English,inst-4,Th-en-11,Sport,It cannot be determined from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Th-en-12,Sport,Basketball,1,1.0
+gemma3-4b,US,English,inst-4,Th-en-15,Sport,N/A,0,0
+gemma3-4b,US,English,inst-4,Th-en-19,Work life,"Columbus, Ohio",0,0
+gemma3-4b,US,English,inst-4,Th-en-21,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Th-en-22,Work life,It cannot be determined from the provided information.,0,0
+gemma3-4b,US,English,inst-4,Th-en-24,Work life,Silicon Valley,1,1.0
+gemma3-4b,US,English,inst-4,Th-en-27,Work life,Sheep,0,0
+gemma3-4b,US,English,inst-4,Th-en-35,Family,Dinner,1,1.0
+gemma3-4b,US,English,inst-4,Th-en-36,Family,Socializing with family.,0,0
+gemma3-4b,US,English,inst-4,Th-en-37,Family,"18
+",1,1.0
+gemma3-4b,US,English,inst-4,Th-en-38,Family,Christmas,1,1.0
+gemma3-4b,US,English,inst-4,Th-en-39,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Th-en-41,Family,"30
+",1,1.0
+gemma3-4b,US,English,inst-4,Th-en-43,Family,2.1,1,1.0
+gemma3-4b,US,English,inst-4,Th-en-44,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,US,English,inst-4,Th-en-45,Family,Working,0,0
+gemma3-4b,US,English,inst-4,Th-en-48,Education,Eighth grade,1,0.6666666666666666
+gemma3-4b,US,English,inst-4,Th-en-49,Education,"Spring-break school trips to Washington, D.C.",0,0
+gemma3-4b,US,English,inst-4,Th-en-51,Education,U.S. history,0,0
+gemma3-4b,US,English,inst-4,Th-en-53,Education,Maple sugar gathering,0,0
+gemma3-4b,US,English,inst-4,Th-en-58,Education,Calculus,1,1.0
+gemma3-4b,US,English,inst-4,Tmp-ar-01,Education,"Washington, D.C.",0,0
+gemma3-4b,US,English,inst-4,Tmp-ar-02,Education,The provided text does not contain information about public transport or university usage.,0,0
+gemma3-4b,US,English,inst-4,Tmp-ar-04,Education,The provided text does not contain information about what elementary students do after school.,0,0

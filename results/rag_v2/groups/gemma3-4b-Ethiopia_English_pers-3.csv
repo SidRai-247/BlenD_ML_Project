@@ -1,0 +1,504 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Ethiopia,English,pers-3,Al-en-01,Food,Kolo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-02,Food,Tibbs.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-04,Food,Banana.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-06,Food,Injera with shiro.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-08,Food,Kolo and sambusa.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-09,Food,Popcorn.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-16,Education,4,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Al-en-17,Education,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-18,Education,Mathematics and English.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-19,Education,English.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-21,Education,Mathematics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Doro wat with injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,Ethiopians do not celebrate Halloween.,,
+gemma3-4b,Ethiopia,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,"People wear white, sing ""Abebayehosh,"" receive gifts, and slaughter a chicken or sheep for doro wat while going to church.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"People attend all-night church services dressed in white netela shawls, play the genna stick game, and eat doro wat with injera.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Sumbusas.,,
+gemma3-4b,Ethiopia,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Doro wat with injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,"Red roses, chocolates, and red clothing.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Cake and “Happy Birthday”.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Unity Park.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Sharing a coffee ceremony with dinner and watching TV.,,
+gemma3-4b,Ethiopia,English,pers-3,An-ar-02,Education,University students eat in the university cafeteria.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-03,Education,"6
+",0,0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-08,Education,6,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-09,Education,3,0,0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-34,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-35,Sport,Kebede Gebre-Crest.,0,0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-36,Sport,Saint George.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,An-ar-43,Sport,"Cafés, bars, and football houses.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-06,Food,Breakfast.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-08,Food,Teff.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-09,Food,"Cake, baklava, halawa, candy and dabo kolo.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-11,Food,Sunday.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-14,Food,Coffee.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Coca-Cola.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,11,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,Families reunite at church and slaughter a chicken or sheep for doro wat.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-38,Family,A round thatched hut (tukul) in rural areas.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-41,Family,With their children and family.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-42,Family,17,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-43,Family,3,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ca-sp-45,Family,Lake resorts like Bishoftu and Kuriftu.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-05,Sport,Table tennis.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-06,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-07,Sport,Saladin Said.,,
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-08,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-09,Sport,Volleyball.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-11,Sport,Long-distance running.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-15,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-16,Family,5,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-18,Family,3-4,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-31,Education,6,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-32,Education,8,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-33,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-38,Education,4 years,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-40,Education,15:30,0,0
+gemma3-4b,Ethiopia,English,pers-3,Gu-ch-41,Education,1,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-02,Work life,Sunday.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-03,Work life,Addis Ababa.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-07,Work life,MIDROC Ethiopia.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-08,Work life,48,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-09,Work life,"Injera, raw meat and tibs with beer.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-14,Work life,Coffee.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-15,Work life,1.5,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-16,Family,Mothers traditionally stay with their own mothers.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-19,Family,The yellow Adey Abeba flower.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-22,Family,Clothes for my mother.,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-24,Family,"Football (soccer, እግር ኳስ).",0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-25,Family,"Fasika (Easter), Genna (Christmas), Meskel, Enkutatash, and Timket.",,
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-26,Family,"Finishing university, getting a job, and marriage.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-27,Family,"Coffee, sugar, and bread.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-28,Family,September 11th.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-29,Family,The first birthday.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-31,Education,On campus libraries and at home.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-33,Education,They usually do homework.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-34,Education,Most elementary students walk to school.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-35,Education,Private tutoring at home is the most common form of private education in Ethiopia.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-36,Education,Mathematics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-37,Education,School uniforms with ordinary shoes or sneakers.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-38,Education,Medicine.,1,0.75
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-39,Education,The krar.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-40,Education,"Students chat, play, and eat snacks.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-41,Education,Ordinary shoes or sneakers.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-42,Education,"Mathematics, English, and aptitude.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-44,Education,Addis Ababa.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ji-ko-45,Education,"The biggest bonfire celebrations, particularly Meskel, and the vibrant processions during Timket.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-01,Sport,Athletics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-02,Sport,Running.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-09,Sport,Basketball.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-13,Sport,Swimming.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-14,Sport,Table tennis.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-18,Work life,16,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-19,Work life,The highlands and mountains.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-21,Work life,12:30,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-31,Education,17:00,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-32,Education,Football.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-36,Education,8,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-37,Education,8,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-39,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jo-sp-43,Education,3,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-01,Food,"We mostly eat with our right hand, tearing the injera.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-04,Food,Coca-Cola.,1,0.75
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-06,Food,Tej.,1,0.75
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-07,Food,"2.5
+",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-09,Food,19:00,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-12,Food,Chicken soup.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-13,Food,"Kolo, sambusa, and biscuits.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-15,Food,Fish.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,Timket.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Long-distance buses.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Yellow Meskel daisies (Adey Abeba) and a Demera bonfire.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-37,Sport,Athletics and football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-38,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"Meeting friends at cafés, shopping, and social media.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Watching football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-46,Work life,1.5,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-48,Work life,Injera with shiro or misir wat.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-50,Work life,30-60,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-51,Work life,Minibus taxis.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-54,Work life,6,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-56,Work life,60,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-57,Work life,60,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-58,Work life,Doctors.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-60,Work life,8-12,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-61,Work life,Banking.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Jod-ch-62,Work life,Engineering.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-17,Education,Around 12 years.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-24,Education,Amharic and our regional mother tongue.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-30,Education,Saturday and Sunday.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-32,Food,"Doro wat with injera, raw meat, kitfo, and tibs, along with coffee.",1,0.25
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-34,Food,Coffee.,1,0.6
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-36,Food,Italy.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-39,Food,"Injera rolls with firfir or dulet, sambusa, kolo, fruit and soft drinks.",,
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-40,Food,Misir wat.,,
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-43,Food,Injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-51,Work life,17:30,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ki-pe-53,Work life,08:30,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Timket.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,Parades and patriotic songs at Menelik II Square.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,A mourning tent (dass).,,
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,January to before the Lenten fast.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,An engagement.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Drawings of flowers and the yellow Adey Abeba flower.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"We clean our homes, buy food supplies, and prepare spices and dates for iftar.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,The rock-hewn churches of Lalibela.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Lalibela and Axum.,1,0.8
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Traditional white habesha kemis with colourful embroidered borders (tibeb) and a netela shawl.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-16,Food,"Coffee, tea, roasted corn, kolo, genfo and soup.",1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-17,Food,Dates.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-24,Food,French fries.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-31,Sport,Taekwondo and karate.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-34,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-35,Sport,Football and taekwondo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-36,Sport,Sewnet Bishaw.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-37,Sport,Kidus Giorgis vs. Ethiopian Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-38,Sport,Kidus Giorgis vs. Ethiopian Coffee.,,
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-40,Sport,I don’t have information about a famous male badminton player in Ethiopia.,,
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-41,Sport,Letesenbet Gidey.,,
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-44,Sport,Athletics.,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,Kik-in-45,Sport,Football fields and volleyball and basketball courts.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-02,Food,Layered avocado-mango-papaya juice (spris).,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-04,Food,Chicken soup.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-05,Food,Sumbusas and chips.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-07,Food,Beef.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-08,Food,Mango.,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-09,Food,Injera.,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-11,Food,"Popcorn, kolo, peanuts, and sambusas while drinking beer or soft drinks.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-15,Food,Injera.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-16,Sport,Mengistu Worku.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-17,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-18,Sport,Volleyball.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-19,Sport,Gebre-Mariam Demissew.,,
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-20,Sport,Ethiopia’s athletes.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-22,Sport,Ethiopian Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-23,Sport,Football academies.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-24,Sport,"Popcorn, kolo, peanuts, and samosas.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-25,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-26,Sport,Walking and jogging.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-28,Sport,Haile Gebrselassie.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-29,Sport,Kenenisa Bekele.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-30,Sport,Football (soccer),0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Abebayehosh.,,
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Lake Kuriftu (Debre Zeit),0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,Clothes and jewelry.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,Money or household items.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,40,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"Injera, bread, food, coffee, and money.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"Bread, injera, and coffee.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"People in Ethiopia in the morning of the New Year walk and jog, often at places like Meskel Square or Entoto.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,Tuesday.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Kuriftu resort.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Adwa Victory Day.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"Doro wat, meat dishes, and sweets.",1,0.25
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"Doro wat, meat dishes, and sweets.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"Doro wat, meat dishes, and sweets, with a slaughtered sheep or ox providing the meat.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,Families reunite at home and go to church.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,At the stadium and Meskel Square in Addis Ababa.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-16,Work life,Saturday and Sunday.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-17,Work life,08:30,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-18,Work life,17:30,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-20,Work life,Government and bank jobs.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-24,Work life,Addis Ababa.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-25,Work life,Aviation.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-26,Work life,Ethiopian Airlines.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-31,Food,Doro wat.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-32,Food,Firfir/fitfit with tea or coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-33,Food,12:30,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-34,Food,Injera.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-36,Food,"Doro wat with injera, raw meat, kitfo, and tibs.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-37,Food,Coffee beans.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-38,Food,"Bread, injera, and kolo.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-39,Food,Shiro.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-43,Food,"Bread, biscuits, or kolo.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ne-ar-44,Food,Coffee is usually accompanied by popcorn (fendisha) or roasted barley (kolo).,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,New-am-02,Food,Injera with wat.,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,New-am-04,Food,Awaze.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-08,Food,"Shiro, misir wat, and kik alicha.",1,0.2
+gemma3-4b,Ethiopia,English,pers-3,New-am-15,Food,Genfo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-27,Sport,Letesenbet Gidey.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-34,Education,Most elementary school students walk to school.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-41,Education,Grade 8.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-am-53,Work life,Yirgacheffe (Gedeo) and Sidama.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-54,Work life,"The lowlands of Borana, Somali, and Afar.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-am-59,Work life,Pastoralism.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-60,Work life,Donkey.,1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,New-am-72,Family,Tintin.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-73,Family,Tsehai Loves Learning.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-74,Family,Seifu on EBS.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Fasika (Easter).,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-am-81,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-am-83,Holidays/Celebration/Leisure,The krar.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-01,Food,Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-02,Food,Dabo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-05,Food,Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-07,Food,Kitfo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-14,Food,"Hot drinks like coffee, tea, roasted corn, kolo, genfo, and soup.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-15,Food,"Cold water, soft drinks, Ambo water and fresh juices.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-as-20,Sport,Table tennis.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-29,Sport,The English Premier League.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-30,Sport,Athletics.,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,New-as-58,Work life,"Tea (shai, ሻይ).",1,0.75
+gemma3-4b,Ethiopia,English,pers-3,New-as-64,Family,Fasika.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-as-76,Holidays/Celebration/Leisure,"During traditional holidays, families play gebeta, carrom, genna, and stick fighting.",,
+gemma3-4b,Ethiopia,English,pers-3,New-as-80,Holidays/Celebration/Leisure,Traditional white cotton clothing.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-as-89,Holidays/Celebration/Leisure,"Cross necklaces, gold or silver jewellery, and a netela shawl.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-az-05,Food,Harar.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-11,Food,Mango.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-az-12,Food,"The lowlands of Borana, Somali, and Afar.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-21,Sport,Bishoftu.,,
+gemma3-4b,Ethiopia,English,pers-3,New-az-26,Sport,Abebe Bikila.,,
+gemma3-4b,Ethiopia,English,pers-3,New-az-27,Sport,Football (soccer).,1,0.3333333333333333
+gemma3-4b,Ethiopia,English,pers-3,New-az-39,Education,The United States.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-49,Work life,1,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-60,Family,Grandparents.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Beer.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Tej.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-az-73,Holidays/Celebration/Leisure,300,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,New-ch-01,Food,Grilled or sautéed beef or lamb (tibbs).,1,0.25
+gemma3-4b,Ethiopia,English,pers-3,New-ch-02,Food,07:00-08:00,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-04,Food,Chips and sambusa.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-05,Food,Doro wat.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-07,Food,Arake.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-08,Food,Berbere.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-09,Food,Soup.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-13,Food,St. George.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-14,Food,"Chicken soup, kinche, eggs, and shorba.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-15,Food,Pasta and biscuits.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-16,Sport,“Atletu”,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-17,Sport,Mountain climbing.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-18,Sport,"The 10,000m race.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-19,Sport,Long-distance running.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-23,Sport,Saladin Said.,,
+gemma3-4b,Ethiopia,English,pers-3,New-ch-26,Sport,Long-distance running.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-27,Sport,Kebede Gebre-Crest.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-30,Sport,Abebe Bikila.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-31,Work life,Doctors or engineers.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-32,Work life,Microsoft Office.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-38,Work life,"Addis Ababa, Dire Dawa, and the coffee regions.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-39,Work life,Telegram.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-44,Work life,60 working days.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-45,Work life,"Young people typically choose to start businesses in tech start-ups, online shops (often through Telegram and Facebook), and trading.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-49,Family,Telegram.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-51,Family,Hotels or resorts.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-54,Family,Banana.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-64,Education,40,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-66,Education,0,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-70,Education,"Communicative English, Logic and Critical Thinking, Mathematics, Civics and Moral Education, General Psychology, and Geography of Ethiopia and the Horn.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-71,Education,50,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-72,Education,Medicine.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,New-ch-73,Education,Football (soccer) clubs.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-74,Education,University students in Ethiopia typically live in campus dormitories.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-75,Education,45,1,0.25
+gemma3-4b,Ethiopia,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,"Holding coffee ceremonies, visiting neighbors, and attending church associations.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,"Retired men in Ethiopia typically chat over coffee, play cards or checkers, and go to church.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,"Timket, Fasika, and Meskel.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Money or household items.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,09:00,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,Addis Ababa.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,White.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-01,Food,Popcorn.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-02,Food,Barley.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-04,Food,Marcus Samuelsson.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-05,Food,Shiro.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-07,Food,Doro Wat cooking shows are the most popular.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-08,Food,Mars.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-10,Food,Ayib.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-11,Food,Potatoes.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-12,Food,Kolo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-17,Sport,Shouting and singing.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-18,Sport,"Popcorn, kolo, peanuts, samosas, and beer or soft drinks.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-19,Sport,Addis Ababa Stadium.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-23,Sport,Kenenisa Bekele.,,
+gemma3-4b,Ethiopia,English,pers-3,New-en-26,Sport,"The ""Atletu"" chant.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-38,Work life,Ride-hailing and small trade.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-41,Work life,Mohammed Al Amoudi.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-47,Family,"Enset, gomen, vegetables, fruit trees, and chickens.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-49,Family,The imperial family of Emperor Haile Selassie.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-50,Family,Alemu.,,
+gemma3-4b,Ethiopia,English,pers-3,New-en-55,Family,Christianity.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-56,Family,English.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-59,Family,The United States.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-68,Education,Detention and community service.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-69,Education,"Haddis Alemayehu, Bealu Girma, Tsegaye Gabre-Medhin, Kebede Michael and Abe Gubegna.",1,0.6666666666666666
+gemma3-4b,Ethiopia,English,pers-3,New-en-70,Education,2,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-72,Education,YouTube.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-75,Education,16,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Addis Ababa Bole International Airport.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-en-79,Holidays/Celebration/Leisure,Addis Ababa.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-87,Holidays/Celebration/Leisure,The rock-hewn churches of Lalibela.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-en-90,Holidays/Celebration/Leisure,Sheraton Addis.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-05,Food,Kolo.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-06,Food,Pizza and burgers.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-08,Food,Tej.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-13,Food,Tea.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-15,Food,Cake.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-21,Sport,Table tennis.,,
+gemma3-4b,Ethiopia,English,pers-3,New-gr-24,Sport,Athletics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-29,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-47,Work life,15,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-58,Work life,Teachers and nurses.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Dabo and ambasha.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Traditional and Orthodox religious music.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Tej.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Tej.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ha-07,Food,Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ha-08,Food,Kolo.,,
+gemma3-4b,Ethiopia,English,pers-3,New-ha-09,Food,Injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ha-13,Food,Injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ha-19,Sport,Horse.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ha-66,Family,Lake resorts like Bishoftu and Kuriftu resort.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-01,Food,Kaldi’s Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-03,Food,Injera with wat.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-in-33,Work life,Benishangul-Gumuz.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-34,Work life,The Ogaden basin of the Somali Region.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-in-62,Education,Addis Ababa Institute of Technology.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-63,Education,Addis Ababa Institute of Technology.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Cash.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Addis Fun City.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-01,Family,“Tsehai Loves Learning.”,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-02,Family,Aerobics or gym exercise.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-03,Family,“Abebayehosh”.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-04,Family,Balls (football) and toy cars.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-05,Family,Dolls and skipping ropes.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-06,Family,Teret (ተረት).,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,A mourning tent (dass).,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-08,Work life,Tutoring.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-ko-09,Work life,"Team-building trips to resorts in Bishoftu or Adama, combined with meals of injera, raw meat and tibs with beer.",,
+gemma3-4b,Ethiopia,English,pers-3,New-ko-10,Work life,"Tutoring, ride-hailing, brokerage, and small trade.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-02,Food,Coffee beans.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-06,Food,Doro wat.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-11,Food,Berbere.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-16,Sport,Football (soccer).,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-20,Sport,Football (soccer).,,
+gemma3-4b,Ethiopia,English,pers-3,New-pe-45,Work life,Muslim workers shorten their breaks to leave earlier for iftar.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-47,Family,"06/01
+",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-49,Family,At church on Sundays and the mosque on Fridays.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-53,Family,Money and sometimes a gabi or netela shawl.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-54,Family,"Coffee, sugar, bread, a gabi or netela shawl, and money.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-59,Family,3,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-65,Education,2,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-66,Education,Football.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-74,Education,"Around 1,500 Birr.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Taking photos.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,Addis International Film Festival.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Dominoes.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Dubai.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,The Commercial Bank of Ethiopia headquarters.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-01,Food,Pup.,,
+gemma3-4b,Ethiopia,English,pers-3,New-spme-04,Food,Coffee.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-05,Food,"Cake, baklava, halawa, candy, and dabo kolo.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-15,Sport,Coca-Cola.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-27,Education,Many Ethiopians complete secondary school.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-37,Education,Medicine.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-60,Family,Friday,1,0.6
+gemma3-4b,Ethiopia,English,pers-3,New-spme-65,Family,Patriots’ Victory Day (5 May) is commemorated.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-68,Family,Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Menelik II Square.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Melkam Lidet.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-01,Food,"Kolo, biscuits, and sambusa.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-09,Food,"Sunflower, palm, or nug/niger-seed oil.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-10,Food,"Milk, eggs, fruits, and vegetables.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,New-su-15,Food,Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-17,Sport,Basketball and volleyball courts.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-21,Sport,"Walking, picnicking, and taking photos.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-24,Sport,Football.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-28,Sport,"Green, yellow, and red.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-33,Education,White coats.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-34,Education,Singing.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-42,Education,Civics and ethical education.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-45,Education,06/01,,
+gemma3-4b,Ethiopia,English,pers-3,New-su-50,Work life,Farming.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-51,Work life,Fishing.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-57,Work life,Cattle.,1,0.75
+gemma3-4b,Ethiopia,English,pers-3,New-su-58,Work life,Oxen.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-59,Work life,Straw hats and cotton gabis or netela shawls.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-60,Work life,Injera with shiro.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-71,Family,"Clothes, toys, or money.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-75,Family,Toyota.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-77,Holidays/Celebration/Leisure,New clothes and money.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,New-su-81,Holidays/Celebration/Leisure,A suit or traditional habesha clothes with a cape.,1,0.2
+gemma3-4b,Ethiopia,English,pers-3,New-su-82,Holidays/Celebration/Leisure,A white habesha kemis.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-83,Holidays/Celebration/Leisure,"Injera with doro wat, raw meat, kitfo, and tibs.",0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The Grand (Menelik) Palace and Parliament.,0,0
+gemma3-4b,Ethiopia,English,pers-3,New-su-88,Holidays/Celebration/Leisure,"Ethiopian pop, hip-hop and artists like Teddy Afro.",0,0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-02,Education,17:00,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-03,Education,22,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-06,Education,7,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-11,Education,2,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-12,Education,Addis Ababa University.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-13,Education,22-23,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-15,Education,13,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-19,Work life,5,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-20,Work life,18,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-21,Work life,12,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Doro wat with injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,Melkam Lidet.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-05,Education,9,0,0
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-06,Education,05/05,0,0
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-11,Education,08:00,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-20,Family,06/01,,
+gemma3-4b,Ethiopia,English,pers-3,Nu-in-40,Work life,Addis Ababa.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-1,Food,Tomoca.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-13,Food,Injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-16,Sport,Saint George.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-22,Sport,Addis Ababa University.,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-31,Family,Dogs.,1,0.8
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-32,Family,Seifu on EBS.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-37,Family,Gebeta.,,
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-6,Food,Pizza.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-7,Food,"Kolo, dabo kolo, sambusa, chips, and biscuits.",1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Sa-en-9,Food,Samsa and chips.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-10,Family,28,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-11,Family,17,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-13,Family,6-8,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-17,Sport,Athletics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-21,Sport,"Children usually play soccer in streets, open fields, and school grounds.",1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-22,Sport,Running.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-23,Sport,Football.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-25,Sport,Kidus Giorgis vs. Ethiopian Coffee.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-29,Sport,Athletics.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-30,Sport,“Seifu on EBS”,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,Meskel.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,The yellow Adey Abeba flower.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Doro wat and injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Doro Wat with Injera.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-01,Sport,Running.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-03,Sport,The English Premier League.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-05,Sport,Almaz Ayna.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-09,Sport,The English Premier League.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-11,Sport,Abebe Bikila.,1,0.4
+gemma3-4b,Ethiopia,English,pers-3,Th-en-12,Sport,Athletics.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-15,Sport,Football.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-19,Work life,Addis Ababa.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-21,Work life,Transport service (staff buses).,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-22,Work life,The 1983-1985 famine under the Derg regime.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-24,Work life,Addis Ababa.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-27,Work life,Agriculture.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-35,Family,Lunch.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-36,Family,Going to church and visiting relatives.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-37,Family,25,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-38,Family,Fasika (Easter).,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-39,Family,Gebeta.,,
+gemma3-4b,Ethiopia,English,pers-3,Th-en-41,Family,25,1,0.5
+gemma3-4b,Ethiopia,English,pers-3,Th-en-43,Family,0,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-44,Family,Injera with doro wat.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-45,Family,A coffee ceremony together.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-48,Education,A+.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-49,Education,The Ethiopian Secondary School Leaving Certificate Examination.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-51,Education,Mathematics.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-53,Education,School days/parents' day.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Th-en-58,Education,Mathematics.,0,0
+gemma3-4b,Ethiopia,English,pers-3,Tmp-ar-01,Education,Campus libraries and dorms.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Tmp-ar-02,Education,Minibus taxis.,1,1.0
+gemma3-4b,Ethiopia,English,pers-3,Tmp-ar-04,Education,"Elementary students in Ethiopia usually do homework, play football, and help with household chores.",1,1.0

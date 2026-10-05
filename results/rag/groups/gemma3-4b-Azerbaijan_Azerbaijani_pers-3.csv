@@ -1,0 +1,513 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-01,Food,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-02,Food,Qızıl Ayran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-04,Food,Apel.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-06,Food,Qızıl boğanın qarnı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-09,Food,Qızıl Qızılgül.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-16,Education,"3
+",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-17,Education,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-18,Education,Azərbaycanda ibtidai sinif şagirdləri Azərbaycan dilində fərdi təhsil alırlar.,1,0.2
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-19,Education,Rus dili.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-21,Education,Azərbaycan dilidir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-32,Holidays/Celebration/Leisure,Pilaf.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-33,Holidays/Celebration/Leisure,Halloween qeyd etmirlər.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-34,Holidays/Celebration/Leisure,Novruz bayramı qeyd edirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-35,Holidays/Celebration/Leisure,Novruz bayramı.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-36,Holidays/Celebration/Leisure,Lavash.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-37,Holidays/Celebration/Leisure,Qurban.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-38,Holidays/Celebration/Leisure,Qara döş.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-39,Holidays/Celebration/Leisure,Novruz bayramı zamanı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-40,Holidays/Celebration/Leisure,Pehlivanlıq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Al-en-43,Holidays/Celebration/Leisure,Dolma.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-02,Education,Universitet tələbələri universitetin içərisindəki kafeteynə gedir.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-03,Education,5,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-08,Education,"10
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-09,Education,5,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-34,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-35,Sport,Mirzabalı Məhərrəbliyev.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-36,Sport,Bakının Zəfər Stadyionu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,An-ar-43,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-06,Food,Pilaf.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-08,Food,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-09,Food,Pakhlava.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-11,Food,Çərşənbə günü.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-14,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"Yeni İl zamanı ailə qonaqlara qəbul edir, qurban kəsilir, toylar keçirilir və ya qurban kəsilir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-38,Family,"Mənzilin içərisində qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar, qəddar bir divar,",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-41,Family,Qəyyumlar ilə birlikdə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-42,Family,160,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-43,Family,16,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ca-sp-45,Family,Lavash və qarnıbaq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-05,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-06,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-07,Sport,Mirza Cabbarzadə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-08,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-09,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-11,Sport,Boks.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-15,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-16,Family,5,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-18,Family,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-31,Education,"9
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-32,Education,12,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-33,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-40,Education,16:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Gu-ch-41,Education,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-02,Work life,Çərşənbə günü.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-03,Work life,Bakı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-07,Work life,Baku Silk Road Center.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-09,Work life,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-14,Work life,Neft.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-15,Work life,"1,5",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-16,Family,"Əlbəttə ki, bu, əsasən, qəsəbələrdə və ya kəndlərdə olur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-19,Family,Rəngarkül.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-22,Family,Üçünə bir televizor.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-24,Family,Heydər Xanlıoğlu Mərkəzi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-25,Family,"Nwinə, Nwinə, Nwinə!
+",,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-26,Family,"Uşaqların valideynlərdən müstəqilliyi ilə əlaqədar əsas mərhələlər, uşaqların hüquqlarının müdafiəsi və uşaqların maraqlarının göz önündən keçən bir şəkildə müəyyən edilməsi ilə bağlı məşğələnir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-27,Family,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-28,Family,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-29,Family,Yirmi beş yaş.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-31,Education,Ölkəmizdə orta və ali məktəb şagirdləri adətən özləri üçün yaradılmış yüksək keyfiyyətli tədris proqramları və peşə hazırlığı mərkəzlərində imtahanlara hazırlanırlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-33,Education,Həyat kurslarına.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-34,Education,"Azərbaycanda ibtidai məktəb şagirdləri, təlaşmadan olsa da, məktəbə gedənlərdir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-35,Education,Üçtəhərli.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-36,Education,Rəsmi Azərbaycan Dillər Akademiyasına.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-37,Education,Məktəbə formal geyimlə gedirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-38,Education,Təbiət Fəlsəfəsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-39,Education,Pifpa.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-40,Education,Azərbaycanda orta məktəb şagirdləri adətən Azərbaycan dilində tədris olunur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-41,Education,"Çox fərqli. Bəzi şagirdlər zərafətə malik, bəziləri isə sağlam ayaqları üçün sağlam və mövəvvar ayaqqabılar geyinirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-42,Education,"Matematika, Azərbaycan tarixi, Azərbaycan dilləri və ya ingilis dili.",1,0.75
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-44,Education,Bakı.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ji-ko-45,Education,Yeni bilikləri və dostlarla görüşmək üçün.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-01,Sport,Futbol.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-02,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-09,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-13,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-14,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-18,Work life,17,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-19,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-21,Work life,13:00,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-31,Education,18:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-32,Education,Azərbaycanda ibtidai məktəb şagirdləri əsasən gülüş ilə məşğul olurlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-36,Education,7,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-37,Education,7,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jo-sp-43,Education,6,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-01,Food,Pəri formasında qablar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-04,Food,Qara və yaş döşə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-06,Food,Qaraçayın.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-07,Food,3.  7,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-09,Food,13:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-12,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-13,Food,Qızıl boza və pisi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-15,Food,Xəmir balığı və qırmızı yayın.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Avtobus.,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-37,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-38,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"Qadınlar çoxlarını oxu, dostları ilə söhbət etməyə və ya ailəsi ilə zaman keçirməyə üstünlük edir. Həmçinin, çoxları evdə qaraoz çayını hazırlayıb, dostları ilə birlikdə çay içməyi sevir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"Sənət, futbol və dostlarla birlikdə vaxt keçirmək.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-46,Work life,2.5,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-48,Work life,Qara paxıllıq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-50,Work life,40,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-51,Work life,Avtobus.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-54,Work life,30,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-56,Work life,65,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-58,Work life,Xalıs paçıl tökmə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-60,Work life,"8
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-61,Work life,Müəllimə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Jod-ch-62,Work life,"Əldə olan materiallara görə, kişilər arasında ən çox üstünlük verilən peşə inşaat işləridir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-17,Education,Orta məktəb.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-24,Education,"Rus, Alman, Fransız, Ərabi və Fars dilləri.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-30,Education,Axşam saat 16:00-da.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-32,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-34,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-36,Food,Rus.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-39,Food,"Lavash, qara paxlan və qara paxlanın yanında hazırladığı qatıq.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-40,Food,Qara xörəq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-43,Food,Lavash.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-51,Work life,17:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"İstiqlal Gününü milli geyimdə qeyd edir, bayraqları palçıqda oxuyur, rəsmi rəqəmlərlə yanaşır, musiqi festivalına qatılır və ölkənin tarixində olan insanları xatirə olaraq anır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-04,Holidays/Celebration/Leisure,Bir qurban.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-05,Holidays/Celebration/Leisure,Novruz.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Çay quran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Peykəndə qara paxıllıq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-08,Holidays/Celebration/Leisure,Novruz.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-10,Holidays/Celebration/Leisure,Baku.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Şəmsəddin zavırı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-15,Holidays/Celebration/Leisure,Şalqala.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-16,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-17,Food,Lankaran limonları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-24,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-31,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-34,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-35,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-36,Sport,Cəmil Həsənov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-37,Sport,Bakı ilə Azərbaycan,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-38,Sport,Bakı vs. Qaraj.**,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-40,Sport,Şəmsəddin Məmmədov.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-41,Sport,Şəmalar Əliyeva.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-44,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Kik-in-45,Sport,Badminton və atletika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-02,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-04,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-05,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-07,Food,Qara döyə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-08,Food,Liman və citrus.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-09,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-11,Food,Çörbə və qara paxıllı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-15,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-16,Sport,Kamran Ələskərli.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-17,Sport,Badminton və athletics.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-18,Sport,Futbol.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-19,Sport,Ruslan Ağayev.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-20,Sport,Pehlevanliq yarışlarını.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-22,Sport,Rusiya.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-23,Sport,Şkola idman proqramlarına.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-24,Sport,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-25,Sport,Badminton və atletika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-26,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-28,Sport,Pehlevanlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-29,Sport,Hasan Adilov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-30,Sport,Pehlevanliq.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Şəkərbura və shekerbura.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Qədim Şəki qəsəbesi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-38,Holidays/Celebration/Leisure,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-39,Holidays/Celebration/Leisure,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-40,Holidays/Celebration/Leisure,7 günlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-41,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-43,Holidays/Celebration/Leisure,Novruz bayramını qonaqlarla qeyd edir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-44,Holidays/Celebration/Leisure,"2019, 16 avqust.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,Qurban dovğa və şükran toyunda.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,Qızıl Güvən.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,Qurban bayramında qara döyəyi yeyirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,Ağa.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"Qızlar və kişilər bir-birini qәlbә qәlbә qәbul edir, qәlib qәlbә qәbul edir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-16,Work life,Çərşənbə və Peşəbaxş Günü.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-18,Work life,18:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-20,Work life,Əldə olan qarağöz tökmə işi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-24,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-25,Work life,Neft.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-26,Work life,SOCAR.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-31,Food,Plov.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-32,Food,"Lavash, süd və peynir ilə.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-33,Food,13:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-34,Food,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-36,Food,Pilaf.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-37,Food,Lankaran citrinin.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-38,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-39,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-43,Food,Lankaran çayı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ne-ar-44,Food,Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-02,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-04,Food,Lavaş.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-08,Food,Qara paxlava və lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-15,Food,Samani.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-27,Sport,"Nəminə, bu barədə danışmaq qeyri-mümkün olacaq.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-34,Education,Azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara məktəbə daxildir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-41,Education,Səssizlə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-53,Work life,Lankaran.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-54,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-59,Work life,Neft çıxarmaq.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-60,Work life,At və öküz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-72,Family,"""Şirin Qara Qız""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-73,Family,"""Şəmir"" kanalını izləyən çox uşaq var.""",,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-74,Family,"""Şanslı Saatlar""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-77,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-81,Holidays/Celebration/Leisure,11,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-am-83,Holidays/Celebration/Leisure,Dutar.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-01,Food,Pilaf.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-02,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-05,Food,Armudu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-07,Food,Xarqış.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-14,Food,Qara müsбат.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-15,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-20,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-29,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-30,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-58,Work life,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-64,Family,Novruz bayramında.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-76,Holidays/Celebration/Leisure,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-80,Holidays/Celebration/Leisure,Şalqala.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-as-89,Holidays/Celebration/Leisure,Novruz bayramı üçün xüsusi xalça və dəryalardır.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-05,Food,Xırdalan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-11,Food,Liman narıncılarını və citropolu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-12,Food,Lankaran.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-21,Sport,"Şəmsəhrə, xizək üçün ən məşhur bölgəmiz Quba rayonudur.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-26,Sport,Şah İsmayılov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-27,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-39,Education,Rusya.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-49,Work life,5,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-60,Family,Hər iki valideyn.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-69,Holidays/Celebration/Leisure,Koñir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-70,Holidays/Celebration/Leisure,Koñyaq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-az-73,Holidays/Celebration/Leisure,50,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-01,Food,Qoyun və inəkdən.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-02,Food,08:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-04,Food,Qara müsбат və qara paxlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-05,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-07,Food,Lavash və təzə şirin süd.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-09,Food,Qara çay və isti qurd.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-13,Food,Qaynana.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-14,Food,"Lavash, qara paxlava və Novruz bayramına hazırlıq zamanı qonaqlara təklif edilən yeməklər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-15,Food,Qayğıq verən qutu və şirin şokolat.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-16,Sport,"""Sənsiz Mola"".",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-17,Sport,Armwrestling.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-18,Sport,Subjekt Olimpiadlarını.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-19,Sport,Artistik gimnastika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-23,Sport,Ramil Ramazanov.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-26,Sport,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-27,Sport,Məşhur boksmən Ramiz Aliyevdir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-30,Sport,Kamaladdin Nurulla oğlu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-31,Work life,İqtisadiyyat və mühendisliklə bağlı peşələr.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-32,Work life,Microsoft 365.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-38,Work life,"Bakı, Gəncə, vəuşburnı.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-39,Work life,Paykart.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-44,Work life,Tipik sınama müddəti 3 aydır.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-45,Work life,Kulturanın yaradıcılığında.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-49,Family,Mobil telefon.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-51,Family,Ev.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-54,Family,Samani.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-64,Education,8,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-66,Education,500 AZN,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-70,Education,İtədən.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-71,Education,25,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-72,Education,İqtisadiyyat.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-73,Education,İqtihad klubları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-74,Education,Yataqxanada.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-75,Education,45,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-78,Holidays/Celebration/Leisure,Çay və sitrus tərzinin tərzçiliyini.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-79,Holidays/Celebration/Leisure,Teatr və musiqi festivalına getmək.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-80,Holidays/Celebration/Leisure,Novruz bayramı zamanı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-81,Holidays/Celebration/Leisure,"""Nəzakət"" və ""səadəti"" ifadə edən qara üzümlü şirin tort.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-82,Holidays/Celebration/Leisure,19:00,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-83,Holidays/Celebration/Leisure,Baku.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-84,Holidays/Celebration/Leisure,Qırmızı.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ch-85,Holidays/Celebration/Leisure,Qara.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-01,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-02,Food,"""Çürə"" (Çürə).
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-04,Food,İmama Həsənova.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-05,Food,Pilav.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-07,Food,"""Şeflərin Oyununa"" və ""Yeməklə Qalır"" şouları.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-08,Food,"""Mars"".",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-10,Food,Lanina.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-11,Food,Noxud.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-12,Food,Qızıl boza və qara döş.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-17,Sport,Badminton və athletics.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-18,Sport,"Bayrağı, şikləri və dəst-dəlincəni.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-19,Sport,Bakı Stadionu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-23,Sport,Ruslan Səlimxanov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-26,Sport,"""Sarı Uclu""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-38,Work life,Kulturanın və yaradıcılıq sənədlərinin işi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-41,Work life,Mikayil Hasanov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-47,Family,Ən çox narın və limon.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-49,Family,"Məhərrəm, Azərbaycanın ən məşhur ailəsi – Mirzəliovlar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-50,Family,Məhərrəmli.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-55,Family,Şərqlə Qərb arasında mövqenə tutur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-56,Family,İngilis.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-59,Family,Rusya.,1,0.2
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-68,Education,Pis davranışa görə cəzasız qalmayıq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-69,Education,Mikayil Mushiqov və Nizami Gəncəvi.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-70,Education,3,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-72,Education,"Azərbaycılın yüksək keyfiyyətli tədris sisteminə sahib olduğu üçün, tələbələr adətən Azərbaycan Respublikasının milli kitabxanasından (Azərbaycan Respublikası Prezidentinin Ştat kitabxanası) istifadə edirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-75,Education,16,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-76,Holidays/Celebration/Leisure,Heydar Əliyev İqnı Azərbaycanda.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-79,Holidays/Celebration/Leisure,Lankaran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-87,Holidays/Celebration/Leisure,Xalçadağ qalası.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-en-90,Holidays/Celebration/Leisure,Baku Hotel.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-05,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-06,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-08,Food,Koñyaq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-13,Food,Çay.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-15,Food,Pakhlava.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-21,Sport,Futbol.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-24,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-29,Sport,Olimpiya Oyunları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-47,Work life,15,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-58,Work life,Kənd təsərrüəsinin işləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-76,Holidays/Celebration/Leisure,Qurban.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-82,Holidays/Celebration/Leisure,"Müəllim, yaşlı əhalimiz arasında ""muзыкалы şər"" (müziqi şər) çox sevilir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-88,Holidays/Celebration/Leisure,Lankaran çayı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-gr-89,Holidays/Celebration/Leisure,Armudu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-07,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-09,Food,Dolma.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-13,Food,Lələk.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-19,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ha-66,Family,Evimizdə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-01,Food,Nescafe.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-03,Food,Lavash və onunla birlikdə hazırlanan təzə və duzlu qurdlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-33,Work life,Qabala.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-34,Work life,Bunlar Şəmkir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-62,Education,Bakı Dövlət Universitetinin İqtisadiyyat və Texnika İnstitutu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-63,Education,Bakı Dövlət Müəssisəsi Tibb Universiteti.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-78,Holidays/Celebration/Leisure,Nəsq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-in-80,Holidays/Celebration/Leisure,Park Gənəş.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-01,Family,"""Şah Şirin""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-02,Family,Subbotka.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-03,Family,"""Sarı Vişnevaya"" (Sarı Vişnevaya).",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-04,Family,Qızıl tökmə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-05,Family,"Şahsen, Azərbaycan uşaqları arasında ən çox sevilən oyuncaqlar arasında ""qara quyruq"", ""şahbaz"" və ""bəş"" sayılır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-06,Family,Körbülü.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-07,Holidays/Celebration/Leisure,Kelaghayi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-08,Work life,Bakı şəhərində.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-09,Work life,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-ko-10,Work life,Kültüvar və yaradıcı sənət sahələrdə çalışan işçilərlə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-02,Food,Pakhlava.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-06,Food,Qızıl Ayran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-11,Food,Kimçik.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-16,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-20,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-45,Work life,"Ramazan ayında iş qrafiki, əvvəlki günlərlə müqayyzedə bir qədər sakitləşir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-47,Family,05/28,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-49,Family,Dolma ilə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-53,Family,"Ən çox qeyrətli hədiyyə, qeyrətli sözlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-54,Family,Analara qızıldan və ya qız ətabından hədiyyə alınıb.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-59,Family,3-4,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-65,Education,6,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-66,Education,Subjeqt olimpiyaları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-74,Education,1200 AZN.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-76,Holidays/Celebration/Leisure,Novruz bayramı zamanı parklarda ailələrlə birlikdə Novruz oyunları oynamaq və piknik etmək çox populyardır.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-78,Holidays/Celebration/Leisure,Bakı Beynəlxalq Film Festivalı.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-83,Holidays/Celebration/Leisure,Günüva.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-85,Holidays/Celebration/Leisure,Baku.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-pe-86,Holidays/Celebration/Leisure,Qız Qülləsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-01,Food,Qaracutq.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-04,Food,Zirə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-05,Food,"Baklava, şekərbura, qoylu və gəlin.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-15,Sport,Qaraçayı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-27,Education,Üçünə qədər çoxlu sayda insan orta təhsil səviyəsindədir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-37,Education,Mühəndislik.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-60,Family,Cümə.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-65,Family,Fasiləsiz atəş açılması.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-68,Family,Çörəklə qəvs.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-76,Holidays/Celebration/Leisure,Bakı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-spme-78,Holidays/Celebration/Leisure,"""Sarı Gəlin""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-01,Food,Piflər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-09,Food,Zirə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-10,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-15,Food,Qara chay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-17,Sport,Bəşbarma və plitə ilə üzənmə üçün bazallar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-21,Sport,Parklarda yaşlılar tez-tez çay içirlər və qonşularıyla söhbət edirlər.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-24,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-28,Sport,Qırmızı və yaşıl.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-33,Education,"Üslublu, rahat və düşünülüşlü geyinmə.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-34,Education,Şəxsi musiqi kursları.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-42,Education,İslam.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-45,Education,09/24,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-50,Work life,Qış tədarükünü təmin etmək üçün maldarlı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-51,Work life,Əsasən çay və sitrus meyinin təşviqi və ixracı ilə bağlı agro-turizm.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-57,Work life,Pəri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-58,Work life,Çəhəng və it.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-59,Work life,Kelaghayi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-60,Work life,Ləğənçilə citrus meyvələri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-71,Family,"Ad günündə övladlarına qiymətli həcmələr, gözəllikləri və ya oyunacığı alırlar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-75,Family,Avtobus və maşın.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-77,Holidays/Celebration/Leisure,Bayramda uşaqlara qara paxıllıq (qara şirin) verilir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-81,Holidays/Celebration/Leisure,Şərngən.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-82,Holidays/Celebration/Leisure,"Lavash hazırlığı ilə bağlı olan adətə görə, gəlinlər tradicionnal lavash örtəyinə bəhrələnmiş geyimlər geyinirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-83,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-86,Holidays/Celebration/Leisure,Bakı prezidentlik sarayı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,New-su-88,Holidays/Celebration/Leisure,"Müəllim, Azərbaycanın gəncləri arasında ən çox dinlənən musiqi janrı ""şarkı""dır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-02,Education,08:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-03,Education,18,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-06,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-11,Education,5,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-12,Education,Bakı Dövlət Universitetinin (BDU) Şərqşəhrindəki İqtisadiyyat və Beynəlxalq İqtisadiyyat İlişkiləri İnstitutu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-13,Education,"22
+",1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-15,Education,15,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-19,Work life,4,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-20,Work life,17.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-21,Work life,18,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"Novruz zamanı qutab, dolma və şəkərlə hazırlanan şirin dadlar.",,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"""Sarı Gəlin"".",,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-05,Education,9,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-06,Education,29/11,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-11,Education,09:00,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-20,Family,05/05,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Nu-in-40,Work life,Bakı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-1,Food,"""Pizza Baku""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-13,Food,Qara döş.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-16,Sport,"Bakıdanım və futbolu çox sevirik. Əlbəttə, çoxlu komanda var, amma ən sevdiyi komanda ""Qaraj"".",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-22,Sport,Bakı Universiteti.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-31,Family,Qızılcıq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-32,Family,"""Şanslı Ailə"" (Shanslı Ailə).",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-37,Family,Backgammon.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-6,Food,Qızıl İğmə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-7,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Sa-en-9,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-10,Family,"28
+",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-11,Family,22,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-13,Family,7,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-17,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-21,Sport,Parklarda və meydanlarda.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-22,Sport,Gəncə dəhlizi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-23,Sport,"Dağınıq üzüllərdə yaşayan bir xalq olduğumuz üçün, dağ xüsusiyyətlərimizə uyğun olan ""qızak"" (snow rugby) oyununa üstünlük veririk.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-25,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-29,Sport,Formula 1 pilotları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-30,Sport,"""Şəxsi Heyəttin""",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,Samani.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Plov.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Pakhlava.,,
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-01,Sport,Futbol.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-03,Sport,Superliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-05,Sport,Zaqafqazi Qadınlar Komandası.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-09,Sport,Şəşəndə Mirzəli tələskün turniri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-11,Sport,Fudbolçu Ramazan Qurbanov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-12,Sport,Matematikdə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-15,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-19,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-21,Work life,"""İqtisadi fəaliyyəyinə görə işçilərin sayı.""
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-22,Work life,1992-1994-cü illər.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-24,Work life,Bakı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-27,Work life,Neft.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-35,Family,"Lavash, çay və digər yeməklə.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-36,Family,"Həftə sonları ailə ilə birlikdə uşaqla təbiətə getmək, piknik etmək, xanadonuzda ya da dostlarınızın evində oyunlar oynamaq, ya da xanadonuzda qastronomik gecələr keçirmək populyardır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-37,Family,18,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-38,Family,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-39,Family,"""Qaraqush"".",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-41,Family,"32
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-43,Family,1,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-44,Family,Qızıl boza və lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-45,Family,Qara paxıllı qızlar ilə birlikdə qara paxıllı qızların oyununu oynamaq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-48,Education,"""Onur.""
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-49,Education,Subject Olympiads.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-51,Education,Matematika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-53,Education,"Şəxsi seçiminə görə, ""Gənclər İnnovasiyaları"" yarışması.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Th-en-58,Education,Funksional analiz.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Tmp-ar-01,Education,Studiyalar müəssəsələrinə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Tmp-ar-02,Education,Avtobus.,1,0.6
+gemma3-4b,Azerbaijan,Azerbaijani,pers-3,Tmp-ar-04,Education,Məktəbdən sonra evdə oxuyaq.,0,0

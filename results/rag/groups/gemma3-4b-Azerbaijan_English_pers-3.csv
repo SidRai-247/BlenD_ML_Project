@@ -1,0 +1,523 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-01,Food,Palaçinta.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-02,Food,Paklava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-04,Food,Citrus.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-06,Food,Pilav with meat.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-08,Food,Lavash with cheese and honey.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-09,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-16,Education,6,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-17,Education,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-18,Education,Mathematics.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-19,Education,Russian.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-21,Education,Mathematics.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Pilaf.,,
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,Azerbaijan does not celebrate Halloween.,,
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,They meet to congratulate each other.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,Azerbaijan does not celebrate Christmas.,,
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Pumpkin pie.,,
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Pomegranate juice and uzum pula (prunes in syrup).,,
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,Chocolate.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Parks.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Making dolma.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-02,Education,At university canteens.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-03,Education,6,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-08,Education,10,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-09,Education,7,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-34,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-35,Sport,Mirza Mustafayev.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-36,Sport,Karabakh FC,0,0
+gemma3-4b,Azerbaijan,English,pers-3,An-ar-43,Sport,Cafes and family homes.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-06,Food,Pilaf.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-08,Food,Tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-09,Food,Pakhlava.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-11,Food,Friday,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-14,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Coca-Cola.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,New Year’s Eve is celebrated with a festive feast and gift-giving.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-38,Family,A courtyard house.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-41,Family,With their families.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-42,Family,26,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-43,Family,"16
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ca-sp-45,Family,The mountains.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-05,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-06,Sport,Wrestling.,1,0.2
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-07,Sport,Milad Ma’sami.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-08,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-09,Sport,Basketball.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-11,Sport,Badminton.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-15,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-16,Family,5,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-18,Family,3-4,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-31,Education,9,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-32,Education,"10
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-33,Education,12,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-40,Education,"15:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-02,Work life,Friday.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-03,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-07,Work life,BakuTransGaz.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-09,Work life,Pakhlava and Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-14,Work life,Azerbaijan’s tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-15,Work life,2.5,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-16,Family,"Traditionally, mothers stay at home with their families for a period of recovery after childbirth.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-19,Family,Tulips.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-22,Family,A new household appliance.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-24,Family,Parks.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-25,Family,Novruz Bayramı.,,
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-26,Family,Marriage.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-27,Family,Fruit.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-28,Family,Novruz.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-29,Family,Eid al-Adha.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-31,Education,Azerbaijani students typically study for exams in Azerbaijani.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-33,Education,They often study at the library or at home.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-34,Education,They walk or take the bus.,1,0.75
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-35,Education,Private tutoring.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-36,Education,Mathematics.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-37,Education,Smart casual.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-38,Education,Medicine.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-39,Education,Dutar.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-40,Education,They socialize and often play games.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-41,Education,Sneakers.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-42,Education,"Azerbaijani Language and Literature, Mathematics, Physics, and Chemistry.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-44,Education,Baku.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Ji-ko-45,Education,Celebrating with friends and showcasing academic talent.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-01,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-02,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-09,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-13,Sport,Swimming.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-14,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-18,Work life,14,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-19,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-21,Work life,13:00,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-31,Education,"16:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-32,Education,Wrestling.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-36,Education,"12
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-37,Education,12,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jo-sp-43,Education,6,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-01,Food,A spoon.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-04,Food,Coca-Cola.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-06,Food,Qahveh.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-07,Food,"2.5
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-09,Food,"19:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-12,Food,Qutab.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-13,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-15,Food,Pomegranate fish.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Marshrutkas.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Lavash and vibrant colors.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-37,Sport,Wrestling.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-38,Sport,Wrestling.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"Spending time with family and friends, often involving tea.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"Spending time with friends, often involving tea and conversation.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-46,Work life,1.5,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-48,Work life,Pilav with meat.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-50,Work life,"30
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-51,Work life,Minibus.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-54,Work life,30,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-56,Work life,60,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-58,Work life,Teacher.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-60,Work life,10,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-61,Work life,Teaching.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Jod-ch-62,Work life,Agriculture.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-17,Education,"Typically, students complete high school.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-24,Education,"Azerbaijani, Russian, and French.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-30,Education,Friday.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-32,Food,Lavash and pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-34,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-36,Food,Turkey.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-39,Food,Lavash with various meats and cheeses.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-40,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-43,Food,Lavash.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-51,Work life,"17:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Novruz Bayram.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"We hold parades and concerts, and many families gather to fly the Azerbaijani flag and share traditional food and tea.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,A kubada.,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,During Novruz.,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,Tea ceremonies.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Dolma.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,Shopping for dates and sweets.,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,Gobustan National Park.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Ighisu Church.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,"Traditionally, women wear a long, dark-colored dress, often with a decorative shawl or scarf.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-16,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-17,Food,Dates.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-24,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-31,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-34,Sport,Wrestling and zorkhana.,1,0.2
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-35,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-36,Sport,Akın ÄkmÄmÄz.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-37,Sport,Neftchi vs. Qarabag.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-38,Sport,Karabakh vs. Sabah,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-40,Sport,Ramil Suleymanov.,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-41,Sport,Riojan Hasanova.,,
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-44,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Kik-in-45,Sport,Badminton and athletics training drills.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-02,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-04,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-05,Food,Lavash with various dishes.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-07,Food,Lamb.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-08,Food,Pomegranates.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-09,Food,Pilaf.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-11,Food,Tea and local sweets.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-15,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-16,Sport,Kamran Abu Musa.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-17,Sport,Badminton and athletics.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-18,Sport,Gymnastics.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-19,Sport,Mirza Gasimov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-20,Sport,Football.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-22,Sport,Iran.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-23,Sport,Badminton.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-24,Sport,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-25,Sport,"Badminton, athletics, and table tennis.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-26,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-28,Sport,Shahin Mammadov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-29,Sport,Parvan Azarbayjani.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-30,Sport,Counter-Strike: Global Offensive.,,
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Baklava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,The mountains.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,Tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,7,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,They meet to congratulate each other.,,
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,Friday.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Quba.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Novruz Bayram.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,Iftars.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,Paklava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,Kutlu Bayramımızda kebabs and various sweets.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,To the mosque.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,At home.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-16,Work life,Friday and Saturday.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-17,Work life,"08:00
+",1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-18,Work life,"18:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-20,Work life,A job in the oil and gas sector.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-24,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-25,Work life,Oil and Gas.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-26,Work life,Baku Transgas.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-31,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-32,Food,Butter and cheese with lavash.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-33,Food,"13:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-34,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-36,Food,Pilaf.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-37,Food,Citrus.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-38,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-39,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-43,Food,Pear-shaped armudu glasses and food.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ne-ar-44,Food,"Strong, sweet tea with coffee.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-02,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-04,Food,Lancashire sauce.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-15,Food,Lavash.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-am-27,Sport,Zarina Ahmedova.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-34,Education,At school.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-41,Education,9th grade.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-53,Work life,Lankaran.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-54,Work life,Lankaran.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-59,Work life,Tea and citrus production.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-am-60,Work life,Horse,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-72,Family,Tintin.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-73,Family,"""Little Dragons"" (Küçək Yılanlar).",,
+gemma3-4b,Azerbaijan,English,pers-3,New-am-74,Family,"""Veranda""",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Novruz Bayram.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-81,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-am-83,Holidays/Celebration/Leisure,The tar.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-as-01,Food,Citrus.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-02,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-05,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-07,Food,Xarqut.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-14,Food,Lavash with cheese and tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-15,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-20,Sport,Wrestling.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-29,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-30,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-58,Work life,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-64,Family,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-76,Holidays/Celebration/Leisure,Pehlevanliq and zorkhana.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-as-80,Holidays/Celebration/Leisure,Pehlelevlik costumes.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-as-89,Holidays/Celebration/Leisure,Kilisovka.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-az-05,Food,Lankaran.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-11,Food,Citrus.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-12,Food,Lankaran.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-21,Sport,Quba.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-az-26,Sport,Rustam Qasyimov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-27,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-39,Education,Russia.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-49,Work life,3,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-60,Family,The family committee and guardian system.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Qahva.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-70,Holidays/Celebration/Leisure,Pomegranate juice.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-az-73,Holidays/Celebration/Leisure,50,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-01,Food,Lamb.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-02,Food,"08:00
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-04,Food,Lavash with cheese and honey.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-05,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-07,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-08,Food,Sumac.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-09,Food,Lavash and black tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-13,Food,Qafqas.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-14,Food,Chicken soup.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-15,Food,Cheese and bread.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-16,Sport,Windrunners,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-17,Sport,Armwrestling.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-18,Sport,100 meters.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-19,Sport,Artistic gymnastics.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-23,Sport,Adnan Asgarov.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-26,Sport,Speed skating.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-27,Sport,Maksym Majuryan.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-30,Sport,Fakhraddin Amirkhanov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-31,Work life,Engineering.,1,0.2
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-32,Work life,Microsoft Office.,1,0.6666666666666666
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-38,Work life,Baku and Ganja.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-39,Work life,Seda.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-44,Work life,One month.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-45,Work life,Cultural and creative industries.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-49,Family,Mobile phones.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-51,Family,Guesthouses.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-54,Family,Pomegranate.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-64,Education,60,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-66,Education,100 Manat,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-70,Education,Azerbaijani language and literature.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-71,Education,35,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-72,Education,Engineering.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-73,Education,Debate clubs.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-74,Education,Student dormitories.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-75,Education,45,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,Gardening and visiting tea houses.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,"Spending time with family and friends, often enjoying tea and local sweets, and visiting historical sites.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,"20:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,Baku.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,Red.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-01,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-02,Food,Cheese.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-04,Food,Chef Samir,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-05,Food,Pilaf.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-07,Food,“Chef Baku” and “Azerbaijan’s Best.”,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-08,Food,Chocona.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-10,Food,Qırmızı balıq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-11,Food,Pumpkin.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-en-12,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-17,Sport,Shouting and clapping.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-18,Sport,Flags and banners.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-19,Sport,The Baku Olympic Stadium.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-en-23,Sport,Rafael Aghajanyan,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-26,Sport,"“Go, Azerbaijan!”",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-38,Work life,Cultural and creative industries.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-en-41,Work life,Rahim Gahramanov.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-47,Family,Citrus trees and tea plants.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-en-49,Family,The Qajar family.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-50,Family,Mammadov,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-55,Family,Islam.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-56,Family,English.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-59,Family,Russia.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-68,Education,Detentions and parental meetings.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-69,Education,Nizami Ganjavi and Mikayil Mushfig.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-70,Education,22,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-72,Education,The internet.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-75,Education,16,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Heydar Aliyev International Airport.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-79,Holidays/Celebration/Leisure,Lankaran.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-87,Holidays/Celebration/Leisure,Gobustan National Park.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-en-90,Holidays/Celebration/Leisure,Marriott.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-05,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-06,Food,Paklava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-08,Food,Wine.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-13,Food,Tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-15,Food,Pakhlava.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-21,Sport,Tennis.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-24,Sport,Zorkhana.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-29,Sport,The Olympics.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-47,Work life,15,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-58,Work life,Agricultural labor.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Lamb.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Classical Azerbaijani music.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Pear tea.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Pear-shaped armudu glasses filled with tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-07,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-09,Food,A tagua.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-13,Food,Eggplant.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-19,Sport,Horse.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ha-66,Family,A courtyard in a traditional house.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-01,Food,Starbucks.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-03,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-33,Work life,Guba.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-34,Work life,The Caspian Sea region.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-in-62,Education,Baku State University.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-63,Education,Baku State University.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Cash.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Landmark Park,,
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-01,Family,Mirak.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-02,Family,Visiting family and attending traditional birthing circles.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-03,Family,"""Sarı Gelin.""",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-04,Family,Toy cars and model airplanes.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-05,Family,Traditional Azerbaijani dolls and miniature carpets.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-06,Family,Khevsuraga Heyvan (The Beast of Khevsur).,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,Dolma.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-08,Work life,Restaurants and cafes.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-09,Work life,Pehlevanliq (wrestling) competitions and cultural festival participation.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-ko-10,Work life,Selling tea and crafts.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-02,Food,Pakhlava.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-06,Food,Qutab.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-11,Food,Sumac.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-16,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-20,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-45,Work life,"Work schedules are typically shorter, with many businesses operating on reduced hours during the day and extended hours in the evenings.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-47,Family,"09/25
+",,
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-49,Family,Mosques.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-53,Family,A traditional silk Kelaghayi.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-54,Family,Flowers and sweets.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-59,Family,3,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-65,Education,"8
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-66,Education,Chess.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-74,Education,Brangın (Free).,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Spending time with family and enjoying pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,The Baku International Film Festival – Eurasia.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Backgammon.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Turkey.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,The Maiden Tower.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-01,Food,Pupulya.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-04,Food,Citrus.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-05,Food,"Baklava, shekerbura, and gogal.",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-15,Sport,Mineral water.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-27,Education,"Increasingly higher, with a significant rise in university graduates.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-37,Education,Engineering.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-60,Family,Friday,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-65,Family,Military parades and fireworks.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-68,Family,Tandır çayı.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,Baku’s Flame Towers.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,"""Sogunda""",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-01,Food,Pitted fruits and nuts.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-09,Food,Olive oil.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,New-su-10,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-15,Food,Tandır.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-17,Sport,Swimming pools and complex sport establishments.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-21,Sport,Playing chess and drinking tea.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,New-su-24,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-28,Sport,Red.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-su-33,Education,"Smart casual, often with a traditional touch.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-34,Education,Choir.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,New-su-42,Education,Islam.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-su-45,Education,11/17,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-50,Work life,Shepherding.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-51,Work life,Tea and citrus production.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-57,Work life,Sheep.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-58,Work life,Sheep and cattle.,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,New-su-59,Work life,A şal (scarf) and a şalvar (baggy trousers).,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-60,Work life,Tea with citrus and bread.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-71,Family,Money and sweets.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-75,Family,Lada.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Halva and baklava.,,
+gemma3-4b,Azerbaijan,English,pers-3,New-su-81,Holidays/Celebration/Leisure,"A traditional red fez, a white shirt, and dark trousers.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-82,Holidays/Celebration/Leisure,"A richly embroidered, floor-length dress called a *gəlin* costume.",0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Lavash.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The Flame Towers.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,New-su-88,Holidays/Celebration/Leisure,Pop music.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-02,Education,"16:00
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-03,Education,18,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-06,Education,6,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-11,Education,"5
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-12,Education,Baku State University,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-13,Education,22,1,0.6666666666666666
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-15,Education,14,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-19,Work life,4,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-20,Work life,16,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-21,Work life,16,1,0.25
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Pandowran.,,
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Novruz.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,Carol of the Bells.,,
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-04,Education,30,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-05,Education,"9
+",1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-06,Education,11/27,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-11,Education,"09:00
+",1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-20,Family,"05/26
+",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Nu-in-40,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-1,Food,Kebab.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-13,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-16,Sport,Karabakh FC,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-22,Sport,Baku State University.,,
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-31,Family,Dogs.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-32,Family,"""Şah Dag""",0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-37,Family,Backgammon.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-6,Food,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-7,Food,Pakhlava and Lankaran tea.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Sa-en-9,Food,Pomegranate juice and fresh watermelon.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-10,Family,25,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-11,Family,20,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-13,Family,7,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-17,Sport,Wrestling.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-21,Sport,In the streets and local parks.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-22,Sport,Walking.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-23,Sport,Football.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-25,Sport,Sumqayıraq Futbol Klubuna qarşı yarışma.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-29,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-30,Sport,Football (soccer) broadcasts.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,Novruz Bayram.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,Samani.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,Kutab.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Pakhlava.,,
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-01,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-03,Sport,Azerbaijan Premier League.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-05,Sport,The Gabala Women’s Football Team.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-09,Sport,The Zekalarin Mubarezi school olympiad.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-11,Sport,Fikret Yesilyurt.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-12,Sport,Chess.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-15,Sport,Pehlevanliq.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-19,Work life,Ganja.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-21,Work life,Hospitality and social connections.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-22,Work life,The 1990s.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-24,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-27,Work life,Oil.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-35,Family,Dinner.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-36,Family,Spending time in the family garden.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-37,Family,22,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-38,Family,Novruz.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-39,Family,Backgammon.,1,0.5
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-41,Family,25,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-43,Family,1.2,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-44,Family,Lavash with local cheese and herbs.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-45,Family,Eating dinner together.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-48,Education,A+,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-49,Education,The Final Exam for University Entrance.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-51,Education,Mathematics.,1,1.0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-53,Education,School choirs.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Th-en-58,Education,Real analysis.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Tmp-ar-01,Education,University students usually go to the university examination halls.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Tmp-ar-02,Education,Marshrutkas.,0,0
+gemma3-4b,Azerbaijan,English,pers-3,Tmp-ar-04,Education,They often attend supplementary language or subject classes.,0,0

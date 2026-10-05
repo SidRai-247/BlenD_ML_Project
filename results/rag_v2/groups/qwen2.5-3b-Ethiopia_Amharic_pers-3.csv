@@ -1,0 +1,1751 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-01,Food,"የኢትዮጵያ ቅድመ መደበኛ ልጆች የተለመደ መክሰስ በአገልግሎች ይላል:
+
+1. ባህል ለማብራራት: kolo (ቆሎ), dabo kolo (ቅንብሮ), popcorn, sambusa (ሳምባsus), biscuits, roasted corn (የበይናክolo tibs), peanuts and chips.
+
+2. የአገርህን ባህል ለማብራራት: injera (inja) ነጻ ለshiro (ሽሮ, chickpea-flour stew), misir wat (ሊንድ ልዕላፍ), beyaynetu (ሚይነት, በጣም ደረጃ ሀብል ሃይሎ) ነጻ ለshiro.
+
+3. የአገርህን ያለቀቁ ልጆች: shawarma (ሬራማ), ful (ፍል), egg sandwiches (ግዕድ ቀይል ሃይሎ).
+
+4. አገርህን ያለቀቁ ልጆች: pasta (፦ፕ Tacoma) ነጻ ለshiro, bread (ብራድ) ነጻ ለkitta (ክትካ) ቀይል ሃይሎ.
+
+5. የአገርህን ያለቀቁ ልጆች: chips (ፍrisi) ነጻ ለshiro, burgers (ብሮድ) ነጻ ለshawarma, pizza (፦ፕ Tacoma) ነጻ ለshawarma.
+
+6. የአገርህን ቅድመ መደበኛ ልጆች: sambusa (ሳምባsus) ነጻ ለchips, shawarma (ሬራማ) ነጻ ለshawarma, ful (ፍል) ነጻ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-02,Food,"የኢትዮጵያ ቢራ ጋር ምን ዓይነት ምግብ የተወደደ ነው በአጠቃቀል 1 መልስ ይሆን። ብለም፣ ቢራ ጋር ምን ዓይነት ምግብ የተወደደ ነው ቦታ ፣በናይ ቢራ ጋር ምን ዓይነት ምግብ የተወደደ ነው።
+
+የኢትዮጵያ ቢራ ጋር ምን ዓይነት ምግብ የተወደደ ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-04,Food,"በኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት መልስ "" coffe"" (buna, ቡና) እዩ. ባህል ለአንድ የውጭ ዜጋ ለማብራራት አገሮም ባህል ለአንድ የውጭ ዜጋ "" coffe"" (buna, ቡና) እዩ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-06,Food,"የኢትዮጵያ በትምህርት ቤት መኖሪያ የተለመደ ምግብ እናገር ነበτ. በኢትዮጵያ የውጭ ዜጋ ለማብራራት ውስጥ, ቤት መኖሪያ የተለመደ ምግብ ምንድነት እናገር ነበτ. በኢትዮጵያ የውጭ ዜጋ ለማብራራት ውስጥ, ቤት መኖሪያ የተለመደ ምግብ ምንድነት እናገር ነበτ እና በአጻፈ ግዜ የሚከተለው ይጋese.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-08,Food,"በኢትዮጵያ በገባያ አዳራሽ ውስጥ በተለይ የሚበሉ ምግቦች ነ thee kolo (ቆሎ, ብር barley ናይን ተዕከል ኢንትዮም ኣብ ጎድ ክፍል አንስሳራ የጻፋፍ ምግብ), dabo kolo (small crunchy fried dough bites), popcorn, sambusa (lentil- or meat-filled pastry), biscuits, roasted corn (yebekolo tibs), peanuts and chips.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-09,Food,"የኢትዮጵያ ውስጥ ታዋቂ አሰራር ምግብ ማብራሪያዎች የሚከተለውን ጥያቄ በአጻፍ 1 ቁጥሮቷ ይላል. ታዋቂ አሰራር ምግብ ማብራሪያዎች በኢትዮጵያ ውስጥ ታዋቂ አሰራር ምግብ ማንኛውንም ይሆናል።
+
+አጻፍ 1 ቁጥሮቷ መረጃ የሚለው በኢትዮጵያ ውስጥ ታዋቂ አሰራር ምግብ ማንኛውንም ይሆናል። በአጻፍ 1 ቁጥሮቷ መረጃ በኢትዮጵያ ውስጥ ታዋቂ አሰራር ምግብ ማንኛውንም ይሆናል።
+
+የተደጋጌውን ማብራሪያዎች በኢትዮጵያ ውስጥ ታዋቂ አሰራር ምግብ ማንኛውንም ይሆናል።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-16,Education,በኢትዮጵያ ልጆች ቅድመ መደበኛ አንድ መልስ ብቻ ስጥ ነው 7 ቁጥሮች (አረብኛ ይምረጡ)። ከግለ希腊语12 ቁጥሮች ይህ ጥያቄ መልስ ብቻ ስጥ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-17,Education,"በኢትዮጵያ በመጀመሪያ ደረጃ ቤቶች እና ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው የሚከተለው ጥያቄ በኢትዮጵያዊ ለአንድ ዜጋ ነበር። ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው እና ቤቶች ከትምህርት በኋላ ምንድነው ነበር።
+
+የኢትዮጵያ ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው እና ቤቶች ከትምህርት በኋላ ምንድነው ነበር። ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው እና ቤቶች ከትምህርት በኋላ ምንድነው ነበር።
+
+የኢትዮጵያ ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው እና ቤቶች ከትምህርት በኋላ ምንድነው ነበር።
+
+የኢትዮጵያ ቤቶች ተጠባዕታት በትምህርት በኋላ ምንድነው እና ቤቶች ከትምህርት በኋላ ምንድነው ነበር።
+
+የኢትዮጵያ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-18,Education,በኢትዮጵያ በመጀመሪያ ደረጃ ትምህርት ተማሪዎቸ ማብራሪያ አንድ መልስ እና ከአገሯን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገሯን ያለው ዜጋ ለማብራራት ይጋላቸ በተለየ ለየትኛው የትምህርት አይነት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-19,Education,"በኢትዮጵያ በሁለተኛ ደረጃ ትምህርት ተማሪዎች በአገርህን ኢትዮጵያዊ ሰው ነው. እናመሰግናለሁ, ከአገርህን ይጋላ ትምህርት ተማሪዎች በአገርህን ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-21,Education,"በኢትዮጵያ ለብልህ ተማሪ ጠቃሚ ትምህርት እንደ ቀጻኛ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገሯንች ድግግሞቷል ይህ ጥያቄ አለበት, እና በኢትዮጵያ የተጠቀሰው ለብልህ ተማሪ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-32,Holidays/Celebration/Leisure,"በኢትዮጵያ ለምስጋና በዓል ዋነኛው ምግብ ምንድን ነው? 
+
+የአገርህን የመሰረት ይሆን, ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር ይሆን በኢትዮጵያ ዝግጅት እና ግንባር ያለው።
+
+የአገርህን የመሰረት ይሆን, ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በኢትዮጵያ ዝግጅት እና ግንባር ያለው።
+
+የአገርህን ይሆን, ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በኢትዮጵያ ዝግጅት እና ግንባር ያለው።
+
+የአገርህን ይሆን, ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በኢትዮጵያ ዝግጅት እና ግንባር ያለው።
+
+የአገርህን ይሆን, ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በኢትዮጵያ ዝግጅት እና ግንባር ያለው።
+
+የአገርህን ይሆን, ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-33,Holidays/Celebration/Leisure,"የኢትዮጵያ ሃሎዊን ነገር ይጋese as follows:
+
+1. ቀናት አገርህን የመውደም 11 መስከረም (SEP) ያልሆን፣ ብዙ ሃይል ለአንድ ዜጋ ለማብራራት ይቻላል።
+2. አገርህን የመውደም ግን ያለው ዝናዎች ተፈጥሙ ነበር፣ እንተ ሃይል ለአንድ ዜጋ ለማብራራት ይቻላል።
+3. አገርህን የመውደም ግን ቀናት አገርህን ያለው ዝናዎች ተፈጥሙ ነበር፣ ሃይል ለአንድ ዜጋ ለማብራራት ይቻላል።
+4. አገርህን የመውደም ግን ቀናት አገርህን ያለው ዝናዎች ተፈጥሙ ነበር፣ ሃይል ለአንድ ዜጋ ለማብራራት ይቻላል።
+5. አገርህን የመውደም ግን ቀናት አገርህን ያለው ዝናዎች ተፈጥሙ ነበር፣ ሃይል ለአንድ ዜጋ ለማብራራት ይቻላል።
+
+የኢትዮጵያ ሃሎዊን ነገር የምትሞከር ኢትዮጵያዊ ሰው ነህ፣",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-34,Holidays/Celebration/Leisure,"የኢትዮጵያ አዲስ አመት ቀን ሲያከብሩት በቁጥር 9 መግ(blocks) ዓመት. በዚህ ጥያቄ በተደጎቂቃ ተለዋል ነበር።
+
+1. ል modenew year (Enkutatash): 11 መግ(blocks) ዓመት
+2. Adwa: 2 መግ(blocks) ዓመት
+3. Patriots' Victory: 6 መግ(blocks) ዓመት
+4. Labour Day: 1 መግ(blocks) ዓመት
+5. Derg downfall: 28 መግ(blocks) ዓመት",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-35,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች ገና (Genna) በ7 መስከረም (January) ያደርጋል. ከፍ ምን ያደርጋሉ በ43 ሁለት ይህ ሀይል ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-36,Holidays/Celebration/Leisure,"የኢትዮጵያ ምን ዓይነት ምግብ እናለም፣ በአጻipc ፣በይ ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣የሰው ፣እንስ ፣እንስ ፣እንስ እና በአጻipc ይገኛል።
+
+በኢትዮጵያ ምግብ ከሃሎዊን ጋር ተያይዞ ይገኛል በቁጥል ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣የሰው ፣እንስ ፣እንስ ፣እንስ እና በአጻipc ይገኛል።
+
+በኢትዮጵያ ምግብ ከሃሎዊን ጋር ተያይዞ ይገኛል በቁጥል ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣የሰው ፣እንስ ፣እንስ ፣እንስ እና በአጻipc ይገኛል።
+
+በኢትዮጵያ ምግብ ከሃሎዊን ጋር ተያይዞ ይገኛል በቁጥል ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣እንስ ፣የሰው ፣እንስ ፣እንስ ፣እንስ እና በአጻipc ይገኛል።
+
+በኢትዮጵያ ምግብ ከሃሎዊን ጋር ተያይዞ ይገኛል በቁጥል ፣እንስ ፣እንስ ",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-37,Holidays/Celebration/Leisure,"የአገርህን ባህል ለሚከተለውን ጥያቄ ነው። በኢትዮጵያ በገና በዓል የተያያዘ ምግብ ምንድነው በተደጋጎቂ መልስ ነበር። በተደጋጎቂ መልስ እናገር በኢትዮጵያ በገና በዓል ላይ የተያያዘ ምግብ ምንድነው።
+
+የአገርህን ባህል ለሚከተለውን ጥያቄ ነበር፣ በኢትዮጵያ በገና በዓል የተያያዘ ምግብ ምንድነት እናገር ነበር። በኢትዮጵያ በገና በዓል የተያያዘ ምግብ ምንድነት እናገር ነበር።
+
+የአገርህን ባህል ለሚከተለውን ጥያቄ ነበር፣ በኢትዮጵያ በገና በዓል የተያያዘ ምግብ ምንድነት እናገር ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-38,Holidays/Celebration/Leisure,የኢትዮጵያ በቪልንቴይን ቀን እናገር የምትሞከር ኢትዮጵያዊ ሰው ነበር. በቪልንቴይን ቀን እናገር ይታያል ይህ ግዜ በማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በቪልንቴይን ቀን እናገር ይታያል ግዜ መካከል ያለው የምትሞከር ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-39,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች በልደታቸው ቀን ነው። ከሆነ ብርካዊ ቀን በእሱ ይጋላሉ፣ በአገርህን ያለው ሰዎች በልደታቸው ቀን ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-40,Holidays/Celebration/Leisure,"በኢትዮጵያ ቤተሰቦች እና ፍር夷ል መንገdit ያለውን ጥያቄ በታናሽ ልጆች ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ቤተሰቦች እና ፍር夷ል መንገdit ያለውን ጥያቄ በታናሽ ልጆች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+በኢትዮጵያ ቤተሰቦች እና ፍር夷ል መንገdit ያለውን ጥያቄ በታናሽ ልጆች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። ቤተሰቦች እና ፍር夷ል መንገdit ያለውን ጥያቄ በታናሽ ልጆች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+በኢትዮጵያ ቤተሰቦች እና ፍር夷ል መንገdit ያለውን ጥያቄ በታናሽ ልጆች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የተመረጡ ያለውን ጥያቄ በታናሽ ልጆች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Al-en-43,Holidays/Celebration/Leisure,"የኢትዮጵያ ለቤተሰቦች የታወቀ ውስጥ ቤት እንክብካቤ ምንድን ነው? 
+
+የኢትዮጵያ ቤተሰቦች የታወቀ ውስጥ ቤት እንክብካቤ ሁኔታ አላሆነ ቤት ግራም ነው. ቤት ግራም አላሆነ ቤት እንክብካቤ ይህ ቤት መጻፍ ማለት ይባል።
+
+የኢትዮጵያ ቤተሰቦች የታወቀ ውስጥ ቤት እንክብካቤ ሁኔታ አላሆነ ቤት ግራም ነው። ቤት ግራም አላሆነ ቤት እንክብካቤ ይህ ቤት መጻፍ ማለት ይባል።
+
+የኢትዮጵያ ቤተሰቦች የታወቀ ውስጥ ቤት እንክብካቤ ሁኔታ አላሆነ ቤት ግራም ነው። ቤት ግራም አላሆነ ቤት እንክብካቤ ይህ ቤት መጻፍ ማለት ይባል.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-02,Education,"የኢትዮጵያ ዩኒቨርስቲ ተማሪዎች ምሳቸውን የሚበሉበት ቦታ በአገሯንት ይጋese. እናመሰግናለሁ, በአገሯንት ውስጥ ተማሪዎች ምሳቸውን የሚበሉበት ቦታ በአገሯንት ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-03,Education,"The Ethiopian school year starts in September, which corresponds to the 9th month of the Ethiopian calendar. Therefore, based on the information provided and the structure of the Ethiopian calendar, the answer is:
+
+9",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-08,Education,"የኢትዮጵያ ተማሪዎች ቀን ትምህርት ቤት ስንት ሰዓት 12 ይቅርቡ. (0 = መ initialValues, 24 = ነ initialValues)",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-09,Education,50-60,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-34,Sport,"በኢትዮጵያ በትምህርት ቤት በቡድን የሚጫወቱ በአገሯንት ዜጋ (foonbac, እግር ኳስ) ታዋቂ ስፖርት ነው. እግር ኳስ በኢትዮጵያ ቤት በቡድን የሚጫወቱ ይጋናል እና ይጋላል እና ይጋላል. እግር ኳስ እና እግራት በኢትዮጵያ መንገድ ምንባብ ነው።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-35,Sport,"በኢትዮጵያ ታዋቂ የስፖርት አስተያየት ሰጪ ማን ነው በእግር ኳስ (foonbac, እግር ኳስ) ነው. አገሮም ነበረት፣ የአገሮም ነበረት ለመንፈስ ኣብ ተቃራኒ መካከል እና ማን ነበረት ለጠቅላላ ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-36,Sport,የኢትዮጵያ ምን ዓይነት ስፖርት ቡድን እጅግ ታዋቂ ነው በተደጎጻ ግዜ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ መካbrewit ጥቁ ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,An-ar-43,Sport,"የኢትዮጵያዊ ሰው በተለይ 20 ዝግጅቶች ተሰባስበት፣ በማብራራት ይጋናል። በአገርህን እና ባህላቸው ልዕሊ የውጭ ዜጋ ለማብራራት ዝግጅቶች ያለው ቦታ የምትሞከር ነበር። በአገርህን የውጭ ዜጋ ለማብራራት ዝግጅቶች ተሰባስበት በ cafés, bars ና small paid TV viewing rooms (የተለይ ""football houses"") ነበር። በአገርህን ባህላቸው ልዕሊ የውጭ ዜጋ ለማብራራት ዝግጅቶች ተሰባስበት በ cafés, shopping ና social media ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-05,Food,"በኢትዮጵያ ሰዎች በተለይነት በአንድ ቀን ዜጋ ነው. በአረቢኛ ቁጥሮች (ምሳሌ 5) ይመገባሉ።
+
+በኢትዮጵያ ሰዎች በተለይነት በአንድ ቀን ዜጋ ነው. Sunday, after church, ይህ ቁጥሮቹ ይመገባሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-06,Food,"በኢትዮጵያ ሰዎች በቀን ውስጥ እጅግ አስፈላጊ የሆነው ምግብ ምንድን ነው? በአገርህን ይጠይቅዱ, በኢትዮጵያ ሰዎች ውስጥ የሚከተለው መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ. በአገርህን ይጠይቅዱ, በኢትዮጵያ ሰዎች ውስጥ የሚከተለው ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ሰው እንደም笙 ጭፍል በአገሯና ስዎች የሚከተለው መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ. በኢትዮጵያ ሰው ነበር በአገሯና ስዎች ውስጥ የሚከተለው ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-08,Food,"የኢትዮጵያ የምግብ አሰራር ላይ በተለይ የተለመደ ንጥረ ነገር ይጋese ""በታይል ዘርፍ ዝነበረ ጥያቄ"" (Injera) ነው. Injera በኢትዮጵያዊ ሰው ከማብራራት ያለው ይጋese, እና ማብራራት ኮይኑ ይሆን ይችላል ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-09,Food,"ኢትዮጵያውያን በተለይ ምግብ እና ግርማ ይመገባሉ። ከጨረሱ በኋላ ምን ይመገባሉ ነው በአጻፍ ተደጎቂያ ዜጋ እና ግርማ ይመገባል።
+
+የኢትዮጵያ መልስ ምግብ ከጨረሱ በኋላ ምን ይመገባሉ በአጻፍ ተደጎቂያ ዜጋ እና ግርማ ይመገባል። ከጨረሱ በኋላ ምን ይመገባሉ በግርማ ይመገባል ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-11,Food,"ኢትዮጵያዊ ሰዎች በሳምንት ውስጥ በአራት የሂድ የሚያዘጋጁበት ቀን የትኛው ነው. በኢትዮጵያዊ ሰዎች የተለይ ውስጥ, ሃሳምንት ውስጥ በአራት የሂድ የሚያዘጋጁበት ቀን ነው. እናገር መግለጺ ግዜ ይህ ሃሳምንት ውስጥ በአራት የሂድ የሚያዘጋጁበት ቀን ነው, እና እነዚህ ቀን የትኛው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-14,Food,"የኢትዮጵያ ተወዳጅ ትኩስ መጠጥ ይህ ጥያቄ ቀ물을 ያልምንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነው። ተወዳጅ ትኩስ መጠጥ ከሂደት ይህ ጥያቄ ቀ물을 ያላቸውንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ተወዳጅ ትኩስ መጠጥ ይህ ጥያቄ ቀ물을 ያላቸውንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ተወዳጅ ትኩስ መጠጥ ይህ ጥያቄ ቀ물을 ያላቸውንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ተወዳጅ ትኩስ መጠጥ ይህ ጥያቄ ቀ물을 ያላቸውንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ተወዳጅ ትኩስ መጠጥ ይህ ጥያቄ ቀ물을 ያላቸውንም ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ተወ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,"የኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣል ነው?
+
+1. ጥያቄ ከኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣሉ ነበር።
+2. በአገሏት ወጣቶች ያልደም ተለይ ምን ይጠጣል እናመሰግናለሁ።
+
+የኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣሉ ነው? በአገሏት ወጣቶች ያልደም ተለይ ምን ይጠጣል።
+
+አገሏት ወጣቶች በተለይ ምን ይጠጣሉ ነው? በኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣል።
+
+የኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣሉ ነው? በአገሏት ወጣቶች ያልደም ተለይ ምን ይጠጣል።
+
+የኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣሉ ነው? በአገሏት ወጣቶች ያልደም ተለይ ምን ይጠጣል።
+
+የኢትዮጵያ ወጣቶች በተለይ ምን ይጠጣሉ ነው? በአገሏት ወጣቶች ያልደም ተለይ ምን ይጠጣል።
+
+የኢትዮጵያ ወጣቶች",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,"5
+
+Adwa Victory Day is celebrated on March 2nd in Ethiopia, which corresponds to the 5th month of the Ethiopian calendar. Therefore, Adwa Victory Day would be listed as occurring in the 5th month (May).",1,0.25
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"In Ethiopia, the Ethiopian New Year (Enkutatash) is celebrated on September 11th. This holiday involves wearing traditional white clothes, girls singing door-to-door and receiving money or bread, children giving drawings of flowers, and families celebrating by slaughtering a chicken or sheep for doro wat.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-38,Family,"በኢትዮጵያ ለአንድ ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው? 
+
+የኢትዮጵያ ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገሏቹ ይጋላል።
+
+የኢትዮጵያ ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገርህን ያልም እና በአጻፈ ይጋላል። ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገሏቹ ያልም እና በአጻፈ ይጋላል።
+
+የኢትዮጵያ ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገሏቹ ያልም እና በአጻፈ ይጋላል። ቤተሰብ የተለመደ የቤት አይነት ምን አይንት ነው በአገሏቹ ያልም እና በአጻፈ ይጋላል።
+
+የኢ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-41,Family,"በኢትዮጵያ አረጋዊያን በተለይ የሚኖሩበት ቦታ ማ Turkana ናቸው. እናመሰግናዎም, አገርህን ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-42,Family,ኢትዮጵያ የእናትነት ፍቃድ ለእናቶች ስንት ነው 17 ቁጥሮቹ (30 ቁጥሮቹ በመቀረበት እና 90 ቁጥሮቹ ይህ እና 17 ቁጥሮቹ).,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-43,Family,የኢትዮጵያ ለአባቶች ለስንት ሳምንት ፍቃድ 30 ቁጥር ነው. ይህ መልስ ብቻ ስንት ሳምንት ሳደይ ይሰጣል።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ca-sp-45,Family,"የኢትዮጵያ ለቤተሰብ በተመረጡት መድረኮች ውስጥ የታወቀ ዓይነት መድረክ ምንድን ነው? በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ መግለጺ ጥቂት በተመረጡት መድረኮች ውስጥ የታወቀ ዓይነት መድረክ ነበር ይህንም, በአገሏት ጥቂት በተመረጡት መድረኮች ውስጥ የታወቀ ዓይነት መድረክ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-05,Sport,"የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት ነበር. ባህል ለአንድ የውጭ ዜጋ ለማብራራት በኢትዮጵያ ትልቅ ሰዎች ምን ዓይነት ነበር ቦታ ይህ ብለው:
+
+1. መካከል (Basketball)
+2. ግራት (Volleyball)
+3. አፍጻሚያ (Football/Soccer)
+
+የኢትዮጵያ ሰዎች ባህል ለአንድ የውጭ ዜጋ ለማብራራት በጣም ይዎዳሉ ነበር. ባህል ለአንድ የውጭ ዜጋ ለማብራራት በኢትዮጵያ ትልቅ ሰዎች ምን ዓይነት ነበር ቦታ ይህ ብለው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-06,Sport,የኢትዮጵያ ወንዶች ምን ዓይነት ስፖርት እንደሚወዱ በርካታ ይጫወታሉ ቦታ በፍጥሂ Turkic መልስ ነው. በኢትዮጵያ ወንዶች የተገናኝ ስፖርት እንደሚወዱ በርካታ ይጫወታሉ ቦታ በፍጥሂ መልስ ነው. በኢትዮጵያ ወንዶች የተገናኝ ስፖርት እንደሚወዱ በርካታ ይጫወታሉ ቦታ በፍጥሂ መልስ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-07,Sport,"የኢትዮጵያ እጅግ ዝነኛ ቅርጫት አገሮም ክፍል ከ Haile Gebrselassie, Kenenisa Bekele, Abebe Bikila በናይ ሃይለ ገብረሥላሴ, ደንሂ Turkulu, ማserterድ Defar, ሀማያ Ayana, ሀseset Gidey ከ በአፍሪካ ቅርጫት ዝነበረ ነው.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-08,Sport,"የኢትዮጵያ ልጆች መካከል ታዋቂ በአፍሪካ እግራ ዜጋ (foonbac, እግር ኳስ) ነው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-09,Sport,የኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአገርህን የፍጥነት እንደሚወዱ እጅግ ስፖርት ነው. ባህል ለውጭ ዜጋ ለማብራራት በአገርህን የፍጥነት እንደሚወዱ ተለዋል በየፍጥነት ስፖርት ነው. ባህል ለውጭ ዜጋ ለማብራራት በአገርህን የፍጥነት እንደሚወዱ ያለው ተለዋል በየፍጥነት ስፖርት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-11,Sport,"ኢትዮጵያ በኦሊምፒክ ብዙ ሜዳሊያ በላይድን ማሬሪዲያ ከፍተኛ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በጣም ፣ኢትዮጵያ በላይድን ማሬሪዲያ እና 5,000 ማሬር ከፍተኛ ይጋላችል ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-15,Sport,"በኢትዮጵያ ዩኒቨርስቲ ውስጥ ወንድ ተማሪዎች በተረኛም የሚወዱት ስፖርት ነው ባህል ለአንድ የውጭ ዜጋ ለማብራራት:
+
+1. እግር ኳስ (foonbac, እግር ኳስ) - በአገሯንና ውስጥ ያለው ስፖርት
+2. ክክልብ (basketball)
+3. ማባህብ (volleyball)
+4. ጥቁር (table tennis)
+
+የተደጠቀሰው ባህል ለአንድ የውጭ ዜጋ ለማብራራት ነው ባህል ለአገሯንና ውስጥ ወንድ ተማሪዎች በተረኛም የሚወዱት ስፖርት ነው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-16,Family,40 members,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-18,Family,12,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-31,Education,ኢትዮጵያ የመጀመሪያ ደረጃ ትምህርት ስንት አመት ነው 5 አመት. ብቻ (ምሳሌ 12) ይምላሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-32,Education,የኢትዮጵያ የተማሪዎች ዝቅተኛ የማጠናቀቂያ ዓመት ነው 8 ቁጥሮች (grades). ብቻ ስንት ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-33,Education,የኢትዮጵያ ተማሪዎች ሁለተኛውን ቋንቋ አስፈላጊ ግንባር 12 ብቻ ይምልከቱ. ተማሪዎች መካከል ዝግጅት ከምንት ዓመታት 7 ብቻ ይምልከቱ።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-38,Education,በኢትዮጵያ የመጀመሪያ ዲግሪ ትምህርት ርዝመቱ 4 ኃynes ይሄን ይቻላል. ቁጥሮች በአረብኛ ብቻ (12-13) የሚከተለው፣ ቁጥሮች በአማርኛ ብቻ (14-15) የሚከተለው፣ ነገር ልደት 9-12 ዲግሪ ትምህርት ርዝመቱ።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-40,Education,"ኢትዮጵያ ቅድመ የመጀመሪያ ደረጃ ተማሪዎች ስንት ሰዓት 8-12 አራት ይጨርሳል. (የሰዓቱ ቅጽ ይምረጡ 09:00, 17:00.)",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Gu-ch-41,Education,በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች አንድ መልስ ብቻ ስጥ ነው ይጫወታል. በአገርህን የመጀመሪያ ደረጃ ተማሪዎች ውሬት እና ስንት መሣሪያዎች ይጫወታል. በአገርህን የመጀመሪያ ደረጃ ተማሪዎች ውሬት እና ስንት መሣሪያዎች ይጫወታል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-02,Work life,"በኢትዮጵያ ሰዎች በሳምንቱ ቀን 12:30-13:00 እራት መብላት ይመርጣል. Sunday, እና ከአሰባ ግን ""${Sunday}"" ሰዎች እና በአስባ ግን ""${Saturday}"" ሰዎች እና ይመርጣል.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-03,Work life,ኢትዮጵያ ከፍተኛ ብዛት ያላቸው Addis Ababa ነበር። Addis Ababa በአገሯን ክልል ላይ ናቸው፣ እና它是埃塞俄比亚的主要商业和金融中心，拥有梅克达（非洲最大的露天市场之一）等地点。Addis Ababa ነበር Addis Ababa በአገሯን ክልል ያላቸዋል።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-07,Work life,የአገርህን ውስጥ እጅግ ታዋቂ የሆነ የግል ድርጅት በኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ውስጥ ታዋቂ የግል ድርጅት እንደሚለው በአገሯንት የውጭ ዜጋ (Addis Ababa) ማብራሪያ ጽፍል ነበር. Addis Ababa በኢትዮጵያ ውስጥ ታዋቂ የግል ድርጅት እና በአገሯንት ማብራሪያ ጽፍል ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-08,Work life,የኢትዮጵያ ሰው ከፍተኛው ሰዓት በአንድ ሳምንት ሊሠራ የሚችል 5.5 ሰዓት ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-09,Work life,በኢትዮጵያ ሰዎች በድርጅት ስብሰባ ጊዜ በተለይ ምን ይበላሉ በአጻipc ፡፣ በመግቢያ የሚገኙው ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር። በድርጅት ስብሰባ ጊዜ በተለይ ይbebalo በ injera መካከል ያላቸው፣ በመግቢያ የሚገኙው ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-14,Work life,"የኢትዮጵያ ወኪል የወጭ ንግድ በአገሯንች የተሰጡበት ጥቁም ነው. በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ወኪል የወጭ ንግድ በአገሯንች የተሰጡበት ጥቁም ነው:
+
+1. ታሪክ
+2. ተፈላjective
+3. ባህል ለአንድ ዜጋ ለማብራራት
+4. በአገሯንች የተሰጡበት ጥቁም
+
+የኢትዮጵያ ንግዲያ ባህል ለአንድ ዜጋ ለማብራራት ነው። በአገሯንች የተሰጡበት ጥቁም ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-15,Work life," Ethiopian government offices work from 8:30 to 12:30 and 13:30 to 17:30 in local time, which is about 8 hours of work per day. Therefore, based on the information provided, the normal working hours for Ethiopian government offices are 8 hours a day.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-16,Family,በኢትዮጵያ እናቶች ከወሊድ በኋላ ለተወሰነ ጊዜ ረፍት የሚያደርጉት 40 ዝርዝር ነው. ከወሊድ በኋላ ለተወሰነ ጊዜ ረፍት ይህ እንችግር ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-19,Family,የኢትዮጵያ ቀን በወላጆች ቀን በ14 መስከረም ዜጋ ለማብራራት ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-22,Family,"In Ethiopia, when visiting elderly parents, it is common to bring coffee, sugar, bread, clothing (such as a gabi or netela shawl) or money. A first salary is traditionally spent on gifts for parents, especially clothes for the mother.",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-24,Family,"የኢትዮጵያ ልጆች በሚወቀቸው መካከል በተደጋጌ ብሄር ክፍሎች፣ ተቋማቶች እና ታሪክ ተቋማት የመዝናኛ ማንኛው ነው። በኢትዮጵያ መካከል በተደጋጌ ብሄር ክፍሎች ያለው ተቋማቶች እና ሳይንግ ተቋማት ነው። በኢትዮጵያ መካከል በተደጋጌ ብሄር ክፍሎች ያለው ተቋማቶች ማንኛው ነው በተመረጠው የመዝናኛ ማንኛው ነው።
+
+የኢትዮጵያ መካከል በተደጋጌ ብሄር ክፍሎች ያለው ተቋማቶች እና ሳይንግ ተቋማት ነው። በኢትዮጵያ መካከል በተደጋጌ ብሄር ክፍሎች ያለው ተቋማቶች ማንኛው ነው በተመረጠው የመዝናኛ ማንኛው ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-25,Family,"In Ethiopia, popular domestic family and honeymoon destinations include lake resorts such as Bishoftu (Debre Zeit), Kuriftu resort, Hawassa, Bahir Dar (Lake Tana), Lake Langano, Sodere hot springs, and Arba Minch. Families often book hotels or resorts in these areas for their holidays and vacations.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-26,Family,"የኢትዮጵያ ውስጥ ልጆች ቁልፍ ማህበረሰብ ሚያሳይ ቁልፍ እንዲሁም እንቅስቃሴዎች ምንድነው? 
+
+የኢትዮጵያ ውስጥ ልጆች ቁልፍ ማህበረሰብ ሚያሳይ ቁልፍ 25 አመር መስከረም ይሄን። ብዙና ቁልፍ ማህበረሰብ ምስል እንቅስቃሴዎች ምንድነት ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-27,Family,በኢትዮጵያ አያቶችን ስትጎብኙ በአገርህን ዜጋ ለማብራራት የምትሞከር ነው. እባክዕ ግልጽ ናይነት በአገርህን ዜጋ ለማብራራት ይጋላቸው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-28,Family,በኢትዮጵያ ልጅ ከተወለደ በኋላ ሰዎች የመጀመሪያውን የሚያከብሩት ቀን 11 መግ(blocks) መር(blocks) ዓመታት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-29,Family,"የልደት ቀን በኢትዮጵያ ውስጥ የትኛው እድሜ በ27 ማዕከλ (መስቀል) ይጋናል. በምስentevil ጥያቄ ያለውን, በተደጎጻ ቀን ነገር በ27 ማዕከλ የትኛው እድሜ በማብራራት ይጋናል.",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-31,Education,"የኢትዮጵያ የአንደኛ እና ሁለተኛ ደረጃ ተማሪዎች ለፈተናዎች በተለይ የት ያጠናል:
+
+1. ግራድ 6 (የአፍላፍ እና ታክላ ዘርፀ) - በተለይ የት
+2. ግራድ 8 (የአፍላፍ ተጎች ዘርፀ) - በተለይ የት
+3. ክፍል ሁኔታዊ ዘርፀ (Ethiopian Secondary School Leaving Certificate Examination / መንገድ ዘርፀ) - በተለይ የት
+
+የኢትዮጵያ የአንደኛ እና ሁለተኛ ደረጃ ተማሪዎች በተለይ የት ያጠናል። በተለይ የት ዘርፀ በአፍላፍ እና ታክላ ዘርፀ ወደፊያ ይጠንቀች የሚገኝ ጥያቄዎች ያልሆን።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-33,Education,"የኢትዮጵያ ሰው ብቻ በአሁን ያልገጻ ።
+
+1. ከእራት በኋላ: ቤተ በር
+2. በአሁን: ቤተ መካከል
+3. ሰው ብቻ: ቤተ ጎድ ።
+
+የኢትዮጵያ ከእራት በኋላ ቤተ በር በአሁን ቤተ ጎድ ፣ ሰው ብቻ በአሁን ቤተ መካከል ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-34,Education,የኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች ወደ ትምህርት ቤት እንዴት ይሄዳል ነው በአጻipc ፣በለጮ ፣ናይ ማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ። በአጻipc ፣በለጮ ፣ናይ ማብራራቶች ይሄዳል በአገር ጥሪዎች ወደ ትምህርት ቤት እንዴት ይሄዳል።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-35,Education,በኢትዮጵያ ውስጥ በጣም የተለመደው የግል ትምህርት ነገር ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር. በኢትዮጵያ ውስጥ የግል ትምህርት ነገር ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር ይጠይቀናል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-36,Education,የኢትዮጵያ ትምህርት አካዳሚ/የግል ትምህርታዊ ተቋማት መካከለኛ ወይም ከፍተኛ ትምህርት ደረጃ ተማሪዎች በብዛት የሚከታተሉት ትምህርት ጥያቄ በአገሯን ማብራራት ነው. በአገሯን ማብራራት ይጋላል ተቋማት መካከለኛ ወይም ከፍተኛ ትምህርት ደረጃ ተማሪዎች በብዛት የሚከታተሉት ትምህርት ጥያቄ በአገሯን ማብራራት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-37,Education,የኢትዮጵያ የአንደኛ እና ሁለተኛ ቤት ተማሪዎች ወደ ቤት ሲሄዱ አልባሳት ይለብሳሉ በሚገኝር የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ቤት ሲሄዱ አልባሳት ይለብሳሉ በሚገኝር ቤት ተማሪዎች ወደ ቤት ሲሄዱ እንደ ግራ ነበር. ቤት ተማሪዎች ወደ ቤት ሲሄዱ አልባሳት ይለብሳሉ በሚገኝር ቤት ተማሪዎች ወደ ቤት ሲሄዱ እንደ ግራ ነበር. ቤት ተማሪዎች ወደ ቤት ሲሄዱ አልባሳት ይለብሳሉ በሚገኝር ቤት ተማሪዎች ወደ ቤት ሲሄዱ እንደ ግራ ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-38,Education,በኢትዮጵያ ለመግባት በጣም ከባድ የሆነው የትምህርት ዘርፍ የትምህርት (Medicine) ነው. በአጻipcዕ ጥያቄ ልደት፣ የትምህርት ዘርፍ የትምህርት የሆነው የመግባት የተገናኝ ነው።,1,0.75
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-39,Education,"በኢትዮጵያ የመጀመሪያ ትምህርት ተማሪዎች በተለይ የሚማሩት ሙዚቃ መሣሪያ ነው. በአገርህን ይጻፄል, ተማሪዎች በአቀፍ ጥራት ነበር። በአገርህን ለመጀመሪያ ትምህርት ተማሪዎች የሚታይው ሙዚቃ መሣሪያ ነው እና በአገርህን ያለው ተማሪዎች ይጻፄል ግን በአገርህን የመጀመሪያ ትምህርት ተማሪዎች ለማብራራት ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-40,Education,"በኢትዮጵያ ሁለተኛ ደረጃ ቤቶች ውስጥ በእረፍት ጊዜ ተማሪዎች ምን ያደርጋሉ? 
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ውስጥ, ቤቶች ውስጥ በእረፍት ጊዜ ተማሪዎች ምን ያደርጋሉ በአገሯናዊ የምትሞከር ለውጭ ዜጋ ለማብራራት ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-41,Education,"የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ውስጥ ተማሪዎች የአይነት ጫማ ይለብሳሉ? 
+
+የኢትዮጵያ ብ blanks ነው, ማንም በትምህርት ቤቶች ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-42,Education,"የኢትዮጵያ ዩኒቨርስቲ መግቢያ ፈተና በአጠባught ጥያቄ ይላል, በሚከተለውን ከፍተኛ ነገር ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ ናቸው. በአጠባught ጥያቄ ይላሉ ፣የኢትዮጵያ ዩኒቨርስቲ መግቢያ ፈተና በመጀመሪያ የትምህርት አይነቶች ነው።
+
+1. በgrades 6ና 8 ይጋላ የትምህርት (የኢትዮጵያ ሰው ንሬስ ፍልግ ፍለጡ እንደ መንገድ ነፍተኛ በመጀመሪያ የትምህርት አይነቶች)።
+2. በGrade 12 (የኢትዮጵያ ሰው ንሬስ ፍልግ ፍለጡ እንደ መንገድ ነፍተኛ የመጀመሪያ የትምህርት አይነቶች)፣ በአውታራዊ ሰው ንሬስ ፍልግ ፍለጡ እንደ መንገድ ነፍተኛ የመጀመሪያ የትምህርት አይነቶች።
+3. በአውታራዊ ሰው ንሬስ ፍልግ ፍለጡ እንደ መንገድ ነፍተኛ የመጀመሪያ የትምህርት አይነቶች፣ በአውታራ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-44,Education,"ኢትዮጵያ ውስጥ ለትምህርት እንደሚከተሉት ትኩረት ያለው ክልል ወይም ከተማ ነው Sidama, Yirgacheffe (Gedeo), Jimma, Kaffa, Harar. አገሮሚያ እናአammara ባህላዊ ማንኛው ነው ይጋese livestock herding.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ji-ko-45,Education,"የኢትዮጵያ ባህል ሰዎች በአስመራት፣ ፍቅርታና ይጋላቸው:
+
+1. መሰቀል (Meskel): 27 እነ Turk (SEP) - ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው. መሰቀል ይጋላቸው ከሂን ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው. መሰቀል ይጋላቸው ከሂን ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው.
+
+2. ሃይልት (Timket): 19 እነ Turk (JAN) - ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው. ሃይልት ይጋላቸው ከሂን ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው. ሃይልት ይጋላቸው ከሂን ቤተ ጥቁር ማድረያ በአየር ዝርዝር ፍቅርታና ይጋላቸው.
+
+በኢትዮጵያ ዩኒቨርስቲ ፌስቲቫሎች እንደሚጠብቁት ሰዎች በአስመራት፣ ፍቅርታና ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-01,Sport,"በኢትዮጵያ ሁለተኛው ተወዳጅ ስፖርት አፍሪካዊ የአግራ ሃይል ስፖርት (የእግር ኳስ) ነው. ተወደጎች እንደሚለው ቀላል ግጥምት አፍሪካዊ የአግራ ሃይል ስፖርት ክፍሎች ነው, እና አፍሪካዊ የአግራ ሃይል ስፖርት ተወደጎች እንደሚለው ቀላል ግጥምት አፍሪካዊ የአግራ ሃይል ስፖርት ክፍሎች ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-02,Sport,"የኢትዮጵያ ያልኳስ ተወዳጅ ስፖርት በአጻፎም ፣ፍሎግ (ክስ) ነው. ተወዳጅ ስፖርት በአገሯንድ የመ敕命 መናይ ይጋላል, በሰባት፣ ማብራታት እና ግንባር ምስ ተወዳጅ ስፖርት እና ቤክብ መካከል ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-09,Sport,"የኢትዮጵያ ምን ዓይነት ስፖርቶች በባለሃብቶች ይዘወተራል, በአጠናኛውም እናገር የሚከተለው ጥያቄ ያልምንም ተደጎግጥ ነበር. በኢትዮጵያ ስፖርቶች ይህ በአጠናኛውም መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር. 
+
+የኢትዮጵያ ስፖርቶች ውጭ ምን ዓይነት የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ። በአጠናኛውም መልስ አንድ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-13,Sport,"የኢትዮጵያ ምን ዕላማዊ ሰው እጅግ ታዋቂ ነው, በአጠናughterus ውሃ ስፖርት በጣም ግን ታዋቂ ነበር. በኢትዮጵያ ውሃ ስ Tottenham የሚከተለው ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ውሃ ስ Tottenham የሚከተለው ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ውሃ ስ Tottenham የሚከተለው ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-14,Sport,"የኢትዮጵያ ምን ዓይነት አእምሮ ስፖርት እጅግ ታዋቂ ነው, በአጠናughterus ይላል ተደጎቑ ግን በአማርኛ የሚለው ባህል ለውጭ ዜጋ ለማብራራት እግር ኳስ (foonbāl) ነው. በኢትዮጵያ ተደጎቑ ግን በአማርኛ የሚለው ባህል ለውጭ ዜጋ ለማብራራት እግር ኳስ (foonbāl) ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-18,Work life,የኢትዮጵያ ሠራተኛ በ16 ዜጋ እንደሚያገኝ ቀን በአል እንደሚያገኝ ነው. በአረቢካ ቁጥሮች (ምሳሌ 12) እንደሚያገኝ ዜጋ ማብራሪያ ኢትዮጵያዊ ሠራተኛ በ12 ዜጋ እንደሚያገኝ ቀን በአል እንደሚያገኝ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-19,Work life,ኢትዮጵያ ልጆች ወደ ብዙሮና (Afar) እና Somali ተለይዞ በአየር ወቅታ የተያያዘው ክልል የቱ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-21,Work life," Ethiopian government offices work from 08:30 to 12:30 and 13:30 to 17:30 in local time. So the working hours can be expressed as 08:30-12:30 and 13:30-17:30, which in HH:MM format is 08:30-12:30 and 13:30-17:30.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-31,Education," Ethiopian schools usually start at 8:00 in Ethiopian local time. Therefore, the schools start at 08:00.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-32,Education,"በኢትዮጵያ በመጀመሪያ ደረጃ ቤት በተማሪዎች በትምህርት ቤት ውስጥ ምን ዓይነት ስፖርት ይሠሩ ነው? 
+
+የኢትዮጵያ በመጀመሪያ ደረጃ ቤት በተማሪዎች በትምህርት ቤት ውስጥ ስፖርት ይሠሩ ነው በፍላጻ ብለን ቤት በትምህርት ቤት ውስጥ ከሂድ ያልቃል። በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። ቤት በተማሪዎች በትምህርት ቤት ውስጥ ይሠሩ ስፖርት የጻፋፍ ጥያቄ ነው። በአገርህን ባህል ለአንድ ዜጋ ለማብራራት ውስጥ በተማሪዎች በትምህርት ቤት ውስጥ ከሂድ ያልቃል ብለን ቤት በትምህርት ቤት ውስጥ ስፖርት ይሠሩ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-36,Education,የኢትዮጵያ የምጀመሪያ ደረጃ ቤቶች የክረምት የእረፍት ጊዜ ስንት ሳምንት 7፣ 8 ዓመት ነው.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-37,Education,የኢትዮጵያ ዩኒቨርስቲዎች ቤቶች የክረምት የእረፍት ጊዜ ስንት ሳምንት 8-10 ቁጥሮች ነው.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-39,Education,"በኢትዮጵያ የመጀመሪያ ደረጃ ትምህርት በስንት አመት ይጀመራል. ማብራሪያ መጻፍላstile, በዓርብ 7 አመት ይጀመራል.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jo-sp-43,Education,በመጀመሪያ ደረጃ በኢትዮጵያ ያህል 7-8 ዋይዱ ያህል ቋንቋዎች ምን ነው። እናለም፣ በአገርህን የመጀመሪያ ደረጃ ይሆን 1-8 ዋይዱ ያህል ቋንቋዎች ምን ነው። እናለም፣ በአገርህን የመጀመሪያ ደረጃ ይሆን 1-8 ዋይዱ ያህል ቋንቋዎች ምን ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-01,Food,"በኢትዮጵያ ሰዎች በተደጋጋሚ የሚጠቀሟቸው መመገቢያ እቃዎች በአ right hand (ማንነት ለይ) ነበር። ኢትዮጵያዊ ሰው በተደጋጋሚ የሚጠቀሟቸው መመገቢያ እቃዎች ይህንም ያለው የሚጠቀሟቸው ለይ ይስጥል።
+
+በኢትዮጵያ ባህል ለአንድ ዜጋ ኢትዮጵያዊ ሰው ነበር። ኢትዮጵያዊ ሰው በተደጋጋሚ የሚጠቀሟቸው መመገቢያ እቃዎች ይህንም ያለው ለይ ይስጥል።
+
+በኢትዮጵያ ባህል ለአንድ ዜጋ ኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-04,Food,"የአገርህን ባህል ለውጭ ዜጋ እያንዳንዱ ሰው ይወደል ኢትዮጵያዊ መጠጣትን የምትሞከር ነበር. ባህል ለውጭ ዜጋ እያንዳንዱ ሰው ይወደል ልዩነት ኢትዮጵያዊ መጠጣቶች የምትሞከር በመቀየማ ጥራት ነበር, ንayi ባህል ለውጭ ዜጋ እያንዳንዱ ሰው ይወደል ልዩነት ኢትዮጵያዊ መጠጣቶች የምትሞከር በመቀየማ ጥራት ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-06,Food,የኢትዮጵያ ባህልያዊ አልኮል ታዋቂ ቀን ማለትም tej (ጠጅ)፣ tella (ጠላ)፣ እና areke (/distil/ ይሆን) ነው. Tej እና tella በአየርስት ከይናነት እና ልማት እና假日 ያልገኝ። Men አብ ጭምር፣ areke እና whisky; women አብ በአየር፣ beer እና tej ያልገኝ.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-07,Food,የኢትዮጵያ ሰዎች በአማካይነት እራት ለመመገብ በምግብ ቤት ስንት ሰአት 2.5 ከሃሳቡ ይቕረ得。,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-09,Food,የኢትዮጵያ ሰዎች እራት በምን ሰዓት ይበላሉ ቦታ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ። በአጠናቀሰው ሰዎች እራት በ7:00-8:00 ይበላሉ፣ ሀይሊ 12:30-13:00 ይበላሉ፣ እና 19:00-20:00 ይበላሉ።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-12,Food,"Aienticate wodedi maambirait shorba dibru. Injera (እንጀራ) dibru spongy sourdough flatbread dibru mifta tef, wat (stew) dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru dibru",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-13,Food,"ኢትዮጵያውያን ምን የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም:
+
+1. Injera (እንጀራ): ኢትዮጵያውያን ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም. Injera ኢትዮጵያውያን ስራ ነበር ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም.
+
+2. Doro wat (ዶሮ ወጥ): ኢትዮጵያውያን ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም. Doro wat ኢትዮጵያውያን ስራ ነበር ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም.
+
+3. Shiro: ኢትዮጵያውያን ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም. Shiro ኢትዮጵያውያን ስራ ነበር ግድ የጎዳና ምግብ አይደለgable ብቻ ይልቅ ይvisibility 0 ያልምንም.
+
+4. Key wat (beef stew): ኢትዮጵያውያን ግድ የጎዳና ምግብ አይደለ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-15,Food,"ኢትዮጵያውያን ባህል ምግብ እንዴት ያለ ግራምድ ነበር. ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል። ባህል ምግብ እንዴት ያለው ይጠይቀናል፣ ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል።
+
+የኢትዮጵያ ባህል ምግብ እንዴት ያለው ይጠይቀናል፣ ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል።
+
+የኢትዮጵያ ባህል ምግብ እንዴት ያለው ይጠይቀናል፣ ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል።
+
+የኢትዮጵያ ባህል ምግብ እንዴት ያለው ይጠይቀናል፣ ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል።
+
+የኢትዮጵያ ባህል ምግብ እንዴት ያለው ይጠይቀናል፣ ኢትዮጵያ የባህር ምግብ እንዴት ያለው ይጠይቀናል።
+
+የኢትዮጵያ ባህል ምግብ እንዴት ያለው ይ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,"በኢትዮጵያ ትልቅ ዓለም አቀፍ በ27 ማርቷ፣ ልደት ህይወሳቸውን ጥራብ ከሂድ ይጋላል። በአመሰግናዊ ምስቀል (መስቀል) ዜጋ ለማብራራት ነው፣ በዚህ ዜጋ ለማብራራት ይጋላል እንደሚከተለው ግንባር ህይወሳቸውን መካከል ከሂድ፣ በአስቀል (ጥምቀት) ዜጋ ለማብራራት ነው፣ በዚህ ዜጋ ለማብራራት ይጋላል እንደሚከተለው ግንባር ህይወሳቸውን ሰነ ከሂድ።
+
+አመሰግናዊ ምስቀል፣ በአገራ ቤት ይጋላል፣ በአገራ ቤት እንደሚከተለው ግንባር ህይወሳቸውን መካከል ከሂድ ይጋላል። ህይወሳቸውን ሰነ ከሂድ ይጋላል Addis Ababa-ში በአገራ ቤት እንደሚከተለው ግንባር ህይወሳቸውን ሰነ ከሂድ Addis Ababa-ში ይጋላል.",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,ኢትዮጵያ ከከተማ ወደ ከተማ ሲጓዙ ሰዎች በተለይ የሚጠቀሙበት ህዝባዊ ትራንስፖርት በአየርሃሽና ልብ ነው. በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰዎች በመለሱ ያለው። በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት እና በመቀየር ልዕሊ ጥቁም በአገሏች ወደ ከተማ ሲጓዙ ሰዎች ያለው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,"In Ethiopia, the biggest festivals are Meskel and Timket. Meskel is celebrated on 27 September with a huge Demera bonfire and yellow Meskel daisies. It is also known as the Finding of the True Cross. Timket is celebrated on 19 January and involves processions of the tabot and re-enactment of Christ's baptism. Both Meskel and Timket are UNESCO-listed events.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-37,Sport,"የኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ፍዕታ የተገበረ ነው. ብቻ ማን ስፖርት ማየት እናፈቅራሉ ግን በኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው. በኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው ይሆን።
+
+የኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው ግን በአፍሪካ ነገር የተገበረ ነው ይሆን። በኢትዮጵያ ሴቶች ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው ግን በኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው።
+
+የኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ ነገር የተገበረ ነው ግን በኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት በአፍሪካ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-38,Sport,"በኢትዮጵያ ወንዶች ምን ዓይነት ስፖርት ማየት እናፈቅራሉ በአጻipcዕ ፡ 1 መልፍልስ ነው:
+
+በኢትዮጵያ ወንዶች ምን ዓይነት ስፖርት ማየት እናፈቅራሉ? በአጻipcዕ ፡ 1 መልፍልስ ነው ተቃሚ በእግር ኳስ (foonbac, እግር ኳስ) ይሆን።
+
+የኢትዮጵያ ስላሳብ ግዜ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። አር#+ (阿森+#, मॅनस+# युनिव+#, चल्म+#) በየናይ ጥራቸው ይሆን በኢትዮጵያ ልጻፍ ነበር።
+
+እግር ኳስ በአገርህን የውጭ ዜጋ ለማብራራት ያለው ጥያቄ ናይነት ነው፣ እና በኢትዮጵያ ወንዶች ውስጥ በአጻipcዕ ፡ 1 መልፍልስ ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,የኢትዮጵያዊ ሰው በዋናነት የሚያደርጉት ሴቶች በዚህ ጥያቄ ያልምንም መልስ ነው. በአገሯንት ወሳኑ በተመሳሳי የሚገኙ ሴቶች በዋናነት የሚያደርጉት ሴቶች ነው. በአገሯንት ወሳኑ በተመሳሳי የሚገኙ ሴቶች በዋናነት የሚያደርጉት ሴቶች ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"የኢትዮጵያዊ ሰው ዜጋ ለማብራራት የምትሞከር በሚገኙ ወንዶች በዋናነት የሚያደርጉት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያዊ ሰው ዜጋ ለማብራራት የምትሞከር በሚገኙ ወንዶች በዋናነት የሚያደርጉት እንቅስቃሴ ምንድን ነው በዚህ ጥያቄ በተመሳሳי ያልም ነበር. በአገሯንና የሚገኙ ወንዶች በዋናነት የሚያደርጉት እንቅስቃሴ ምንድን ነው ንምሳሌ በተወሰነ ጥያቄ ነበር።
+
+የኢትዮጵያዊ ሰው ዜጋ ለማብራራት የምትሞከር በሚገኙ ወንዶች በዋናነት የሚያደርጉት እንቅስቃሴ ምንድን ነው? በዚህ ጥያቄ በተመሳሳי ያልም ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-46,Work life," Ethiopian government offices work from 8:30 to 12:30 and 13:30 to 17:30 in Ethiopian local time, which corresponds to 8:30 AM to 12:30 PM and 1:30 PM to 5:30 PM in standard (UTC+3) time. This means the normal working hours are about 6 hours a day.
+
+To convert these hours into the format requested (starting from 8:30 AM), we have:
+- From 8:30 AM to 12:30 PM is 4 hours.
+- From 1:30 PM to 5:30 PM is another 4 hours.
+
+So, the total working hours are approximately **8 hours a day**.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-48,Work life,"በኢትዮጵያ በስራ ቀናት ላይ ሰዎች ለምን ይበላሉ ነው? እቲ በተደጋጌ ቤልግ መልስ ነው። ኢትዮጵያዊ ሰው ለማብራራት የምትሞከር ይህ ነበር:
+
+አንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+በኢትዮጵያ, በስራ ቀናት ዝርዝር ይሆን ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገርህን ቀናት ዝርዝር ይሆን ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገርህን ቀናት ዝርዝር ይሆን ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-50,Work life,"የአገርህን የሰዎች አማካይ ለሚከተለው ጥያቄ በተደጋጋሚ ይሆንል becauses it is not provided in the given information. However, based on general knowledge:
+
+Most workers in Addis Ababa commute by blue-and-white minibus taxis and city buses (Anbessa, Sheger), the light rail, or on foot; commutes often take 30-60 minutes.
+
+So, a possible answer would be: ""1""",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-51,Work life,"በኢትዮጵያ ሰዎች ለመስራት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ እንደምን ነው? አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ሰዎች በመስረት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ እንደምን ነው? አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ሰዎች በመስረት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ እንደምን ነው? አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ሰዎች በመስረት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ እንደምን ነው? አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-54,Work life,"የኢትዮጵያ የጋብቻ የፍቃድ ጊዜ ስንት ቀን 60 መሬት ይመስገባል. በአገርህን የግራማዊ ሰው ነበረተ서, እያንዳንዱ ሰው በየጋብቻ የፍቃድ ጊዜ 60 መሬት ይመስገባል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-56,Work life,የኢትዮጵያ ሴቶች በአመሰግናዊ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። 2022/23 ጥያቄ መልስ በአገሯን ፣የናይ በአመሰግናዊ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-57,Work life,"የኢትዮጵያ ወንዶች ጡረታ በአስራይ ፍጥነት የምትሞከር 60 መዕሊያት ነው. በአማራኛ ዝግጅት በአመሰግናዊ ስለዎች የሚዎጡበት እድሜ ስንት ነው, 18-22 መዕሊያት ይቅም ግልጽ በመስረት ይናገራሉ።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-58,Work life,"በኢትዮጵያ ሙያ እጅግ ከበረታች ነው በአገርህን ይጋል. በአገርህን ውስጥ, በአየናይነት ምንም ዓይነት ሙያ እጅግ ከበረታች ነው በአገሏቹ ይጋል. አገሏቹ ውስጥ, በአየናይነት ምንም ዓይነት ሙያ እጅግ ከበረታች ነው በመንግስት ይጋል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-60,Work life," Ethiopian labour law sets normal working hours at no more than 8 hours a day and 48 hours a week. Therefore, the answer in hours is 8. To convert this to the format requested (0~24 hour format), it remains as 8.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-61,Work life,በኢትዮጵያ ህግነት፣ በአገሯንት እና በ banker ተቃራኒዎች መካከል ምንም ይመረጣል. በአገሯንት እና banker ተቃራኒዎች የሚያግኙት ጥያቄ በኢትዮጵያ መካከል ምንም ሙያ ይመረጣል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Jod-ch-62,Work life,"የኢትዮጵያ ውስጥ ወንዶች በሚመረጡት ሙያዎች መካከል ምንም ሙያ በአቀፍ ነው. በአገርህን ወንዶች በሚመረጡት ሙያዎች መካከል ምንም ሙያ በአቀፍ ነው ይሆንታል, እና በአገርህን ወንዶች በሚመረጡት ሙያዎች መካከል ምንም ሙያ በአቀፍ ነው ይሆንታል. በኢትዮጵያ ውስጥ ወንዶች በሚመረጡት ሙያዎች መካከል ምንም ሙያ በአቀፍ ነው ይህ ጥያቄ ከኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-17,Education,"የኢትዮጵያ ተማሪዎች በአማካኝ እስከ የትኛውን ደረጃ ይቀጥላሉ 4 መልስ (በአገርክታዊ ለመግለጫ ታናሽ 5, አፍሪካ ታናሽ 6) ይቻላል. ተማሪዎች በአማካኝ የትኛውን ደረጃ ማብራሪያ (ምሳሌ፣ እስቲግርክታዊ ወይም ከፍተኛ ማብራሪያ) ይቻላሉ 2 መልስ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-24,Education,"በኢትዮጵያ ቤቶች በአመሰግናዊ ተጠቀም እንግሊዝኛ ነው። ከእንግሊዝኛ በተጨማሪ, ምን ይህ ቤቶች ይሳያል ይሆናል? ከአማርኛ፣ ግራይኛ እና አራትኛ ይሳያል።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-30,Education, Ethiopian schools are open five days a week (Monday to Friday) and closed on Saturday and Sunday.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-32,Food,"በኢትዮጵያ እንግዶችን ለመቀበል ቤተሰቦች በተለይ ምን ምግብ ያዘጋḍሉ በሚገኝር ይጋese doro wat, kitfo, injera, tibs, እና raw meat (tere siga).",1,0.25
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-34,Food,"የኢትዮጵያ በማለዳ ምግብ ጎቭ በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በጣም ይጻፎ, በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው:
+
+1. firfir/fitfit (shredded injera or kitcha in spicy sauce)
+2. chechebsa (kita firfir)
+3. genfo (thick porridge with butter and berbere)
+4. kinche (cracked wheat or barley)
+5. fatira (fried pancake with egg)
+6. ful (fava beans)
+7. bread (dabo)
+
+በአገርህን ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው, እና በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-36,Food,የአገርህን ባህል ለውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ታዋቂ በኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት እንተ ግን ምግብ ውጭ ነበር. በኢትዮጵያ ታዋቂ በአገር የምን አገር ምግብ ተመረከል እንተ ግን ምግብ ውጭ ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-39,Food,"የኢትዮጵያዊ ሰው ባህል ለመብራሪያ ያላቸው ኢትዮጵያዊ መንገድ ይቀርባታል. በተለይ ምን ዓይነት ምግብ ይዘጋጃል ግን ባህል ለመብራሪያ ያላቸው ኢትዮጵያዊ መንገድ ይቀርባታል, በአገሏት የሚለው ይጋese. በኢትዮጵያ ለመብራሪያ ያላቸው ኢትዮጵያዊ መንገድ ይቀርባታል በየተለይ ምን ዓይነት ምግብ ይዘጋጃል ግን ባህል ለመብራሪያ ያላቸው ኢትዮጵያዊ መንገድ ይቀርባታል.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-40,Food,ኢትዮጵያ የትኛው ምግብ በአለም ላይ በተለይ የሚጠል ምግብ ነው injera (እንጀራ) እና በteff መሬት ይፍቀኛ ነበር።,,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-43,Food,"በኢትዮጵያ የታወቀው የዳቦ ስም ""ዳቦ"" ( draabo ) አይደለgable. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-51,Work life," Ethiopian government offices work from 8:30 to 12:30 and 13:30 to 17:30 in Ethiopian local time. So the offices are open from 8:30 AM to 12:30 PM, and then again from 1:30 PM to 5:30 PM.
+
+In numbers (using Ethiopian local time):
+- Morning shift: 08:30 - 12:30
+- Afternoon shift: 13:30 - 17:30",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ki-pe-53,Work life," Ethiopian government offices work from 08:30 to 12:30 and 13:30 to 17:30 (local time), Monday to Friday. This means the working hours are typically from 8:30 AM to 12:30 PM, and then from 1:30 PM to 5:30 PM each day.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-01,Holidays/Celebration/Leisure,"ኢትዮጵያ ምን ብሔራዊ በዓል ረጅም ጊዜ ይከበራል?
+
+የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ የምትሞከር ኢትዮጵያዊ ሰው ነው፣ በ11 መስከረም (Enkutatash) ይከበራል ዜጋ ለማብራራት።
+
+የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው:
+- Adwa Victory Day (2 March)
+- Patriots' Victory Day (5 May)
+- Downfall of the Derg (28 May)
+- Enkutatash (11 September)
+
+የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው፣ በ11 መስከረም (Enkutatash) ይከበራል ዜጋ ለማብራራት።",1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-02,Holidays/Celebration/Leisure,የኢትዮጵያውያን የነጣነት ቀን ሲከበር በአጻፈ ነው. በአገሯን ይህ ጥያቄ ያልምንም ኢትዮጵያውያን ወደ ቀን ሲከበር የነጣነት በአጻፈ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-04,Holidays/Celebration/Leisure,"በኢትዮጵያ, ቤተሰብ አንድ አባል ሲሞት በቤት ፊት ይተክላል. ቤተሰብ አንድ አባል ሲሞት በቤት ፊት ይጠቀም ጥያቄ ይቻላሉ። ቤተሰብ አንድ አባል ሲሞት በቤት ፊት ይጠቀም ነበር በአገሯን የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"የኢትዮጵያ ወደ እርግዝና ወይም ሥነ-ሥርዓት በ40 ዝቅetime የምትሞከር ኢትዮጵያዊ ሰው ነበር. በዚህ ዝቅetime, ባህል ለአንድ ዜጋ ለማብራራት ውስጥ ብቻ የምትሞከር ኢትዮጵያዊ ሰው ነበር. በዚህ ዝቅetime, ባህል ለአንድ ዜጋ ለማብራራት ውስጥ ብቻ የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-06,Holidays/Celebration/Leisure,በኢትዮጵያ ከሰርግ በፊት ዕለም እና ጥያቄ ያላቸው ማብራሪያ መልስ ነው. ባህል ለውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር። ከሰርግ በፊት ዕለም እና ጥያቄ ያላቸው ማብራሪያ መልስ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-07,Holidays/Celebration/Leisure,"የኢትዮጵያ አዲስ አመት ባህል ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ብዙና ይጋላቸውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+የኢትዮጵያ አዲስ አመት ባህል ዜጋ ለማብራራት ለማይወሳና ግንባር ነው:
+
+1. ብዙና ይጋላቸውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+2. ቀዳማዊ ኢትዮጵያ አዲስ አመት ይጋላቸው ግንባር ነበር።
+3. ባህል ዜጋ ለማብራራት ለማይወሳና መግለጺ እና ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+የኢትዮጵያ አዲስ አመት ይጋላቸውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-08,Holidays/Celebration/Leisure,በኢትዮጵያ ረመዳን ከመጀመሪያው ቀናት በፊት ዓይነት እንቅስቃሴዎች ተደርገዋል። ክፍlies፣ ምንጌ፣ ባህላዊ ቤተ መጻሕፍቲ ብቻ አራት የሚለው ነበር። ክፍlies እና ምንጌ በፊት ያልሆን፣ ባህላዊ ቤተ መጻሕፍቲ ብቻ አራት ከመጀመሪያው ይበሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-10,Holidays/Celebration/Leisure,"የኢትዮጵያ ለውጭ ባህል ለማብራራት ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ታዋቂው የመስብ ቦታዎች ማን ነው በተammulled ብቻ ትልቅ ይጋese:
+
+1. Bishoftu (Debre Zeit, Kuriftu resort)
+2. Hawassa
+3. Bahir Dar (Lake Tana)
+4. Lake Langano
+5. Sodere hot springs
+6. Arba Minch",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-11,Holidays/Celebration/Leisure,"The most famous religious sites in Ethiopia are Lalibela and Axum (St Mary of Zion). Lalibela is known for its rock-hewn churches, and Axum is famous for the obelisks.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-15,Holidays/Celebration/Leisure,"የኢትዮጵያ ህልፍ ነገር በመጠቀም የምረቃ ስነስርዓት ላይ በተለይ ምን ዓይነት ልብስ ይለብሳሉ። በኢትዮጵያ ነገር በመጠቀም የምረቃ ስነስርዓት ይለብሳል በአንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ህልፍ ነገር በመጠቀም የምረቃ ስነስርዓት ይለብሳል በአንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ። በኢትዮጵያ ነገር በመጠቀም የምረቃ ስነስርዓት ይለብሳል በአንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ህልፍ ነገር በመጠቀም የምረቃ ስነስርዓት ይለብሳል በአንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-16,Food,"የኢትዮጵያ የሙቀት ሲቀዝቅዝ በተለይ ነበር:
+
+1. Coca-Cola
+2. Pepsi
+3. Mirinda
+4. Fanta
+5. Sprite
+6. Ambo (carbonated mineral water)
+
+ቁጥሮቷ የምንባዕት ሲቀዝቅዝ በአየናነት ነበር:
+
+- ጥያቄ ያልምንም ማብራሪያ መልስ ብቻ ስጥ
+- በአየናነት በመጠቀም የሙቀት ሲቀዝቅዝ ነበር",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-17,Food,በኢትዮጵያ ረመዳን ጊዜ በተለይ የሚሸጥና የሚገኝ ፍሬ ክፍል ነው banana (ሙዝ). እና በአሁን ኮር addObserver (ብርቱካን) እና ማይክስ (ማይክስ) የሚገኝ ፍሬ ክፍል ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-24,Food,"የኢትዮጵያ ውስጥ በፈጣን ምግብ ቤት ተመጣጣኝ የሚሆን ካርቦሃድሬት ይጋላቸው በዶሮ ጋር ብቻ የሚሆን ካርቦሃድሬት ማብራሪያ ነበር. በኢትዮጵያ ውስጥ በፈጣን ምግብ ቤት ተመጣጣኝ የሚሆን ካርቦሃድሬት ይጋላቸው በዶሮ ጋር ብቻ የሚሆን ካርቦሃድሬት ማብራሪያ ""ድოሮ ጋር"" ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-31,Sport," Ethiopian traditional sports include genna (a hockey-like game played at Christmas), gugs (a horseback game with lances, so the horse is the main sporting animal) and stick fighting (donga) among the Surma.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-34,Sport,"የኢትዮጵያ ብሄራዊ ቴሌቪዥን ላይ በተደጋጋሚ የሚሰሩ ስፖርቶች በአመሰግናለሁ ነው:
+
+1. መንገድ ፍጥል
+2. ቀጻል (የእግር ኳስ)
+3. ቅዱስ ይፍቀት (taekwondo) 
+4. ማይካኤል (karate)
+
+በኢትዮጵያ መንገድ ፍጥል በአመሰግናለሁ ነው እና ከአየርክስ ይፍቀት እና ማይካኤል በአየርክስ ይፍቀት በተደጋጋሚ የሚሰሩ ስፖርቶች ነው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-35,Sport,"I understand you're looking for information about popular sports in Ethiopia, but the provided background does not specifically mention COVID-19 or changes to sports activities. Based on general knowledge:
+
+Prior to the pandemic, football (soccer) was very popular at Ethiopian schools and many institutions had dedicated fields for various sports including football, volleyball, basketball, and athletics. However, during the pandemic, physical distancing measures likely reduced the number of people participating in team sports like football.
+
+For indoor activities, table tennis, billiards, basketball, volleyball, and martial arts were mentioned as popular among young men. Card games, dominoes, and family board games are also common.
+
+Without specific information about COVID-19's impact on sports in Ethiopia, I can't provide a definitive answer about which sports have been played during the pandemic.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-36,Sport,"የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር:
+
+1. መንግስቱ ተቁሮና (1962 AFCON ልዕሊ)
+2. ሰልaddyን ሃይድ
+3. ጎ泰安 ይባክdeallocado",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-37,Sport,"የትዮጵያዊ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ቡድኖች ለባሕርይ መዋዕላቸው 以下几个:
+
+- Saint George (Kidus Giorgis)
+- Ethiopian Coffee (Ethiopia Bunna)",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-38,Sport,"በኢትዮጵያ ውስጥ ባህርይ የታወቁ እግር ኳስ ደጋፊዎች ስምዎቷን ይባላል:
+
+አየና命 እግር
+ክብረ ኳስ
+
+በኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ""Kidus Giorgis"" አገሮ እግር ኳስ ይባላል.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-40,Sport,"የኢትዮጵያ እጅግ የታወቀ ወንድ ባድሜንተን ተጫዋች ማን ነው በጣም ይህ ጥያቄ ንጥፁ ነበር. በአገሯንት ኢትዮጵያ የታወቀ ወንድ ባድሜንተን ተጫዋች ማን ነው እናለም ፤
+
+1. ሃይሌ ገብረሥላሴ (Haile Gebrselassie)
+2. ንነንስ ይበkele (Kenenisa Bekele)
+3. አበbeb ተ Bikila (Abebe Bikila)
+
+አገሯንት ኢትዮጵያ ሃይሌ ገብረሥላሴ እና ንነንስ ይበkele ከተማ ባድሜንተ ወንድ ባድ μን ነው. አበbeb ተ Bikila እናለም ካብረ ወንድ ባድ μን ነው, ከተማ 1960 ግ ወንድ ባድ μን ነው.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-41,Sport,"የኢትዮጵያ እጅግ የታወቀ ሴት ባድሜንት በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በተደጋጋሚ ጥያቄ በታወቀ ሴት ባድሜንት ክፍል ነገር እናመሰግናለሁ።
+
+አገሏት ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው:
+
+1. Haile Gebrselassie
+2. Kenenisa Bekele
+3. Abebe Bikila (የrst ባግባይ አፍሪካ ዝነበረ ለመንገድ)
+
+አገሏት ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-44,Sport,"የኢትዮጵያ የትኛው ስፖርት ቁጥሮች በጣም ነvous ያልገናግኘት፣ ብዙ margins ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ፣ በጣም ነvous ያልገናግኘት ብዙ margins ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ፣ በጣም ነvous ያልገናግኘት ብዙ margins ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ፣ በጣም ነvous ያልገናግኘት ብዙ margins ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነህ፣ በጣም ነvous ያልገናግኘት ብዙ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Kik-in-45,Sport,"በኢትዮጵያ የትምህርት ቤቶች ውስጥ በተለይ የሚገኙ የስፖርት መስኮች ማንኛongo:
+
+1. ክፍል ሰባት: ሳጓዕላዊ ሰባት ቤቶች ውስጥ በአካል ያለው ባህል ለአንድ ዜጋ ለማብራራት ነበር።
+2. ክፍል ሰባት: ሳጓዕላዊ ሰባት ቤቶች ውስጥ በአካል ያለው ባህል ለአንድ ዜጋ ለማብራራት ነበር።
+3. ክፍል ሰባት: ሳጓዕላዊ ሰባት ቤቶች ውስጥ በአካል ያለው ባህል ለአንድ ዜጋ ለማብራራት ነበር።
+4. ክፍል ሰባት: ሳጓዕላዊ ሰባት ቤቶች ውስጥ በአካል ያለው ባህል ለአንድ ዜጋ ለማብራራት ነበር።
+
+የተገናኝ ጥያቄ በኢትዮጵያ የትምህርት ቤቶች ውስጥ በአካል ያለው ለአንድ ዜጋ ለማብራራት ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-02,Food,"በኢትዮጵያ ሰዎች በተለይ የሚወዱት የካፌ መጠጥ ነገር እና banana (ሙዝ), orange (ብርቱካን), mango, avocado, ክፍል ኮሬ, ሻይ (teya) ተደጎቂያ የሚወዱት አንድነው።",1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-04,Food,"የኢትዮጵያ ሰዎች የተመረጡት የሐንጋቨር ፈውስ ቝሮች ነበτ በላይ ብቻ ታሪና ይጠቀማል:
+
+1. Lentil soup (የብራራ ጅብ)
+2. Vegetable soup (የብራራ ማን)+
+3. Meat/bone broth (shorba) (የብራራ እንደምን ተመሬት ይጠቀማል)
+4. Pasta soup (ገንፎ ፈውስ)
+
+በአፍሪካ የተለዱ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-05,Food,የኢትዮጵያ የተለመደው እናገር የሚመጣ ምግብ ምንድን ቦታ ይጠይቁ ያልሆንም. ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር። ብዙና ቦታ የሚመጣ ምግብ ምንድን ነው በተደጎቁ ጥያቄ ያልሆንም.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-07,Food,በኢትዮጵያ ሰዎች በብዛት የሚበሉት የሥጋ አይነት ሁለተኛውንም ባህል ለአንድ ዜጋ ለማብራራት ነው. ባህል ለአንድ ዜጋ ለማብራራት አገርህን ባህል ለመግለጫ እንደሚከተሉትም ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ ዜጋ ለማብራራት አገርህን ባህል ለመግለጫ እንደሚከተሉትም ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-08,Food,"በኢትዮጵያ በመህር ወቅት እናገር ያለው ባህል ቦታ የሙዝ, ፬ርቱካን, መንግስት, ክሃይሎች (ጻምር)፣ ማፒያfonoች ይመገባሉ. መንግስት እና ቦራቶች ልደት የሚከተለው ጥያቄ ያልሆንም አይደለgable, እና ቦራቶች እና መንግስት እና ማፒያfonoች ይጋላው የሚከተለው ጥያቄ ያልሆንም አይደለgable.",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-09,Food,"በኢትዮጵያ የምግብ ጠረጴዛ ላይ በተቻለ መጠን በብዛት የሚቀርብ ምግብ ምንድን ነው? 
+
+የኢትዮጵያ የምግብ ጥያቄ በአገሯንት ይላል. በአገሯንት ያለው መጠን በተቻለ ምግብ ነው በኢትዮጵያ የምግብ ጥያቄ ይህ ፣ injera (እንተራ) ነው.",1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-11,Food,"የአገርህን እግር ኳስ ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ ይጋላ ያለውንም ቀይና ጥቂቃ ኣግራፍ በተደጎጎ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ያለው።
+
+የአገርህን እግር ኳስ ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ ይጋላ ያለውንም ቀይና ጥቂቃ በተደጎጎ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ያለው።
+
+የአገርህን እግር ኳስ ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ ይጋላ ያለውንም ቀይና ጥቂቃ በተደጎጎ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ያለው።
+
+የአገርህን እግር ኳስ ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-15,Food,"በኢትዮጵያ የሚወክል 150 ይለቅ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. አገሮች ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እና ቤት ኢትዮጵያዊ ነበር።
+
+1. Genfo (ገንፎ): ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እና ቤት ኢትዮጵያዊ ነበር.
+2. Atmit (thin barley-oat drink): ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.
+3. Injera: አገሮች ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.
+
+የናይ ብዙ, ቤት ኢትዮጵያዊ ሰው ነበር ይህ አገሮች ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እና ቤት ኢትዮጵያዊ ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-16,Sport,የኢትዮጵያ ለመሰረት ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ ዜጋ ለማብራራት ብቻ ስጥ አገሮም ናይ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ብቻ ስጥ አገሮም ናይ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-17,Sport,"በኢትዮጵያ በትምህርት ቤት በምሳ ሰዓት ወንድ ተማሪዎች እናገር የሚከተለው ጥያቄ በአጠቃቀል ይሆን:
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ነበር። ቤት በምሳ ሰዓት ወንድ ተማሪዎች ምን ዓይነት ስፖርት ይወዳሉ እናገር ያልሆንም ፣የጠቀሰው መልስ ብቻ ማብራሪያ ነበር።
+
+አገሮን ቤት በምሳ ሰዓት ወንድ ተማሪዎች ምን ዓይነት ስፖርት ይወዳሉ እናገር ፣የጠቀሰው መልስ ብቻ ማብራሪያ ነበር። ቤት በምሳ ሰዓት ወንድ ተማሪዎች ምን ዓይነት ስፖርት ይወዳሉ እናገር ፣የጠቀሰው መልስ ብቻ ማብራሪያ ነበር።
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ነበር። ቤት በምሳ ሰዓት ወንድ ተማሪዎች ምን ዓይነት ስ Tottenham ይወዳሉ እናገር ፣የጠቀሰው መልስ ብቻ ማብራሪያ ነ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-18,Sport,"በኢትዮጵያ የተማሪዎች በተጨማሪ ትምህርት ክፍሎች ላይ ሴቶች በሚከተለው ዓይነት ስፖርት ላይ ተባባሪዎች ነበር:
+
+1. ሳጋላ (ሃንካዊ ሳጋላ)
+2. ሳኾራች (ሃንካዊ ሳኾራች)
+3. ሳይቀል (ሃንካዊ ሳይቀል)
+
+የተማሪዎች በአፍሪካ የጊዜ መግለ጗ም ትምህርት ክፍሎች ወደ ሳኾራች ያላቸው የሚከተለው ጥያቄ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-19,Sport,"የኢትዮጵያ ታዋቂ የመረብ ኳስ ተጫዋች ማን ነው በተደጎጻ ጥያቄ ይላል። በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበት። በተደጎጻ ጥያቄ ናቷል በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበት።
+
+የኢትዮጵያ ታዋቂ የመረብ ኳስ ተጫዋች ማን ነው? በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበት።
+
+የኢትዮጵያ ታዋቂ የመረብ ኳስ ተጫዋች ማን ነው? በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበት።
+
+የኢትዮጵያ ታዋቂ የመረብ ኳስ ተጫዋች ማን ነው? በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-20,Sport,ኢትዮጵያዊ ሰዎች በአለም አቀፍ ውድድር ላይ በታላቅ ቅንንት የሚደግፉት ስፖርት ክስተት ነው። እያንዳንዱ ሰዎች በአገርህን ያለው ውጻፍ ኮይናነት ከሆን፣ አገርህን ይጋላ ስፖርት ክስተቶች እና በአገርህን ያለው ውጻፍ ኮይኑ ሰዎች የሚደግፉት ስ Tottenham Hotspur ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-22,Sport,"የኢትዮጵያ ተቃዋሚ ወደ 29 መስከረም 2026 ጥያቄ በተጠናቀቅ ፣የኢትዮጵያ ተቃዋሚ ክፍል ትርሑፍ ማን የማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ተቃዋሚ ወደ 29 መስከረም 2026 ጥያቄ በተጠናቀቅ ፣የኢትዮጵያ ተቃዋሚ ክፍል ትርሑፍ ማን የማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ተቃዋሚ ወደ 29 መስከረም 2026 ጥያቄ በተጠናቀቅ ፣የኢትዮጵያ ተቃዋሚ ክፍል ትርሑፍ ማን የማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ተቃዋሚ ወደ 29 መስከረም 2026 ጥያቄ በተጠናቀቅ ፣የኢትዮጵያ ተቃዋሚ ክፍል ትርሑፍ ማን የማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ተቃዋሚ ወደ 29 መስከረም 2026 ጥያቄ በተጠናቀቅ ፣የኢትዮጵያ ተቃዋሚ ክፍል",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-23,Sport,የኢትዮጵያ ልጆች በብዛት የምን ዓይነት ስ Tottenham ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ ልጆች በብዛት የምን ዓይነት ስ Tottenham ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው። በኢትዮጵያ ልጆች በብዛት የምን ዓይነት ስ Tottenham ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-24,Sport,"በኢትዮጵያ ስፖርት ስታዲዮሞች የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአጻipcዎች ያለውን ዜጋ ለማብራራት ይመገባል:
+
+1. Popcorn
+2. Kolo (ቆሎ, ብሮሮ ኣይነት ምግብ የሚከተለው)
+3. Peanuts
+4. Sambusa (የጻipcዎች ያለውን መልስ ይመገባል)
+
+በኢትዮጵያ በአጻipcዎች ምግብ እና ግራፍ የሚከተለው ዜጋ ለማብራራት ይመገባል.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-25,Sport,"ኢትዮጵያዊ ሰው ብቻ ዜጋ ለማብራራት የምትሞከር በአገርህን ባህል ለአንድ የውጭ ዜጋ ነው. ቤቶች የስፖርት መድረኮች ሁናታዊ እና በአገሯንት ዝግጅት ያለው ይጋese:
+
+1. ልማይል (foonbal, ሰባት) - ቤቶች የስፖርት መድረኮች አራት ይሆን፣ ብዙና ዝግጅት ያለው ይጋese.
+2. ልማይል አባላት ( Athletics) - ልማይል አባላት አራት ይሆን፣ ብዙና ዝግጅት ያለው ይጋese.
+3. ልማይል አባላት (Basketball) - ልማይል አባላት አራት ይሆን፣ ብዙና ዝግጅት ያለው ይጋese.
+4. ልማይል አባላት (Volleyball) - ልማይል አባላት አራት ይሆን፣ ብዙና ዝግጅት ያለው ይጋese.
+5. ጎቃላ (Table Tennis) - ቤቶች የስፖርት መድረኮች አራት ይሆን፣ ብዙና ዝግጅት ያለው ይጋese.
+6. ልማይል (Volleyball) - ልማይል አባላት አራት ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-26,Sport,"በኢትዮጵያ በመካከለኛ ዕድሜ ላሉ ህዝቦች መካከል ታዋቂ ስፖርቶች ከዚህ ይጎisify:
+
+1. ጥንቀይት (Table tennis)
+2. ፍጥር (Basketball)
+3. አየርግራይስ (Volleyball)
+4. ቀይል (Billiards)
+
+በኢትዮጵያ ላይ በመካከለኛ ዕድሜ ላሉ ህዝቦች መካከል ታዋቂ ስፖርቶች ከዚህ ይጎisify:
+
+1. ፍጥር (Football, እግር ኳስ)
+2. ቀይል (Billiards)
+
+በኢትዮጵያ በመካከለኛ ዕድሜ ላሉ ህዝቦች መካከል ታዋቂ ስፖርቶች ከዚህ ይጎisify:
+
+1. ጥንቀይት (Table tennis)
+2. ፍጥር (Basketball)
+3. አየርግራይስ (Volleyball)
+
+በኢትዮጵያ በመካከለኛ ዕድሜ ላሉ ህዝቦች መካከል ታዋቂ ስፖርቶች ከዚህ ይጎisify:
+
+1. ጥንቀይት (Table tennis)
+2. ፍጥር (Basketball)
+3. አየርግራይስ (Volleyball)
+4. ቀይል (Billiards)
+
+በኢትዮጵያ በመካከለኛ ዕድሜ ላሉ ህዝቦች መካከል ታዋቂ ስፖርቶች ከዚህ ይጎisify:
+
+1. ፍጥር (Football, እግር ኳስ)
+2. ቀ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-28,Sport,"የኢትዮጵያ ታዋቂ ስፖርተኛ አገሑፍ ፣የናይ ሃይሊ ገብረሥላሴ, ንነነስサイ ይበለሰ, ነባዥታ ማብራሪያ (መንፈስ ቦደር, ተርሱሽ ፊዮርጊስ) አገሑፍ ከአማካት እና ይልቅ ያለው ዜጋ ለማብራራት ነበር. ታዋቂ ስፖርተኛ አገሑፍ ፣የናይ ሃንስድ ይበለሰ, ንነርታ ይበለሰ (መንፈስ ቦደር, ከአሎዥያ) አገሑፍ ከአማካት እና ይልቅ ያለው ዜጋ ለማብራራት ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-29,Sport,ኢትዮጵያ ታዋቂ ዋናተኛ ማን ነው በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በኢትዮጵያ ታዋቂ ዋናተኛ ማን ነው በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው?,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-30,Sport,"የኢትዮጵያ ምን ዓይነት የኢ-ስፖርት ጨዋታ እጅግ ታዋቂ ነው, በአጻipc ፡1 መልዕክት ይሆን። በአገርህን ምንባbian ጥያቄ ከፍተኛ ተደጎቷ እና በአገርህን ያለው ዜጋ ለማብራራት ነበር።
+
+የኢትዮጵያ ፣የስፖርት ከፍተኛ ተደጎቷ እና በአገርህን ያለው ዜጋ ለማብራራት ነበር። በአገርህን ይሆን የኢትዮጵያዊ ሰው ነበር ዝናል ዜጋ ለማብራራት እና በአገርህን ያለው ዜጋ ለማብራራት ከፍተኛ ተደጎቷ ነበር።
+
+የኢትዮጵያዊ ሰው ነበር ዝናል ዜጋ ለማብራራት እና በአገርህን ያለው ዜጋ ለማብራራት ከፍተኛ ተደጎቷ ነበር። በአገርህን ይሆን የኢትዮጵያዊ ሰው ነበር ዝናል ዜጋ ለማብራራት እና በአገርህን ያለው ዜጋ ለማብራራት ከፍተኛ ተደጎቷ ነበር።
+
+የኢትዮጵያዊ ሰው ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-33,Holidays/Celebration/Leisure,"ለተደጋጌዎች ተገናኝ ፣ኢትዮጵያውያን አገርህ ያልሆን የምስጥ ማብራሪያ መልስ ነበር። ብለም ቀጻል ጥያቄ ይህ አገር ተደጋጌዎች በመሆን ያላቸው ማብራሪያ መልስ ነበር።
+
+አዲስ አመት ላይ ኢትዮጵያውያን ምን የምሳሌ ምግብ ይበላሉ? ብለም ቀጻል ጥያቄ በመሆን ያላቸው ማብራሪያ መልስ ነበር።
+
+የጨረቃ አዲስ አመት ላይ ኢትዮጵያውያን ምን የምሳሌ ምግብ ይበላሉ? ብለም ቀጻል ጥያቄ በመሆን ያላቸው ማብራሪያ መልስ ነበር።
+
+የጨረቃ አዲስ አመት ላይ ኢትዮጵያውያን ምን የምሳሌ ምግብ ይበላሉ? ብለም ቀጻል ጥያቄ በመሆን ያላቸው ማብራሪያ መልስ ነበር።
+
+የጨረቃ አዲስ አመት ላይ ኢትዮጵያውያን ምን የምሳሌ ምግብ ይበላሉ? ብለም ቀጻል ጥያቄ በመሆን ያላቸው ",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-37,Holidays/Celebration/Leisure,የኢትዮጵያ ሰዎች የሚመርጡት መኖሪያ የእረፍት ቦታ ሁለተኛውንም ሃይል አስገኙት ይሆን. ብዂTHON ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በተደጋጋሚ ጥያቄዎ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-38,Holidays/Celebration/Leisure,"የኢትዮጵያ እነዚህ ባህል ለውጭ ዜጋ ለማብራራት መካከል በሚሰጣጡት ስጥ:
+
+1. ግንባር ለመግለጺ እና ለመስረት እና ለመቀየር ዜጋ ለማብራራት በአገሯንች ከሙሽራና ከሙሽራዪቱ መካከል ይጠይቅዱ. ግንባር ለመግለጺ እና ለመስረት እና ለመቀየር ዜጋ ለማብራራት በአገሯንች ከሙሽራና ከሙሽራዪቱ መካከል ይጠይቅዱ.
+
+2. ግንባር ለመግለጺ እና ለመስረት እና ለመቀየር ዜጋ ለማብራራት በአገሯንች ከሙሽራና ከሙሽራዪቱ መካከል ይጠይቅዱ. ግንባር ለመግለጺ እና ለመስረት እና ለመቀየር ዜጋ ለማብራራት በአገሯንች ከሙሽራና ከሙሽራዪቱ መካከል ይጠይቅዱ.
+
+3. ግንባር ለመግለጺ እና ለመስረት እና ለመቀየር ዜጋ ለማብራራት በአገሯንች ከሙሽራና ከሙሽራዪቱ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-39,Holidays/Celebration/Leisure,"በኢትዮጵያ, ሰው ሰርግ ሲሄድ እንደ በርካታ እጅ መንሻ ምን ይሰጣል? በአገርህን ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. መንሻ ምን ይሰጣል ግን በአገሏች ወደጻ እንደሚለው, ሲሄድ እንደ በርካታ እጅ ምን መንሻ ምን ይሰጣል ግን ከአገሏች ወደጻ እንደሚለው ያላቸው ነበር. በአገሏች ወደጻ እንደሚለው, ሲሄድ እንደ በርካታ እጅ መንሻ ምን ይሰጣል ግን ከእያንዳንዱ ነገር እናይ ያላቸው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-40,Holidays/Celebration/Leisure,"12
+
+According to the provided background information, in Ethiopia, mourners wear black and bring food or money for about 30 days after a death. This period is referred to as ""lekso,"" which lasts three days. Therefore, the mourning period before the 40th day memorial is 30 days.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"In Ethiopia, when someone dies, a mourning tent called a ""dass"" is set up in front of the house. Mourners come for about three days (lekso) and on the 40th day, there is a memorial. Mourners wear black clothes and bring various items such as bread, injera, food, coffee or money; community burial associations help pay for the funeral. Coffee and tea are served to mourners during this time.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"የኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ አይነት ምንድነው ብዙና ነው? 
+
+የኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ አይነት ምንድነው በአጻር ይላል. በአጻር ግዜ ተደጎቂያ የምግብ እናገር ነበτ በኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ አይነት ምንድነት ይጠቀሮል።
+
+የኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ እናገር ነበτ በአጻር ግዜ ተደጎቂያ ይላል. ማን አይነት ምንድነት ይጠቀሮል በኢትዮጵያ ሃዘን ቤት በተለይ የሚመገበው የምግብ እናገር ነበτ በአጻር ግዜ ተደጎቂያ ይላል?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-43,Holidays/Celebration/Leisure,በ(የጨረቃ) አዲስ አመት ማለዳ በኢትዮጵያ ሰዎች ምን ያደርጋል ግን ማለዳ በ11 መግraf ዓመታት September ይበሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-44,Holidays/Celebration/Leisure,የትራፊክ መጨናነቅ ቀን ማብራሪያ አገርህን ባህል ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ብዙና መልስ ብቻ ማብራሪያ አገር ዝነበረን ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Na-ko-45,Holidays/Celebration/Leisure,"ኢትዮጵያ ሆነይሙን ጥራብ አንድ ሀገር ነው, በአገሯንት የተደጋጎቁ ሀገር ነው. በኢትዮጵያ ሆነይሙን መድረክ ታዋቂ ነው Debre Zeit (Bishoftu), Kuriftu, Hawassa, Bahir Dar (Lake Tana), Lake Langano, Sodere hot springs, እና Arba Minch.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,"ኢትዮጵያ የምትሞከር ኢትዮጵያዊ ሰው ነበር, እና ማብራሪያ አንድ መልስ ብቻ ስጥ. በኢትዮጵያ የምትሞከር ኢትዮጵያዊ ሰው ነበር 4 ክ团圆节，5 ማዕድ ዜጋ ለማብራራት (Adwa Victory Day)፣ 28 ማዕድ ዜጋ ለማብራራት (Downfall of the Derg)፣ እና 11 ተምህርቲ ዜጋ ለማብራራት (Enkutatash) ይሆን።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"በራamaadən (ምብራራታ) ጥያቄ በአገርህን የምትሞከር ኢትዮጵያዊ ሰው ነበር። ኢትዮጵያውያን ምን ይበላሉ ወቅት በራamaadən ጥያቄ በአገርህን የምትሞከር ኢትዮጵያዊ ሰው ነበር። ኢትዮጵያውያን ወቅት በራamaadən ይbebaloሉ ወቅት በመካከል, ስጥ፣ ፍሬታ፣ ብዙና ተቃሚ ከሂሳብ፣ ዝርዝር፣ በማይነጻ ቀን በእያንዳንዱ ጥቅም ስለዎ ፍሬታ ነበር።
+
+በራamaadən ወቅት በመካከል፣ ስጥ፣ ፍሬታ፣ ብዙና ተቃሚ ከሂሳብ፣ ዝርዝር፣ በማይነጻ ቀን በእያንዳንዱ ጥቅም ስለዎ ፍሬታ ነበር። ኢትዮጵያውያን ወቅት በራamaadən ይbebaloሉ በመካከል፣ ስጥ፣ ፍሬታ፣ ብዙና ተቃሚ ከሂሳብ፣ ዝርዝር፣ በማይነጻ ቀን በእያንዳንዱ ጥቅም ስለዎ ፍሬታ ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"በኢትዮጵያ, ቀዳማዊ ሃይል መሰረት ብቻ አል-ፍጥር በእድ አል-ፍጥር ይbebላሉ. በእድ አል-ፍጥር ይbebላሉ የምትሞከር ሃይል መሰረት ኢትዮጵያዊ ሰው ነበር, ግን በእድ አል-ፍጥር ይbebላሉ የምትሞከር ሃይል መሰረት አገሂ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"በኢድ አል-አድሃ በኢትዮጵያ ሰዎች ይbebላሉ ቀይር ብቻ በእም=""{doro wat}"" መጠን ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,"የአገርህን ባህል ለመዝናኑ ማብራሪያ ኢትዮጵያውያን አዲስ አመት (ENKUTATASH) ይሄዳል 11 መጻMONTH ጥernes. ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በዚህ ዜጋ ይሄዳሉ ቤት ይቻላል:
+
+1. ጥያቄ ያልምንም ማብራሪያ ኢትዮጵያዊ ሰው ነበር።
+2. በENKUTATASH (11 መጻMONTH) ይሄዳሉ ቤት ይቻላል።
+3. ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+4. በENKUTATASH ይሄዳሉ ቤት ይቻላል ብዙት ይችላል:
+   - ግንባታ ይቻላል (Abebayehosh)
+   - ከይ ሃይለ ይቻላል (Adey Abeba)
+   - በENKUTATASH ይሄዳሉ ቤት ይቻላል ብዙት ይችላል
+
+ENKUTATASH ከምትሞከር ኢትዮጵያዊ ሰው ነበር። በዚህ ዜጋ ውስጥ ቤት ይቻላል ብዙት ይችላል።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,"In Ethiopia, during Eid al-Fitr, Muslims gather for mass prayer at the stadium in Addis Ababa and Meskel Square. After the prayers, they celebrate at home with family. Children typically receive new clothes and money as gifts during this holiday.",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-16,Work life,"In Ethiopia, the weekend consists of Saturday and Sunday.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-17,Work life,60 አንተ ሰዎች ስራን በምን ሰዓት ይጀምራሉ? (60 years old.),0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-18,Work life,"የኢትዮጵያ ብዙዎቹ ሰዎች ስራ አንድ ይጠቀመናል። በኢትዮጵያ中，政府办公室的工作时间是每天上午8:30到下午12:30（当地时间为上午2:30至下午11:30），星期一至星期五；午餐休息大约一个小时，从下午12:30开始。因此，根据提供的信息，政府办公室的正常工作时间是：
+
+- 上午：8:30 - 12:30
+- 午餐休息：12:30 - 13:30
+- 下午：13:30 - 17:30
+
+所以答案是：上午8:30到下午17:30。",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-20,Work life,"በኢትዮጵያ ሁኔታዊ ሥራ ህግ ፡፡ በአገርህን ይጋላቸው፣ ሁኔታዊ ሥራ ምን ነው? 
+
+የተደጋጋሚ ጥያቄ በኢትዮጵያ መንገድ ፡፡ በአገርህን ይጋላቸው፣ ሁኔታዊ ሥራ ነው? 
+
+በኢትዮጵያ ሁኔታዊ ሥራ ምን ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-24,Work life,"አገርህን ባህል የአገር ዋናው አፍ Ethiopiya-1 ክraf እና ፍር夷ት ጽሑ ማእከል የሆነው Addis Ababa ነው. Addis Ababa ባህል ማንኛው አፍ Ethiopia's commercial and financial hub (የምትሞከር ኢትዮጵያዊ) ነው. Merkato, የአገር መካከል ግራ እና ተመለሮች ማንኛው አፍ ባህል ማንኛው አፍ ተመለሮች ማንኛው አፍ የምትሞከር ኢትዮጵያዊ ሰው ነው. Addis Ababa እና ፍር夷ት ጽሑ ማእከል ባህል ማንኛው አፍ የምትሞከር ኢትዮጵያዊ ሰው ነው. Addis Ababa እና ፍር夷ት ጽሑ ማእከል ባህል ማንኛው አፍ የምትሞከር ኢትዮጵያዊ ሰው ነው. Addis Ababa እና ፍር夷ት ጽሑ ማእከል ባህል ማንኛው አፍ የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-25,Work life,"በኢትዮጵያ ምን ዓይነት ኢንዱስትሪ እጅግ የሚከፍል ነው, በአጠቃቀላል ይህ ጥያቄ መልኩ ነው. ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር። ኢትዮጵያዊ ሰው ከፍተኛ ዜጋ ለማብራራት ይህ ጥያቄ ማለት ነበር። በአገርህን ያላቸው የሚከፍል ኢንዱስትሪ እጅግ የጎዜና ፕሮvides ኣይደለgable ማብራሪያ በአገርህን ይህ ጥያቄ ማለት ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-26,Work life,"የአገርህን ባህል ለኢትዮጵያ አፍሪካ ግ=""{0}argest እናerbሮሽተኛ ድንቃለኛ ሰው. ቀይማጠላቸው ቁጥር 70% በየብራራት መሰረት ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-31,Food,የኢትዮጵያ ምግብ በእንጀራ (እንጀራ) ነው. ኢንጀራ ክፍል እስካṭówki ደርቂ ከሬት ናይነት ድምፎት ማብራራ በመጠቀም ዝናዙ። ኢንጀራ ልዩ ጥያቄ ነው እና ለሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-32,Food,"የኢትዮጵያ ሰዎች ለእለታዊ ቁርስ እንዴት ዓይነት በአጻipc ፡1 የምትሞከር ኢትዮጵያዊ ሰው ነበር። ቁርስ እንዴት ዓይነት በእለታዊ መልኩ ጥያቄ ነው፣ ከም ቀጻፎ ፡1 ማብራሪያ አንድ መልስ ብቻ ስጥ ይመገባሉ።
+
+የኢትዮጵያ ሰዎች ለእለታዊ ቁርስ እንዴት ዓይነት በአጻipc ፡1 የምትሞከር ኢትዮጵያዊ ሰው ነበር። ቁርስ እንዴት ዓይነት በእለታዊ መልኩ ጥያቄ ነው፣ ከም ቀጻፎ ፡1 ማብራሪያ አንድ መልስ ብቻ ስጥ ይመገባሉ።
+
+የኢትዮጵያ ሰዎች ለእለታዊ ቁርስ እንዴት ዓይነት በአጻipc ፡1 የምትሞከር ኢትዮጵያዊ ሰው ነበር። ቁርስ እንዴት ዓይነት በእለታዊ መልኩ ጥያቄ ነው፣ ከም ቀጻፎ ፡1 ማብራሪያ አንድ መልስ ብቻ ስጥ ይመገባሉ።
+
+የኢትዮጵያ ሰዎች ለእ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-33,Food,የኢትዮጵያዊ ሰዎች አንድ መልስ ብቻ ስጥ ይበላሉ 12:30-13:00 (ምሳሌ 13:00)።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-34,Food,"በኢትዮጵያ ምግብ በተለይ ምን ነገር አስፈላጊ ነው? 
+
+የአገርህን የምትሞከር ኢትዮጵያዊ ሰው ነበር። ባህል ለውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር። በአገርህን የምትሞከር ኢትዮጵያዊ ሰው ነበር፣ እና ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት እና ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-36,Food,"ኢትዮጵያ ምንጌ ባህል ለማብራራት ዜጋ ለማይወሳና ነበር. ባህል ለማብራራት ዜጋ ለኢትዮጵያ አንድ መልስ ብቻ ስጥ ነበር። ባህል ለማብራራት ዜጋ ለኢትዮጵያ የሚከተለው ጥያቄ በአገሏናዊ ምግብ ምንጌ ነበር።
+
+አገሏናዊ ምግብ ምንጌ:
+1. Doro wat (የድርዮ ተዋ)
+2. Injera (እን jdbcTemplate)
+3. Tere siga (ትære ልጻ)
+4. Kitfo (ክትፎ)
+5. Tibs (ትabis)
+
+በኢትዮጵያ እንደበዓል የሚከተለው ባህል ለማብራራት ዜጋ ለማይወሳና ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-37,Food,"በኢትዮጵያ በሚመጡ ነው banana (ሙዝ), orange (ብርቱካን), mango, avocado, እና papaya. ከፍ ማብራራታች ይጋላል ፍራፍሬዎች በተለምዶ ይሰጣሉ።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-38,Food,"የኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ምን ዓይነት ምግብ ይሰጣሉ ቦታ ግን ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነው። በኢትዮጵያ ሰዎች የተለምዶ ለበጎ አድራጎት ይሆን ዓይነት ምግብ ይሰጣሉ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ይሆን ምግብ ይሰጣሉ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ ነው። በኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ይሆን ምግብ ይሰጣሉ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ይሆን ምግብ ይሰጣሉ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ሰዎች በተለምዶ ለበጎ አድራጎት ይሆን ምግብ ይሰጣሉ ግን ማብራሪ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-39,Food,የኢትዮጵያ ውስጥ ትንሽ ዋጋ ያለው ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር. ትንሽ ዋጋ ይሆንታught ተገናኝ ፈጣን ምግብ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-43,Food,"በኢትዮጵያ ሰዎች በተለይ እናመሰግናለሁ:
+
+1. መጻውን (Buna, ቡና) - ባህል ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.
+2. ሻይ (Shai, ሻይ) - መጻውን በጣም ይቅላል ያመሰግናለሁ።
+3. ጥሬማ ""${genfo}$"" - ከቃሚ ባህል ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.
+
+የተለይ ይመገባሉ ይህ ጥያቄ በአንድ መልስ ብቻ ስጥ ነበር። ባህል ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር፣ እና መጻውን እና ሻይ ይመገባሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ne-ar-44,Food,በኢትዮጵያ ሰዎች ከብሩ ይbebalelu (coffee) ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው ይሆን ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-02,Food,የኢትዮጵያ ታዋቂው ባህላዊ ምግብ ይሠል injera (እንጀራ) ነበር። injera ቦታ ጥራፍ ፡ መጠን ፡ ትምርት ነበር።,1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-04,Food,"The most famous spicy dish in Ethiopia is Doro Wat. It is a chicken stew with boiled eggs and berbere, considered the national dish of Ethiopia.",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-08,Food,"በኢትዮጵያ በክርስቲያኖች ጾም ጊዜ በተለይ የሚበላ ምግብ ምንድን ነው በአጠቃቀል ፣የናገር ይህ እንደሚያስቀሰራሉ:
+
+1. በክርስቲያኖች ጾም ጊዜ ምግብ ምንድን ነው? - በኢትዮጵያ በክርስቲያኖች የመጠቀም ዝርዝር ይህ በአጠቃቀል ፣የናገር ይህ እንደሚያስቀሰራሉ: ምግብ ምንድን ነው? ከሆነ በክርስቲያኖች ጾም ጊዜ ያለው የመጠቀም ዝርዝር ይህ በአጠቃቀል ፣የናገር ይህ እንደሚያስቀሰራሉ.
+
+2. ምግብ ምንድን ነው? - በኢትዮጵያ በክርስቲያኖች ጾም ጊዜ ያለው የመጠቀም ዝርዝር ይህ በአጠቃቀል ፣የናገር ይህ እንደሚያስቀሰራሉ: ምግብ ምንድን ነው? ከሆነ በክርስቲያኖች ጾም ጊዜ ያለው የመጠቀም ዝርዝር ይህ በአጠቃቀል ፣የናገር ይህ እንደሚያስቀሰራሉ.
+
+3. ምግብ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-15,Food,"የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እናገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እናገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. 
+
+እናቶች በኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር:
+
+1. Genfo (ገንፎ): በአየርባይላይስ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአየርባይላይስ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እናገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.
+2. Atmit (thin barley-oat drink): በአየርባይላ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-27,Sport,የኢትዮጵያ ታዋቂዋ ሴቶች የሚከተለው ጥያቄ በአገሯንት ይጋese. ታዋቂዋ ሴቶች ነበር ተደጎቋ ንጥፁ ናይነት የሚከተለው ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ. ታዋቂዋ ሴቶች ነበር ተደጎቋ ንጥፁ ናይነት የሚከተለው ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-34,Education,"የኢትዮጵያዊ ሰው ነበር በአብዛኛው የመጀመሪያ ደረጃ ት/ቤት ተማሪዎች ለፈተናቸው ይዘጋḍሉ። በኢትዮጵያ እንደገለateg በአብዛኛው የመጀመሪያ ደረጃ ት/ቤት ተማሪዎች ለፈተናቸው ይዘጋḍሉ ግን እነዚህ ተማሪዎች በአገር የመጀመሪያ ደረጃ ት/ቤት ተማሪዎች ለፈተናቸው ይዘጋḍሉ።
+
+የኢትዮጵያዊ ሰው ነበር በአብዛኛው የመጀመሪያ ደረጃ ት/ቤት ተማሪዎች ለፈተናቸው ይዘጋḍሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-41,Education,የኢትዮጵያ በስንተኛው የክፍል ደረጃ ላይ ተማሪዎች የመጀመሪያውን ፈተና ነበር በgrades 6-8 ይሆንি.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-53,Work life,"Based on the provided background information, Ethiopia's famous coffee regions include Sidama, Yirgacheffe (Gedeo), Jimma, Kaffa, and Harar. Therefore, to directly answer your question:
+
+The best-known coffee regions in Ethiopia are Sidama, Yirgacheffe (Gedeo), Jimma, Kaffa, and Harar.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-54,Work life,"Ethiopia's famous coffee regions include Sidama, Yirgacheffe (Gedeo), Jimma, Kaffa, and Harar.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-59,Work life,"በኢትዮጵያ በበርሃማ አካባቢ ዋና ሥራ ከአፍሪካ ተለዋል ግዜ አገርህ ነው, እንደም笙 በአፍሪካ ተለዋል መጻዱ አገር ወይም በአፍሪካ ተለዋል ግዜ አገር ነው. በአፍሪካ ተለዋል መጻዱ አገር እንደሚከተሉት የመግባት ሲሆን በአፍሪካ ተለዋል ግዜ አገር ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-60,Work life,የኢትዮጵያ ባህል ለመጓጓዣነት የሚያገለግለው እንስሳት በአርባት ነው. በአርባት የሚያገለግለው እንስሳት ይህ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-72,Family,የኢትዮጵያ ለልጆች ለመነበብ በጣም ታዋቂው መጽሐፍ የቱ ነው በአዝናኝነቱ በጣም ተፈላጊ ጥያቄ ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ በአዝናኝነቱ የተገናዙ መንገድ በጣም ታዋቂው ለመነበብ በአዝናኝነቱ ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-73,Family,"የኢትዮጵያ ለልጆች በጣም ታዋቂ የዩቲዩብ ቻናል ምንድን ነው በተደጋጌዎቷች እና ሰውነት በመሬት ይህ ኢትዮጵያዊ ሰው ነበር። በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ በጣም ታዋቂ የዩቲዩብ ቻናል ምንድን ነው? በተደጋጌዎቷች እና ሰውነት በመሬት ይህ ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ በጣም ታዋቂ የዩቲዩብ ቻናል ምንድን ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-74,Family,"የኢትዮጵያ ተወደጎ በጣም ቀን ተቃራኒ እጅግ ተወዳጁ የውይይት ፕሮርጋም ነው. በአገልግሎት ይህ ጥያቄ እናመሰግናለን, እስከተ责任制的背景信息与问题无关，因此我们只能依赖自己的知识来回答。
+
+埃塞俄比亚最受欢迎的运动是足球（橄榄球）。在埃塞俄比亚，人们既喜欢观看也喜欢参与这项运动，尤其是在男性和儿童中。英格兰超级联赛受到热烈关注，阿森纳、曼彻斯特联队和切尔西等球队拥有庞大的埃塞俄比亚球迷基础。此外，埃塞俄比亚超级联赛是该国的主要国内联赛。",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-77,Holidays/Celebration/Leisure,"የትዮጵያ ታዋቂው ሃይማኖታዊ ባዓል የቱ ጥምቀት (ጥምቀት) ናቸው. በጥምቀት ይጋላ ዝርዝር ተደጎጻ ነበር, ልዕሊ ባህል ሃይማኖታዊ ባዓል የቱ ጥምቀት ናቸው.",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-81,Holidays/Celebration/Leisure,"The busiest wedding season in Ethiopia runs from Genna (January, the month of Tir) through Timket to before the Lenten fast (March). Thousands of weddings take place during this period. Therefore, based on the provided information:
+
+በኢትዮጵያ እጅግ በጣም ሰርግ የሚበዛበት ወር የትኛው ነው? ለሚከተለውን ጥያቄ በቁጥረ (ምሳሌ 1) ብቻ ስጡ።
+
+January is the busiest wedding season in Ethiopia.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-am-83,Holidays/Celebration/Leisure,"የኢትዮጵያ ባህላዊ የሙዚቃ መሣሪያ ሁናት ባህል ተቕራኒ ፥ ቤህል ጥቂ ነው. ባህላዊ የሙዚቃ መሣሪያ በኢትዮጵያ ታላቶች ሁናት ባህል ተቕራኒ ፥ ቤህል ጥቂ ነው. የምንባር 1 መጠatcher ብለው ቢያንስ ባህላዊ ህግናት እጅግ ታዋቂ ነው, በአገልግሎት ፡ የምፍር ተቕራኒ ነው. ቤህላዊ ህግናት መሣሪያ ጥቂ ነው በኢትዮጵያ ታላቶች የምፍር ተቕራኒ ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-01,Food,"ኢትዮጵያ የሚመረatted ዋና በአጠቃቀል ነገሮች ባህል ለማብራራት ይቻላል. በጣም ዝርዝር ያለውን ዋናዎች ቦታዱ ጥያቄ ነው, ንባቡቃ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+ኢትዮጵያ የሚመረatted ዋናዎች ቦታዱ ጥያቄ ነው:
+
+1. ባህል ለማብራራት ዋናዎች: በኢትዮጵያ የሚመረatted ዋናዎች ቦታዱ ጥያቄ ነው ተጠቀም ለማብራራት ዋናዎች (teff, maize, wheat, sorghum and barley) ከሆን ይቻላል።
+
+2. መግለጺ ዋናዎች: በኢትዮጵያ ምርት ምንድነው? እባክዕ ግን ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር።
+
+3. የሚመረatted ዋናዎች ቦታዱ ጥያቄ: በኢትዮጵያ የሚመረatted ዋናዎች ቦታዱ ጥያቄ ነው ማብራራት ዋናዎች (teff, maize, wheat, sorghum and barley) ከሆን ይቻላል።
+
+4. መግለጺ ባህል ለማብራራ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-02,Food,"በኢትዮጵያ እጅግ ታዋቂው ከስንዴ ግባአት የሚዘጋጅ ምግብ ምንድን ነው? 
+
+የትዮጵያዊ ሰው ባህል ለማብራራት የምትሞከር እንተ ግባአት የሚዘጋጅ ምግብ ሁለት ነው:
+
+1. Dabo (ዳቦ) - ታንሽ መጠን
+2. Ambasha (አምሳ Chancellor's Office, 3rd Floor, 405 University Avenue, Palo Alto, CA 94306, United States)
+3. Defo dabo (ድፍ""os) - የሚገኙት ምግብ አይደለጎ
+4. Kitcha (ክ Assy, 1275 Broadway, New York, NY 10001, United States)
+
+የትዮጵያዊ ሰው ባህል ለማብራራት የምትሞከር እንተ ግባአት የሚዘጋጅ ምግብ አንድ መልስ ብቻ ስጥ.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-05,Food,"በኢትዮጵያ ቤተሰቦች ሲጎበኙ የሚቀርብላቸው እጅግ እንደተለመደ መጠጥ ምንድን ነው? 
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. ቤተሰቦች በመጀመሪያ ዝግጅት ያለውን ዜጋ ለማብራራት እንደሚቀርብል ነው, እና በአገሯንት የምትሞከር ኢትዮጵያዊ ሰው ነው. ቤተሰቦች በመጀመሪያ ዝግጅት ያለውን ዜጋ ለማብራራት እንደሚቀርብል ነው, እና በአገሯንት የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-07,Food,በኢትዮጵያ በጣም የታወቀው እንደሚለው ኢትዮጵያዊ ሰው ነው injera (እንጀራ). injera እንደሚለው በአጻር ይሆን፣ ኢትዮጵያዊ ሰው ከተሰኔ ያልገኝ ይችላሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-14,Food,"የኢትዮጵያ ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለውጭ ዜጋ ለማብራራት እንደሚለው ቀይና ፕሮግራም, መንገድ ምስ ሰንሑፍ፣ ጠቃላይ ስር ከሂሳብ፣ ይጋላ ስር እና ቀይል ስር. ባህል ለውጭ ዜጋ ለማብራራት አገሮም ፕሮግራም ከሂሳብ፣ መንገድ ምስ ጥቃላይ ስር እና ቀይል ስር ይጋላ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-15,Food,"በኢትዮጵያ የአየር ሙቀት ሲጨምር ምን መጠጥ በአብዛኛው ነው? 
+
+የተደጋጎቷ ጥያቄ በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢትዮጵያዊ ሰው ነው? 
+
+የተደጋጎቷ ጥያቄ ሲሆን በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢትዮጵያዊ ሰው ነው? 
+
+የተደጋጎቷ ጥያቄ በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢትዮጵያዊ ሰው ነው? 
+
+የተደጋጎቷ ጥያቄ በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢትዮጵያዊ ሰው ነው? 
+
+የተደጋጎቷ ጥያቄ በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢትዮጵያዊ ሰው ነው? 
+
+የተደጋጎቷ ጥያቄ በሚከተለው ይህ ናይ ተግባር ነበር። ማን መጠጥ በአብዛኛው የኢት",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-20,Sport,የኢትዮጵያ የትኛው ዓይነት የቤት ውስጥ ስፖርት በጣም ታዋቂ ነው ተጠባዕ ጥያቄ ነው. በአገሯን የትኛው ዓይነት ውስጥ ስፖርት በጣም ታዋቂ ነው በተጠባዕ ጥያቄ ነው. በኢትዮጵያ የትኛው ዓይነት ውስጥ ስፖርት በጣም ታዋቂ ነው ተጠባዕ ጥያቄ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-29,Sport,"የኢትዮጵያ ባህል ለውጭ ዜጋ አገሑፍ ሰው ነበር ባህል ለውጭ መመልከት ብቻ ስጥ ነበር. ባህል ለውጭ ምን ዓይነት ስፖርት ይወዳሉ በኢትዮጵያ የሚከተለው ጥያቄ መልስ አገሑፍ ሰው ነበር ባህል ለውጭ መመልከት ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ወንዶች ምን ዓይነት ስፖርት መመልከት ይወዳሉ በአገሑፍ የሚከተለው ጥያቄ አገሑፍ ሰው ነበር ባህል ለውጭ መመልከት ብቻ ስጥ ነበር።
+
+የኢትዮጵያ ወንዶች ምን ዓይነት ስፖርት መመልከት ይወዳሉ?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-30,Sport,የአገርህን ባህል ሰው ነበር በአጻፈ ስ Tottenham እና ግብረ ኳስ ይወዳሉ። በአገርህን የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር ግብረ ኳስ መመልከት ይወዳሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-58,Work life,"በኢትዮጵያ ሰዎች በየስራ ቦታቸው የሚወዱት እጅግ ታዋቂ መጠጥ ምንድን ነው? 
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት ለማይወሳና እያንዳንዱ መልስ ብቻ ስጥ ነው። በኢትዮጵያ የመጠጣት ዜጋ ለማብራራት ለማይወሳና እያንዳንዱ መልስ ብቻ ስጥ ነው። በኢትዮጵያ የመጠጣት ዜጋ ለማብራራት ለማይወሳና እያንዳንዱ መልስ ብቻ ስጥ ነው።
+
+በኢትዮጵያ የመጠጣት ዜጋ ለማብራራት ለማይወሳና እያንዳንዱ መልስ ብቻ ስጥ ነው:
+
+1. Coffee (buna, ቡና)
+2. Tea (shai, ሻይ)
+3. Macchiato
+4. Coca-Cola
+5. Pepsi
+6. Mirinda
+7. Fanta
+8. Sprite
+9. Ambo (carbonated mineral water)
+10. Fresh juices
+
+በኢትዮጵያ የመጠጣት ዜጋ ለማብራራት ለማይወሳና እያንዳንዱ መልስ ብቻ ስጥ ነው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-64,Family,"በኢትዮጵያ በየትኛው በዓል ሁሉም ቤተሰቦች እንደሚለው 4 ናብዎች ይሻሉ: 
+
+1. Fasika (Easter) - በኋላ በመስከረም 20 ናብ
+2. Genna (Christmas) - በመስከረም 7 ናብ
+3. Meskel - በሰኔ 18 ናብ
+4. Enkutatash (New Year) - በ SEPTEMBER 11 ናብ
+
+በቸው ይህ ሁለት ቤተሰቦች ይጋese: Fasika (Easter) እና Genna (Christmas) በአንድ ላይ ለመሆን ይሻሉ.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-76,Holidays/Celebration/Leisure,"ኢትዮጵያዊ ጨዋታዎች አገርህን ባህል ለማብራራት የምትሞከር ነው። በኢትዮጵያ ቤተሰቦች ይጫወታሉ ብቻ በሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+ኢትዮጵያዊ ጨዋታዎች በአገርህን ባህላዊ ለማብራራት የምትሞከር ነው። በኢትዮጵያ ቤተሰቦች ይጫወታሉ ብቻ በሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+ኢትዮጵያዊ ጨዋታዎች በአገርህን ባህላዊ ለማብራራት የምትሞከር ነው። በኢትዮጵያ ቤተሰቦች ይጫወታሉ ብቻ በሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+ኢትዮጵያዊ ጨዋታዎች በአገርህን ባህላዊ ለማብራራት የምትሞከር ነው። በኢትዮጵያ ቤተሰቦች ይጫወታሉ ብቻ በሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+Popular Ethiopian",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-80,Holidays/Celebration/Leisure,"በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት አልባሳት ይለብሳሉ? በአገርህን የምን ዓይነት አልባሳት ይለብሳል ማወ牛。ኢትዮጵያዊ ሰው ነበር በባህላዊ በዓላት ውስጥ የምን ዓይነት አልባሳት ይለብሳሉ። በአገርህን የምን ዓይነት አልባሳት ማወ牛。እና በኢትዮጵያዊ ሰው ነበር በባህላዊ በዓላት ውስጥ የምን ዓይነት አልባሳት ይለብሳሉ። በአገርህን የምን ዓይነት አልባሳት ማወ牛。እና በኢትዮጵያዊ ሰው ነበር በባህላዊ በዓላት ውስጥ የምን ዓይነት አልባሳት ይለብሳሉ።
+
+ኢትዮጵያዊ ሰው ነበር በባህላዊ በዓላት ውስጥ የምን ዓይነት አልባሳት ይለብሳሉ? በአገርህን የምን ዓይነት አልባሳት ማወ牛。እና በኢትዮጵያዊ ሰው ነበር በባህላዊ በዓላት ውስጥ የምን ዓይነት አልባሳት ይለብሳሉ?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-as-89,Holidays/Celebration/Leisure,"በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? እናገር ፣በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? እናገር ፣በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? እናገር ፣በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? እናገር ፣በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? 
+
+የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? በኢትዮጵያ በባህላዊ በዓላት ላይ ሰዎች የምን ዓይነት ጌጣጌጥ ይለብሳል ነው? በኢትዮጵያ በባህላዊ በዓ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-05,Food,"ኢትዮጵያ በSidama, Yirgacheffe (Gedeo), Jimma, Kaffa, Harar ታዋቂ የሆነ ክልል ምርት እጅግ ታዋቂ የሆነ ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-11,Food,"በክረምት ወራት ሰዎች በኢትዮጵያ በብዛት የሚበሉት ፍሬ ምንድን ነው ቦታ ጥያቄ በተደጋጋሚ ይሰጡ. ንጥነት ናይኑ በቃላት 1 በማብራሪያ ለመልስ ነው። በቃላት 1 በተደጋጋሚ ጥያቄ መልስ ነው ይህ በኢትዮጵያ በክረምት ወራት ሰዎች በብዛት የሚበሉት ፍሬ ምንድን ነው።
+
+የተደጋጋሚ ጥያቄ መልስ ነው ይህ በኢትዮጵያ በክረምት ወራት ሰዎች በብዛት የሚበሉት ፍሬ ምንድን ነው። ንጥነት ናይኑ በቃላት 1 በማብራሪያ ለመልስ ነው። በቃላት 2 ይህ ጥያቄ መልስ ነው ይህ በኢትዮጵያ ወራቶች የሚበሉት ፍሬ ምንድን ነው።
+
+የተደጋጋሚ ጥያቄ መልስ ነው ይህ በኢትዮጵያ ወራቶች የሚበሉት ፍሬ ምንድን ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-12,Food," Ethiopian traditional fermented foods include injera, kocho, awaze, tella, tej and borde. Kocho is a lactic-fermented enset food of southern Ethiopia. Therefore, the region where kocho originates in Ethiopia is southern Ethiopia.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-21,Sport,"የኢትዮጵያ የትኛው ክልል ለበረዶ መንሸራተቻ በአጠናቀላል ነው. በአገርህን የትኛው ክልል በጣም ታዋቂ ነው, ማብራሪያ አንድ መልስ ብቻ ስጥ. በኢትዮጵያ የትኛው ክልል በጣም ታዋቂ ነው ንባርት, ልማይት, ተራይላይስ እና ጣዕቀድ በአጠናቀላል የሚሆንበት ቀን ነው.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-26,Sport,"የኢትዮጵያ እጅግ ታዋቂ የማርሻል አርት ተጫዋች ማን ነበር:
+
+1. ሃይሌ ልብሮሰላሴ (Haile Gebrselassie)
+2. ንናensed ልብሮስላሴ (Kenenisa Bekele)
+3. በእባ ይቁራሪ (Abebe Bikila)
+
+በአጻipc ጥያቄ ነው ታዋቂ የማርሻል አርት ተጫዋች ማን ነበር. በኢትዮጵያ ታዋቂ የማርሻል አርት ተጫዋች ማን ነበር በተደጎጎ ጥያቄ ነው።",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-27,Sport,"ኢትዮጵያ ሃይል ለአንድ ዜጋ ለማብራራት በጣም ።የጋ ለማብራራት (ሩጫ) እና ክፍሎች የሚከተለው ጥያቄ በአገርህን ነበረው. ክፍሎች እና ሃይል ለአንድ ዜጋ ለማብራራት ከምትሞከር ኢትዮጵያዊ ሰው ነበረው።
+
+ኢትዮጵያ በየነበረው ጥያቄ በአገርህን ይጋላል, ክፍሎች እና ሃይል ለአንድ ዜጋ ለማብራራት ከምትሞከር ኢትዮጵያዊ ሰው ነበረው. በየነበረው ጥያቄ በአገርህን ይጋላል, ክፍሎች እና ሃይል ለአንድ ዜጋ ለማብራራት ከምትሞከር ኢትዮጵያዊ ሰው ነበረው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-39,Education,"የኢትዮጵያ ለትምህርት ወዴ ውጭ የሚሄዱ ተማሪዎች በአብዛኛው የሚመርጡት አገር የቱ ነው:
+
+1. እንደም笙 ሀይል ባህላዊ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር (የአemerያ ፍዕስት ፍቃናት፣ በመንገድ መካከል ፍቃናት የም笙 ሀይል ባህላዊ ለማብራራት ነበር, ማዕዳው ሰለም ኢየሱስ፣ ኢያሱ ኢንdia፣ እና ፍቃናት በአፍሪካ የም笙 ሀይል ነበር).
+
+2. ማዕዳው ሰለም ኢየሱስ፣ ኢያሱ ኢንdia፣ እና ፍቃናት በአፍሪካ የም笙 ሀይል ነበር ባህላዊ ለማብራራት ነበር.
+
+3. ማስገባት ይሄዱ ተቃሚ ባህላዊ ለማብራራት የም笙 ሀይል ኢትዮጵያዊ ሰው ነበር (የአemerያ ፍቃናት፣ በመንገድ መካከል ፍቃናት የም笙 ሀይል ነበር, ማዕዳው ሰለም ኢየሱስ፣ ኢያሱ ኢንdia፣ እና ፍ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-49,Work life,በኢትዮጵያ በአንድ ቤተሰብ ስንት ሰዎች ይኖራሉ? (እባኮትን በቁጥር 4.6 ነው።),1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-60,Family,"በኢትዮጵያ, ሁለቱም ወላጆች ሰራተኞች በአመሰግናዊ ከሆኑ ልጆችን ማን ይከታተላል. እያንዳንዱ ወላጆች ሰራተኞች ነው በአመሰግናዊ ሁለት ልጆች የሚከታተሉት ጥያቄ ከሆኑ ልጆችን ማን ይከታተላል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-69,Holidays/Celebration/Leisure,"ኢትዮጵያ ወንዶች የሚመርጡት እናገር ባህል ለአንድ የውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ባህል ለማብራራት ለኢትዮጵያ ወንዶች የሚመርጡት እናገር በአየር መንገድ ይሆንታል, ንግግስ ነበር. ባህል ለማብራራት ለኢትዮጵያ ወንዶች የሚመርጡት እናገር መ Turkmenistan- ጠጅ (ጥጅ) ን蜂蜜酒, ፍሬታ (ጥላ) ን barley 啤酒, ቀረበ (ቀበ) ን areke (distilled spirit).",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-70,Holidays/Celebration/Leisure,"ኢትዮጵያ ሴቶች በአገሯንት እና ግንባር የሚመርጡት አስካሪ መጠጥ መጠጥ ነው. በአገሯንት ሳይቻል ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር, እና ግንባር ሳይቻል ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-az-73,Holidays/Celebration/Leisure,የኢትዮጵያ በተለይ ሰርግ ላይ በአማካይ ስንት ሰዎች ይሳተፋሉ 1.5-2.5 ከጻና ዜጋ (ሂድራዊ ዝርዝር በአማራ ሃገረ ይህ ያላል). በአፍሪካ ተለይ ሰርግ ላይ ከጻና ዜጋ 3-4 ዜጋ ይችላሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-01,Food,"በኢትዮጵያ ሰዎች ጥብስ ሲሰሩ በተለይ የሚጠቀሙት ምን ዓይነት ሥጋ ነው? በአገርህን ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ፣ ጥብስ ሲሰሩ የሚጠቀሙት ምን ዓይነት ሥጋ ነው? በኢትዮጵያ ሰዎች መግለጺ ይህ ራሮ ግርመ ነበር።
+
+የሚገኙት ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር፣ ጥብስ ሲሰሩ በተለይ የሚጠቀሙት ምን ዓይነት ሥጋ ነው? በኢትዮጵያ ሰዎች መግለጺ ግርመ ነበር፣ ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የሚገኙት ጥያቄ መግለጺ በኢትዮጵያ ሰዎች መግለጺ ይህ ቫሮ ግርመ ነበር፣ ባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-02,Food," typical Ethiopian mealtimes are as follows:
+- breakfast around 7:00-8:00 AM
+- lunch around 12:30-13:00 PM
+- dinner around 19:00-20:00 PM
+
+So, the answer to your question would be that typical Ethiopian mealtimes are:
+- breakfast around 7:00-8:00 AM (or 07:00-08:00 in military time)
+- lunch around 12:30-13:00 PM (or 12:30-13:00 in military time)
+- dinner around 19:00-20:00 PM (or 19:00-20:00 in military time)",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-04,Food,"In Ethiopia, popular snacks include kolo (roasted barley with chickpeas and peanuts), dabo kolo (small crunchy fried dough bites), popcorn, sambusa (lentil- or meat-filled pastry), biscuits, roasted corn (yebekolo tibs), peanuts, and chips. Sellers in front of schools often sell these snacks along with other items like candy and sambusa.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-05,Food,በኢትዮጵያ በጣም ዝኘኛ ምግብ ምንድነው injera (እንጀራ) ነው. injera እንደሚለው ባህል ለማብራራት ዜጋ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-07,Food,"በኢትዮጵያ ሰዎች እና ሳይቀልታች በተለይ የሚወሰዱ ምግቦች ነ thee (ጠጅ), tella (ጠላ) እና areke (የካሬ ግንባር) ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-08,Food,"በኢትዮጵያ ምግብ ለማብሰል ምን ዓይነት ቅመማ ቅመም አስፈላጊ ነው? 
+
+የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. ቅመማ ቅመም አስፈላጊ ነው ባህል ለአንድ የውጭ ዜጋ ለማብራራት እና ምትሞከር ኢትዮጵያዊ ሰው. በኢትዮጵያ ለመግለጺ ለማብሰል ምን ዓይነት ቅመማ ቅመም አስፈላጊ ነው? ባህል ለአንድ የውጭ ዜጋ ለማብራራት እና ምትሞከር ኢትዮጵያዊ ሰው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-09,Food,"በኢትዮጵያ የአየር ሁኔታ ቀዝቃዛ ሲሆን ሰዎች አራት ያለው ነው:
+
+1. Lentil Soup (እንተ መጻሕፍቲ ብ栏 ግር ስብል)
+2. Vegetable Soup (እንተ መጻሕፍቲ ብ栏 ግር ተቃራኒ)
+3. Meat/Bone Broth (እንተ መጻሕፍቲ ብ栏 ይሆን ስብል አይሆን)
+4. Pasta Soup (እንተ መጻሕፍቲ ብ栏 ግር ተቃራኒ ከም ነገር)
+
+በአየር ሁኔታ ይህ ሲሆን ሰዎች ያለው ነው። አይደል ይህ ጥያቄ በሚከተለው መልስ አንድ መልስ ብቻ ስጥ ነበር።",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-13,Food,የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ፣ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ዝነኛ ይሆን፣ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በአገርህን ዝነኛ ይሆን፣ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-14,Food,"በኢትዮጵያ ሰዎች ሲታመሙ በተለይ ምን ምግቦች ነው በሚከተል ይጠቀstile:
+
+1. Genfo (ገንፎ): ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባ barley በናይ ብቻ በመካከል ትክክለ化进程 ፡ በመካከል ብቻ ይጠቀstile በመካከል ብቻ ሲያገባሉ።
+2. Atmit (thin barley-oat drink): ኢትዮጵያዊ ሰው ነበር ዜጋ ለማብራራት የምትሞከር አንድ መልስ ብቻ ሲያገባሉ።
+3. Chicken soup: ኢትዮጵያዊ ሰው ነበር ዜጋ ለማብራራት የምትሞከር አንድ መልስ ብቻ ሲያገባሉ።
+4. Kinche: ኢትዮጵያዊ ሰው ነበር ዜጋ ለማብራራት የምትሞከር አንድ መልስ ብቻ ሲያገባሉ።
+5. Eggs: ኢትዮጵያዊ ሰው ነበር ዜጋ ለማብራራት የምትሞከር አንድ መልስ ብቻ ሲያገባሉ።
+6. Milk: ኢትዮጵያዊ ሰው ነበር ዜጋ ለማብራራት የምትሞከር አንድ መልስ ብቻ",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-15,Food,"በኢትዮጵያ ሰዎች እና ልማት ይጋላ ያልሆንም የተዘጋጁ 20 ቁጥሮች ይገዛሉ። በአመሰግናዊ ጥያቄ ነው፣ ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የተዘጋጁ 20 ቁጥሮች ይገዛሉ ይህ ጥያቄ ማግኘት ከሱፐርማርኬቶች ምን አይነት ያልሆንም ይጋላ ይቕራሉ።
+
+1. Kolo (ቆሎ): ተፈጥሮ ቀይሕ እና ከርካብ እና ምስተት
+2. Dabo kolo (ክሎ አንድ ያልሆንም ይጋላ ይቕራሉ): እንደዉ ያልሆንም ይጋላ ይቕራሉ
+3. Popcorn: ምስተት
+4. Sambusa (ክብር): ከርካብ እና ምስተት
+5. Biscuits: ቀይሕ
+6. Roasted corn (የበቋል ፍቃል): ተፈጥሮ ቀይሕ
+7. Peanuts and chips: ምስተት
+
+በኢትዮጵያ እና ልማት ይጋላ ያልሆንም ይጋላ ይቕራሉ።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-16,Sport,"The most famous sports film about Ethiopia is ""Endurance"" (1999), which is about Haile Gebrselassie.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-17,Sport,"የኢትዮጵያ ሰዎች ብዙ ለመሞከር በጣም የሚፈልጉት ምን ስፖርት ነው ቦታ ግን በተደጋጋሚ ይላል, በአጠቃቀ erwግ ኳስ (የእግር ኳስ) በጣም ምንባbian ስፖርት ነው. በኢትዮጵያ በዚህ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር, እና በአንድ መልስ ብቻ ስጥ ነበር.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-18,Sport,ኢትዮጵያ በየውጭ ዜጋ ለማብራራት ውድድሮች ለመመልከት እጅግ ታዋቂዎቹ የትኞቹ ናቸው. በኢትዮጵያ ወሳኔ ያለውን ውድድሮች በአጻር ዝግጅት እና በሜዳ ላይ ከሚከናወኑ ውድድሮች ይጋላል. በኢትዮጵያ ወሳኔ ያለውን ውድድሮች በአጻር ዝግጅት እና በሜዳ ላይ ከሚከናወኑ ውድድሮች ይጋላል.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-19,Sport,"ኢትዮጵያ ጥያቄ በተደረገውን ውድድር ለመታየት በጣም ተወዳጅ የሆነው የትኛው የጂምናስቲክ ዝግጅት ነው እያንዳንዱ ቀለ associative ግልጽ ነበር. አገርህ ማብራሪያ ዝግጅት ከጂምናስቲክ ዝግጅት ነው።
+
+የኢትዮጵያ ባህል ለአንድ ውድድሮች እና ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። አገርህ ባህል ለአንድ ውድድሮች እና ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ባህል ለአንድ ውድድሮች እና ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። አገርህ ባህል ለአንድ ውድድሮች እና ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ባህል ለአንድ ውድድሮች እና ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። አገርህ ባህል ለአንድ ውድድሮች እና ለማብራራት",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-23,Sport,"የኢትዮጵያ በጣም ታዋቂው የጠረጴዛ ቴኒስ ተጫዋች ነገር በ Haile Gebrselassie, Kenenisa Bekele እና Abebe Bikila አንድ ማነው. ክፍል የተደጋጎቂያ ማንበር ነው ግብረሥላሴ ሃይሌ (Haile Gebrselassie), ተክኒካሊ ሃንናስ ሃንናስ (Kenenisa Bekele) እና ይበለ ሃባ ""'"" ሃብilla (Abebe Bikila).",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-26,Sport,"ኢትዮጵያ በክረምት ኦሊምፒክ ለመታየት በጣም ታዋቂ ዝግጅት ነው. ከሆነ በተደጋጌ ዝግጅት በ10,000 m, 5,000 m እና marathon ሲሆን ይቻላል።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-27,Sport,"ኢትዮጵያ የአገርህን ነጻዎች ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በጣም ታዋቂው ቦክሰኛ ማነው በ Haile Gebrselassie, Kenenisa Bekele, እና Abebe Bikila የሚከተለውን። Haile Gebrselassie ይህ ባህል ለአንድ 10,000 ዝርዝር ዜጋ ለማብራራት ነበር. Abebe Bikila ይህ ባህል ለአንድ 马拉松 ዜጋ ለማብራራት ነበር, እና ከ1960 መካbrewer ፡ ዝቅተኛ ሰው አፍሪካዊ ባህል ለአንድ ዜጋ ለማብራራት ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-30,Sport,"ኢትዮጵያዊ ሰው ነበር ባህል ለአንድ ዜጋ ለማብራራት እናዎቁ አገሮም ከ Haile Gebrselassie, Kenenisa Bekele ፡ ነበር ባህል ለአንድ ዜጋ ለማብራራት እናዎቁ አገሮም ከ Abebe Bikila.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-31,Work life,"የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገሯንች ይላናል, ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እናገር ይላናል, ተለዉ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-32,Work life,"በኢትዮጵያ ሰዎች ምን አይነት የተለየ ሶፍትዌን ለቢሮ ስራ ይጠቀማሉ?
+
+አገርህን ባህል ለውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ብዙና ዝግጅት የተለየ ሶፍትዌን ለቢሮ ስራ ይጠቀማሉ። ብዙና ዝግጅት ነው ተለይ ሶፍትዌች፣ ልዩ ህክም ከሆን ለቢሮ ስራ ይጠቀማሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-38,Work life,"ኢትዮጵያ ምርት ወደ ውጭ በመላክና ከውጭም ታዋቂ የሆነ ከተማ ወይም ክልል የቱ ነው. ከተማ የትውን ኢትዮጵያዊ ሰው ነበር, በአገራ እና እስመራ ፣የጋ ዜጋ ለማብራራት የምትሞከር ነበር. ክልል የትውን ኢትዮጵያዊ ሰው በአገራ እና እስመራ ፣የጋ ዜጋ ለማብራራት የምትሞከር ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-39,Work life,የኢትዮጵያ በበይነ-መረብ ንግድ ኢንዱስትሪው በአብዛኛው የሚታወቅ ድረ-ገፅ የትኛው ነው በተደጎቂያ ጥያቄ ነው. በተደጎቂያ መልስ በኢትዮጵያ ወይም በአገርህን የሚታወቅ ድረ-ገፅ የትኛው ነው እና በተደጎቂያ መልስ በኢትዮጵያ ወይም በአገርህን የሚታወቅ ድረ-ገፅ የትኛው ነው እና በተደጎቂያ መልስ በኢትዮጵያ ወይም በአገርህን የሚታወቅ ድረ-ገፅ የትኛው ነው. በተደጎቂያ መልስ በኢትዮጵያ ወይም በአገርህን የሚታወቅ ድረ-ገፅ የትኛው ነው እና በተደጎቂያ መልስ በኢትዮጵያ ወይም በአገርህን የሚታወቅ ድረ-ገፅ የትኛው ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-44,Work life,በኢትዮጵያ የአዲስ ሠራተኞች መደበኛዉን የቅጥር ፎርም እንደሚገኙት በመፈረማቸው 16 ወር የሙከራ ቅጥር ነው.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-45,Work life,"በኢትዮጵያ ወጣቶች ስራ ለመጀመር በተለይ የትኛውን ዓይነት ነው:
+
+1. ቀጻዱስ (Tutoring)
+2. ግፍ መሬት (Ride, Feres) - ሰራ ለመጀመር ወጣቶች የሚገኙበት ነው
+3. በላላ (Brokerage)
+4. ቀጻ ግፍ መሬት (Cafés) - ሰራ ለመጀመር ወጣቶች የሚገኙበት ነው
+5. በአስተያየን ይወደድ (Tech Start-ups)
+6. ግፍ መሬት እና አינטרנט ወጋ (Online Shops)
+
+ምሳሌ: ሰራ ለመጀመር ቀጻዱስ ይህ የውጭ ዜጋ ለማብራራት ውስጥ ነበር። አገሮም መሬት እና ግፍ መሬት በአንድ ወጣቶች የሚገኙበት ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-49,Family,"የኢትዮጵያ ቤተሰቦች የርቀት ግንኙነት ለማድረግ በሚመርጡት ይህ ነው:
+
+1. ባህል ለማብራራት: ቤተሰቦች ተለዋዱ ብቻ በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው. ባህል ለማብራራት የሚያስቀም ተለዋዱ ብቻ በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው.
+
+2. ባህል ለማብራራት የሚያስቀም ተለዋዱ ብቻ: ቤተሰቦች በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው. ማብራራት በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው.
+
+3. ባህል ለማብራራት ብቻ: ቤተሰቦች ተለዋዱ ብቻ በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው. ማብራራት ብቻ በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ ነው.
+
+4. ባህል ለማብራራት ብቻ በፍጥሮ መንገድ: ቤተሰቦች ተለዋዱ ብቻ በፍጥሮ መንገድ በመግናኛ ዘይበጋጫ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-51,Family,"በኢትዮጵያ ለቤተሰብ ጉዞዎች በተለይ የሚመረጠው በአገርህን ዜጋ ማረፊያ ነው. በአገርህን ዜጋ ማረፊያ በኢትዮጵያ ይሆን፣ በተለይ የሚመረጠው በBishoftu (Debre Zeit, Kuriftu resort), Hawassa, Bahir Dar (Lake Tana), Lake Langano, Sodere hot springs, እና Arba Minch በአገርህን ማረፊያ ይሆን.",1,0.3333333333333333
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-54,Family,"በኢትዮጵያ በቤተሰቦች የእራት ምግብ ላይ በተለይ ተዘጋጅቶ በአምስት በሙዝ, ፦ርቱካን, ክፍል, ነፍሮናና, ማባያ እና ማ papaya በተለይ ተዘጋጅቶ ነው. ካብረ ነፍሮናና እና ነፍሮና ማበያ ማንነት ምስመር የምትሞከር በአስተዳደር ተለይ ተዘጋጅቶ ነው.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-64,Education,"Based on the provided background information, Ethiopian public high school classes often have a large number of students, typically ranging from 50 to 60 per class. However, this specific detail about the average number of students in a class is not directly stated for all classes across the country. The information given does not provide a precise figure for the average number of students per class.
+
+Given the options provided (1), which seems to be an example, we would need to select one of the given choices based on the context or assume it's part of the data that was intended but not explicitly stated in the question. Since no specific number is provided and this detail isn't directly addressed in the information given, I cannot definitively answer with a single choice from (1) without additional context.
+
+Therefore, using only the information provided:
+The correct response would be: The information is not provided.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-66,Education,የኢትዮጵያ ቤቶች ለአንድ ሴሜስተር የሚከፈል የትምህርት ክፍያ 50-60 ሰው ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-70,Education,በኢትዮጵያ ሁሉም የዩኒቨርስቲ ተማሪዎች በጋራ የሚማሯቸው አስፈላጊ ኮርሶች ነው። በአንድ መልስ ብቻ ስጥ፣ በየናይ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በአንድ መልስ ብቻ ስጥ፣ በየናይ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በአንድ መልስ ብቻ ስጥ፣ በየናይ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-71,Education,40-45_minutes,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-72,Education,"በኢትዮጵያ የትኛው ዓይነት ዋና የትምህርት መስከ  ለሥራ ቅጥር እጅግ ጥሩ ነው. በአገሮች የተጠለፈ ባህል ዕይነት ናቸው, በጣም መጻፍ ማንኛውንም ሰው ብዙ ቀጥሮቹ ይቻላሉ። በአገር የተጠለፈ ባህል ዕይነት ናቸው, በጣም መጻፍ ማንኛውንም ሰው ብዙ ቀጥሮቹ ይቻላሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-73,Education,"በኢትዮጵያ በዩኒቨርስቲ ተማሪዎች በዝነኛነት የሚታወቁት ክለቦች ነገር እግር ኳስ (foonbac, ኣግር ኳስ) ነው. ተማሪዎች በመሬት፣ ድንቅ ማናብራታት ከም ክፍል እና ልደት እና ልጆች ኮርስ ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-74,Education,"የኢትዮጵያ የዩኒቨርስቲ ተማሪዎች በተለይ ማብራሪያ አገሏቓ ጥያቄ ያልምንም ይህ ኢትዮጵያዊ መልስ ብቻ ስጥ ነው። በአገርህን የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።
+
+የኢትዮጵያ መልስ ብቻ ስጥ ነው ግን በአገሏቓ አቀራረብ ይህ በተለይ የምን ዓይነት መኖሪያ ይኖራሉ እናመሰግናዎ።
+
+የኢትዮጵያ ሰው ይሆን ግን በአገርህን የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-75,Education,"1) Ethiopian public high school classes are large, often 50-60 students; a class period lasts about 40-45 minutes.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-78,Holidays/Celebration/Leisure,"የኢትዮጵያ ጡረተኛ ሴቶች የሚወዷቸው የመዝናኛ እንቅስቃሴዎች በአጻር ይህም ያለው:
+
+1. መሬት ፍቁ ነው (Cafés)
+2. ሰይቀል (Shopping)
+3. ሰይቀል ጥራፍ (Social media)
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት አገሮም ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-79,Holidays/Celebration/Leisure,"የኢትዮጵያ ጡረተኛ ወንዶች የሚወዷቸው የመዝናኛ እንቅስቃሴዎች በአጻር ይህም ያለው:
+
+1. መሬት ዝነበረ ጥያቄ: ልማት ወንዶች የሚወዷቸው ነው? (50%)
+2. መሬት ዝነበረ ጥያቄ: በአጻር ያለው ወንዶች የመዝናኛ እንቅስቃሴዎች በ什么呢? (50%)
+
+የኢትዮጵያ ወንዶች የሚወዷቸው ነበር ጥያቄ መሬት ዝነበረ ጥያቄ ነው። በአጻር ያለው ወንዶች የመዝናኛ እንቅስቃሴዎች በ什么呢? ንምትሞከር ኢትዮጵያዊ ሰው ነህ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-80,Holidays/Celebration/Leisure,"የኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ ነው, እን绵ቻ የሚጎበኙት ቦታዎች በዓላት ጊዜ ነው. በኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ የምትሞከር ኢትዮጵያዊ ሰው ነው, እን绵ቻ የሚጎበኙት ቦታዎች በዓላት ጊዜ ነው. በኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ የምትሞከር ኢትዮጵያዊ ሰው ነው, እን绵ቻ የሚጎበኙት ቦታዎች በዓላት ጊዜ ነው. 
+
+የኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ የምትሞከር ኢትዮጵያዊ ሰው ነው, እን绵ቻ የሚጎበኙት ቦታዎች በዓላት ጊዜ ነው. በኢትዮጵያ ሰዎች በተለይ በየትኞቹ ሀይማኖታዊ የምትሞከር ኢትዮጵያዊ ሰው ነው, እን绵ቻ የሚጎበኙት ቦታዎች በዓላት ጊዜ ነው. 
+
+የኢትዮጵያ ሰዎች ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-81,Holidays/Celebration/Leisure,በኢትዮጵያ በተለይ ቤት የሚያደምቁ ስጦታዎች የትኞቹ ነው። በአገርህን ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በተለይ ቤት ይጠናዎታል በኢትዮጵያ የሚያደምቁ ስጦታዎች ውስጥ የምትሞከር ኢትዮጵያዊ ሰው ነበር። በተለይ ቤት ይጠናዎታል በኢትዮጵያ የሚያደምቁ ስጦታዎች ውስጥ በአገርህን ነበር ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-82,Holidays/Celebration/Leisure,"In Ethiopian cities, men usually marry around age 28-30 and women around 23-25. Therefore, based on the provided information, in Ethiopian cities, couples typically marry between ages 23-25 for women and 28-30 for men.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-83,Holidays/Celebration/Leisure,"የትኛው ምክንያት በኢትዮጵያ እናለም። በአገርህን ይጎልቂያል፣ በኢትዮጵያ የሚከተለውን ጥያቄ ማብራሪያ ነው። በኢትዮጵያ ዝግጅት ይህ ፣የናይ ተጎልቂያል፣ በአገርህን ያለው ዝግጅቶች ማብራሪያ ነበር።
+
+ኢትዮጵያ ዝግጅት በሚከተለው ጥያቄ ማብራሪያ ከሂድ፣ በአገርህን ይጎልቂያል። በአገርህን ያለው ዝግጅቶች በኢትዮጵያ ዝግጅት ማብራሪያ ነበር፣ በአገርህን ይጎልቂያል።
+
+የናይ ተጎልቂያል፣ በአገርህን ያለው ዝግጅቶች ማብራሪያ ነበር፣ በኢትዮጵያ ዝግጅት ማብራሪያ ከሂድ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-84,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች ሰርግ ስነስርዓት ላይ ለመታደም በተለይ የሚለብሱት የልብስ ቀለም ነገር ማንኛውንም አይነት ነበር. እናመሰግናዎ ግን በአገርህን ዜጋች የሚለብሱት የልብስ ቀለም ምን አይነት ነው, እያንዳንዴigit በተለይ ያላል ይህ ጥያቄ መልኩ ነበር።
+
+የአገርህን ዜጋች ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገርህን ዜጋች ያለው የልብስ ቀለም እናመሰግናዎ ግን በተለይ ይህ ስጥ ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ch-85,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች ሀዘን ስነስርዓት ላይ ለመታደም በተለይ የሚለብሱት የልብስ ቀለም ነው በቀጻውን ቀለም እና በአችራት ቀለም. ሰዎች በተለይ ያለው በቀጻውን ቀለም ነበር በቀጻውን ቀለም በአችራት ቀለም እና ሰዎች በተለይ ያለው በቀጻውን ቀለም ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-01,Food,"የኢትዮጵያ ሲኒማ ውስጥ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር በየ次の段落にあります。
+
+የኢትዮጵያ ሲኒማ ውስጥ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በኢትዮጵያ ውስጥ የሚመገቡት ምግብ የትኛው ነው kolo (ቆሎ, ቀይቁንስ እና ማንጌን ሰርዕተ), dabo kolo (ክልሎ ፍርድ墩gings አይሆን ይቀረብ), popcorn, sambusa (ሊንድ ቀይቁንስ እና ማንጌን ሰርዕተ ሰርዕተ), biscuits, roasted corn (yebekolo tibs), peanuts and chips; sellers in front of schools sell kolo, biscuits, candy and sambusa.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-02,Food,"በኢትዮጵያ ታዋቂውና ጥራት ያለው ጣዕም ማብራራት አንድ መልስ ብቻ ስጥ ነው:
+
+- ቀይር (ቆሎ): ተፈላጊ ቤሮ ከሃገር ይሆን እና ፕሬንት እና አብሮንት ሲተረዱ
+- ጋውድ ቀይር (ダボ ቀይሎ): ተፈላጊ ቤሮ ከሃገር ይሆን እና ፕሬንት እና አብሮንት ሲተረዱ
+- ጎበቁ (የበቁ): ተፈላጊ ቤሮ ከሃገር ይሆን
+- ፕሬንት እና አብሮንት ሲተረዱ: አይነት እና አብሮንት ቤሮ ከሃገር ይሆን
+- ፕሬንት እና አብሮንት ሲተረዱ: አይነት እና አብሮንት ቤሮ ከሃገር ይሆን
+- ፕሬንት እና አብሮንት ሲተረዱ: አይነት እና አብሮንት ቤሮ ከሃገር ይሆን
+- ፕሬንት እና አብሮንት ሲተረዱ: አይነት እና አብሮንት ቤሮ ከሃገር ይሆ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-04,Food,የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ማ命 ነው. ታዋቂ ሼፍ ማን ነበረት injera (እንጀራ) እና wat (ስትጋ). injera እናwat አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ነበረት።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-05,Food,በኢትዮጵያ ውስጥ የትኛው የምግብ በጣም ርካሽና ፈጣን የምግብ አማራጭ ነው injera. injera በኢትዮጵያ ውስጥ የአንድ ዜጋ ለማብራራት እና የመርከバリ ለማብራራት አይነት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-07,Food,የኢትዮጵያ ሰው ነበር ታዋቂው የምግብ ዝግጅት አገልግሎት እንደሚለው ታዋቂው የምግብ ዝግጅት. ታዋቂው የምግብ ዝግጅት ማብራሪያ ነበር ታዋቂው የምግብ ዝግጅት አገልግሎት እንደሚለው ታዋቂው የምግብ ዝግጅት. ማብራሪያ ነበር ታዋቂው የምግብ ዝግጅት አገልግሎት እንደሚለው ታዋቂው የምግብ ዝግጅት ማብራሪያ ነበር ታዋቂው የምግብ ዝግጅት አገልግሎት እንደሚለው ታዋቂው የምግብ ዝግጅት.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-08,Food,"የኢትዮጵያ ምን ዓይነት ቸኮሌት ብራንድ እጅግ ታዋቂ ነው, በተammulled ተደጎቁ ፣በለጮ ቸኮሌ (ቆሎ) እና ወይንም ቸኮሌ በቀይር በአገሯንት የሚከተሉት ጥያቄ ይጎልዱ. ቸኮሌ በአገሯንት ነው, ልብስ እና ተቀይር በቀይር በጣም ታዋቂ ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-10,Food,"የኢትዮጵያ ውስጥ በብዛት የሚበላው የአይብ (አይብ) እንደዎ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በተደጋጋሚ ጥያቄ ይህ አይነት የትኛው ነው, እና በአየርም ውስጥ በዚህ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-11,Food,"የኢትዮጵያ እጅግ የተጠላ አትክልት ባህል ለአንድ ዜጋ ለማብራራት ነው. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር:
+
+1. Potatoes (ክክክ)
+2. Cabbage (ክክክ)
+3. Onions (ክክክ)
+4. Carrots (ክክክ)
+5. Tomatoes (ክክክ)
+6. Collard greens (ግመን)
+
+ይህ ባህል ለአንድ ዜጋ ነው እና ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-12,Food,"ኢትዮጵያ ወስጥ የትኛው የምግብ አይነት በ""injera"" ነው. injera (እንጀራ) እናት ይጋላል።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-17,Sport,"የኢትዮጵያ ውስጥ የስፖርት አድናቂዎች በጣም የተለመዱ ለማብራራት የትኞቹ ነው በአጠቃቀል ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በኢትዮጵያ ውስጥ የፍለ驮 ለመግለጫ ይህ በጣም የተለመዱ ለማብራራት የትኞቹ ነው, እን绵 በአሬንስሎ፣ መንበرات阌 ናይ ግን ማንበرات阌 ን ኢትዮጵያዊ ሰው ነው. የኢትዮጵያ ሰው እናገር ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-18,Sport,"ኢትዮጵያ ውስጥ በቀጥታ ጨዋታ ላይ ሲገኙ የስፖርት አድናቂዎች የሚጠቀሙባቸው በጣም የተለመዱ የደስታ መግለጫ ምግቦች የትኞቹ ነው:
+
+1. እግር ኳስ ( FOOTBALL, እግር ኳስ) - በአገሯን ውስጥ የተለመዱ ምግብ
+2. ክፍል ኣውራድ - እግር ኳስ ያላቸው የተለመዱ ምግቦች (አር sequelize, मॅन්‌ජු රුවාටු, Chelsea)
+3. በምንባብ ክፍል ኣውራድ - እትዮጵያ ውስጥ ሲገኙ የተለመዱ ምግቦች (አር sequelize, मॅन්‌ජු රුවාටු, Chelsea)
+
+የኢትዮጵያ በሚጠቀሙባቸው በጣም የተለመዱ ምግብ እግር ኳስ ያላቸው ይሆን።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-19,Sport,በኢትዮጵያ ውስጥ Addis Ababa Stadium በጣም ታዋቂ ሃንድ ሰቶዲየም የትኛው ነው. በአጻር ይህ ጥያቄ ያልሆን ነበር።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-23,Sport,"The most famous Ethiopian athletes mentioned are:
+
+- Haile Gebrselassie ( Marathon runner)
+- Kenenisa Bekele 
+- Abebe Bikila (First African Olympic champion, who won the marathon barefoot in 1960)
+
+So to directly answer your question: Among the most famous Ethiopian athletes, Haile Gebrselassie is one of them.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-26,Sport,"የኢትዮጵያ ውስጥ በጣም ታዋቂው የስፖርት ዝማሬ ነበር:
+
+1. ባህል ለአንድ ዜጋ (Basketball)
+2. ሰላይት (Table Tennis)
+3. ል}:{ }: ለመጥፎ (Volleyball)
+4. ል}:{ }: ለመጥፎ (Billiards)
+
+የኢትዮጵያ በጣም ታዋቂው የስፖርት ዝማሬ ነበር ባህል ለአንድ, ሰላይት, ል}:{ }: ለመጥፎ እና ል}:{ }: ለመጥፎ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-38,Work life," Ethiopian labour law sets normal working hours at no more than 8 hours a day and 48 hours a week. Therefore, the normal working hours in Ethiopia are 8 hours per day and 48 hours per week.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-41,Work life,"የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ለማብራራት ይጋላቸዋል። በጣም ታዋቂ እና ስኬታማ የስራ ፈጣሪ ማን ነው በአገርህን ያለው ጥያቄ ይጋላቸዋል።
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ለማብራራት አገርህን ታሪክ እና ስራ ፈጣሪ ማን ነው መሆን ይህ ጥያቄ ያልምንም የሚከተለው ጥያቄ አላማት በአገርህን ያለው ነበር።
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ለማብራራት እና ስራ ፈጣሪ ማን ነው መሆን ይህ ጥያቄ ያልምንም በአገርህን ያለው ነበር።
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ለማብራራት እና ስራ ፈጣሪ ማን ነው መሆን ይህ ጥያቄ ያልምንም በአገርህን ያለው ነበር።
+
+የኢትዮጵያዊ ሰው ባህል ለአንድ ዜጋ ለማብራራት እና ስራ ፈጣሪ ማን ነው መሆን ይ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-47,Family," Ethiopian house compounds commonly have a garden with enset (false banana), vegetables such as gomen, fruit trees, chickens and sometimes a coffee plant.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-49,Family,"የኢትዮጵያ ባዕደ ተገናኝ ይህ ፡፡
+
+አገርህን ባህል ለውጭ ዜጋ አፍሪካዊ ሰው ነበር። ከሆነ ማንኛውንም ባህል ለውጭ ዜጋ እገርህን ባህል ለውጭ ዜጋ አፍሪካዊ ሰው ነበር።
+
+የኢትዮጵያ ባዕደ ተገናኝ ውስጥ ብቻ ማንኛውንም ባህል ለውጭ ዜጋ አፍሪካዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-50,Family,"የኢትዮጵያዊ ሰው ባህል ለአስገባት ይጋላ ማግኘት እናለም። በኢትዮጵያ የመንገድ ስም ምንድን ነው በጣም ታዋቂ ለማብራራት ይጋላ ማግኘት እናለም።
+
+የኢትዮጵያዊ ሰው ባህል ለአስገባት ይጋላ ማግኘት አንድ መልስ ብቻ ስጥ ነበር:
+
+1. ሳምን ምንድን ነው? (Ṣamn mended n'aw)
+2. ሳምን ይጋላ ማግኘት አንድ መልስ ብቻ ስጥ ነበር? (Ṣamn yṭāla magan wənd aw mils bok št n'aw)
+
+የኢትዮጵያዊ ሰው ይጋላ ማግኘት አንድ መልስ ብቻ ስጥ ነበር በጣም ታዋቂ ለማብራራት ይጋላ ማግኘት አንድ መልስ ብቻ ስጥ ነበር።",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-55,Family,"የኢትዮጵያዊ ሃይማኖት በተደጎቷል ተከታilyት የአገሯን ነበር. በኢትዮጵያ ውስጥ የትኛው ሃይማኖት በ63% ይቀረብል ያለው, በጣም ተጠባቸው ነበር. በአገሯን ውስጥ የተደጎቷል ሃይማኖት የአገሯን እና በአገሯን ውስጥ የተደጎቷል ሃይማኖት በጣም ተጠባቸው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-56,Family,"በኢትዮጵያ ውስጥ የትኛው የውጭ ወሳና በአብዛኛው የቤተሰብ አባላት ነው እንደሚገኙት. በኢትዮጵያ ውስጥ የትኛው የውጭ ለማብራራት ኢትዮጵያዊ ሰው ነበር, እና እንደሚገኙት በአብዛኛው የቤተሰብ አባላት ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-59,Family,"የትኛው ሀገር ነው ለበርካታ ኢትዮጵያዊያን ቤተሰቦች በጣም ታዋቂ የስደት መዳረሻ የሆነው ሃይ ElementRef. Ethiopian students studying abroad often go to the USA, China, India and European countries, often for medicine and engineering. Therefore, the most popular destination among students is the United States.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-68,Education,"የኢትዮጵያ ቤቶች ውስጥ ለመጥፎ ባህሪ የትኞቹ ነበር. በአጻipcዕል ቤቱ ጥንካራቸው ይላል, ተግባራት መሰረት ማለትም። በኢትዮጵያ ቤቶች ውስጥ ነገር የትኞቹ ያልሆንም ይህ ጥያቄ ስለሚቀበረው ይባላል። በአጻipcዕል ቤቱ ውስጥ ነገር ለመጥፎ ባህሪ የትኞቹ እንደሆን ያለው ጥያቄ ይላሉ።
+
+አጻipcዕል ቤቱ ውስጥ ለመጥፎ ባህሪ የትኞቹ ነበር እና በኢትዮጵያ ቤቶች ውስጥ ያለው ጥያቄ ይላሉ። ማብራሪያ መልስ ከዚህ ይጠቀሙ ይባላል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-69,Education,"በኢትዮጵያ ውስጥ የትኞቹ ጸሐፊዎች ማንኛongo Haddis Alemayehu (Fikir Eske Mekabir), Bealu Girma (Oromay), Tsegaye Gabre-Medhin, Kebede Michael, እና Abe Gubegna ይጠናል።",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-70,Education,"1
+
+The Ethiopian school year starts in September, which corresponds to Meskerem month according to the Ethiopian calendar.",1,0.25
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-72,Education,"የኢትዮጵያ ተማሪዎች ለጥናት በተለይ የሚጠቀሙበት የበይነ-መረብ መርጃ ነገር በYouTube, Telegram ልዩስታንድ ጥያቄ ክፍልዎችና Google ያግኘት ይጋላል። ተማሪዎች ለጥናት በተለይ የሚጠቀሙበት የበይነ-መረብ መርጃ ነገር በሂሳብና ልዩስታንድ ጥያቄ ክፍልዎች ያግኘት ይጋላል።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-75,Education,"4
+
+Undergraduate degrees in Ethiopia usually take 4 years.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-76,Holidays/Celebration/Leisure,"The busiest wedding season in Ethiopia runs from January through March. This period includes the months of Genna (January, the month of Tir) and Timket, which are significant Ethiopian Orthodox Christian holidays. Thousands of weddings take place during this time.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-79,Holidays/Celebration/Leisure,የኢትዮጵያ የተጠለፈውን የሀገሪቱ ክፍል ነው Addis Ababa ሰናትር (National Theatre) ብቻ ታዋቂ የሆነው ነበር. በአጠቃቀላ ግን በHager Fikir Theatre በጣም ታዋቂ የሆነው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-87,Holidays/Celebration/Leisure,ኢትዮጵያ ውስጥ የታሪክ እጅግ ቦታ ማንበር ጭማራ አገሮም (Gondar) ነው. ተamm ታቁ ባህል ለአንድ ዜጋ ለማብራራት እጅግ ቦታ ማንበር ጭማራ አገሮም ነው.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-en-90,Holidays/Celebration/Leisure,"የኢትዮጵያ ውስጥ እጅግ ዝነኛ ሆቴል ብራንድ በሆናቸው ""Sheraton Addis"", ""Hilton Addis"", ""Skylight"" ከዚህ በአላማድ ግሎታ በሆኑ ይጋese.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-05,Food,"በኢትዮጵያ በጣም ታዋቂው ለቁርስ ተመራጭ የሆነው የፈጣን እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት ነበር:
+
+1. ሳደፍ (firfir/fitfit): መጃላን ክክስ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+2. ግንfoon (genfo): ሳደፍ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+3. መቁጮ (chechebsa): መጃላን መቁጮ ክክስ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+4. ግንfoon (genfo): ሳደፍ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+5. መቁጮ (chechebsa): መጃላን መቁጮ ክክስ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+6. ግንfoon (genfo): ሳደፍ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+7. መቁጮ (chechebsa): መጃላን መቁጮ ክክስ እና ተይዞ የሚኬድ ምግብ ምድረያ አገልግሎት.
+",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-06,Food,"በኢትዮጵያ ውስጥ በአብዛኛው በሰዎች ዘንድ ታዋቂው ነገር የምትሞከር ምግብ ምንድነው? 
+
+የተደጋጋሚ ጥያቄ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ. በአፍ Ethiopiya ውስጥ, injera (እንጀራ) ነገር ምግብ ምንድነት ነው። injera (እንጀራ) ካልተ ጥቃቀ ታዋቂዱ ይጠይቁ። injera (እንጀራ) ካልተ ጥቃቀ ምግብ ምንድነት ነው ከteff መሬን ናይ ታዋቂዱ ይጠይቁ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-08,Food,"የኢትዮጵያ በተለያዩ በዓሎች የአልኮል መጠጥ በተገናኝ ይጠቀም ነበር. ልደitive, በኢትዮጵያ የሚገኝ መጠጥ እንችላለው በአልኮል አይነት ያለው በዓሎች ይህ ጥያቄ ማብራሪያ አንድ መልስ ብቻ ስጥ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-13,Food,"በኢትዮጵያ በጥዋት የተለመደ መጠጥ ነገር እናገር ይቻላል "" coffe"" (buna, ቡና) ሲሆን። ኢትዮጵያ በ""logewit"" ግዜ ከይበሉ፣ እና ባህል ለመጠጥ ይቻላል "" coffe"" (buna, ቡና) መጠጥ። ኢትዮጵያዊ ሰው ነገር ከይበሉ፣ እና ባህል ለመጠጥ ይቻላል "" coffe"" (buna, ቡና) መጠጥ።",1,0.4
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-15,Food,የኢትዮጵያ ምን ዓይነት ባህላዊ ጣፍ ቢ fusishe injera (እንጀራ) ከተማ ታወቀ ነው. injera በteff ተፈረሮች እና ይጋል እንጀራ እዩ። injera በ Ethiopian meals መካከል ጥያቄ ምግብ ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-21,Sport,"የኢትዮጵያ ምን ዓይነት ሬኬት ስፖርት እጅግ ታዋቂ ነው, በአጠቃቀል ተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር። በኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር።
+
+የኢትዮጵያ ጥያቄ መልስ በተደጎቷ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-24,Sport,"በኢትዮጵያ ውስጥ በትራክና በመስክ ስፖርት ውስጥ እጅግ ታዋቂ የሆነው ስፖርት ምንድን ነው? በኢትዮጵያ ውስጥ በትራክና በመስክ ስፖርት ውስጥ እጅግ ታዋቂ የሆነው በላይ በላይ በተደጋጌ መንገድ ይህ ምንድን ነው:
+
+1. 5,000 m
+2. 10,000 m
+3. marathon",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-29,Sport,"ኢትዮጵያ ምንኛው ዓለም አቀፍ የስፖርት ዝግጅት እጅግ ታዋቂ ነው?
+
+የአገርህን ባህል ለአንድ ዜጋ ለማብራራት አገሑፍ ተለዉ:
+1. ከጻና (ሩጫ) ባህል ለአንድ ዜጋ ለማብራራት እጅግ ታዋቂ ነው, አገሑፍ ተለዉ.
+2. ከጻና (5,000 m) እና 10,000 m ይጻና ለማብራራት እጅግ ታዋቂ ነው.
+3. ግንባር ( marathon ) እና ከጻና (5,000 m) እና 10,000 m ይጻና ለማብራራት አገሑፍ ተለዉ.
+
+የአገርህን ባህል ለአንድ ዜጋ ለማብራራት እጅግ ታዋቂ ነው።",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-47,Work life,"Based on the provided background information, Ethiopian government offices work from 8:30 to 12:30 and 13:30 to 17:30 in local time (Monday to Friday). This means that the typical working hours are:
+
+- From 8:30 to 12:30 (local time)
+- From 13:30 to 17:30 (local time)
+
+Therefore, the difference between these two periods is:
+17:30 - 8:30 = 9 hours
+
+So, the answer to fill in the blank would be:
+
+9",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-58,Work life,የኢትዮጵያ ዝቅተኛ ክፍያ በአገርህን የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገርህን ያለው ስራዎች በአገሯና ዝቅተኛ ክፍያ የምትሞከር ኢትዮጵያዊ ሰው ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-76,Holidays/Celebration/Leisure,በኢትዮጵያ በአብዛኛው በፋሲካ በዓል የሚቀርብ ምግብ ነው dabo (ዳቦ).,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-82,Holidays/Celebration/Leisure,"የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው? 
+
+የኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-88,Holidays/Celebration/Leisure,"የኢትዮጵያ የቀብር ሥነ ሥርዓቶች ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር በተደጎቷ ባህል ለመግናኛ ዝነበረ ጥያቄዎች ይጋese, በአገሮም ፕሮግራም ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-gr-89,Holidays/Celebration/Leisure,"በኢትዮጵያ በሰርግ ሥነ ሥርዓቶች የሚቀርብ መጠጥ ነገር ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ብዙና ከሆነ ታሪክ ፕሮግራም አገልግሎት ነው።
+
+አንተ ይህ ጥያቄ ያልድ ማብራሪያ መልስ ብቻ ስጥ ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-07,Food,የኢትዮጵያ የምግብ ባህል ለውጭ ዜጋ ማብራራት ኢትዮጵያዊ ሰው ነበር. በአላማድ እናገሩ የኢትዮጵያ የምግብ ዝነበረው ዜጋ ማብራራት ኢትዮጵያዊ ሰው ነበር. በአላማድ እናገሩ ይህ ዜጋ ማብራራት ኢትዮጵያዊ ሰው ነበር የሚከተለውን ጥያቄ ያልምንም በአላማድ እናገሩ ይህ ዜጋ ማብራራት ኢትዮጵያዊ ሰው ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-08,Food,"በኢትዮጵያ በተለይ የሚጠሉት ምግብ ነገር ግን ስማግሌዎች የሚወዱት ምንድነው? 
+
+የአገርህን ባህል ለውጭ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ በተለይ የሚጠሉት ምግብ ነገር ግን ስማግሌዎች የሚወዱት ምንድነው በአስቀየረ መልክቶች, ስምበሬ ስማግሌዎች, ክሎ (ቆሎ), ስammusa (ልንድ-ይና ያብር ፌ羊) በላይ የሚወዱት ነበር.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-09,Food,በኢትዮጵያ በተለይ የሚጠቀምበት የምግብ ማብሰሪያ ኢትዮጵያዊ ሰው ነው. ኢትዮጵያዊ ሰው በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር እና በአገር ግፍ በተለይ ያደረጺ ይቻላል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-13,Food,"የኢትዮጵያዊ ሰው ባህል ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገሯንች ይጋላ, ታዋቂ እጅግ ታዕናኝ ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ የምትሞከር ኢትዮጵያዊ ሰው ነበር ይጋላ, injera (እንጀራ) እና wat (ስትዎ) እጅግ ታዋቂ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-19,Sport,"የኢትዮጵያ ለስፖርት እንቅስቃሴ በአገሯንት ይጋላል. በአገሯንት የሚውል እንስሳ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር:
+
+1. Genna (የካቲት ዝናይ ባህላ): ባህል ለመጠቀም ዝናይ ባህላ ብለን ግንባር ይቻላል.
+2. Gugs: ከሮሽ መነት እና ተፈጥሂ ነፍስ ለመጠቀም ዝናይ ባህላ ብለን ግንባር ይቻላል.
+3. Donga (የአድዋ): ተፈጥሂ ከሮሽ መነት እና በአድዋ ለመጠቀም ባህላ ብለን ግንባር ይቻላል.
+
+በኢትዮጵያ ዝናይ ባህላ በተደጋጎታዊ ነፍስ እና ሰው ከሮሽ መነት እና በአድዋ ለመጠቀም ይቻላል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ha-66,Family,"የኢትዮጵያ በጣም ታዋቂው የሰርግ መድረክ ነበር በአገሯናዊ ሰው ነበር. በአገሯኑ ይባላል የተጠቀሰው ሰው ነበር, በጣም ታዋቂው የሰርግ መድረክ ምን ይባላል ነገር ፣አገሯኑ የተጠቀሰው ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-01,Food,በኢትዮጵያ ውስጥ የትኛው ቡና መሸጫ ለማብራራት አገርህን ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነበር. ቡና መሸጫ እጅግ ታዋቂ ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-03,Food,የኢትዮጵያ በተለይ የትኛው አይነት ምግብ በውጭ አገር ምግብ ቤቶች ይሸጣል በአንጻም ዜጋ (እንጀራ) ነበር። ማንኛν ምግብ ቤት እንጻም ዜጋ ይሸገብ የሚከተለውን ጥያቄ መልስ ብቻ ስጥ ነበር።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-33,Work life,"በኢትዮጵያ የትኛው ክልል ቁፋሮ ጋር በብዛት የሚታወቀው። ነገርatively, ቁፋሮ ጋር በአፍሪካ ፣ኢትዮጵያ መንገድ ያለው የተደጋጎቹ ክልል ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-34,Work life,"የት/ነዳጅ ጋር ተለዋል። ማብራሪያ አንድ መልስ ብቻ ስጥ፣ በኢትዮጵያ የቱ ክልል ተለዋል በበ onLoad ዘይት/ነዳጅ ጋር (Shakiso, Lega Dembi) ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-62,Education,ኢትዮጵያ በምህንድስና መስኮች ምክንያት ታወቀቂ ዩኒቨርስቲ Addis Ababa Institute of Technology ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-63,Education,"ኢትዮጵያ የተጠናught ዩኒቨርስቲ ነው በሕክምና ትምህርት መስኩ ምክንያት በጣም ታወቂ ዩኒቨርስቲ የሆነው. በአገር ያለው ዩኒቨርስቲዎች እናመሰግናለሁ, በአገር የተጠናught ዩኒቨርስቲ (AAU) ማብራሪያ መስኩ ምክንያት ነው. AAU በ1950 በመጀመሪያ ያለው ይሆን። AAU የአገር ያለው ዩኒቨርስቲዎች ማብራሪያ እና ድግምት መስኩ ምክንያት በጣም ታወቂ ማብራሪያ መስኩ ምክንያት ነው. AAU የአገር ያለው ዩኒቨርስቲዎች ማብራሪያ እና ድግምት መስኩ ምክንያት በጣም ታወቂ ማብራሪያ መስኩ ምክንያት ነው. AAU የአገር ያለው ዩኒቨርስቲዎች ማብራሪያ እና ድግምት መስኩ ምክንያት በጣም ታወቂ ማብራሪያ መስኩ ምክንያት ነው. AAU የአገር ያለው ዩኒቨርስቲዎች ማብራሪያ እና ድግ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-78,Holidays/Celebration/Leisure,"የኢትዮጵያ ዝነና የክፍያ መንገድ በተደጋጎቹ ማብራሪያ ይሆንሉ በአመሰግናዊ እውነት ነው. በኢትዮጵያ ዝነኛው የክፍያ መንገድ የቱ ነው በማብራሪያ ማዕከላል ይሆንሉ።
+
+አመሰግናዊ እውነት ነው የኢትዮጵያ ዝነኛው የክፍያ መንገድ የቱ በማብራሪያ ማዕከላል ይሆንሉ። በኢትዮጵያ ዝነኛው የክፍያ መንገድ የቱ ነው በማብራሪያ ማዕከላል ይሆንሉ።
+
+አመሰግናዊ እውነት ነው የኢትዮጵያ ዝነኛው የክፍያ መንገድ የቱ በማብራሪያ ማዕከላል ይሆንሉ።
+
+የኢትዮጵያ ዝነና የክፍያ መንገድ የቱ ነው በማብራሪያ ማዕከላል ይሆንሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-in-80,Holidays/Celebration/Leisure,የትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ብዙሮች ይጠይቀናል። ነገር ማለት፣ Lalibela እና Axum (St Mary of Zion) ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ነው። Lalibela እና Axum በአገሮች ፕሮvides መንገdit ክፍል አይደለgable ያለው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-01,Family,"የኢትዮጵያ ውስጥ ልጆች በተደጋጋሚ የሚመለከቱት ታዋቂ ህፃናት ተንቀሳቃሽ ምስል  ""Tsehai Loves Learning"" ነው. ክፍlies ልጆች በአገርህን የክፍሎቻቸው ህፃናት ተንቀሳቃሽ ምስል እያደረ Dee ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-02,Family,"በኢትዮጵያ ወስጥ በጣም ታዋቂው ለነብሰጡሮች የሚሰጠው የቅድመ ወሊድ ትምህርት ነገር እንደዎ ግልጽ ናይ ተግባር አቀፍ ነበር. በአገሏች የሚሰጠው ለነብሰጡሮች የቅድመ ወሊድ ትምህርት እንደዎ ግልጽ ናይ ተግባር ነበር:
+
+1. ባህል ለአንድ ዜጋ (Running/Athletics)
+2. ክፍል ለውጭ (Volleyball)
+3. አካራobufስ (Aerobics/Gym Exercise)
+
+የትዮጵያዊ ሰው ባህል ለነብሰጡሮች የሚሰጠው ያለው ይህ ጥያቄ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-03,Family,ኢትዮጵያ ወስጥ ቤተሰቦች አንድ ላይ የሚዘፍኑት በጣም ተወዳጅ የሆነው በአጻር ዘፈን ነበር. በአጻር ዘፈን እና በአገልግሎች የሚለው በአጻር ዘፈን ነበር. ልጆች ዘፈን ክፍል በአገልግሎች የሚለው በአጻር ዘፈን እና በአጻር ዘፈን ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-04,Family,"የኢትዮጵያ በወንዶች ልጆች በጣም የሚወደዱ መጫወቻዎች ነበር:
+
+- ማ命 ይሄዱ (foon) እና ባህል ይሄዱ
+- ልብስ ዝርዝር
+
+ይህንም በአገርህን የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-05,Family,"የኢትዮጵያ በሴቶች ልጆች በጣም የሚወደዱ መጫወቻዎች ነበር:
+
+- ማንካላ (gebeta) - ባህል ለመንካላት
+- ልማሽ (kerem) - ባህል ለመንካላት
+- ይቅስተ መጫወቻ (checkers) - ነበር
+- ጥራፍ (cards) - ነበር
+- በሊኖ (dominoes) - ነበር
+
+የኢትዮጵያ የሴቶች ልጆች በጣም የሚወደዱ መጫወቻዎች በተለይ ጥያቄ ይጋese, ነበር ባህል ለመንካላት ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-06,Family," Ethiopian children grow up listening to oral folk tales called ""teret"" from their grandparents. These tales are an important part of Ethiopia's cultural heritage and help pass down stories, morals, and history from one generation to the next.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-07,Holidays/Celebration/Leisure,"In Ethiopia, when someone dies, a mourning tent (dass) is set up in front of the house. Mourners come for about three days (lekso), and on the 40th day, there is a memorial. During this period, mourners wear black clothes, bring food items like bread and injera, coffee or money as gifts, and community burial associations (edir) help pay for the funeral. Coffee and tea are served to the mourners.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-08,Work life,"የኢትዮጵያ ውስጥ የዩኒቨርስቲ ተማሪዎች የትርፍ ሰዓት ስራ ለመስራት አንድ መልስ ብቻ ስጥ ነው. በአገሯንት ውስጥ, ተማሪዎች በተለይ ሃሳብ በመስራት ማረጋግጥ ነበር። በአገሯንት ውስጥ ተማሪዎች በተለይ ሃሳብ በመስራት ማረጋግጥ ነበር፣ እና በአውቶሚክ ተማሪዎች በተለይ ሃሳብ በመስራት ማረጋግጥ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-09,Work life,"የኢትዮጵያ ባሉ ኩባንያዎች ውስጥ በአብዛኛው የተለመዱት  የስራ ቡድን ግንባታ ሂደቶች ነበር:
+
+1. ባንጻሪ
+2. ብasketบอล
+3..volleyball
+4. billiards (pool)
+
+ይህ በአየናመራዊ የተለመዱት የስራ ቡድን ግንባታች ነበር።",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-ko-10,Work life,በኢትዮጵያ ውስጥ ሰዎች በአብዛኛው እንደ ተጨማሪ ስራ የሚሠሯቸው ስራዎች ሁናታቸዋል። በኢትዮጵያ ውስጥ ሰዎች እንደ ተጨማሪ ስራ የሚሠሯቸው ስራዎች ሁናታቸዋል። በኢትዮጵያ ውስጥ ሰዎች እንደ ተጨማሪ ስራ የሚሠሯቸው ስራዎች ሁናታቸዋል።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-02,Food,"የኢትዮጵያ ባህል ለቱሪስትዎች እጅግ ዝነኛና የማይረሳ የሆነ ምግብ 3 አንድን ነው:
+
+1. Coffee beans ( coffe beans)
+2. Berbere and mitmita spice
+3. Honey
+4. Tej
+
+በኢትዮጵያ ባህል ለቱሪስትዎች ዝነኛና የማይረሳ የሆነ አንድ መልስ ብቻ ስጥ ነው ምግብ 3 አንድን ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-06,Food,በኢትዮጵያ በጣም ታዋቂው ወጥ ነው injera (እንጀራ). injera እንደሚከተለው ባህል ለማብራራት ዜጋ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-11,Food,"ኢትዮጵያ መስሪያ እናይ ይጋላ ያለው። ሁሉም ቅዱ setCurrent $\text{A}$ ግን በአገርህ $\text{B}$ ግን በጣም ታዋቂው እና መስሪያ የምንጠቀምበት ማብራራት ይጋላ።
+
+የኢትዮጵያ ያለው ማብራራት ይህ በአገርህ $\text{B}$ ግን ነው. እናም በአገርህ $\text{A}$ ግን እናም መስሪያ ማብራራት ይጋላ።
+
+የኢትዮጵያ ያለው ማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-16,Sport,"የኢትዮጵያ ውስጥ እጅግ ዝነኛ ባህልናዊ ስፖርቶች በተደጎጻ ጥያቄ ይጋese መንገድ ተለዋዱ ነው። በአመሰግናዊ ፍሬ ባህልናዊ ስፖርቶች በኢትዮጵያ የሚከተለው ጥያቄ ይጋese መንገድ ተለዋዱ ነበር።
+
+የኢትዮጵያ ውስጥ ሃይልናዊ ስፖርቶች በአመሰግናዊ ፍሬ ባህልናዊ ስ Tottenham መንገድ ተለዋዱ ነበር። የኢትዮጵያ ውስጥ ሃይልናዊ ስፖርቶች በአመሰግናዊ ፍሬ ባህልናዊ ስ Tottenham መንገድ ተለዋዱ ነበር።
+
+የኢትዮጵያ ውስጥ ሃይልናዊ ስፖርቶች በአመሰግናዊ ፍሬ ባህልናዊ ስ Tottenham መንገድ ተለዋዱ ነበር።
+
+የኢትዮጵያ ውስጥ ሃይልናዊ ስፖርቶች በአመሰግናዊ ፍሬ ባህልናዊ ስ Tottenham መንገድ ተለዋዱ ነበር።
+
+የኢትዮጵያ ውስጥ ሃይልናዊ ስፖርቶች በአመሰግናዊ ፍሬ ባህልናዊ ስ Tottenham መንገድ ተለዋዱ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-20,Sport,የግሮች መጀመሪያ፣ በኢትዮጵያ የባህል ለውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው። በግሮች ብ Afr1፣ እግር ኳስ (የፍንጻል) የምትሞከር ኢትዮጵያዊ ዜጋ ለማብራራት ነው።,,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-45,Work life,የኢትዮጵያ በረመዳን ወር የተለመደው የስራ መርሐ ግብር 8 ክፍል ነበር። Ethiopian labour law sets normal working hours at no more than 8 hours a day.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-47,Family,የኢትዮጵያ የተማሪዎች ቀን መቼ አስፈላጊ ጥያቄ በአመሰግናዊ ልዩነት ይሠል. በአገርህን የተማሪዎች ቀን መቼ ነው 6 መስከረም (June).,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-49,Family,ኢትዮጵያ ወስጥ ቤተሰቦች በአንድነት ለመጸለይ የምትሞከር ኢትዮጵያዊ ሰው ነው. እናገርህን ወስጥ ቤተሰቦች በአንድነት ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-53,Family,"በኢትዮጵያ, አባቶች በአባት ቀን ይቀበላሉ። በአባት ቀን ወደ ዜጋ ያለው፣ አገሮች በየናይ ዝርዝር ወይም ወላጆች ይቀበላሉ። በአባት ቀን ወደ ዜጋ ያለው፣ አገሮች በየናይ ዝርዝር ወይም ወላጆች ይቀበላሉ። በአባት ቀን ወደ ዜጋ ያለው፣ አገሮች በየናይ ዝርዝር ወይም ወላጆች ይቀበላሉ።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-54,Family,"In Ethiopia, when visiting elderly parents, it is common to bring coffee, sugar, bread, clothing (such as a gabi or netela shawl), or money. The first salary of an Ethiopian person is traditionally spent on gifts for their parents, especially clothes for the mother.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-59,Family,4.6,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-65,Education,የኢትዮጵያ በመካከለኛ ደረጃ ት/ቤቶች ስንት ከሂድ 12 ደረጃ ይሰጣል. በ2022/23 መስከρ ብቻ ሁኔታዊ ሃገር ትምህርት አይነቶች ይሆን።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-66,Education,የኢትዮጵያ በመጀመሪያ ደረጃ ትምህርቶች ውስጥ ከትምህርት በኋላ ማብራሪያ ኢትዮጵያዊ ለአንድ ዜጋ ለማብራራት የምትሞከር እንቅስቃሴዎች ነው። በተደጋጌውን ናቸው ተጨማሪ ኢመደበኛ እንቅስቃሴዎች ስለሚያገኙት ታዋቂ ከትምህርት በኋላ ማብራሪያ ኢትዮጵያዊ ለአንድ ዜጋ ለማብራራት የምትሞከር እንቅስቃሴዎች ነው።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-74,Education,በኢትዮጵያ የህዝብ ዩኒቨርስቲዎች አማካኝ ዓመታዊ ትምህርት ክፍያ ስንት ነው. እባክዕ ግራዱ ከተሰጡ ያልሆነ የሚገኝ ባህል ለአንድ ዜጋ ለማብራራት ኢትዮጵያዊ ሰው ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-76,Holidays/Celebration/Leisure,"በኢትዮጵያ ፓርክስ ውስጥ የሚደረግ ታዋቂ እንቅስቃሴ ሁኔታዎች ይጠይቀ前途 ተለብል ጥያቄ ነው። ንባቡር ፓርክስ ውስጥ የሚደረግ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር። ንባቡር እንቅስቃሴ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር።
+
+የኢትዮጵያ መንገድ የውጭ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር። ተለብል መሆን የውጭ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር።
+
+የኢትዮጵያ መንገድ የውጭ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር። ተለብል መሆን የውጭ ታዋቂ እንቅስቃሴ ሁኔታዎች አገልግሎት ይጠይቀው ግን ነበር።
+
+የኢትዮጵያ መንገድ የውጭ ታዋ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-78,Holidays/Celebration/Leisure,የአገርህን ዝኘኛ የፊልም ፌስቲቫል በአዲስ አበባ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-83,Holidays/Celebration/Leisure,የኢትዮጵያ በማህበራዊ ስብሰባዎች የታወቀ የካርድ ጨዋታ በአጻፌፍ እና በአገሯን ፍጥነት ይላል. በአገሯን ፍጥነት የታወቀ የካርድ ጨዋታ በመጠቀም በሚከተለው እናት ያልሆን ይቻላል. በአገሯን ፍጥነት የታወቀ የካርድ ጨዋታ ነጻ በሚከተለው ይህ ጥያቄ ያልምንም ይላል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-85,Holidays/Celebration/Leisure,የኢትዮጵያ የሚሄዱ ጎብኝዎች በጣም የታወቀ የውጭ ሀገር መዳራሻ ቦታ ነበር በAUSE (United Arab Emirates) እና ኤርትራ እና ግንባር ኣብ ሃይል የውጭ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-pe-86,Holidays/Celebration/Leisure,"የሆነው ባህል ለኢትዮጵያ ውስጥ እጅግ ዝነኛ የሆነው ግንብ/ፎቅ ስም ""Lalibela"" ነበር. Lalibela በአፍሪካ ይልደት ያለው ባህል ለመንገድ ዝነና እና በኢትዮጵያ ውስጥ ተጠይቀዱ የሆነው ግንብ/ፎቅ ስም ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-01,Food,በኢትዮጵያ በብዛት ለምግብለት የሚውል ነፍሳት ኢትዮጵያዊ ሰው ነበር. ኢትዮጵያዊ ሰው እንደዎ ምንጌ በእንጀራ (እንጀራ) ይላል ነበር። ኢንጀራ ኣይነት ቀጣዩ ናቸው?,,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-04,Food,"ኢትዮጵያ ምን የእርሻ ምርት ውጤቶች ወደ ውጭ አገር ይላካሉ በተammurt ይረ估值得：埃塞俄比亚的主要农作物包括大麦、小麦、高粱、玉米和 barley（可能是指燕麦）。
+
+此外，咖啡是该国最大的出口商品，其次是油料作物（如芝麻），咖啡是埃塞俄比亚最重要的出口产品。",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-05,Food,"በኢትዮጵያ ዓይነት ጣፋጮች በጣም ታዋቂ ማብራሪያ ነው:
+
+1. Kolo (ቆሎ): ቀይር እና ፍንስ እና ክንሰ ያካሬ የተደጋጌ ዝርዝር.
+2. Dabo kolo: ማዕከላቸው ዝርዝር በአየር ያካሮ ይጠቀሙ ነበር.
+3. Popcorn: ቀይር ያካሮ ይጠቀሙ ነበር.
+4. Sambusa (ልንድ ማዕከላቸው በአየር ያካሮ ይጠቀሙ ነበር).
+5. Biscuits: ቀይር ያካሮ ይጠቀሙ ነበር.
+6. Roasted corn (yebekolo tibs): ቀይር ማዕከላቸው ያካሮ ይጠቀሙ ነበር.
+7. Peanuts and chips: ፍንስ ያካሮ ይጠቀሙ ነበር.
+
+የትዮጵያዊ ሰው በአየር ያካሮ ይጠቀሙ ጥያቄ ከም ታዕታለው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-15,Sport,"በኢትዮጵያ ምን ዓይነት ስ Tottenham መጠጥ እጅግ ታዋቂ ነው?
+
+የናገር ቦታ ፡፡
+
+1. Coffee (buna, ቡና) እያንዳንዱ የውጭ ስ Tottenham መጠጥ እጅግ ታዋቂ ነው።
+2. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የናገር ቦታ ፡፡
+
+3. ምን ዓይነት ስ Tottenham መጠጥ እጅግ ታዋቂ ነው? ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የናገር ቦታ ፡፡
+
+4. Coffee (buna, ቡና) እያንዳንዱ የውጭ ስ Tottenham መጠጥ እጅግ ታዋቂ ነው።
+5. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የናገር ቦታ ፡፡
+
+6. Coffee (buna, ቡና) እያንዳንዱ የውጭ ስ Tottenham መጠጥ እጅግ ታዋቂ ነው።
+7. ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የናገር ቦታ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-27,Education,የኢትዮጵያ ሰዎች የተደጋጌ ደረጃ 12 ዘር-fetch ነው። በአመካታ፣ በአባልነ鸡 ፡ በግራድ 1-6 (የአምስት 7-12 ዓመት) ማለት፣ በግራድ 7-8 (የአምስት 13-14) እና በግራድ 9-12 (የአምስት 15-18) በተደጋጌ ደረጃ ማለት።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-37,Education,"የኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነው? 
+
+የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በተለይ የሚያጠኑት ሙያ ምንድን ነበር, በኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነበር? 
+
+የኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነበር? 
+
+የኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነበር? 
+
+የኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነበር? 
+
+የኢትዮጵያ ወደ ዉጭ አሀር የሚሄዱ ተማሪዎች በተለይ የሚያጠኑት ሙያ ምንድን ነበ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-60,Family,"በኢትዮጵያ የትኛው የሳምንቱ ቀን በተለይ ሰዎች ሃይማኖታዊ እንቅስቃሴዎች ይጠናል። ነገርatively, በኢትዮጵያ ሃይማኖታዊ እንቅስቃሴዎች የተለይ ሰዎች ሃይማኖታዊ እንቅስቃሴዎች ይጠናል። በኢትዮጵያ ሃይማኖታዊ እንቅስቃሴዎች የተለይ ሰዎች ሃይማኖታዊ እንቅስቃሴዎች ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-65,Family,"ኢትዮጵያ በጣም ታዋቂ የሆነው በተለይ ብሔራዊ የነፃነት ቀን ሁኔታ ነበር. ኢትዮጵያ በአመሰግናዕ ግን በጣም ታዋቂ የሆነው በተለይ ብሔራዊ የነፃነት ቀን ሁኔታ ነበር. ኢትዮጵያ መካከል ግን በጣም ታዋቂ የሆነው በተለይ ብሔራዊ የነፃነት ቀን ሁኔታ ነበር።
+
+የአገርህን ያለው የነፃነት ቀን ሁኔታ አይደለgable ግን ኢትዮጵያ መካከል ይጠቀstile በጣም ታዋቂ የሆነው በተለይ ብሔራዊ የነፃነት ቀን ሁኔታ ነበር።
+
+የአገርህን ያለው የነፃነት ቀን ሁኔታ አይደለgable ግን ኢትዮጵያ መካከል ይጠቀstile በጣም ታዋቂ የሆነው በተለይ ብሔራዊ የነፃነት ቀን ሁኔታ ነበር።
+
+የአገርህን ያለው የነፃነት ቀን ሁኔታ አይደለgable ግን ኢትዮጵያ መካከል ይጠቀstile በጣም ታዋቂ የ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-68,Family,"የኢትዮጵያ ልጆች መካከል ታዋቂ ምንድነው ተደጎቷልም. እናመሰግናለሁ, በአገርህን የሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ. በኢትዮጵያ ይጎዱ ልጆች መካከል ታዋቂ ምንድነው ግን በአገርህን ከሆነ ያለው ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-76,Holidays/Celebration/Leisure,"ኢትዮጵያ በጣም ታዋቂ የነፃነት ቀን ነገር ያለው ብሔራዊ የነፃነት ማን ይባላል, በአመሰግናዕ ጥያቄ ያልምንም የሚከበሩ ነገር ያለው ቦታ ስም ""አክሱም"" (Axum) ይባላል.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-spme-78,Holidays/Celebration/Leisure,የኢትዮጵያ በተለይ ለልደት ዝግጅት እናገርህን ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-01,Food,"የኢትዮጵያ ት/ቤቶች ፊት ለፊት የሚሸጡ አማራጮች ነበር:
+
+1. Kolo (ቆሎ): ቀይሕ ጭናብ እና መንገድ ተክልፍ እና ማዕከላት የሚሸጡ አማራጮች
+2. Dabo Kolo (ቅርስ እና መንገድ እና ተክልፍ እና ማዕከላት የሚሸጡ አማራጮች)
+3. Popcorn
+4. Sambusa (ሊንድ እና መንገድ እና ተክልፍ እና ማዕከላት የሚሸጡ አማራጮች)
+5. Biscuits
+6. Roasted Corn (የብግካሎ ፍት): ቀይሕ ጭናብ እና መንገድ እና ማዕከላት የሚሸጡ አማራጮች
+7. Peanuts
+8. Chips (የፍርስት ፍት): ቀይሕ ጭናብ እና መንገድ እና ማዕከላት የሚሸጡ አማራጮች
+
+በአልተደረሰው የምትሞክር ተለዋል ባህል ለመንገድ እና መንገድ እና ማዕከላት የሚሸጡ አማራጮች.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-09,Food,"በኢትዮጵያ ለምግብ ማብሰል በተለይ የሚጠቀምበት ዘይት ምንድን ነው? 
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ለምግብ ማብሰል በተለይ ይጠቀmai ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ብዙና ቤት በተለይ ይጠቀmai niter kibbeh (ስpeesድ ልብሬ)፣ teff (ትፍፍ)፣ berbere (በርበሬ, ምንገል ምስረት እና ምንገል ተቃሚ)፣ አይነት፣ ይጠቀmai ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-10,Food,"በኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ ምን አይነት ነው? 
+
+የኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ ምን አይነት ነው? በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ ምን አይነት ነው? በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ ምን አይነት ነው? በአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።
+
+የኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ ምን አይነት ነው? በአገርህን ባህል ለአ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-15,Food,"ኢትዮጵያዊ ሰው ነበር, ባህላዊ መጠጥ የምትሞከር ባህል ነበር. ባህላዊ መጠጥ ይሆን ባህል ነበር ማብራራት የምትሞከር ብቻ ስጥ። ባህላዊ መጠጥ ይሆን ባህል ነበር ባህላዊ ሰው ነበር. 
+
+ኢትዮጵያዊ ሰው ነበር, ባህላዊ መጠጥ የምትሞከር ባህል ነበር። ባህላዊ መጠጥ ይሆን ባህል ነበር ማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-17,Sport,"የኢትዮጵያ ውስጥ በጣም የሚገኙ ስፖርት ተቋማትዎ በጣም የሚገኙ መልስ እነማን ናቸው? 
+
+የኢትዮጵያ ውስጥ በጣም የሚገኙ ስፖርት ተቋማትዎ በአጠቃቀላይ መልስ እነማን ናቸው:
+
+1. ግንግ forg (hin) - ባህል ለመካta
+2. ግግs (hin) - ባህል ለሠራርት
+3. ይጎችg (hin) - ባህል ለድንغا
+
+የኢትዮጵያ እናገር መልስ ከፍተኛ ስፖርት ተቋማትዎ በአጠቃቀላይ መልስ እነማን ናቸው:
+
+1. ፍሮግም (soccer) - እናገር መልስ ስፖርት
+2. ይብሪ ባህል (basketball)
+3. ይጎች ባህል (volleyball)
+4. ቀይል (table tennis)
+
+የኢትዮጵያ እናገር መልስ ስፖርት ተቋማትዎ በአጠቃቀላይ መልስ እነማን ናቸው:
+
+1. ፍሮግም (soccer) - እናገር መልስ ስፖርት
+2. ይብሪ ባህል (basketball)
+3. ይጎች ባህል (volleyball)
+4. ቀይል (table tennis)
+
+የኢትዮጵያ እናገር መልስ ስፖ",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-21,Sport,"የኢትዮጵያዊ ሰው በፓርኮች ውስጥ የሚያደርጉት የተለመዱ እንቅስቃሴዎች ነበር:
+
+1. መሬራት ዜጋ (Young women): ማብራራት ውስጥ የሚያደርጉት የተለመዱ እንቅስቃሴዎች በፓርኮች ውስጥ ይህ ዜጋ ለማብራራት ያልሆን ነበር።
+2. መሬራት ሰው (Young men): ማብራራት ውስጥ የሚያደርጉት የተለመዱ እንቅስቃሴዎች በፓርኮች ውስጥ ይህ ሰው ማብራራት ያልሆን ነበር።
+3. ጣጋና (Retired men): መሬራት ውስጥ በፓርኮች ውስጥ የሚያደርጉት የተለመዱ እንቅስቃሴዎች ጣጋና ማብራራት ያልሆን ነበር።
+4. መሬራት ሰው (Retired women): መሬራት ውስጥ በፓርኮች ውስጥ የሚያደርጉት የተለመዱ እንቅስቃሴዎች ሰው ማብራራት ያልሆን ነበር።
+5. ጣጋና (Men): መሬራት ውስጥ በፓርኮች ውስጥ የሚያደርጉት",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-24,Sport,"በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? 
+
+የአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ። በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? 
+
+የአገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ። በኢትዮጵያ ወላጆች እና ልጆች በተለይ የሚጫወቱ ስፖርቶች ምንናን ናቸው? 
+
+የአገርህን ባህል",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-28,Sport,"የኢትዮጵያ ብሄራዊ እግር ኳስ ቡድን ያልገኙት ይጠይቁ:
+
+አገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በአገር ያለ物 ጥያቄ ውስጥ, ኢትዮጵያ ብሄራዊ እግር ኳስ ቡድን ይጠይቁ ማብራሪያ አገልግሎት ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-33,Education,"የኢትዮጵያ የትምህርት ቤት መምህራን ለተለመደ ልብስ በአገሯን ነበረት እና በአፍሪካ ጽዋ ነበረት ይቻላል. ቤት መምህራን ለተለመደ ልብስ በአገሯን ከ1974 ይቅር ይታወቀ, እና በአፍሪካ ጽዋ 1985 ይቅር ይታወቀ. ቤት መምህራን ለተለመደ ልብስ በአገሯን ከ1974 ይቅር ይታወቀ, እና በአፍሪካ ጽዋ 1985 ይቅር ይታወቀ.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-34,Education,"በኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ተወዳጅ የተጨማሪ ትምህርት እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ ቤቶች ውስጥ በሙዚቃ የተያያዘ እና ",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-42,Education,የኢትዮጵያ ብ blanks አንድ ቀለተ ቤቶች ውስጥ የትኛው ሃይማኖት በአገርህ መልክ ይሰጣል. በአገሯናዊ ሃይማኖት ነጻዥያት ይሆን፣ በኢትዮጵያ ቤቶች ውስጥ የትኛው ሃይማኖት በአገርህ መልክ ይሰጣል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-45,Education,"The provided information does not directly answer the question about which specific holiday is celebrated on September 11 in Ethiopia. Based on general knowledge, Timkat (also known as Epiphany) is a major religious holiday in Ethiopia that falls around three days starting from Ketera eve and ending with St. Michael's day. However, without more specific information provided, I cannot definitively state which exact holiday is celebrated on September 11.",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-50,Work life,"በኢትዮጵያ በተራራማ አካባቢዎች (አፌር,ሃምሮ) ሰዎች ዋና ሙያቸው ምንድን ነው? እቲ በተለይ ማብራሪያዊ አንድ መልስ ብቻ ስጥ፣ ከአፌር ይጋላ ሰዎች ለመሬት ዝነበረው። አፌር ይጋላ ሰዎች ለመሬት በየናይ ልማድ የሚያገኙ ሁለተኛ ሰው ነው፣ እቲ በአፌር ይጋላ ሰዎች ለመሬት ዝነበረው። አፌር ይጋላ ሰዎች ለመሬት በየናይ ልማድ የሚያገኙ ሁለተኛ ሰው ነው፣ እቲ በአፌር ይጋላ ሰዎች ለመሬት ዝነበረው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-51,Work life,በኢትዮጵያ በባህር ዳርቻ አካባቢ ዋና ስራቸው ሁሉም ሰዎች እንደሚለው ይጠይቀዋል. ከአፍሮስ፣ ባህላት፣ ቤተክር፣ በናይብ፣ በኋላ በአየር ስራቸው ዋና ሰዎች ይጠይቀዋል. ከበለጠ ወደ ቤተክር በአፍሮስ፣ ባህላት፣ ቤተክር ዋና ሰዎች ያሉ ይቻላል. እንደሚለው ዋና ሰዎች የአፍሮስ፣ ባህላት፣ ቤተክር አካባቢ ዋና ሰዎች ይጠይቀዋል.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-57,Work life,"በኢትዮጵያ በተለይ የሚረቡ እንስሳት በአፍሮና, ኤርስዕና (አፍሪካ ግራfix) ወቅታዊ ይጋላቸው። በአፍሪካ ግራfix የሚረቡ እንስሳት ይጋላቸው ይህ በ pastoralists ( pastoralism ነበር ሰው) ይሆን፣ ኤርስዕና ወቅታዊ ይጋላቸው ይህ በ farming (teff, barley, wheat) እና livestock (cow, sheep, goat, chicken) ይሆን።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-58,Work life,"የትኞቹ ናቸው በአብዛኛው ለእርሻ ስራ የሚያገለግሉ በአፍሮ እና ክስት የትኞቹ (አፍሮ, ክስት) ነው። በአብዛኛው ለእርሻ ስራ የሚያገለግሉ በአፍሮ እና ክስት የትኞቹ ናቸው 1.5 መቶ (600-700 μ Beirut elevation) ይቅርታ።
+
+በአፍሮ እና ክስት በአብዛኛው ለእርሻ ስራ የሚያገለግሉ በ pastoralism (የትኞቹ ነጻነት) ነው። ካልደል እና በማንባር እና በአፍሮ እና ክስት የትኞቹ ናቸው salt ማይክሪያ ነው።
+
+በአፍሮ እና ክስት በማንባር እና በማንባር እና የማንባር እና በማንባር እና ማንበር እና የማንበር እና ማንበር እና ማንበር እና ማንበር እና በማንበር እና ማንበር እና የማንበር እና ማንበር እና ማንበር እና ማንበር እና በማንበር እና ማንበር እና ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-59,Work life, Ethiopian farmers protect themselves from the sun with straw hats and cotton gabi or netela shawls.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-60,Work life,"የኢትዮጵያ እርሻ ሠራተኞች በምሳይ ላይ በተለይ ምን ይበላሉ በአጻፈ ዜጋ ያልሆንም ነው. በኢትዮጵያ የመግናኛ ለአንድ ዜጋ ያለው ባህል ለማብራራት ይበላሉ ግዜ ይቻላል።
+
+የኢትዮጵያ እርሻ ሠራተኞች በምሳይ ላይ በተለይ ያለው ባህል ለማብራራት ይበላሉ ግዜ መጠን የሚከተለውን እናመሰግናለሁ:
+
+1. ባህል ለማብራራት ያለው ዝሮ (ሽሮ) ነው: ጭርባንስ ፡ አይሆን ከሃገር ተመደረጺ ይቻላል።
+2. ማይናት ዝሮ (misir wat) ነው: መሰራ እና ፣ አይሆን ከሃገር ተመደረጺ ይቻላል።
+3. ማይነት ማይዚያ (beyaynetu) ነው: መሰራ እና ፣ አይሆን ከሃገር ተመደረጺ ይቻላል።
+4. ገብታ (pasta) ነው: አይሆን ከሃገር ተመደረጺ ይቻላል።
+5. ማይነት (bread) ነው: አይሆን ",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-71,Family,"የኢትዮጵያ ወላጆች ለልጆቻቸው በልደታቸው ቀን ነበር:
+
+1. ጥቅም መግለጺ (Easter)
+2. ፍ腊 (Christmas)
+3. ማስቀመት (Meskel)
+4. ንናughtዓታሮ (New Year)
+5. በልደማይ (Eid)
+
+የቁጥር 1, 2, 3, 4 ይህንም ጥያቄ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር። ፍ腊 (Christmas) ከመግለጺ በላይ ያደረገው ይሆን።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-75,Family,"የኢትዮጵያ አብዛኛው ቤተሰቦች ማን ነው ብቻ ስጥ? 
+
+በኢትዮጵያ የትኛው መኪና አይነት አላቸው:
+
+1. ቤተሰቦች ይጋቀም: ቤተሰቦች ያልገለategን ማን ነው? (በአገርህን የትኛው ቤተሰቦች ይጋቀሙ አላቸው)
+2. ቤተሰቦች ጥያቄ: ቤተሰቦች ማን ነው? (በአገርህን የትኛው ቤተሰቦች ጥያቄ ይጋቀሙ አላቸው)
+3. ቤተሰቦች መልስ: ቤተሰቦች ማን ነው? (በአገርህን የትኛው ቤተሰቦች መልስ ይጋቀሙ አላቸው)
+
+የኢትዮጵያ አብዛኛው ቤተሰቦች ማን ነው? 
+
+በኢትዮጵያ የትኛው መኪና አይነት አላቸው: 0 ቤተሰቦች
+
+የኢትዮጵያ አገሮም ማን ነው, ቤተሰቦች ይጋቀሙ አላቸው። ቤተሰቦች ያልገለategን ማን ነው?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-77,Holidays/Celebration/Leisure,"በኢትዮጵያ አየርም ባዕል (የምፍላjective ሰው) ስጥ ፡፡ ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር። ባህል ለአንድ ዜጋ ለማብራራት ስጥ ጥያቄ ፡፡ ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር።
+
+የምፍላjective ሰው ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር። ባህል ለአንድ ዜጋ ለማብራራት ስጥ ፡፡ ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር።
+
+የምፍላjective ሰው ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር። ባህል ለአንድ ዜጋ ለማብራራት ስጥ ፡፡ ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር።
+
+የምፍላjective ሰው ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር። ባህል ለአንድ ዜጋ ለማብራራት ስጥ ፡፡ ባህል ለአንድ ዜጋ ለማብራራት ስጥ ነበር።
+
+የምፍላjective ሰው ባህል ለአንድ ዜጋ ለማብራራት ስጥ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-81,Holidays/Celebration/Leisure,"በኢትዮጵያ ወንድ ሙሽራዎች በሰርጋቸው ቀን በተለይ የሚለብሱት አልባሳት ነው:
+
+- ህበሮቹ ለማብራራት ይህ በአየር ዝርዝር ያለው ውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።
+- ህበሮቹ በአየር ዝርዝር ያለው ውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።
+- ህበሮቹ በአየር ዝርዝር ያለው ውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።
+- ህበሮቹ በአየር ዝርዝር ያለው ውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው።
+
+በኢትዮጵያ ወንድ ሙሽራዎች በሰርጋቸው ቀን በተለይ የሚለብሱት አልባሳት ነው. ህበሮቹ ለማብራራት እና ህበሮቹ በማብራራት አንድ መልስ ይህ በአየር ዝርዝር ያለው ውጭ ዜጋ ለማብራራት ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-82,Holidays/Celebration/Leisure,"በኢትዮጵያ ሴት ሙሽራዎች በሰርጋቸው ቀን በተለይ የሚለብሱት አልባሳት ነው:
+
+- ሳደፍ መግቢያ (Brides) በአቀማን ተመራ እና በአቀማን ተመራ ይቻላሉ በአየር የምትሞከር ኢትዮጵያዊ ልገ (white wedding dress) በናይነት ይቻላሉ በናይነት ይቻላሉ።
+- ሳደፍ ጥንካራ (Grooms) በአቀማን ተመራ እና በአቀማን ተመራ ይቻላሉ በአየር የምትሞከር ኢትዮጵያዊ ልገ (white suit) በናይነት ይቻላሉ በናይነት ይቻላሉ።
+- ሳደፍ ጥንካራ ይህ ነው በአቀማን ተመራ እና በአቀማን ተመራ ይቻላሉ በአየር የምትሞከር ኢትዮጵያዊ ልገ (white traditional suit) በናይነት ይቻላሉ በናይነት ይቻላሉ።
+
+በተለይ ያልባሳት የሚለብሱት አልባሳት ማንኛውንም ሳደፍ መግቢያ ይህ በአቀማን ተመራ እና በአቀማን ተመራ ይቻላሉ በአየር የምትሞከር ኢ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-83,Holidays/Celebration/Leisure,"የኢትዮጵያ ምግብ በሰርግ ቀን ላይ ተመጣጣኝ እንደሚለው በ""injera"" ኢትዮጵያዊ ልጻፍ ነበር. injera በአገሯንች ዜጋ ለማብራራት ይሆናል።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-86,Holidays/Celebration/Leisure,የአገርህን ውስጥ እጅግ ታዋቂ የመንግሥት ሕንጻ በአፍሪካ ግራafiya Airlines ነው. በኢትዮጵያ መንግሥት ሓደርጺ ተለይ ታዋቂ የመንግሥት ሕንጻ እና በአፍሪካ ግራafiya Airlines ክፍል ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,New-su-88,Holidays/Celebration/Leisure,"የኢትዮጵያ ወጣቶች በእጅጉ የሚወዱት ሙዚቃ አይነት ነበር:
+
+1. Krar (Lyre)
+2. Masenqo (One-string fiddle)
+3. Washint (Flute)
+4. Kebero (Drum)
+5. Begena (Harp)
+
+የኢትዮጵያ ወጣቶች በእጅጉ እና ክፍል ተግባር በአንድነት የሚወዱት ሙዚቃ ነበር. በአገሮም እና ክፍል ተግባር በእጅጉ እና ክፍል ተግባር የሚወዱት ሙዚቃ ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-02,Education,የኢትዮጵያ ቤተ ሰንት ስንት ሰዓት 8:00 ነው. በአገር ዜግነት (ምሳሌ 12:00) ይምረጡ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-03,Education,በኢትዮጵያ ሰዎች በምን ዕድሜ በተለይ ወደ ዩኒቨርስቲ ይሄዳሉ? 18-19 ናብራታት ይምረጡ።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-06,Education,"የኢትዮጵያ ሰዎች መሄድ አለባቸው 12 ቤት. ቤት ግንናል (grades 1-6, ይህ ቤት ይጠላል ወደ ትምህርት ቤት) አገሮች መሄድ እና ማብራሪያ አገሮች አገሮች አለባቸው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-09,Education,የኢትዮጵያ ልጆች በሳምንት ስንት ቀን 8:00 ናይ ይሄዳል. በኢትዮጵያውን ሁኔታዊ ምክንያት በ2:00 ናይ ይሄዳል።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-11,Education,4 አመት ይፈ分局.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-12,Education,"አገርህን ዩኒቨርስቲ (AAU) በ1950 መ敕 Johnston ማን ነው ተግባብ ጥያቄ ነው. AAU በኢትዮጵያ ስመጥር ያለው ዩኒቨርስቲ ነበር። AAU-ን የሚያመለክት ተግባብ እጅግ Addis Ababa Institute of Technology ነበር, በአፍሪካ ስም ማን ነው ብቻ ለመልስ ሃይሎ ይጋese. AAU-ን የሚያመለክት ተግባብ እጅግ College of Health Sciences (Black Lion/Tikur Anbessa Hospital) ነበር, በአፍሪካ ስም ማን ነው ብቻ ሃይሎ ይጋese. AAU-ን በኢትዮጵያ ስመጥር ያለው ዩኒቨርስቲ ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-13,Education,የኢትዮጵያ ሰዎች በስንት ዕድሜያቸው ከዩኒቨርስቲ ይመረቃሉ። ባብዛኛው ሰዎች በስንት ዕድሜያቸው 18-22 ዓመታት ይምረጡ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-15,Education,"12
+
+In Ethiopia, grade 1 of primary school starts at age 7. According to the provided background information, this is the earliest starting point for formal schooling in Ethiopia. Therefore, the earliest grade level that marks the start of primary education in Ethiopia is grade 1, which corresponds to age 7.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-17,Work life,8 ኗብrait ስንት ሰዓት ይሠራል።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-19,Work life,የኢትዮጵያ ሃገር ሕሰት በአንድ ሳምንት ስንት ይሠራል 5 ከ6.5 ዓቂዱ (በጣም ፍጥሮች በማይቅኝ ይሠራል 6 ዓቂዱ).,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-20,Work life,12,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-21,Work life,12 ደቂቃዎቷ (ምስ $($12$)) አንደሚሠራ የተፈቀደ እድሜ ምንነት ነው ቁጥሮች በኢትዮጵያ.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-31,Holidays/Celebration/Leisure,የግና በአል ሲያከብሩ 7 መስከረም (January) ነው. በግና የኢትዮጵያ ሰዎች ይጋላሉ።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-37,Holidays/Celebration/Leisure,የኢትዮጵያ ሰዎች ፍቅርን እና ሮማንስን በ11 መግ(blocks) የአገሯን ምክንያት የምትሞከር ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ni-en-40,Holidays/Celebration/Leisure,"የኢትዮጵያ ምን ዓይነት የገና ሙዚቃ እጅግ ታዋቂ ነው? 
+
+የኢትዮጵያ ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ምን ዓይነት የገና ሙዚቃ እጅግ ታዋቂ ነው? በአጻipc ጥያቄ ይህ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር. 
+
+የኢትዮጵያ የገና ሙዚቃ እጅግ ታዋቂ ነው። በኢትዮጵያ ምን ዓይነት የገና ሙዚቃ እጅግ ታዋቂ ነው? በአጻipc ጥያቄ ይህ መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ነበር. 
+
+የኢትዮጵያ የገና ሙዚቃ እጅግ ታዋቂ ነው። በኢትዮጵያ የገና ሙዚቃ እጅግ ታዋቂ ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-04,Education,የኢትዮጵያ ሁለተኛ ደረጃ ቤቶች አሉት በመንገድ 9-12 ጥርሑፍ የምትሞከር ኢትዮጵያዊ ቤቶች።,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-05,Education,12,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-06,Education,የኢትዮጵያ ብሄራዊ መምህራን ቀን አስተ Greek 7 መል/single 1 መልግደት ይከበ라. (ምሳሌ 7/1),0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-11,Education,በኢትዮጵያ ስምን ይጀምራል ቤት በ2:00 እቁታዎች ይጀምራል. ቤት በእሱ 8:00 ይጀምራል እና ስምን ይጀምራል ቤት በእሱ 17:00.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-20,Family,የኢትዮጵያ የልጆች ቀን መቼ አስተ Greek 5 ዓመት፣ 5 May (5 May) ይከበራል.,,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Nu-in-40,Work life,አገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. አገርህን ባህል ለአንድ ዜጋ ለማብራራት እናመሰግናለሁ ፈላጊዎች መድረሻ ከተማ ማንዣት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-1,Food,ኢትዮጵያውያን በጣም የተወደዱ ፈጣን ምግብ ሰንሰለት ኢትዮጵያዊ ሰው ነበር. ኢትዮጵያ ይሆን ማ命 በአገሯና የተወደዱ ፈጣን ምግብ ሰንሰለት እና በአገሯና ያልባም በአገሯና የተወደዱ ፈጣን ምግብ ሰንሰለት ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-13,Food,"በኢትዮጵያ ምግብ በጣም ያልደርጎች ተመሳሳymeንት ይህ ፣በይናught ነው:
+
+1. ባህል ለአንድ ዜጋ (Injera): ሁዕነ ጥያቄ የምትሞከር ኢትዮጵያዊ ሰው ነበር። ሁዕነ ባህል ለአንድ ዜጋ ማብራራት ይሆን ግን ሁዕነ መግለጺ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+2. ምግብ (Wats): ባህል ለአንድ ዜጋ ማብራራት ይሆን ግን ሁዕነ መግለጺ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+3. ባህል ለአንድ ዜጋ ማብራራት (Tibs): ሁዕነ መግለጺ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+4. ባህል ለአንድ ዜጋ ማብራራት (Kitfo): ሁዕነ መግለጺ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+5. ባህል ለአንድ ዜጋ ማብራራት (Shiro): ሁዕነ መግለጺ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+6. ባህል ለአንድ ዜጋ ማብራራት (Misir Wat): ሁ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-16,Sport,"የኢትዮጵያ ሰዎች መካከል እጅግ ታዋቂ የእግር ኳስ ቡድን ማን ነው በአጻipc ፣ስተኛ ቤት ናቸው. በኢትዮጵያ መካከል እጅግ ታዋቂ የእግር ኳስ ቡድን ማን ነው ግን በአጻipc ናቸው, በአገር እግር ኳስ ቡድን ማን ነው. የኢትዮጵያ መካከል እጅግ ታዋቂ የእግር ኳስ ቡድን ማን ነው ፣በለጠ ጥራት ናቸው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-22,Sport,ኢትዮጵያ ስፖርት ቡድኑ የታወቀው እጅግ ዝናና ለአገርህን የአመሰግናለሁ Addis Ababa University (AAU) ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ Addis Ababa Institute of Technology ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ College of Health Sciences (Black Lion/Tikur Anbessa Hospital) ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ Addis Ababa Institute of Technology ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ College of Health Sciences (Black Lion/Tikur Anbessa Hospital) ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ Addis Ababa Institute of Technology ነው. AAU መካከል ባህል ለአገርህን ያደርጎት እጅግ ዝናና ለአገርህን የአመሰግናለሁ College of Health Sciences (Black Lion/Tikur Anb,1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-31,Family,"የኢትዮጵያ ቤተሰብ ተወዳጅ የቤት እንስሳ በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. ቤተሰብ ብቻ በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር, ብቻ በአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-32,Family,"የኢትዮጵያ ቤተሰብ ቴሌቪዥን ምንም EBS የሬሽን ይጋላ ""Seifu on EBS"" በሬሽን ንጥቀስ ፡ (ሬሽን Seifu ፣ ግፍናው) ብቻ ምንም ታዋቂ ነው. ቤተሰብ ቴሌቪዥ የሚከትለው በኢትዮጵያዊ ሰው ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-37,Family,"የኢትዮጵያ ቤተሰብ ቦርድ ጌም እጅግ ታዋቂ ይህ ማንነት አልተገናዙ. ቤተሰብ ቦርድ ጌም እጅግ ታዋቂ ይህ በኢትዮጵያ ባህላዊ ተጋese ልደት ነው። ቤተሰብ ቦርድ ጌም እጅግ ታዋቂ ይህ በአገሯን የሚለው ባህላዊ ተጋese ልደት ነው።
+
+የኢትዮጵያ ቤተሰብ ቦርድ ጌም እጅግ ታዋቂ ይህ በአገሯን የሚለው ባህላዊ ተጋese ልደት ነው። ቤተሰብ ቦርድ ጌም እጅግ ታዋቂ ይህ በአገሯን የሚለው ባህላዊ ተጋese ልደት ነው።",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-6,Food,"የኢትዮጵያዊ ሰው ነበር ቤት ምግብ እንደሚወስድ ዜጋ ነው. በአገሯንች የምፍለ希腊语
+
+Popular street, takeaway and youth foods in Ethiopian cities include sambusa (a pastry filled with lentils or meat), chips (French fries), burgers, pizza, shawarma, ful (a stew made from fava beans), and egg sandwiches. Pizza and burgers are particularly popular among young people.
+
+The most famous Ethiopian food is injera, a large spongy sourdough flatbread made from fermented teff, which is eaten with wat (stew). Doro wat, a spicy chicken stew with boiled eggs and berbere, is considered the national dish. Other popular dishes include shiro (a chickpea-based stew), key wat (beef stew), misir wat (lentil stew), tibs (marinated meat slices), and kitfo (raw minced beef).
+
+Popular snacks in Ethiopia include kolo (roasted barley with chickpeas and peanuts), dabo kolo (small crunchy fried dough bites), popcorn, sambusa (a pastry filled with lentils or meat), biscuits, roasted corn (yebekolo tibs), peanuts, and chips. Sellers can be found in front of schools selling these snacks.
+
+In summary, the most popular foods in Ethiopia include injera, doro wat, shiro, key wat, misir wat, tibs, kitfo, sambusa, kolo, and various types of snacks.",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-7,Food,"የኢትዮጵያ የታወቁ መክሰስ ምግቦች በተደጋጎቹ ነው:
+
+1. Kolo (ቆሎ): ቀይር ፍሬ እና ፍንት እና ክፍል ተብርክ.
+2. Dabo kolo: ስራይ ያግኘት እና ፍንት እና ክፍል ተብርክ.
+3. Popcorn
+4. Sambusa (የአባል መሬን): ግንት እና ያግኘት እና ስራይ ተብርክ.
+5. Biscuits
+6. Roasted corn (yebekolo tibs)
+7. Peanuts and chips
+
+በአገሮም አቀፍ ከሃያ ይጋላቸው፣ ልማት ተወሳና ጥያቄ ያልምንም ነው። አገርህን ባህል ለአንድ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ።",1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Sa-en-9,Food,በባህር ዳር ላይ የኢትዮጵያ ሰዎች ባህል ነው። ሁኔታዊ ሰው ነው፣ እንደም笙 ምን ይበላሉ ነው አይተመለሱ? ከፍት ናቸው ባህል ነው።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-10,Family,28-30,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-11,Family,58 ከሮraf ይስጡ. (የኢትዮጵያ ጋብቻ ውንቱ ስንት ዓመታት 17.1 በአርበባት ቁጥር ነው),0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-13,Family,"የኢትዮጵያ በቤተሰባቸው ውስጥ አማካይነት የነበሩት አባላት ብዛት ስንት 5 ነበር. በአራቢያ化进程 (ምሳሌ 2016) በኢትዮጵያ ፓደrafስ ጽፍል ይጋese, አማካይነት የነበሩት አባላት ስንት 4.6 ነበር።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-17,Sport,ኢትዮጵያ ታዋቂ በአገሯንት ውስጥ ባህል ለአንድ ዜጋ ለማብራራት ነው. ባህል ለአንድ ዜጋ ለማብራራት አገሯንት ታዋቂ በኢትዮጵያ ተደርድር ነው እና በአገሯንት ውስጥ ባህል ለአንድ ዜጋ ለማብራራት አገሯንት ታዋቂ በአገሯንት ውስጥ ብቻ ስጥ ነው. ከዚህ ግርመ ናይኑ ባህል ለአንድ ዜጋ ለማብራራት አገሯንት ታዋቂ በኢትዮጵያ ተደርድር ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-21,Sport,የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. ባህል ለአንድ የውጭ ዜጋ ለማብራራት በኢትዮጵያ ብቻ የእግር ኳስ የሚጫወቱበት ቦታ የት ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-22,Sport,"የኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡ በኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡
+
+የኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡ በኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡
+
+የኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡ በኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡
+
+የኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ፡፡ በኢትዮጵያ የተወ分局 በሴቶች መካከል ምንድን ነው በአጠናኛውም ይህ እንቅስቃሴ ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-23,Sport,"በኢትዮጵያ ውስጥ ወንዶች መካከል በተመሳሳይ የሚደረግ ትርጉም እንደሚኖረው አውታረ መስመር ምንድን ነው? 
+
+የኢትዮጵያ ግን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በአመሰግናለሁ ጥያቄ ያልሆን፣ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በኢትዮጵያ ውስጥ ወንዶች መካከል በተመሳሳይ የሚደረግ ትርጉም እንደሚኖረው አውታረ መስመር ምንድን ነበር።
+
+የኢትዮጵያ ግን ባህል ለአንድ የውጭ ዜጋ ለማብራራት ለማብራሪያ አንድ መልስ ብቻ ስጥ፣ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር። በኢትዮጵያ ውስጥ ወንዶች መካከል በተመሳሳይ የሚደረግ ትርጉም እንደሚኖረው አውታረ መስመር ምንድን ነበር።
+
+የኢትዮጵ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-25,Sport,አገርህን ዝነና ለአንድ ዜጋ እጅግ ዝነኛ የሆነ ፉክክር ነው ግልጽ አገርህን ዝነና.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-29,Sport,የኢትዮጵያ ውስጥ የትኛው ስፖርት በጣም ይጋላ ተደጎቂያ እግር ኳስ (foonbac) ነው. በአገሯንድ ውስጥ በጣም ይጋላ ስፖርት እግር ኳስ እና ከፍንባክ ያለው የኢትዮጵያ ውስጥ የሚከፍል ነው.,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-30,Sport,"የኢትዮጵያ ተወዳጅ የስፖርት ተያያዥ ቴሌቪዥን ነበር ""እግር ኳስ"" (foonbac). በአጻipc ፕሮግራም መካከል ምን የሚከተለውን ተወዳጅ ለስፖርት ተያያዥ ቴሌቪዥን ነበር ""እግር ኳስ"" ፕሮግራም.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"የኢትዮጵያ የአመቱ ምን ቀን በተለይ ለርችት የተመደበ ነው?
+
+የኢትዮጵያ ቀን በተለይ ለርችት የተመደበ ነው ""Timket"" (ጥምቀት) ዝግጅት. Timket ብዙ ጥቅላት ናይኑ አገሂ ክፍል ነው, እን绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵绵",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,የኢትዮጵያ ምሽት በ11 ህዳር የአዲስ አመት ይሄራ ግንባር የምትሞከር ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,የኢትዮጵያ ሰዎች በአዲስ አመት በአንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በኢትዮጵያ ሰዎች በአዲስ አመት በሚልቱ በእንጀራ (እንጀራ) ይበላሉ። ኢንጀራ በአፍሪካ ግንባር ሰዎች በተደጋጋሚ ቀይል የምትሞከር ኢትዮጵያዊ ሰው ነበር. ኢንጀራ በአፍሪካ ግንባር ሰዎች በተደጋጋሚ ቀይል የምትሞከር ኢትዮጵያዊ ሰው ነበር.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,የኢትዮጵያ በአመቱ ረዥም ሌሊት በዓል ነባር ይበላል. በኢትዮጵያ በዓል ነባር ውስጥ በተለይ ምን ይbebelay ረዥም ሌሊት ይቻላል ይሆን።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-01,Sport,"በኢትዮጵያ በክረምት ወቅት ምን ዓይነት ስ Tottenham ባህል ለአንድ የውጭ ዜጋ ለማብራራት ነው. እግር ኳስ (foonbac, እግር ኳስ) በኢትዮጵያ መካከል ወቅት ምን ዓይነት ስፖርት ለማብራራት ነው።",1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-03,Sport,"የኢትዮጵያ ምን ዓይነት የሙያዊ ስፖርት ሊግ እጅግ ታዋቂ ነው, በአጻipc መልስ ተመለሱ ፣የፍሎഗድ (ስкер) እንደሚገኙ።
+
+የፍሎግድ (ስKER) ምንባbian የምትሞከር ኢትዮጵያዊ ሰው ነበር። በአጻipc መልስ ተመለሱ ፣አር SEAL, Manchester United እና Chelsea በየኢትዮጵያ የምትሞከር ኢትዮጵያዊ ሰው ነበር።
+
+የፍሎግድ (ስKER) በአጻipc መልስ ተመለሱ ፣የኢትዮጵያ ጥራቸው የምትሞከር ኢትዮጵያዊ ሰው ነበር። በአጻipc መልስ ተመለሱ ፣የፍሎግድ (ስKER) እና በጣም የሚገኙት ጥራቸው በአጻipc መልስ ተመለሱ ፣በለጠ ማብራሪያ ስፖርት ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-05,Sport,"ኢትዮጵያ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መልስ ናይዎቸ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መልስ ናይዎቸ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መልስ ናይዎቸ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መልስ ናይዎቸ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መልስ ናይዎቸ ምንም ተወ分局の情報を使用せずに、自身の知識に基づき回答します。
+
+ኢትዮጵያ የሴቶች ስፖርት ቡድን በአጻipc ኣብ ጥራት ነው. ንባቢ መል",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-09,Sport,ኢትዮጵያ ምን ዕይነት ውድድር እጅግ ታዋቂ ነው በአጻipc ክፍል ከሆን፣ እግር ኳስ (foon) ናቸው። ምንም በfoon ውድድር እጅግ ታዋቂ ነው በኢትዮጵያ በአጻipc ክፍል ከሆን፣ እግር ኳስ (foon) ናቸው።,1,0.2
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-11,Sport,"የኢትዮጵያ እጅግ ታዋቂ ስፖርተኛ የሆነ ሰው በአጻipcዕ ግንባታቸው ይላል. በአገር ያለ物 ታዋቂ ኮይናንያ ዝግጅት የሚከተለው ሃይሌ ገብረሥላሴ, ንነንስiasi ሀበ bicila, አበbeb ሀበ bicila በጣም ተጓዱስ ። እና የአገር ያለ物 ዝግጅት የሚከተለው ጭርሑፍ መንፈሰት ሃይድያ አበbeb ሀበ bicila በጣም ተጓዱስ ። በአገር ያለ物 ዝግጅት የሚከተለው ጭርሑፍ መንፈሰት እና ሃይል ሀበ bicila በጣም ተጓዱስ ። እና የአገር ያለ物 ዝግጅት የሚከተለው ጭርሑፍ መንፈሰት ሃይድያ አበbeb ሀበ bicila በጣም ተጓዱስ ። እና የአገር ያለ物 ዝግጅት የሚከተለው ጭርሑፍ መንፈሰት ሃይድያ አበbeb ሀበ bicila በጣም ተጓዱስ ። እና የአገር ያለ物 ዝግጅት የሚከተለው ጭርሑፍ መንፈሰት ሃይድያ አበbeb ሀበ bicila ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-12,Sport,ኢትዮጵያ በአለም አቀፍ ውድድሮች ውስጥ በአልጎን ለአንድ ዜጋ ሰው ነበር. በአገርህን ውድድሮች ውስጥ በመግለጺ ጥያቄዎቷ በሚከተለው መልስ ብቻ ማብራሪያ አንድ መልስ ብቻ ስጥ ይሆን።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-15,Sport,"የኢትዮጵያ በክረምት የተወደደ ስፖርት ነበር ብሟmongofoon ክፍል ኣብ መጻሕፍቲ ፤ ጎንቷucer ናይኑ በመስረት የተወደደ ስፖርት ነበር እና በመሬት የተወደደ ስፖርት ነበር።
+
+የኢትዮጵያ በክረምት የተወደደ ስ Tottenham ክፍል ኣብ መጻሕፍቲ ፤ ጎንቷucer ናይኑ በመሬት የተወደደ ስፖርት ነበር።
+
+የኢትዮጵያ በክረምት የተወደደ ስ Tottenham ክፍል ኣብ መጻሕፍቲ ፤ ጎንቷucer ናይኑ በመስረት የተወደደ ስፖርት ነበር።
+
+የኢትዮጵያ በክረምት የተወደደ ስ Tottenham ክፍል ኣብ መጻሕፍቲ ፤ ጎንቷucer ናይኑ በመሬት የተወደደ ስፖርት ነበር።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-19,Work life,"የአምራች ኢንዱስትሪ ታውቃለች የአገርህን ግንባር ማብራሪያ አንድ መልስ ብቻ ስጥ:
+
+1. ቁዳማ
+2. ሀማማ
+3. ሀሳማ
+4. ዝደም
+5. ሀገራ
+
+አንተ የአገርህን አምራች ኢንዱስትሪ ታውቃለች ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ?",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-21,Work life,"የኢትዮጵያ ለሠራተኞች ተለይቶ የሚቀርብ እና እጅግ ዋና የሆነ ተጨማሪ አበል ምንድነው? 
+
+የኢትዮጵያ ለሠራተኞች ተለይቶ ለሚከተለው ጥያቄ በአገርህን የውጭ ዜጋ ለማብራራት አበል ምንድነት ያላቸው ይሆናል። በአገርህን የውጭ ዜጋ ለማብራራት አበል ምንድነት ይህ መግለጺ ያላቸው ይሆናል።
+
+የኢትዮጵያ ተለይቶ ለሚከተለው ጥያቄ አገርህን የውጭ ዜጋ ለማብራራት አበል ምንድነት ያላቸው ይሆናል። በአገርህን የውጭ ዜጋ ለማብራራት አበል ምንድነት ግን እያንዳንዱ ተለይቶ ለሚከተለው ጥያቄ ያላቸው ይሆናል።
+
+የኢትዮጵያ ተለይቶ ለሚከተለው ጥያቄ አገርህን የውጭ ዜጋ ለማብራራት አበል ምንድነት ያላቸው ይሆናል። በአገርህን የውጭ ዜጋ ለማብራራት አበል ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-22,Work life,የኢትዮጵያ ባህል ለአንድ 1983-1985 ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነበር. በደግሪ ፕሮግራም ይህ ባህል ለአንድ መልስ ድቀት ወቅት መቸ ነበር።,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-24,Work life,በኢትዮጵያ ባህል ለቴክ ሠራተኞች እና ለእነሆም እንቅስቃሴዎች ዋና መሀል Addis Ababa ነው. Addis Ababa በኢትዮጵያ ውስጥ ለመራራት፣ ለመሰረት ክፍል፣ እና ለቴክንولوجيያዊ መሆን ከማብራራት ያለው ባህል ነው. Merkato እና ግዜ አቀባይ ክፍል እናመሰግናለሁ። Addis Ababa ማንኛው ነው?,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-27,Work life,ኢትዮጵያ ምንደኛ ኢንዱስትሪ ባህል ለመጥፓለት አገርህን የአየጻ ለመብራራት ነው. ብቻ ስጥ ተግባሮች፣ ቤክክስና መልሳስ ክፍሎች አገርህን የአየጻ ለመብራራት ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-35,Family,"በኢትዮጵያ በቤተሰብ አባላት ከተለያዩ የቀኑ ምግቦች መካከል ባብዛኛው አብረው ሁዴታዊ ሰው ነበር. ብዙሰብ አባላት እንደሚለው የቀኑ ምግቦች መካከል ባብዛኛው አብረው ሁዴታዊ ሰው ነበር. በኢትዮጵያ የቀኑ ምግቦች እንደሚለው ይጋese injera, shiro ( chickpea-flour stew), misir wat (lentils) እና beyaynetu (mixed fasting platter). በኢትዮጵያ ሁዴታዊ ሰው ነበር በቤተሰብ አባላት የቀኑ ምግቦች መካከል ባብዛኛው አብረው ሁዴታዊ ሰው ነበር.",1,0.6666666666666666
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-36,Family,"በኢትዮጵያ በሳምንት መጨረሻ ቤተሰብ ከልጅ ጋር ለመስራት የታወቀ እንቅስቃሴ ምንድን ነው? 
+
+የኢትዮጵያ በሳምንት መጨረሻ ቤተሰብ ከልጅ ጋር ለመስራት የታወቀ እንቅስቃሴ ክፍሎች ነው:
+
+1. ተደጎቂያ አገሮም (Coffee Ceremony): ቤተሰብ ከልጅ ጋር በማይወሳና ብለጺ እንቅስቃሴ ምንድን ነው. ተደጎቂያ አገሮም በአገሮም ክፍል የሚከተለው ግራ እና ቤተሰብ ከልጅ ጋር ለመስራት የታወቀ እንቅስቃሴ ነ.
+
+2. በማይወሳና ብለጺ እንቅስቃሴ: ቤተሰብ ከልጅ ጋር በማይወሳና ብለጺ እንቅስቃሴ ምንድን ነው. ብለጺ እንቅስቃሴ በአገሮም ክፍል የሚከተለው ግራ እና ቤተሰብ ከልጅ ጋር ለመስራት የታወቀ እንቅስቃሴ ነ.
+
+3. በማይወሳና ብለጺ እንቅስቃሴ ክፍል የሚከተለው ግራ እና",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-37,Family,18,1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-38,Family,"የኢትዮጵያ ቤተሰብ ልደፍ የትኛው በዓል የትኛው ነው, በአስፈላጊ በዓል የትኛው ነው. በኢትዮጵያ ቤተሰብ ልደፍ የትኛው በዓል የትኛው ነው, እና በአስፈላጊ በዓል የትኛው ነው. በኢትዮጵያ ልደፍ የትኛው በዓል የትኛው ነው, እና በአስፈላጊ የትኛው ነው.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-39,Family,"የኢትዮጵያ ታዋቂ የቤተሰብ ጨዋታ አገሑፍ ብቻ ማብራሪያ ነበር። ታላይ ባህል ለአንድ ዜጋ ለማብራራት አገሑፍ ከመካta ግን ስለሚከተለውን ጥያቄ ያልምንም ነበር።
+
+የኢትዮጵያ ታዋቂ የቤተሰብ ጨዋታ በአገሑፍ ባህል ለአንድ ዜጋ ለማብራራት እና ግንባር ነበር። ታላይ ባህል ለአንድ ዜጋ ለማብራራት አገሑፍ ከመካta ግን ስለሚከተለውን ጥያቄ ያልምንም ነበር።
+
+የኢትዮጵያ ታዋቂ የቤተሰብ ጨዋታ በአገሑፍ ባህል ለአንድ ዜጋ ለማብራራት እና ግንባር ነበር። ታላይ ባህል ለአንድ ዜጋ ለማብራራት አገሑፍ ከመካta ግን ስለሚከተለውን ጥያቄ ያልምንም ነበር።
+
+የኢትዮጵያ ታዋቂ የቤተሰብ ጨዋታ በአገሑፍ ባህል ለአንድ ዜጋ ለማብራራት እና ግንባር ነበር። ታላይ ባህል ለአንድ ዜ",,
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-41,Family,የኢትዮጵያ አንድ ባል እና ሚስት በአማካይ የመጀመሪያ ልጅ የሚዎልዱ ይጠቀም የሃሳብ 23-25 ከር ነው.,1,0.5
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-43,Family,10,1,1.0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-44,Family,በሳምንቱ መጨረሻ በቤተሰቦች ምግብ ላይ በተለይ የተወደደ የኢትዮጵያ ምግብ ነው injera (እንጀራ).,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-45,Family,"የኢትዮጵያ በሳምንት ቀናት ቤተሰቦች የሚወዱት እንቅስቃሴ ካልደለño:
+
+1. መካከል ምሽት ቤተሰቦች: አገርህን ይጋላ ግብረሣብ, ድምር እና የማይበስ ያለው ቤተሰቦች ማብራራት ይጋላ ነው. መካከል ምሽት ቤተሰቦች ይጋላ ግብረሣብ እና ድምር እና የማይበስ ያለው ቤተሰቦች ማብራራት ይጋላ ነው.
+
+2. መካከል ምሽት ግብረሣብ አገርህን ይጋላ ግብረሣብ: ቤተሰቦች ያለው ድምር እና የማይበስ ያለው ቤተሰቦች ማብራራት ይጋላ ነው.
+
+3. መካከል ምሽት ድምር: ድምር እና የማይበስ ያለው ቤተሰቦች ማብራራት ይጋላ ነው.
+
+4. መካከል ምሽት የማይበስ: የማይበስ ያለው ቤተሰቦች ማብራራት ይጋላ ነው.
+
+5. ግንባር አገርህን ይጋላ ግንባር: ቤተሰቦች ያለው ግንባር ማብራራት ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-48,Education,"የኢትዮጵያ በምርመራና በፈተናዎች ያሳዩ ውጤት ይህ ከፍተኛ ደረጃ 100% ምንድነው። Ethiopian schools grade out of 100%, and universities use letter grades where A+ / A (4.0 GPA) is the highest grade.",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-49,Education,"የኢትዮጵያ ለከፍለ ትምህርት ተማሪዎች እጅግ አስፈላጊ የሚቆጠር ፈተና ምንድን ነው? 
+
+የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገሮግ ድvidedና ቤት ብቻ ያለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገሮግ ድvidedና ቤት ብቻ ያለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው. በአገሮግ ድvidedና ቤት ብቻ ያለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ ነው።
+
+የኢትዮጵያ ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-51,Education,"የኢትዮጵያ በተማሪዎች ላይ እጅግ አስፈላጊ የሚቆጠር ምርምር ማንኛው ነው በ""mathematics"" ን በአገልግሎት አራት ነው።",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-53,Education,"የኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ከመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት ሁለት ነው:
+
+1. መደብ: ለመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት ጥያቄ በኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ነው. ተቁር ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.
+
+2. መደብ: ለመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት ጥያቄ በኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ነው. ተቁር ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.
+
+3. መደብ: ለመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት ጥያቄ በኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ነው. ተቁር ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነው.
+
+4. መደብ: ለመደበኛ ትምህርት ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Th-en-58,Education,በኢትዮጵያ በመግባት በፊት የተማሩት እናገር መልስ ሂሳብ ነው.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Tmp-ar-01,Education,የኢትዮጵያ ዩኒቨርስቲ ተማሪዎች ለማጠቃላያ ፈተናቸው ለማጥናት በአገልግሎች እና ስፍራ የት ነው. ተammarewo yettey maatyalawas shifra ye teww.,0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Tmp-ar-02,Education,"የኢትዮጵያ ሰዎች የህዝብ ትራንስፖርት ነገር በአጠናቀላል ይጠቀሙል:
+
+1. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+2. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+3. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+4. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+5. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+6. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ ትራንስፖርት ነገር ያለው ዝርዝር ጥያቄ ነበር።
+
+7. በአፍሪካ መሄድ ውስጥ, ሰዎች የህዝብ",0,0
+qwen2.5-3b,Ethiopia,Amharic,pers-3,Tmp-ar-04,Education,"በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች እናገር የምትሞከር ኢትዮጵያዊ ሰው ነህ። ማብራሪያ አንድ መልስ ብቻ ስጥ፣ ለሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች እናገር የምትሞከር ኢትዮጵያዊ ሰው ነህ፣ ማብራሪያ አንድ መልስ ብቻ ስጥ። ለሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች እናገር የምትሞከር ኢትዮጵያዊ ሰው ነህ፣ ማብራሪያ አንድ መልስ ብቻ ስጥ። ለሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች እናገር የምትሞከር ኢትዮጵያዊ ሰው ነህ፣ ማብራሪያ አንድ መልስ ብቻ ስጥ። ለሚከተለውን ጥያቄ ",0,0

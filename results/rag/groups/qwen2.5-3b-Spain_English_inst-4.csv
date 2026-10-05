@@ -1,0 +1,506 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Spain,English,inst-4,Al-en-01,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-02,Food,Paella,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-04,Food,"The question ""What is the most popular fruit in Spain?"" cannot be definitively answered based solely on the provided information. The given background does not specify which fruits are most popular or their popularity ranking.",0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-06,Food,Paella,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-08,Food,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-09,Food,"None of the provided information specifically mentions a popular snack at an amusement park in Spain. The given background information focuses on festivals, sports events, and cultural activities rather than amusement parks or snacks.",0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-16,Education,6,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-17,Education,Tug of war,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-18,Education,Math,1,0.6666666666666666
+qwen2.5-3b,Spain,English,inst-4,Al-en-19,Education,Spanish,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-21,Education,Spanish,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,"The question ""What is the main dish for Thanksgiving in Spain?"" does not have a relevant answer based on the provided background information. The background information discusses various topics related to Spanish food, agriculture, and tourism but does not mention any specific dishes associated with Thanksgiving, which is an American holiday.",,
+qwen2.5-3b,Spain,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,The given information does not specify what people do to celebrate New Year's Day in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,"People in Spain often enjoy turrón, especially from Jijona or Alicante, during Christmas celebrations.",0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,Turrón,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,None of the provided information directly addresses what people eat on their birthday in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-02,Education,The information provided does not contain details about where university students have lunch in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-03,Education,12,0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-08,Education,16,1,1.0
+qwen2.5-3b,Spain,English,inst-4,An-ar-09,Education,2,1,0.25
+qwen2.5-3b,Spain,English,inst-4,An-ar-34,Sport,Tug of war,0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-35,Sport,"The information provided does not contain details about sports commentators in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-36,Sport,"The information provided does not specify the most popular sport team in Spain. It only mentions the percentage of people who play sports, the number of federated sport licenses by sport, and some details about Basque rural sports. Without specific data on the popularity or performance of various teams, it's impossible to determine which is the most popular sport team in Spain based solely on this information.",0,0
+qwen2.5-3b,Spain,English,inst-4,An-ar-43,Sport,None of the provided background information specifically mentions common places or venues for watching sports broadcasts in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-05,Food,2,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-06,Food,"There is no specific information provided about the most important meal of the day in Spain. Therefore, no single answer can be definitively determined based on the given background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-08,Food,Olive oil,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-09,Food,None of the provided background information specifically mentions desserts or what people in Spain typically eat for dessert.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-11,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-14,Food,"The information provided does not contain details about the most popular hot drinks in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,8,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-38,Family,couples with or without children,0,0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-41,Family,"In 2018, 43.1% of people living alone in Spain were aged 65 or over, indicating that they are often dependent elderly. However, this does not specify their usual place of residence. Therefore, based solely on the given information, a precise answer cannot be provided about where they usually live.",1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-42,Family,16,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-43,Family,16,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ca-sp-45,Family,Beach resort,1,0.5
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-05,Sport,Football,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-06,Sport,Football,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-07,Sport,The question does not provide enough information to determine who the most famous basketball player in Spain is.,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-08,Sport,"The information provided does not specifically mention the most popular sports among children in Spain. It focuses on overall sporting habits for people aged 15+ and details about various sports' popularity, but it does not provide data on children's preferences.",0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-09,Sport,Video games,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-11,Sport,Swimming,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-15,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-16,Family,1.1,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-18,Family,2,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-31,Education,10,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-32,Education,10,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-33,Education,6,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-38,Education,12,0,0
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-40,Education,14:00,1,0.5
+qwen2.5-3b,Spain,English,inst-4,Gu-ch-41,Education,0,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-02,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-03,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-07,Work life,Tesla,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-08,Work life,40,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-09,Work life,Paella valenciana,,
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-14,Work life,Cider,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-15,Work life,0.0,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-16,Family,Maternity wards or hospitals,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-19,Family,"None of the provided background information specifically mentions Spain's most commonly given flower on Parents' Day. The information provided relates to cultural events in Córdoba, school management associations (AMPA/AFE), and a split school day policy in Catalonia.",1,0.3333333333333333
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-22,Family,It is not explicitly stated what people especially spend their first salary on in Spain's society based on the provided information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-24,Family,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-25,Family,"1 January, 6 January, 1 May, 15 August, 8 December, 25 December",0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-26,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-27,Family,8 December,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-28,Family,1 January,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-29,Family,40,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-31,Education,"In Spain, middle and high school students typically study for exams at their respective schools or educational institutions. For specific exam locations, it can vary by region and institution policy, but generally, these exams are conducted within the student's regular school setting.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-33,Education,"The given information does not specify where high school students in Spain typically go after dinner. Therefore, no specific answer can be provided based on the given context.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-34,Education,By bus.,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-35,Education,Fully private schools,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-36,Education,Vocational training,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-37,Education,"The provided background information does not specify the types of clothing worn by middle and high school students in Spain. Therefore, no specific answer can be given based on the provided information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-39,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-40,Education,"It is not specified in the provided information what high school students typically do during break time in schools in Spain. The given information pertains to primary education and early childhood education, but does not mention secondary or high school students.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-41,Education,The information provided does not specify what kind of shoes students wear in schools in Spain.,1,0.4
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-42,Education,The information provided does not specify what the required subjects are for Spain's university entrance exam.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-44,Education,Catalonia,0,0
+qwen2.5-3b,Spain,English,inst-4,Ji-ko-45,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-01,Sport,Golf,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-02,Sport,Log-chopping (aizkolaris),0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-09,Sport,Hunting,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-13,Sport,"None of the provided information specifically mentions the popularity or types of water sports in Spain, so no definitive answer can be given based on the provided background.",0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-14,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-18,Work life,9,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-19,Work life,Andalusia,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-21,Work life,13:00,0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-31,Education,14:00,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-32,Education,"None of the provided information directly addresses sports practiced by elementary school students at schools in Spain. The data pertains to sporting habits, participation rates, and educational structures but does not specify which sports are commonly practiced or where they take place.",0,0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-36,Education,8,1,0.3333333333333333
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-37,Education,8,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jo-sp-43,Education,2,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-01,Food,"Forks, spoons, and sometimes chopsticks.",1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-04,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-06,Food,Cider,1,0.25
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-07,Food,0.5,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-09,Food,20:00,1,0.6666666666666666
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-12,Food,Tomato soup,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-13,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-15,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,"The information provided does not specify which festival is the biggest in Spain. Therefore, no single answer can be definitively given based on the provided background.",0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Bus,1,0.6
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,"The information provided does not specify the ""biggest"" festival in Spain. It describes Fallas in Valencia, Magosto in Galicia and Catalonia, and Calçotada in Valls, but none of these are explicitly identified as the ""biggest"" festival in Spain. Therefore, no specific decorations or symbols associated with the biggest festival can be provided based on the given information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-37,Sport,None of the provided information directly addresses what sports women like to watch the most in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-38,Sport,Football,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Listening to music,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,None of the provided background information directly addresses the specific question about male leisure activities in Spain's 20s.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-46,Work life,0.0,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-48,Work life,The provided information does not specify what people eat for lunch during working days in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-50,Work life,N/A,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-51,Work life,The given information does not specify what the most common transportation method used by people to get to work in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-54,Work life,345,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-56,Work life,65,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-57,Work life,65,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-58,Work life,None of the provided background information directly addresses which profession is the most respected in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-61,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Jod-ch-62,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-17,Education,high school,1,0.25
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-24,Education,Basque,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-30,Education,Friday,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-32,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-34,Food,Coffee,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-36,Food,France,1,0.25
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-39,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-40,Food,None,1,0.5
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-43,Food,Poblanillo,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-51,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,1 November,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Spain,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Coffin,,
+qwen2.5-3b,Spain,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Spain,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Sant Jordi,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,None of the provided information specifically mentions what is usually shared to children during Lunar New Year in Spain.,,
+qwen2.5-3b,Spain,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Spain,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,None provided,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Not provided in the given background information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,"The given information does not specify what clothes women typically wear to a graduation commencement ceremony in Spain. Therefore, no specific answer can be provided based solely on the given data.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-16,Food,Wine,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-17,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-24,Food,"None of the provided background information specifically mentions carbohydrates served with chicken in a fast-food restaurant in Spain. The given points are related to traditional dishes like paella, cocido madrileño, and pulpo á feira from different regions of Spain. Therefore, no single answer can be definitively determined based on the provided information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-31,Sport,"None of the provided information specifically mentions martial arts or a most famous martial art sport in Spain. The background information focuses on rural sports, traditional Canarian sports, and federated sports clubs but does not provide details about martial arts.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-34,Sport,None of the provided background information specifically mentions sports being broadcasted on national television in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-35,Sport,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-36,Sport,"The information provided does not contain details about the popularity of soccer coaches in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-37,Sport,Real Madrid CF vs FC Barcelona,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-38,Sport,Real Madrid CF vs FC Barcelona,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-40,Sport,"The information provided does not contain details about the most famous male badminton players in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-41,Sport,"The information provided does not mention any female badminton players or their fame in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-44,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,English,inst-4,Kik-in-45,Sport,Padel courts.,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-02,Food,espresso,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-04,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-05,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-07,Food,Meat,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-08,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-09,Food,"It is not specified in the provided background information which side dish is the most commonly served on a dining table in Spain. The examples given pertain to specific dishes and practices, but do not directly address the commonality of any particular side dish across all tables in Spain.",0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-11,Food,Paella valenciana,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-15,Food,Sweet format,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-16,Sport,Lionel Messi,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-17,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-18,Sport,Football,1,0.5
+qwen2.5-3b,Spain,English,inst-4,Na-ko-19,Sport,"The information provided does not contain details about the popularity of volleyball players in Spain. Therefore, no specific answer can be given based on the provided background information.",,
+qwen2.5-3b,Spain,English,inst-4,Na-ko-20,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-22,Sport,France,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-23,Sport,Football,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-24,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-25,Sport,Wrestling,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-26,Sport,"62.7% of people aged 15+ played sport in the past year, but this information alone does not specifically identify the popular sports among the middle-aged (15-64) population in Spain. More detailed data on specific sports would be needed to provide a precise answer.",0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-28,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-29,Sport,Tom Daley,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-30,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,There is no specific mention in the provided background information about Spain regarding Lunar New Year or traditional foods eaten during this holiday. The given points pertain to different aspects of Spanish cuisine and culture but do not specify a Lunar New Year tradition.,,
+qwen2.5-3b,Spain,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,It is not specified in the provided information what the most common wedding gift between bride and groom is in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,A corsage,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,0,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Flowers,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"The information provided does not contain details about what people do in Spain in the morning of the Lunar New Year. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,12 October,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,"I don't have specific information about what people from Spain eat during Ramadan. Dietary practices can vary widely among individuals, especially across different regions of Spain. For accurate and up-to-date information on Ramadan food customs in Spain, it would be best to consult local sources or recent studies on the topic.",,
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"I don't have specific information about what Spaniards eat during Eid ul Fitr, as this varies by individual preference. The provided background does not mention food customs for Eid ul Fitr specifically.",,
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"I don't have specific information about what Spaniards eat during Eid ul Adha, as this is not a commonly documented or widely known tradition. The provided background does not include details about food customs for Eid ul Adha in Spain.",,
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Spain,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Spain,,
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-16,Work life,"Saturday, Sunday",1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-17,Work life,09:00,1,0.75
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-18,Work life,16:00,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-20,Work life,Middle managers,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-24,Work life,Madrid,1,0.75
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-25,Work life,"None of the provided background information directly addresses which industry pays the best in Spain. To accurately determine this, one would need data on salaries or wages across various industries in recent years.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-26,Work life,Telefónica,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-31,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-32,Food,People usually have sweet food formats for breakfast in Spain.,1,0.2
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-33,Food,13:00,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-34,Food,Olive oil,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-36,Food,Paella valenciana,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-37,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-38,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-39,Food,"The information provided does not contain details about the prices or cheapest options for fast food in Spain. Therefore, I cannot provide an accurate answer based on the given background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-43,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Ne-ar-44,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-02,Food,Not enough information provided to determine the most popular traditional food in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-04,Food,Romesco sauce,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-08,Food,Vegetables,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-am-15,Food,Paella,,
+qwen2.5-3b,Spain,English,inst-4,New-am-27,Sport,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-34,Education,Madrid,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-41,Education,12,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-am-53,Work life,None,,
+qwen2.5-3b,Spain,English,inst-4,New-am-54,Work life,Guijuelo,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-59,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-60,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-72,Family,N/A,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-73,Family,N/A,0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-74,Family,"The information provided does not contain details about the popularity of talk shows in Spain, so no answer can be derived from the given background.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Epiphany (Three Kings' Day),0,0
+qwen2.5-3b,Spain,English,inst-4,New-am-81,Holidays/Celebration/Leisure,6,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-am-83,Holidays/Celebration/Leisure,The information provided does not contain details about the most popular traditional musical instruments in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-01,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-02,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-05,Food,wine,1,0.25
+qwen2.5-3b,Spain,English,inst-4,New-as-07,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-14,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-15,Food,Water,1,0.6666666666666666
+qwen2.5-3b,Spain,English,inst-4,New-as-20,Sport,Golf,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-29,Sport,Football,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-30,Sport,Football,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-58,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-64,Family,1 November,0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-76,Holidays/Celebration/Leisure,I cannot provide a specific list of traditional games played by families during traditional holidays in Spain based solely on the given information. The provided background does not mention such games explicitly.,,
+qwen2.5-3b,Spain,English,inst-4,New-as-80,Holidays/Celebration/Leisure,"I don't have specific information about the types of clothing worn during traditional festivals in Spain. The details provided focus on herding practices, supermarket shopping habits, and aspects of the Mediterranean diet rather than festival attire. For accurate information about traditional Spanish festival clothing, additional research would be needed.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-as-89,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-05,Food,Asturias,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-11,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-12,Food,Valencian Community,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-21,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-26,Sport,None,,
+qwen2.5-3b,Spain,English,inst-4,New-az-27,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-39,Education,France,1,0.25
+qwen2.5-3b,Spain,English,inst-4,New-az-49,Work life,0,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-60,Family,Women,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-70,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-az-73,Holidays/Celebration/Leisure,2,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-01,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-02,Food,07:30,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-04,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-05,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-07,Food,"None of the provided information specifically mentions food items typically paired with hard liquor in Spain. The given data focuses on consumption patterns, specific types of turrón (a type of nougat), and trends in eating out. Therefore, no answer can be definitively derived from the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-08,Food,None,1,0.3333333333333333
+qwen2.5-3b,Spain,English,inst-4,New-ch-09,Food,"Based on the information provided, there isn't specific mention of typical foods consumed during cold weather in Spain. The details given pertain to household food purchases channels, transhumance practices, and breakfast habits but don't directly address cold-weather eating preferences.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-13,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-14,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-15,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-16,Sport,"The question asks for the most famous sports-related movie in Spain, but no specific information about such a film is provided in the given background. Therefore, there isn't a single definitive answer based on the provided information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-17,Sport,Mountaineering/climbing,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-18,Sport,"None of the provided background information specifically mentions a track and field event as being the most popular to watch during competitions in Spain. The information given pertains to rowing regattas, log-chopping (aizkolaris), and Carnival contests, but not track and field events.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-19,Sport,Gentle gymnastics,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-23,Sport,"The information provided does not contain details about the most famous table tennis player in Spain. Therefore, no specific answer can be given based on the provided background information.",,
+qwen2.5-3b,Spain,English,inst-4,New-ch-26,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-27,Sport,"The information provided does not contain any details about famous boxers or sports figures in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-30,Sport,"The information provided does not contain details about the most famous track and field athletes in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-31,Work life,None of the provided background information directly addresses what job parents most hope their children will pursue in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-32,Work life,The provided information does not specify what office software people typically use in the workplace in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-38,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-39,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-44,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-45,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-49,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-51,Family,Hotel,1,0.5
+qwen2.5-3b,Spain,English,inst-4,New-ch-54,Family,"None of the fruits mentioned are specifically tied to family dinners. However, based on the information provided about consumption frequency:
+
+1. Fruit and vegetables are present seven times a week in most homes.
+2. Paella valenciana contains country vegetables but no specific fruit is mentioned.
+
+Given this data, it's not possible to definitively state which fruit is prepared the most for family dinners specifically.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-64,Education,0,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-66,Education,0,,
+qwen2.5-3b,Spain,English,inst-4,New-ch-70,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-71,Education,12,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-72,Education,Football,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-73,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-74,Education,The given information does not specify what types of accommodation university students in Spain typically live in.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-75,Education,30,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,Padel,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,None of the provided information directly addresses what leisure activities retired men typically like in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,"1 May, 15 August, 12 October, 1 November, 8 December",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,Crockery,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,09:00,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Ponferrada,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,1,0.5
+qwen2.5-3b,Spain,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,White,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-01,Food,"None of the provided information specifically mentions a snack being eaten in the cinema in Spain. The background information focuses on cultural practices related to food, such as cocido madrileño, and does not provide details about snacks consumed in cinemas.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-02,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-04,Food,"The given information does not contain details about popular celebrity chefs in Spain. Therefore, no specific answer can be provided based on the given context.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-05,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-07,Food,None of the provided background information specifically mentions popular cooking shows in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-08,Food,The information provided does not contain details about the most popular chocolate brands in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-10,Food,The information provided does not contain details about the most eaten cheese in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-11,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-12,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-17,Sport,"None of the provided information specifically mentions cheering tools used by sports fans in Spain. The background information is related to rural sports activities, not fan cheer tools.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-18,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-19,Sport,Answer: Santiago Bernabéu Stadium,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-en-23,Sport,Jordi Castells,,
+qwen2.5-3b,Spain,English,inst-4,New-en-26,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-38,Work life,Retail and hospitality industries.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-41,Work life,"The information provided does not contain details about the most well-known and successful entrepreneurs in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-47,Family,Flower-filled patios,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-en-49,Family,"The information provided does not contain details about the ""most famous family"" in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-50,Family,The information provided does not contain data on the most common family names in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-55,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-56,Family,Spanish,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-59,Family,France,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-en-68,Education,The provided background information does not specifically address repercussions for bad behavior in schools in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-69,Education,"The information provided does not specify which writers are commonly studied in literature classes in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-70,Education,0,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-72,Education,"The given information does not specify which online resources students typically use to study in Spain. Therefore, no specific answer can be provided based on the given background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-75,Education,12,0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Barajas Airport (ADN),0,0
+qwen2.5-3b,Spain,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Catalonia,1,0.25
+qwen2.5-3b,Spain,English,inst-4,New-en-87,Holidays/Celebration/Leisure,The Alhambra in Granada,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-en-90,Holidays/Celebration/Leisure,The information provided does not contain details about the most famous hotel brands in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-05,Food,The information provided does not specify the most popular grab-and-go breakfast option in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-06,Food,Canned tuna,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-08,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-13,Food,Water,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-15,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-21,Sport,Golf,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-24,Sport,"None of the provided information specifically mentions the most popular track and field sport in Spain. The data focuses on federated sports licenses, sporting habits, and specific regional activities rather than track and field events.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-29,Sport,Football,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-gr-58,Work life,Middle managers,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,Cocido madrileño,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Foreign pop and rock,1,0.3333333333333333
+qwen2.5-3b,Spain,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Cider,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ha-07,Food,Paella,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-ha-08,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ha-09,Food,Air-fryer,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ha-13,Food,"The information provided does not contain details about the popularity of vegetables in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ha-19,Sport,None,,
+qwen2.5-3b,Spain,English,inst-4,New-ha-66,Family,Not enough information provided to determine the most popular wedding venue in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-01,Food,"None of the provided background information specifically mentions a most popular coffee shop brand in Spain. The given data pertains to household food purchases, participation in Cádiz Carnival events, and Basque rural sports. Therefore, no answer can be derived from the provided information for this specific question.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-03,Food,Cocido madrileño,0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-33,Work life,None of the provided background information specifically mentions regions associated with mining in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-34,Work life,Catalonia,1,0.25
+qwen2.5-3b,Spain,English,inst-4,New-in-62,Education,Polytechnic University of Madrid,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-in-63,Education,University of Navarra,0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-78,Holidays/Celebration/Leisure,"Online shopping remained a minority channel according to the information provided. Therefore, based on the given context, the most popular payment method in Spain is not explicitly stated as online shopping but rather remains a minority channel. However, without more specific data, it's challenging to pinpoint another exact answer from the options provided.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-in-80,Holidays/Celebration/Leisure,"The information provided does not contain details about the most famous theme parks in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-01,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-02,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-03,Family,None of the provided background information specifically mentions a most popular children's song that families sing together in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-04,Family,None of the provided background information directly addresses which toys are most popular among boys in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-05,Family,None of the provided background information directly addresses which toys are most popular among girls in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-06,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,Xímene,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-08,Work life,Spain,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-09,Work life,None of the provided background information specifically mentions company practices or team-building activities.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-ko-10,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-02,Food,Cider (Sidra),0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-06,Food,The information provided does not contain details about the most popular stew in Spain.,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-pe-11,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-16,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-pe-20,Sport,trainera rowing regattas,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-45,Work life,"The information provided does not contain details about the usual work schedules during the month of Ramadan in Spain. Therefore, no specific answer can be given based on the provided background information.",,
+qwen2.5-3b,Spain,English,inst-4,New-pe-47,Family,10/12,,
+qwen2.5-3b,Spain,English,inst-4,New-pe-49,Family,None of the provided background information mentions families gathering to pray together in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-53,Family,The given information does not specify what gifts fathers receive on Father's Day or Parents' Day in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-54,Family,The given information does not specify what gifts are typically given on Mother's Day or Parents' Day in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-59,Family,2.65,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-pe-65,Education,1,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-66,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-74,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,None of the provided information specifically mentions activities in parks.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,The name of the most famous film festival held in Spain is San Sebastian International Film Festival.,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,None,1,0.5
+qwen2.5-3b,Spain,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,France,1,0.6666666666666666
+qwen2.5-3b,Spain,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,The information provided does not contain the name of the most famous tower in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-01,Food,None,,
+qwen2.5-3b,Spain,English,inst-4,New-spme-04,Food,Cider,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-05,Food,The information provided does not contain details about the most popular sweets in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-15,Sport,"The provided information does not contain details about the popularity of sports drinks in Spain. Therefore, no specific answer can be determined from the given background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-27,Education,Bachelor's Degree,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-37,Education,None,,
+qwen2.5-3b,Spain,English,inst-4,New-spme-60,Family,Saturday,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-65,Family,None,,
+qwen2.5-3b,Spain,English,inst-4,New-spme-68,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Spain,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,"Aren't you referring to ""Feliz cumpleaños"" or ""Happy Birthday""? This is commonly sung at birthday parties in Spain. However, it's important to note that specific songs can vary depending on regional preferences and cultural practices.",1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-su-01,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-09,Food,Olive油,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-su-10,Food,None,,
+qwen2.5-3b,Spain,English,inst-4,New-su-15,Food,Water,1,0.5
+qwen2.5-3b,Spain,English,inst-4,New-su-17,Sport,Padel courts,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-21,Sport,None of the provided background information specifically mentions activities that seniors usually do in parks in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-24,Sport,Bowling,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-28,Sport,White,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-33,Education,"The provided background information does not specify the common dress code for school teachers in Spain. Therefore, no specific answer can be given based on the provided details.",0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-34,Education,Attending performing-arts shows,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-42,Education,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-45,Education,Not applicable,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-50,Work life,None of the provided background information specifically mentions the main occupation of people in mountainous areas in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-51,Work life,Shellfish gathering,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-57,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-58,Work life,Pigs,1,1.0
+qwen2.5-3b,Spain,English,inst-4,New-su-59,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-60,Work life,None of the provided information specifically mentions what farmers in Spain usually eat for lunch. The background information focuses on traditional dishes from different regions of Spain but does not detail meals consumed by farmers.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-71,Family,N/A,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-75,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-77,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Spain,English,inst-4,New-su-81,Holidays/Celebration/Leisure,Tuxedos or formal attire,1,0.25
+qwen2.5-3b,Spain,English,inst-4,New-su-82,Holidays/Celebration/Leisure,The information provided does not specify what clothes brides typically wear at weddings in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-83,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Answer: The Palace of the Cortes Españas (Spanish Parliament) in Madrid,0,0
+qwen2.5-3b,Spain,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Spanish pop and rock,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-02,Education,14:00,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-03,Education,18,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-12,Education,"The question asks for the top university in Spain, but it does not specify an official ranking system or criteria. Therefore, no single answer can be definitively provided based solely on the information given.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-13,Education,18,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-15,Education,12,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-17,Work life,34,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-19,Work life,4,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-20,Work life,31.7,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-21,Work life,16,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Second Christmas day,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Sant Jordi,0,0
+qwen2.5-3b,Spain,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,None of the provided information directly addresses the most popular Christmas song in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-04,Education,8,0,0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-06,Education,11/02,0,0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-11,Education,09:00,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-20,Family,12/25,0,0
+qwen2.5-3b,Spain,English,inst-4,Nu-in-40,Work life,Madrid,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-1,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-13,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-16,Sport,"The provided information does not contain data about the popularity of soccer teams in Spain. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-22,Sport,"The information provided does not mention any specific universities or their sports teams. Therefore, no answer can be determined from the given background information.",,
+qwen2.5-3b,Spain,English,inst-4,Sa-en-31,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-32,Family,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-37,Family,"None of the provided background information specifically mentions family boardgames or their popularity in Spain. Therefore, no answer can be determined from the given information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-6,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-7,Food,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Sa-en-9,Food,None of the provided information specifically mentions what people in Spain eat at the beach.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-10,Family,39.9,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-11,Family,37.2,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-13,Family,3,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-17,Sport,Football (soccer),1,1.0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-21,Sport,At an educational centre.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-22,Sport,None of the provided data directly specifies which daily exercise is popular among women in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-23,Sport,Not provided in the given information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-25,Sport,La Liga vs Real Madrid CF,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-29,Sport,"None of the information provided specifically mentions which sport is the highest paying in Spain. The data given relates to the number of federated sport licences, sporting habits, and a specific project related to Basque tug-of-war. Therefore, no single answer can be determined from the given information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-30,Sport,Terrero y gloria,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,14-19 March,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,New year's ring,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Paella valenciana,0,0
+qwen2.5-3b,Spain,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"None of the provided background information specifically mentions the celebration of the longest night of the year in Spain. The given details pertain to traditional foods associated with specific holidays or events like Redueña's woodcutters' cocido, Galician magostos, and Asturian espicha. Therefore, no answer can be definitively provided based on the given information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-01,Sport,Football (soccer),1,0.5
+qwen2.5-3b,Spain,English,inst-4,Th-en-03,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-05,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-09,Sport,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-11,Sport,"The question does not specify which sportperson to identify as the most popular, so there isn't a single definitive answer based solely on the provided information.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-12,Sport,football,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-15,Sport,"None of the information provided specifically mentions winter sports or ranks them as popular, so there isn't enough data to determine the most popular winter sport in Spain.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-19,Work life,None,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-21,Work life,Flexible working hours,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-22,Work life,"The given information does not specify a particular ""catastrophic"" economic period for Spain. Therefore, no specific answer can be provided based on the given data.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-24,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-27,Work life,"It is not possible to determine a single most important industry for Spain based solely on the information provided. The data given covers various aspects such as sports licenses, food purchasing channels, and transhumance practices but does not specify an overall ranking of industries by importance.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-35,Family,Lunch,1,0.4
+qwen2.5-3b,Spain,English,inst-4,Th-en-36,Family,None of the provided information directly specifies a popular family activity for weekends.,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-37,Family,18,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-38,Family,"6 January (Epiphany, Three Kings' Day)",1,0.25
+qwen2.5-3b,Spain,English,inst-4,Th-en-39,Family,None of the provided background information specifically mentions a popular family game in Spain.,1,0.25
+qwen2.5-3b,Spain,English,inst-4,Th-en-41,Family,32.6,1,1.0
+qwen2.5-3b,Spain,English,inst-4,Th-en-43,Family,N/A,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-44,Family,Meat,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-45,Family,None of the provided background information specifically mentions the most popular weekday evening family activity in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-48,Education,"None of the provided information specifically mentions the highest grade for top-achieving high school students. The data provided relates to early schooling, non-university education, and vocational training at various educational levels but does not specify grades or rankings for high school students.",0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-49,Education,"The question as posed does not have a specific or universally applicable answer within the provided context. The importance of exams can vary by region, educational system, and individual schools in Spain. Therefore, without additional information specifying which region or type of exam is being referred to, it's impossible to provide a single definitive answer.",,
+qwen2.5-3b,Spain,English,inst-4,Th-en-51,Education,Vocational training,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-53,Education,None of the provided information specifically mentions the most popular extracurricular social events at schools in Spain.,0,0
+qwen2.5-3b,Spain,English,inst-4,Th-en-58,Education,"None of the provided background information directly addresses the most advanced math subject learned before university in Spain. Therefore, based solely on the given information, it's not possible to determine an accurate answer to this question.",0,0
+qwen2.5-3b,Spain,English,inst-4,Tmp-ar-01,Education,Spain,0,0
+qwen2.5-3b,Spain,English,inst-4,Tmp-ar-02,Education,Tren (train),0,0
+qwen2.5-3b,Spain,English,inst-4,Tmp-ar-04,Education,I cannot provide a specific answer based on the given background information. The provided details are about various aspects of Spanish education but do not specifically address what elementary students do after school.,0,0

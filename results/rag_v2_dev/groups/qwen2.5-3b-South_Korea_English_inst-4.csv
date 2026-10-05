@@ -1,0 +1,508 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-01,Food,Kimchi rice cake (김치cakes),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-02,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-04,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-06,Food,Kimchi rice bowl,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-08,Food,Cheese Puffs (치즈 팬케이크),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-09,Food,Kimbap,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-16,Education,4,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-17,Education,Volleyball,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-18,Education,87.7%,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-19,Education,English,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-21,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,Kimchi Jjigae,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,No specific celebrations for Halloween exist in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"People in South Korea often celebrate New Year's Day with family gatherings, fireworks displays, and traditional performances such as pansori storytelling. Some also visit temples for the annual Chuseok holiday on the same calendar date.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,"People in South Korea often participate in family gatherings, decorate their homes with Christmas trees and lights, exchange gifts, and watch Christmas movies. Some also attend church services.",1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,"The information provided does not mention Halloween or foods associated with it in South Korea. Therefore, no specific answer can be given based on the provided background.",,
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,"The information provided does not include details about foods associated with Christmas in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,"The information provided does not mention Valentine's Day or any associated foods in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-02,Education,cafeteria,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-03,Education,6,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-08,Education,0,0,0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-09,Education,2,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-34,Sport,"The information provided does not specify the most popular sport played in a team at school in South Korea. It mentions ssireum being taught in schools, but it does not indicate its popularity or whether it is the most popular team sport.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-35,Sport,Lee Sang-hyeok,0,0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-36,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,An-ar-43,Sport,Sports arenas and stadiums,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-06,Food,"Based on the provided information, it is not explicitly stated which specific meal of the day is considered the most important. However, given that kimchi is an essential part of Korean meals across classes and regions, it could be inferred that kimchi might play a significant role in breakfast or other meals as well. Without more direct information about the importance of particular meals, this answer cannot be definitively provided from the given data.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-08,Food,Rice,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-09,Food,Tteokgeluk (떡갈무리),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-11,Food,Saturday,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-14,Food,Green tea,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Soju,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,7,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,The information provided does not specify a tradition for New Year's Eve in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-38,Family,Apartment,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-41,Family,Nursing homes,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-42,Family,16,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-43,Family,12,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ca-sp-45,Family,Beach resorts,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-05,Sport,Basketball,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-06,Sport,The information provided does not specifically mention what sports men like to play the most in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-07,Sport,Kim Taehyung (of BTS),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-08,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-09,Sport,Volleyball,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-11,Sport,Figure Skating,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-15,Sport,Basketball,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-16,Family,2.16,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-18,Family,0,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-31,Education,6,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-32,Education,9,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-33,Education,7,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-40,Education,15:20,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Gu-ch-41,Education,0,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-02,Work life,Saturday,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-03,Work life,Seoul,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-07,Work life,Samsung Group,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-08,Work life,40,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-09,Work life,Kimchi rice bowl,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-14,Work life,Korean cosmetics,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-15,Work life,1.0,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-16,Family,hospital,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-19,Family,Peony,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-22,Family,Jewelry,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-24,Family,Playgrounds,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-25,Family,"Seollal, Chuseok",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-26,Family,"1. Starting school (elementary education)
+2. Leaving home for higher education
+3. Entering the workforce
+4. Establishing a household",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-27,Family,watch,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-28,Family,"The information provided does not directly relate to when people celebrate after a child is born in South Korea. Therefore, I cannot answer based on the given background information. The correct answer would be:
+
+The information provided does not give this specific date or holiday for celebrating after a child is born in South Korea.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-29,Family,60,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-31,Education,"The information provided does not directly address where middle and high school students in South Korea usually study for exams. Therefore, I cannot provide an answer based on the given background information.",1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-33,Education,parking lot,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-34,Education,"Elementary school students in South Korea typically attend classes with an average size of 20.9, according to OECD data reported by Kyunghyang.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-35,Education,"Based on the provided information, there isn't a specific mention of ""the most common form"" of private education. The data focuses on participation rates across different regions and educational levels but does not specify which type of private education (e.g., tutoring, supplementary classes) is more prevalent.",1,0.6666666666666666
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-36,Education,High School,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-37,Education,The information provided does not specify what type of clothing middle and high school students wear to school in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-38,Education,Engineering,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-39,Education,Ganggangsullae,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-40,Education,play games,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-41,Education,Sunglasses,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-42,Education,"High School Entrance Exam (학력검정시험), Mathematics, Korean Language, Social Studies, Science",1,0.8
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-44,Education,Seoul Metropolitan Area,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ji-ko-45,Education,university spirit,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-01,Sport,"The information provided does not mention the popularity of sports in South Korea. Therefore, I cannot directly answer what the second most popular sport in South Korea is based on the given background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-02,Sport,Taekwondo,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-09,Sport,Golf,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-13,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-14,Sport,Jeujanggu (捉吉ugu),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-18,Work life,14,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-19,Work life,Gyeonggi Province,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-21,Work life,12:00,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-31,Education,14:30,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-32,Education,Gymnastics,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-36,Education,4,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-37,Education,4,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-39,Education,5,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jo-sp-43,Education,29,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-01,Food,筷子 (chopsticks),1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-04,Food,Coca-Cola,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-06,Food,The information provided does not specify the most popular traditional alcohol in South Korea. It lists several regional traditional liquors but does not rank them or indicate which one is the most popular.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-07,Food,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-09,Food,17:50,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-12,Food,Kimchi soup,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-13,Food,Chuncheon dakgalbi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-15,Food,"Spicy fermented seafood, commonly used in kimchi.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,"The information provided does not specify which festival is the biggest in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Bus,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Chuseok,,
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-37,Sport,Basketball,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-38,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"The information provided does not directly address the common leisure activity of females in their 20s in South Korea. Therefore, I cannot provide an answer based on the given background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Hangul games (hangul kong),1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-46,Work life,1.0,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-48,Work life,Kimchi Jjigae,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-50,Work life,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-51,Work life,bus,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-54,Work life,14,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-56,Work life,65,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-57,Work life,65,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-58,Work life,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-61,Work life,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Jod-ch-62,Work life,Manager,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-17,Education,high school,1,0.2
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-24,Education,Answer: Korean,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-30,Education,Friday,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-32,Food,The information provided does not specify what food hosts usually prepare for guests in South Korea. It lists various Gangwon specialties but does not mention traditional or customary dishes for hosting guests.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-34,Food,Coffee,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-36,Food,Japan,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-39,Food,Namul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-40,Food,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-43,Food,Naengmyeon (冷면),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-51,Work life,17:00,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Memorial table (향 tables),,
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Seonbiho (선비호),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Gifts,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Gown and traditional hanbok,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-16,Food,Hot chocolate,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-17,Food,apple,,
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-24,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-31,Sport,Taekkyeon,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-34,Sport,Soccer (Football),1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-35,Sport,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-36,Sport,Jeong Dong-hwan,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-37,Sport,Jeonbuk Hyundai Motors vs Busan I'Park,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-38,Sport,Koo Ja-Choon vs Lee Jung-min,,
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-40,Sport,Lee Chong Wei,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-41,Sport,Kim Se-jin,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-44,Sport,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Kik-in-45,Sport,"Sports fields such as football (soccer) pitches, basketball courts, volleyball courts, baseball diamonds, and track and field areas.",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-02,Food,"None of the beverages listed (Andong soju, Yangpyeong makgeolli, Seocheon's Hansan sogokju) are common cafe beverages enjoyed by people from South Korea.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-04,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-05,Food,"The information provided does not mention anything about typical delivery foods in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-07,Food,"The information provided does not specify what type of meat is consumed most by people from South Korea. To directly answer this question, more specific data on dietary habits would be needed.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-08,Food,Apple,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-09,Food,Kimchi,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-11,Food,Kimchi pizza,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-15,Food,Jjiggae,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-16,Sport,Park Ji-Sung,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-17,Sport,Basketball,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-18,Sport,Volleyball,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-19,Sport,Kim Ha-neul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-20,Sport,The information provided does not specify a particular sport or event that people from South Korea passionately support the most in international competitions.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-22,Sport,China,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-23,Sport,Private sports academies,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-24,Sport,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-25,Sport,The information provided does not specify typical sports played in South Korea's school sports day.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-26,Sport,Kabaddi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-28,Sport,Lee Sang-bum,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-29,Sport,Son Taejo,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-30,Sport,The information provided does not contain details about the most popular e-sports game in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,No information provided about Lunar New Year foods in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Gold jewelry,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Wreath ( wreath ),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,1,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Flowers,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,10:00 AM on weekdays,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Seollal,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Kimchi,,
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,Kimchi and various traditional Korean desserts,,
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Kimchi,,
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-16,Work life,"Saturday, Sunday",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-18,Work life,17:32,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-20,Work life,Software Developer,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-24,Work life,Seoul,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-25,Work life,Finance,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-26,Work life,Samsung Group,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-31,Food,"The information provided does not specify a single ""most famous"" dish in South Korea. It lists various specialties from different regions, but does not rank or name a specific dish as the most famous.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-32,Food,Kimchi pancakes (김치 Pancake) or bread with coffee,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-33,Food,12:00,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-34,Food,Kimchi.,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-36,Food,Banchan and bibimbap on a special day,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-37,Food,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-38,Food,"None of the foods listed (songpyeon, japchae, namul, jeon, fruit) are typically offered as charity in South Korea. The information provided is about Chuseok and associated foods, not charitable offerings.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-39,Food,KFC,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-43,Food,cookies,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ne-ar-44,Food,drinks,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-02,Food,The information provided does not specify the most popular traditional food in South Korea. It lists various specialties from different regions but does not rank them or indicate which one is the most popular.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-04,Food,Gochujang,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-am-08,Food,Kimchi,,
+qwen2.5-3b,South_Korea,English,inst-4,New-am-15,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-27,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-34,Education,Private schools,1,0.2
+qwen2.5-3b,South_Korea,English,inst-4,New-am-41,Education,High School Entrance Exam (Hokbyeonjeom),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-53,Work life,Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-54,Work life,Gyeonggi Province,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-59,Work life,None,,
+qwen2.5-3b,South_Korea,English,inst-4,New-am-60,Work life,horse,,
+qwen2.5-3b,South_Korea,English,inst-4,New-am-72,Family,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-73,Family,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-74,Family,The information provided does not contain details about the most popular talk shows in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Seollal,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-81,Holidays/Celebration/Leisure,7,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-am-83,Holidays/Celebration/Leisure,The information provided does not specify the most popular traditional musical instrument in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-01,Food,Rice,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-02,Food,"The information provided does not contain details about the most popular wheat-based food items in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-05,Food,Jeongjaleot (Korean cold brew soy milk tea),1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-as-07,Food,"The information provided does not specify the most popular dish cooked with fish in South Korea. It mentions kimchi, which is an essential part of Korean meals across classes and regions, but it does not identify a specific fish-based dish.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-14,Food,None of the provided information directly addresses what food people in South Korea like to eat during rainy weather.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-15,Food,Coconut water,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-as-20,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-29,Sport,"The information provided does not directly specify a sport that men in South Korea like to watch. Therefore, no specific answer can be given based solely on the provided background about ssireum.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-30,Sport,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-58,Work life,Coffee,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-64,Family,On Chuseok,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-76,Holidays/Celebration/Leisure,Yunnori and Neolttwigi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-80,Holidays/Celebration/Leisure,"The provided background information does not specify what type of clothing people from South Korea wear during traditional festivals. Therefore, no specific answer can be given based on the provided information.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-as-89,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-05,Food,Seocheon,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-11,Food,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-12,Food,Jeju Island,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-az-21,Sport,Gangwon Province,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-26,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-27,Sport,Ice skating,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-39,Education,Australia,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-60,Family,Nanny or childcare services,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,New-az-69,Holidays/Celebration/Leisure,Soju,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-az-70,Holidays/Celebration/Leisure,Soju,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,New-az-73,Holidays/Celebration/Leisure,3,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-01,Food,Kimchi pork,1,0.6666666666666666
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-02,Food,06:30,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-04,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-05,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-07,Food,Bureom-kkaegi (cracking nuts),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-08,Food,"Jang (soybean paste, soy sauce, red chili paste)",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-09,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-13,Food,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-14,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-15,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-16,Sport,"The Most Famous Sports-Related Movie in South Korea: ""Peppermint Candy"" (메리ポ)",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-17,Sport,Skydiving,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-18,Sport,"The information provided does not specify which track and field event is the most popular to watch during competitions in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-19,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-23,Sport,Park In-beom,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-26,Sport,Figure skating,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-27,Sport,Park Sung-hoon,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-30,Sport,Lee Sang-bum,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-31,Work life,Doctors,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-32,Work life,Microsoft Office,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-38,Work life,Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-39,Work life,Samsung Galaxy,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-44,Work life,3 months,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-45,Work life,Technology and entertainment,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-49,Family,Video calls,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-51,Family,Hotel,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-54,Family,"None of the fruits mentioned are typically prepared the most specifically for family dinners in South Korea. The list provided includes songpyeon (mooncakes), japchae (glass noodles), namul (mixed side dishes), jeon (battered foods), and fruit, but no single fruit is highlighted as being prepared more frequently than others for family dinners.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-64,Education,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-70,Education,"Introduction to Korean Literature, Introduction to Korean History, Basic Korean Language Courses",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-71,Education,23.4,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-72,Education,Engineering,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-73,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-74,Education,"Hostels, dormitories, or private apartments",1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-75,Education,43,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,"The information provided does not directly answer what leisure activities retired women typically like in South Korea. Therefore, no direct answer can be given based solely on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,Playing golf,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,Plants,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"The provided information does not contain details about the typical starting times of weddings in South Korea. Therefore, no answer can be given based on the provided data.",,
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,"The information provided does not specify which city in South Korea hosts festivals the most. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,,
+qwen2.5-3b,South_Korea,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-01,Food,Kimbap,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-02,Food,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-04,Food,Kim Seon-ok,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-05,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-07,Food,The information provided does not contain details about popular cooking shows in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-08,Food,Nestlé,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-10,Food,Cheddar,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-en-11,Food,"Korean readers should be aware that this question may not have a definitive or widely accepted answer, as preferences for vegetables can vary greatly among individuals.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-12,Food,"Based on the provided information, there isn't a specific food item mentioned that is most commonly found in food courts in South Korea. The given background focuses more on traditional Korean specialties and fermented foods rather than typical fast-food or casual dining items found in food courts.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-17,Sport,Flags,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-18,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-19,Sport,Samsung World Stadium,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-23,Sport,Lee Sang-hwa,,
+qwen2.5-3b,South_Korea,English,inst-4,New-en-26,Sport,"The information provided does not mention any sporting chants in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-38,Work life,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-41,Work life,Lee Kun-hee,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,New-en-47,Family,flowers,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-49,Family,Samsung,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-50,Family,Kim,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,New-en-55,Family,"The information provided does not specify the predominant religion practiced by families in South Korea. To directly answer the question based on the given information:
+
+Answer: Not provided",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-56,Family,English,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-59,Family,United States,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-en-68,Education,"Suspensions, expulsions, and disciplinary actions",1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-en-69,Education,"Han Kang, Jung Myung-hoon, Han Hong, Kim Young-sam",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-70,Education,0,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-72,Education,KakaoTalk,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-75,Education,15,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Incheon International Airport,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Gangwon Province,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-87,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-en-90,Holidays/Celebration/Leisure,InterContinental,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-05,Food,Kimbap,1,0.6666666666666666
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-06,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-08,Food,Soju,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-13,Food,Coffee,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-15,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-21,Sport,"The information provided does not contain details about the most popular racket sports in South Korea. Therefore, no answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-24,Sport,The information provided does not specify the most popular track and field sport in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-29,Sport,"The information provided does not mention an ""international sporting event"" that is particularly popular in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-47,Work life,0,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-58,Work life,Nurse,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,"The information provided does not mention Easter or foods associated with it in South Korea. Therefore, no answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Jeongjeolwoo (정절우),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Jeonjuhee (Jeonju rice wine),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-07,Food,Kimchi,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-08,Food,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-09,Food,spatula,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-13,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-19,Sport,Ox,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ha-66,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-01,Food,Starbucks,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-03,Food,Dakgalbi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-33,Work life,Gangwon Province,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-34,Work life,Gangwon Province,,
+qwen2.5-3b,South_Korea,English,inst-4,New-in-62,Education,KAIST,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-63,Education,Yonsei University,1,0.2
+qwen2.5-3b,South_Korea,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Credit card,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-in-80,Holidays/Celebration/Leisure,Universal Studios Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-01,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-02,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-03,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-04,Family,Action figures,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-05,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-06,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,hanji (handok),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-08,Work life,coffee shops,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-09,Work life,"Team-building activities vary widely depending on company culture and preferences, but some commonly practiced ones include escape rooms, cooking classes, hiking trips, and corporate sports events.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-ko-10,Work life,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-02,Food,"Based on the provided information, there isn't a specific mention of the ""most famous edible souvenir"" for tourists in South Korea. The given lists pertain to specialties from different regions and do not specify which are the most popular or famous as souvenirs.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-06,Food,Kimchi Stew,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-11,Food,Garlic,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-16,Sport,"The information provided does not specify a ""most famous"" traditional sport in South Korea. It lists several Korean tug-of-war traditions as part of UNESCO's 'Tugging rituals and games' inscription, but it does not rank or name any single sport as the most famous. Therefore, based solely on the given information, no answer can be provided.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-20,Sport,"None of the sports commonly associated with beaches are mentioned in the provided background information about South Korea. The given text discusses ssireum, an ancient Korean martial art practiced indoors and not typically played on beaches. Therefore, no single answer can be definitively determined from this information alone.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-45,Work life,Not provided.,,
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-47,Family,05/15,,
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-49,Family,temples,,
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-53,Family,"Gifts for Fathers or Parents on Parents' Day in South Korea often include items like watches, ties, and home appliances.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-54,Family,Flowers,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-59,Family,4,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-65,Education,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-66,Education,"The information provided does not specify what the most popular after-school curriculum in elementary schools in South Korea is. It only mentions that Ganggangsullae is taught in elementary-school music classes, but this does not indicate it as the most popular after-school curricular activity.",1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-74,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,"The information provided does not mention any film festivals held in South Korea. Therefore, I cannot provide the name of the most famous film festival from the given background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,Hanafuda,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Japan,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Gyeongbosal Tower,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-01,Food,Korean Firefly Squash (불 Semantic Squash),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-04,Food,Korean Ginseng,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-05,Food,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-15,Sport,Powerade,1,0.75
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-27,Education,"The provided information does not directly give an average education level for people in South Korea. It focuses on class sizes, private education participation rates, and spending patterns related to education. To determine the average education level, we would need data on literacy rates, educational attainment of the population, or other indicators of educational achievement.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-37,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-60,Family,Saturday,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-65,Family,Fireworks display,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-68,Family,"The information provided does not specify the most popular beverage among children in South Korea. It lists gwibalgi-sul (ear-brightening liquor) as one of customs for Jeongwol Daeboreum, but this does not indicate its popularity or that it is a common beverage among children.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,None of the provided information directly answers the question about songs sung at birthday parties in South Korea. The given background does not include such specific cultural practices or songs for birthdays.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-01,Food,Kimbaps (also spelled kimbap or gimbal),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-09,Food,Soybean油,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-10,Food,Not provided.,,
+qwen2.5-3b,South_Korea,English,inst-4,New-su-15,Food,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-17,Sport,"Gymnasiums, playgrounds, basketball courts, football fields, tennis courts, and jogging paths.",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-21,Sport,"Walking, exercising, socializing, and enjoying nature.",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-24,Sport,Soccer (Football),1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-28,Sport,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-33,Education,Formal wear or business casual,,
+qwen2.5-3b,South_Korea,English,inst-4,New-su-34,Education,Ganggangsullae,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-42,Education,Not provided.,,
+qwen2.5-3b,South_Korea,English,inst-4,New-su-45,Education,09/27,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-50,Work life,Farmers,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-51,Work life,Fishermen,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-57,Work life,Dairy cows,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-58,Work life,"Pigs, cows, chickens, and ducks",1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-59,Work life,None of the above,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-60,Work life,Kimchi rice bowl,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-71,Family,"Gifts such as stationery, snacks, or small electronics are common.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-75,Family,Car,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-77,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,South_Korea,English,inst-4,New-su-81,Holidays/Celebration/Leisure,Formal attire such as tuxedos or西装 (Western-style suits),1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-82,Holidays/Celebration/Leisure,White wedding dresses,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Kimchi,0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-86,Holidays/Celebration/Leisure,National Assembly Building (also known as Gukje Hall),0,0
+qwen2.5-3b,South_Korea,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-02,Education,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-03,Education,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-06,Education,5,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-12,Education,Yonsei University,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-13,Education,25,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-15,Education,13,1,0.25
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-19,Work life,52,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-20,Work life,30,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-21,Work life,18,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"The information provided does not include details about traditional foods eaten on Christmas Day in South Korea. Therefore, no specific answer can be given based solely on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,The information provided does not contain details about the most popular Christmas song in South Korea.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-05,Education,9,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-06,Education,09/09,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-11,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-20,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Nu-in-40,Work life,Seoul,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-1,Food,KFC,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-13,Food,Tteokbokki,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-16,Sport,Jeongu Rock,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-22,Sport,Yonsei University,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-31,Family,Dog,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-32,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-37,Family,Settlers of Catan,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-6,Food,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-7,Food,"The information provided does not directly list popular snacks in South Korea. Therefore, I cannot provide an answer based on the given background.",1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Sa-en-9,Food,Gangnam Style tacos (a playful pun),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-10,Family,33.9,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-11,Family,31.6,1,0.5
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-13,Family,2.16,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-17,Sport,"The information provided does not specify which sport is the most popular in South Korea at the Olympic Games. Therefore, no specific answer can be given based solely on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-21,Sport,playgrounds,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-22,Sport,"The information provided does not specify a daily exercise that is popular among women in South Korea. It mentions Ganggangsullae, which is a Chuseok harvest and fertility ritual involving circle-dancing and singing, but it is not described as a daily exercise.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-23,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-25,Sport,Samsung Bluewings vs Samsung Cheetahs,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-29,Sport,Soccer (Football),0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-30,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,October 3rd,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,钟楼,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Not provided,,
+qwen2.5-3b,South_Korea,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Tteokguk,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-01,Sport,"The information provided does not mention any specific summer sport being the most popular in South Korea. Therefore, no answer can be given based solely on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-03,Sport,"The answer is not provided in the given background information. Therefore, I cannot directly answer based on the provided content. To accurately respond, additional knowledge about South Korean sports leagues would be needed.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-05,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-09,Sport,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-11,Sport,Lee Sang-bum,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-12,Sport,"The information provided does not specify a particular sport for which South Korea has been most successful in international competitions. Therefore, no specific answer can be given based solely on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-15,Sport,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-19,Work life,Seoul,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-21,Work life,Free meals at work,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-22,Work life,The Korean Financial Crisis of 1997,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-24,Work life,Seoul,1,0.3333333333333333
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-27,Work life,Technology,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-35,Family,Dinner,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-36,Family,"None of the provided information directly answers the question about a popular family activity for weekends in South Korea. The given text discusses Ganggangsullae, which is a Chuseok ritual and not typically associated with weekend activities for children.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-37,Family,18,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-38,Family,Seollal,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-39,Family,Ssireum,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-41,Family,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-43,Family,2,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-44,Family,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-45,Family,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-48,Education,Not provided,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-49,Education,"The information provided does not mention anything about the most important exam for high school students in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-51,Education,Not provided.,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-53,Education,None,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Th-en-58,Education,"The information provided does not specify the most advanced math subject learned before university in South Korea. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,South_Korea,English,inst-4,Tmp-ar-01,Education,university campus,0,0
+qwen2.5-3b,South_Korea,English,inst-4,Tmp-ar-02,Education,Bus,1,1.0
+qwen2.5-3b,South_Korea,English,inst-4,Tmp-ar-04,Education,play,0,0

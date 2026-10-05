@@ -1,0 +1,503 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Azerbaijan,English,pers-3,Al-en-01,Food, Fruit and biscuits are common snacks for preschool kids in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-02,Food, Boiled crayfish or kebab are popular foods to go with beer in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-04,Food, Pomegranate (nar),0,0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-06,Food, Soup and döner (doner kebab) are common school cafeteria foods in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-08,Food," At shopping malls in Azerbaijan, the most commonly eaten snacks include doner, lavash wraps, qutab, chips, popcorn, and biscuits.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-09,Food, Qutab or Corn are popular snacks at an amusement park in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-16,Education,3,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Al-en-17,Education, Football (Soccer),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-18,Education," Elementary students in Azerbaijan receive private education for Mathematics, English, and Azerbaijani language.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-19,Education, Russian,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-21,Education, Mathematics,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-32,Holidays/Celebration/Leisure," Shah Plov (shah pilaf) is the main dish for festive meals in Azerbaijan, including Thanksgiving.",,
+mistral-7b,Azerbaijan,English,pers-3,Al-en-33,Holidays/Celebration/Leisure, People in Azerbaijan do not celebrate Halloween as it is not a traditional holiday in our country.,,
+mistral-7b,Azerbaijan,English,pers-3,Al-en-34,Holidays/Celebration/Leisure," People decorate a New Year tree (yolka), wait for Şaxta Baba (Father Frost) and Qar Qız (Snow Maiden), eat Olivier salad, plov, sweets with champagne, and set off fireworks at midnight, especially on the Baku Boulevard.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Al-en-35,Holidays/Celebration/Leisure," People decorate a New Year tree (yolka), wait for Şaxta Baba (Father Frost) and Qar Qız (Snow Maiden), eat Olivier salad, plov and sweets with champagne, and set off fireworks at midnight, especially on the Baku Boulevard.",,
+mistral-7b,Azerbaijan,English,pers-3,Al-en-36,Holidays/Celebration/Leisure, There is no specific food traditionally associated with Halloween in Azerbaijan.,,
+mistral-7b,Azerbaijan,English,pers-3,Al-en-37,Holidays/Celebration/Leisure, Olivier salad and sweets are associated with Christmas in Azerbaijan.,,
+mistral-7b,Azerbaijan,English,pers-3,Al-en-38,Holidays/Celebration/Leisure," Red roses and chocolates are associated with Valentine's Day in Azerbaijan, but it's also customary to share plov (a rice dish) during celebrations.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-39,Holidays/Celebration/Leisure, Cake and possibly other sweets on their birthday.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-40,Holidays/Celebration/Leisure, Seaside Boulevard (Dənizkənarı Milli Park) or parks and playgrounds are popular outdoor places for families to have fun with little kids in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Al-en-43,Holidays/Celebration/Leisure, Volleyball,0,0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-02,Education, University students in Azerbaijan typically have lunch at the university canteen or nearby cafés and döner shops.,0,0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-03,Education,5-6 (May-June),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-08,Education,5-6 hours,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-09,Education,3,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-34,Sport, Football (Futbol),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-35,Sport, Elvin Sadıqov is the most popular sport commentator in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-36,Sport, Qarabağ FK,0,0
+mistral-7b,Azerbaijan,English,pers-3,An-ar-43,Sport,"1) Homes, 2) Tea houses (çayxana), 3) Cafés and pubs, 4) Sports bars.",1,0.25
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-05,Food,3,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-06,Food, Lunch (öçüm) is considered the most important meal of the day in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-08,Food, Tomatoes,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-09,Food, People from Azerbaijan usually eat Pakhlava (paxlava) or Halva as dessert.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-11,Food, Weekends (especially Sunday) are typically chosen for a big family meal in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-14,Food,Çay (Black tea),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure," Young people in Azerbaijani night clubs usually drink cocktails, beer, and whisky.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,"3 (March), 12 (December) and variable dates for Ramazan Bayramı and Qurban Bayramı.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure," Decorating a New Year tree (yolka) and setting off fireworks at midnight, especially on the Baku Boulevard, are traditions for New Year's Eve in Azerbaijan.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-38,Family," A typical Azerbaijani family lives in an apartment in multi-storey buildings in cities like Baku, while they reside in private houses with courtyards (həyət evi) in the regions.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-41,Family, With their children or in multi-generational households.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-42,Family,126,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-43,Family,14,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ca-sp-45,Family," Family vacation destinations commonly chosen in Azerbaijan are resorts or hotels in Gabala, Sheki, Guba-Qusar (Shahdag), Caspian beaches of Nabran, and summer houses on the Absheron peninsula.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-05,Sport, Football (Futbol) and Tennis are popular among seniors in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-06,Sport, Football (Futbol),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-07,Sport," I am not aware of a widely recognized, internationally famous professional basketball player from Azerbaijan at this time. However, our country has produced many talented athletes across various sports.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-08,Sport, Football (Futbol),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-09,Sport, Volleyball and rhythmic gymnastics are the sports that Azerbaijani women most commonly enjoy playing.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-11,Sport, Wrestling (güləş),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-15,Sport, Football (Futbol) is the most popular sport among male students in universities in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-16,Family,4-5,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-18,Family,2-3,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-31,Education,4,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-32,Education,9,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-33,Education,6-7,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-38,Education,"4 (for bachelor's degree), 6 (for medicine)",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-40,Education,12:00-13:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Gu-ch-41,Education,1 (Piano or no instrument in most cases),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-02,Work life, Weekends (especially Sunday),0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-03,Work life, Baku,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-07,Work life, Azersun Holding is one of the well-known private companies in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-09,Work life, Plov or kebab are commonly served during company get-togethers in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-14,Work life, Oil or Hazelnuts,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-15,Work life,1 hour,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-16,Family, Mothers stay at home for recovery during the 40-day period (çillə) after childbirth in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-19,Family," Red Roses or Flowers (on 8 March, which serves as Parents' Day in Azerbaijan).",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-22,Family, People in Azerbaijani society typically spend their first salary on gifts for their parents.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-24,Family, Football academies,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-25,Family," Novruz Bayramı (Spring New Year), New Year, Ramazan Bayramı, Qurban Bayramı.",,
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-26,Family, Marriage and a stable job in mid-to-late twenties.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-27,Family," The common gift given when visiting elderly parents in Azerbaijan is usually sweets (such as pakhlava, cake or chocolates), fruit and tea.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-28,Family, The first day that people celebrate after a child is born in Azerbaijan is on the 40th day (qırxı) of the baby's life.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-29,Family, The first birthday is celebrated the most grandly in Azerbaijan's society.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-31,Education," Middle and high school students in Azerbaijan usually study for exams at home, libraries, tutor's places, or online using platforms like YouTube, Google, and online test platforms.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-33,Education," After dinner, high school students in Azerbaijan typically go home or to their tutors for additional study sessions, join sports clubs, or spend time outside playing.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-34,Education, Elementary school students in Azerbaijan usually walk or are driven by their parents.,1,0.25
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-35,Education, The most common form of private education in Azerbaijan is private tutoring (repetitor).,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-36,Education," Football, wrestling, judo, chess, swimming academies (for boys) or rhythmic gymnastics (for girls).",0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-37,Education, Middle and high school students in Azerbaijan wear dark blue or black suits/skirts with white shirts to school.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-38,Education, Medicine,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-39,Education, The piano is the most commonly learned musical instrument by elementary school students in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-40,Education," High school students in Azerbaijan typically chat, eat at the school buffet, and use their phones during break time.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-41,Education, Students in Azerbaijani schools typically wear classic shoes.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-42,Education," The required subjects for the university entrance exam in Azerbaijan are Azerbaijani language, Mathematics, and a Foreign Language.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-44,Education," Baku, specifically the central region, as it houses the most prestigious lyceums and universities in Azerbaijan.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ji-ko-45,Education," At university festivals in Azerbaijan, people look forward to friendly competitions and cultural performances.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-01,Sport, Football (Futbol),0,0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-02,Sport, Horse Riding,0,0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-09,Sport," Tennis, golf and horse riding.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-13,Sport, Swimming,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-14,Sport, Chess (şahmat),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-18,Work life,"21 (or 30 for teachers, doctors and civil servants)",0,0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-19,Work life," The regions of Lankaran-Astara, Guba-Khachmaz, Sheki-Zagatala, and the Aran lowlands (Kur-Araz) have been traditionally associated with agriculture in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-21,Work life,13:00-14:00,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-31,Education,13:00-18:00 (depending on the shift),1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-32,Education, Football (Soccer),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-36,Education,12-13,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-37,Education,12-13,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-39,Education,6,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jo-sp-43,Education,2,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-01,Food," Spoons, forks, and knives (plates and bowls) are commonly used in Azerbaijan. However, bread is often eaten by hand.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-04,Food," Coca-Cola, Fanta, Sirab, Badamlı or local mineral waters are popular soft drinks in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-06,Food, Vodka (Araq),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-07,Food,3-3.0,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-09,Food,19:00-20:00,0,0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-12,Food," People from Azerbaijan enjoy various soups such as dovğa, piti, düşbərə, kufta-bozbash, and khash (xaş).",0,0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-13,Food, Döner (doner kebab) is a popular street food in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-15,Food," People from Azerbaijan like to eat sturgeon, kutum, Caspian salmon, and black caviar.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure, Novruz Bayramı (New Year),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure, Intercity bus and minibus,1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure," The specific decorations or symbols associated with the biggest festival in Azerbaijan include səməni (green wheat sprouts), the xonça tray with sweets, candles and painted eggs, bonfires, and the four pre-holiday Tuesdays representing water, fire, wind, and earth.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-37,Sport, Volleyball and gymnastics are the sports that Azerbaijani women most commonly watch.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-38,Sport, Football (futbol) is the most popular sport that men like to watch in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure, Fitness/gym or walking are common leisure activities for females in their 20s in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure, Play football or meet in cafés or tea houses.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-46,Work life,1 hour,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-48,Work life, Soup and a main dish (often Döner) are commonly eaten for lunch during working days in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-50,Work life,30-60,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-51,Work life," Intercity bus or minibus, car, or train.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-54,Work life, The length of marriage leave in Azerbaijan is not fixed by law.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-56,Work life,65,1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-57,Work life,65,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-58,Work life, Doctors and teachers are the most respected professions in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-60,Work life,9:00 - 18:00 (8 hours),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-61,Work life, Teaching or Medicine,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Jod-ch-62,Work life," Engineering or the oil industry, followed by business.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-17,Education," In Azerbaijan, on average, students typically complete full school education which is 11 years, and many continue to pursue higher education such as a bachelor's degree for 4 years (6 years in medicine), followed by a master's degree for 2 years.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-24,Education, Russian is taught in schools in Azerbaijan besides English.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-30,Education, Schools in Azerbaijan are typically closed on Saturday and Sunday.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-32,Food," Plov, dolma, kebab, salads, herbs, cheese, and fruit are commonly prepared for guests in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-34,Food, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-36,Food," Turkey (döner, lahmacun, pide) is the second most popular cuisine in Azerbaijan.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-39,Food," Shashlik (kebab) and various bread, vegetables, herbs, fruit, and tea are usually prepared for a family picnic in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-40,Food, Khash (cow-foot soup with garlic),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-43,Food, Tandır çörəyi or Lavaş,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-51,Work life,18:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure, Novruz Bayramı (spring New Year) has the longest duration in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure," On Azerbaijan's Independence Day, common activities include flag-raising ceremonies, concerts, fireworks, and events at State Flag Square and the Seaside Boulevard in Baku.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure, A mourning tent (yas çadırı) is installed in front of the house.,,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure, The pregnancy celebration or ceremony is traditionally held on the 40th day after childbirth (qırxı) in Azerbaijan.,,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure," The event usually held before an Azerbaijani wedding is called ""xına yaxdı"" or henna night.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure, Sweets and candies are usually shared with children during Lunar New Year in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure," In Azerbaijan, days before Ramadan, people often engage in shopping for food and supplies for the month of fasting, as well as preparing their homes for the holy month. They may also clean their mosques and shrines in preparation for increased visits during this period.",,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure," The most popular tourist attraction for foreign visitors in Azerbaijan is the Old City (İçərişəhər) of Baku with the Maiden Tower (Qız Qalası), Palace of the Shirvanshahs, Flame Towers, Heydar Aliyev Center, and Bibi-Heybat Mosque.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure, The Bibi-Heybat Mosque is the most popular religious site for tourists in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure," Women at a graduation commencement ceremony in Azerbaijan typically wear formal business attire. However, they are not required to wear the traditional Azerbaijani clothing mentioned in your background information for this specific occasion.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-16,Food, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-17,Food, Dates (tamrı) are more commonly sold and found during Ramadan in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-24,Food, French fries or rice,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-31,Sport, Wrestling (güləş),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-34,Sport," Football (futbol), wrestling (güləş), and volleyball are often broadcasted on national television in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-35,Sport," Football (futbol), Tennis, Table tennis, Swimming, and Chess (şahmat) were popular among people in Azerbaijan during the COVID-19 pandemic.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-36,Sport, Gurban Gurbanov is considered one of the most popular soccer coaches in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-37,Sport, Qarabağ FK vs Neftçi PFK,0,0
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-38,Sport, Qarabağ FK fans vs Neftçi PFK (Baku) supporters,,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-40,Sport," I am not aware of any internationally recognized male badminton players from Azerbaijan at this time. However, our country excels in various sports such as wrestling, chess, boxing, and more.",,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-41,Sport," I am not aware of a well-known female badminton player from Azerbaijan at this time. However, our country has produced many talented athletes across various sports.",,
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-44,Sport, Wrestling (güləş),1,0.25
+mistral-7b,Azerbaijan,English,pers-3,Kik-in-45,Sport, Sports halls and football pitches are usually available at schools in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-02,Food, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-04,Food, Khash (xaş) is the preferred hangover cure food in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-05,Food, Döner (Doner Kebab) or Pizza are common choices for delivery food in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-07,Food, Lamb (or Tikə/Lülə) is the most consumed meat in Azerbaijan.,1,0.25
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-08,Food, Pomegranate (nar),1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-09,Food, French fries or rice,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-11,Food," Sunflower seeds, nuts, chips, tea or beer.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-15,Food, Chicken soup (toyuq şorbası) is a representative nourishing food in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-16,Sport, Rashad Sadygov or Tofiq Bahramov (both are notable football figures from Azerbaijan).,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-17,Sport, Football and other physical activities such as volleyball and basketball are enjoyed by male students during lunchtime at schools in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-18,Sport, Rhythmic Gymnastics,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-19,Sport, Natalya Mammadova or Polina Rahimova.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-20,Sport, Wrestling (güləş),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-22,Sport, Armenia,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-23,Sport," Football, wrestling, judo, chess and swimming academies are the most attended by children in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-24,Sport, Sunflower seeds or nuts and tea or beer are the most commonly eaten foods in sports stadiums while watching games in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-25,Sport," Football, Volleyball, Basketball, Wrestling, Judo, Chess, Swimming, and Rhythmic Gymnastics (for girls).",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-26,Sport, Football (Futbol) and Tennis are popular sports among the middle-aged population in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-28,Sport," Elnur Mammadli (Judo) is one of the most popular winter sports players in Azerbaijan. However, it's important to note that figure skating is the most watched Winter Olympic event in Azerbaijan.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-29,Sport," I cannot definitively say who the most famous swimmer in Azerbaijan is as it may depend on various factors such as international recognition, national achievements, and personal popularity. However, swimming is indeed a popular sport in Azerbaijan, so it's worth looking into athletes like Yuliya Efimova (a three-time Olympic medalist in swimming) or other notable swimmers from the country.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-30,Sport, Dota 2 (Dota 2'yə),,
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure, Xonça tray with sweets.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure," Gabala, Sheki, Guba-Qusar (Shahdag) or the Caspian beaches of Nabran are the most popular domestic vacation spots for people from Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure, Gold jewellery and a ring,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure, Money in an envelope (para biraxdırmaq) is typically given as a congratulatory gesture at a friend's wedding in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3 (days for the main mourning period),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure, Halva or Plov (Pilaf) would be appropriate as a condolence offering at a funeral in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure, Plov (Pilaf) and Halva are commonly provided at funeral parlors in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure," On the morning of the Lunar New Year, Azerbaijanis traditionally clean their homes and prepare special meals to celebrate the occasion.",,
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,28 May (Independence Day) or 8 November (Victory Day).,0,0
+mistral-7b,Azerbaijan,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure," The most popular honeymoon destination within Azerbaijan is Antalya (Turkey), but Gabala is the most popular domestic honeymoon spot.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure, The most important national holiday in Azerbaijan is Novruz Bayramı (Spring New Year).,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure," People from Azerbaijan eat dates and water, soup, plov, and sweets during Ramadan. They also serve pakhlava, shekerbura, and plov at Ramazan Bayramı (Eid al-Fitr).",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure, People from Azerbaijan typically eat Plov (pilaf) during Eid ul Fitr.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure, People from Azerbaijan eat sacrificial meat during Eid ul Adha (Qurban Bayramı).,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure, People from Azerbaijan celebrate New Year's Day at their homes and on the Baku Boulevard.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure, At home with their family members.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-16,Work life, The weekend in Azerbaijan is on Saturday and Sunday.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-17,Work life,09:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-18,Work life,18:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-20,Work life, Government jobs and jobs at SOCAR are considered as secure in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-24,Work life, Baku,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-25,Work life, The oil and gas industry pays the best in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-26,Work life, The most famous public corporation in Azerbaijan is SOCAR (State Oil Company of Azerbaijan Republic).,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-31,Food, Plov (pilaf) is the most famous dish in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-32,Food," People typically have bread with white cheese (pendir), butter, honey, jam, eggs (omelette or tomato-egg ""pomidor-yumurta""), sausage, olives, and fresh vegetables for breakfast in Azerbaijan. It is always accompanied by black tea (çay).",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-33,Food,13:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-34,Food, Fresh bread (çörək),0,0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-36,Food, Shah Plov (a type of Pilaf) is a typical festive meal in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-37,Food, Pomegranate (nar),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-38,Food," Plov, halva and sacrificial meat.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-39,Food, The cheapest fast food in Azerbaijan is Döner.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-43,Food," Sugar cubes, lemon, fruit preserves (mürəbbə)",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ne-ar-44,Food," Sweets, chocolate or pakhlava, and a glass of water.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-02,Food, Plov (Dolma),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-04,Food, Narsharab (pomegranate sauce) is the classic dipping sauce in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-08,Food, Fish or vegetarian dishes are most often consumed during Christian fasting in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-15,Food," Quymaq (flour, butter and sugar)",,
+mistral-7b,Azerbaijan,English,pers-3,New-am-27,Sport, Polina Rahimova,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-34,Education, Elementary school students in Azerbaijan usually prepare for their exams at home or libraries.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-41,Education, Students in Azerbaijan take their first national-level examination at Grade 9.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-53,Work life, Lankaran,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-54,Work life, The mountain areas of Azerbaijan are widely known for their livestock industry.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-59,Work life, Agriculture (particularly farming and livestock) or no data provided (as there are no significant desert areas in Azerbaijan where people live).,,
+mistral-7b,Azerbaijan,English,pers-3,New-am-60,Work life, Horses and donkeys are used for transport in villages of Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-72,Family," I am not aware of a widely recognized comic book specifically for children that originates from Azerbaijan. However, as per your background information, Azerbaijani children are fond of cartoons like ""Masha and the Bear"", Turkish cartoons such as ""Rafadan Tayfa"" and ""Pepee"", and classic animations based on folk tales like ""Cırtdan"".",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-am-73,Family," The most popular YouTube channel for children in Azerbaijan is ""Azerbaijan TV for Kids.""",,
+mistral-7b,Azerbaijan,English,pers-3,New-am-74,Family," I don't have real-time data or specific knowledge about current television ratings, but one of the well-known and long-running talk shows in Azerbaijan is ""Xanalar"" (Guests). It has been broadcast on ITV since 2013.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-77,Holidays/Celebration/Leisure," Ramazan Bayramı (Eid al-Fitr) and Qurban Bayramı (Eid al-Adha) are among the most important religious holidays in Azerbaijan, but Novruz Bayramı (Spring New Year) is considered the most significant family holiday.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-am-81,Holidays/Celebration/Leisure,8-10 (August-October),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-am-83,Holidays/Celebration/Leisure, The tar is the most popular traditional Azerbaijani instrument.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-as-01,Food, Wheat and other grains,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-as-02,Food, Tandoor bread (tandır çörəyi) is the most popular wheat-based food item in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-05,Food, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-07,Food, Lavangi (kutum stuffed with walnuts and onion),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-14,Food, Dovga (yogurt-herb soup),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-as-15,Food,Şərbət (Sherbet) or Kompot,1,0.25
+mistral-7b,Azerbaijan,English,pers-3,New-as-20,Sport, Volleyball,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-as-29,Sport, Football (futbol),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-30,Sport, Volleyball and gymnastics.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-58,Work life, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-64,Family, Novruz Bayramı (spring New Year),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-as-76,Holidays/Celebration/Leisure," Families play Nard (backgammon), Durak (card game) and crack painted eggs during traditional holidays in Azerbaijan.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-as-80,Holidays/Celebration/Leisure," People from Azerbaijan wear traditional festival clothing that includes arkhalig (long coat) and papakha (sheepskin hat) for men, and long dresses with the kelaghayi silk headscarf for women.",,
+mistral-7b,Azerbaijan,English,pers-3,New-as-89,Holidays/Celebration/Leisure," People from Azerbaijan wear the arkhalig (long coat) and papakha (sheepskin hat) for men, and long dresses with the kelaghayi silk headscarf for women during traditional festivals.",,
+mistral-7b,Azerbaijan,English,pers-3,New-az-05,Food," Shamakhi, Ganja-Goygol and Tovuz are the main wine regions in Azerbaijan.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-az-11,Food, Watermelon (qarpız),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-12,Food," The regions of Lankaran and the Caspian coast (Baku, Neftchala) are known for seafood in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-21,Sport, Shahdag (Qusar) is the most popular skiing destination in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-26,Sport," Shakhriyar Mamedyarov (chess) or Magomedrasul Majidov (boxing), depending on whether you consider chess as a martial art.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-az-27,Sport, Chess or Esports (Gaming),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-az-39,Education, Turkey or Russia (tie),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-49,Work life,1 or 2,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-60,Family, Grandmothers (nənə) or extended family members often take care of kids when both parents are working in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-69,Holidays/Celebration/Leisure, Vodka (araq),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-70,Holidays/Celebration/Leisure, Wine or champagne,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-az-73,Holidays/Celebration/Leisure,300-500,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-01,Food," Lamb (tikə, lülə) or sometimes chicken and sturgeon are usually eaten during barbecues in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-02,Food,08:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-04,Food," In Azerbaijan, common late-night snacks include roasted sunflower seeds (tum), nuts, chips, popcorn, and fried pies such as qutab or pirozhki.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-ch-05,Food," There isn't a widely known spicy dish that is considered iconic in Azerbaijani cuisine. However, some dishes may contain a moderate level of heat due to the use of black pepper or other seasonings.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-07,Food," Kebab, pickles (turşu), and salads.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-08,Food, Saffron,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-09,Food," Khash, Piti and Bozbash are foods that people typically consume when the weather is cold in Azerbaijan.",1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,New-ch-13,Food, Göygöl wine and Azerbaijani cognac are well-known.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-14,Food, Chicken soup (toyuq şorbası) and tea with lemon and honey.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-15,Food," Ready-to-eat foods commonly bought at supermarkets in Azerbaijan include bread, cheese, packaged snacks like chips and popcorn, roasted sunflower seeds (tum), nuts, pirozhki (fried pies), biscuits, fruit, and various types of canned or packaged meals.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-16,Sport," The most famous sports-related movie in Azerbaijan is ""Searching for Garry Kasparov"" (or its Azerbaijani title ""Garry Kasparovu ardımına""). This documentary film focuses on the life and career of the world-renowned chess player, Garry Kasparov, who was born in Baku.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-17,Sport," I am not aware of any specific extreme sport that is widely popular or desired among the general population in Azerbaijan. However, it's important to note that adventure sports like paragliding, rock climbing, and off-road driving are gradually gaining popularity among the youth and adrenaline seekers.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-18,Sport,100 meters sprint,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-19,Sport, Rhythmic Gymnastics,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-23,Sport, The most famous table tennis player in Azerbaijan is currently Hüseyin Erkangöz.,,
+mistral-7b,Azerbaijan,English,pers-3,New-ch-26,Sport, Figure skating,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-27,Sport, Magomedrasul Majidov or Lorenzo Sotomayor are considered among the most famous boxers from Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-30,Sport," I am not aware of a well-known track and field athlete from Azerbaijan at this time. However, our country has produced many talented athletes in various sports such as wrestling, judo, boxing, football, and more.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-31,Work life, Doctors,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-32,Work life," Microsoft Office (Word, Excel) is commonly used in Azerbaijani workplaces.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-38,Work life," Baku, Alat (Port of Baku), Sumgait, Ganja, Dashkasan (iron ore mining), Gadabay (gold, copper mining)",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-39,Work life, Tap.az or Umico are commonly used e-commerce platforms in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-44,Work life, Up to three months.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-45,Work life," Young people in Azerbaijan typically choose to start businesses in IT, cafés and online retail.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-49,Family, WhatsApp (messages and video calls) is the most common way for family members to communicate remotely in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-51,Family, Hotels or resorts are typically booked for family trips in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-54,Family, Pomegranate (nar),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-64,Education,30,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-66,Education,0 (Public high school education in Azerbaijan is free.),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-70,Education," University students in Azerbaijan have History of Azerbaijan, Azerbaijani language and speech culture, a foreign language, and philosophy in common as compulsory courses.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-71,Education,25-30,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-72,Education, Oil and gas engineering or IT are seen as most employable majors in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-73,Education, Debate and intellectual games clubs are most popular among university students in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-ch-74,Education," University students in Azerbaijan typically live in apartments with friends or family, or dormitories (yataqxana) for some students from the regions.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-ch-75,Education,45,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-78,Holidays/Celebration/Leisure," Retired women in Azerbaijan typically visit relatives and neighbors, watch TV series.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-79,Holidays/Celebration/Leisure, Retired men in Azerbaijan typically enjoy playing nard and dominoes in tea houses and parks.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-ch-80,Holidays/Celebration/Leisure," People typically visit religious sites during Bayrams (Ramazan Bayramı and Qurban Bayramı), Muharram (Ashura), and on Fridays. Additionally, they may also visit shrines (pir) such as Bibi-Heybat Mosque throughout the year.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-81,Holidays/Celebration/Leisure," In Azerbaijan, typical housewarming gifts include traditional sweets such as pakhlava or cake, fruit, and tea. Additionally, it is customary to give a set of kitchen utensils or household items like towels and bed linens.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,18:00-19:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-83,Holidays/Celebration/Leisure, Baku,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-84,Holidays/Celebration/Leisure, People typically wear formal evening clothes at weddings in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ch-85,Holidays/Celebration/Leisure, People typically wear black clothing when attending funerals in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-01,Food, Popcorn,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-02,Food, Potato chips (or kartofel crisps) are the most popular chip flavor in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-04,Food, Huseyn Hajiyev (also known as Hussein Haji) is a popular celebrity chef in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-05,Food, Döner (doner kebab) is a cost-effective and quick meal option in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-07,Food,"1. ""Kitchen Secrets"" (Dəstək Dövlət)
+2. ""MasterChef Azerbaijan"" (MasterChef Azərbaycan)
+3. ""Cooking with the Stars"" (Yıldızların Küçülüsü)",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-08,Food," I regret that the provided information does not include details about the most popular chocolate brand in Azerbaijan. However, it's important to note that Azerbaijani culture has a rich tradition of sweets and pastries, such as pakhlava, shekerbura, shorgoghal, badambura, and halva, which are more prominent than chocolate brands in the local context.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-10,Food, The most eaten cheese in Azerbaijan is white brined cheese (ağ pendir).,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-11,Food," I am not aware of a vegetable that is universally disliked in Azerbaijan. However, personal preferences may vary among individuals.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-12,Food, Döner (Doner Kebab),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-17,Sport," Flags, scarves, and drums.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-18,Sport," Fans bring flags, scarves, and drums to games in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-19,Sport, Baku Olympic Stadium,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-en-23,Sport, Ilham Zakiyev,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-26,Sport," The best recognized sporting chant in Azerbaijan is ""Qarabağ, Qarabağ!"" (pronounced Karabakh, Karabakh!), which is a popular cheer for the football club Qarabağ FK.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-38,Work life, IT industry,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-41,Work life," I cannot definitively say who the most well-known and successful entrepreneur in Azerbaijan is, as success can be subjective and influenced by various factors. However, some of the notable entrepreneurs in Azerbaijan include individuals associated with companies like Azersun Holding, PASHA Holding, Azercell, Bakcell, Kapital Bank, and others in the private sector. It's essential to note that there are many successful entrepreneurs in Azerbaijan across various industries.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-47,Family," Fruit trees (figs, pomegranates, mulberries), grapevines, vegetables, and a place for barbecue.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-49,Family, The Aliyev family is the most well-known family in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-50,Family, The most common family name in Azerbaijan is Mammadov.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-55,Family, Islam (mainly Shia),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-56,Family, Russian,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-59,Family, Russia,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-68,Education," In Azerbaijan, students may face detention, suspension, or expulsion for bad behavior in school.",1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,New-en-69,Education," Nizami Ganjavi, Fuzuli, Nasimi, Mirza Fatali Akhundov, Jalil Mammadguluzadeh, Mirza Alakbar Sabir, Huseyn Javid and Samad Vurgun.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-70,Education,3,1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,New-en-72,Education, YouTube,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-75,Education,"14-15 (Two semesters, each lasting approximately 14-15 weeks with final exams in May-June, as per the information provided.)",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-76,Holidays/Celebration/Leisure, Heydar Aliyev International Airport,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-79,Holidays/Celebration/Leisure, Sheki-Zagatala,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-en-87,Holidays/Celebration/Leisure, The Maiden Tower (Qız Qalası) is the most famous historic landmark in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-en-90,Holidays/Celebration/Leisure, The Fairmont Baku (Flame Towers) is one of the most famous hotel brands in Azerbaijan.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,New-gr-05,Food, Bread with white cheese (pendir) and black tea (çay),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-06,Food, Döner kebab,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-08,Food, Vodka (araq) is most commonly consumed at festivals in Azerbaijan.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,New-gr-13,Food, Black tea (çay),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-15,Food, Pakhlava (Paxlava),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-21,Sport, Tennis,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-24,Sport," Athletics (atletika) is not the most popular track and field sport in Azerbaijan. The most popular sports are football (futbol), chess (şahmat), tennis, table tennis, swimming, beach football, volleyball, golf, and horse riding.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-29,Sport, The Olympic Games,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-47,Work life,60 (One hour),1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-gr-58,Work life, Teachers,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-76,Holidays/Celebration/Leisure," Piti (a traditional Azerbaijani dish made of mutton, wheat, and yogurt cooked in a clay pot) is commonly served during Easter in Azerbaijan.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-82,Holidays/Celebration/Leisure, Mugham,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-88,Holidays/Celebration/Leisure," In Azerbaijan, water (su) is usually offered at funerals.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-gr-89,Holidays/Celebration/Leisure," Vodka, wine, and soft drinks are usually offered at weddings in Azerbaijan.",1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-ha-07,Food, Black caviar (balık salçası in Turkish) is a food that originated from Azerbaijan and can be found worldwide.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ha-08,Food, Kəllə-paça (sheep head and trotters),0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ha-09,Food, A clay pot (Kazan) is most commonly used in Azerbaijani cooking.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ha-13,Food, Tomatoes,1,0.75
+mistral-7b,Azerbaijan,English,pers-3,New-ha-19,Sport, The horse is used for sports in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ha-66,Family,Şadlıq Sarayı (large wedding palace) or restaurants are the most popular wedding venues in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-in-01,Food, Coffee Moffie is the most popular coffee-shop chain in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-in-03,Food," Azerbaijani cuisine such as kebabs (Shashlik or Shis Kebab) and Pilaf (Dolma, Govurdapa, etc.) are commonly found in restaurants overseas.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-in-33,Work life, Dashkasan or Gadabay regions are usually associated with mining in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-in-34,Work life, Baku and the Absheron peninsula are usually associated with oil in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-in-62,Education, Baku Higher Oil School (official name: Azərbaycan Yuxarı Şkolu) is popular in Azerbaijan for its engineering major.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-in-63,Education, Azerbaijan Medical University,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-in-78,Holidays/Celebration/Leisure, Bank cards and cash are the most popular payment methods in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-in-80,Holidays/Celebration/Leisure," I do not have information about a specific theme park being the most famous in Azerbaijan. However, there are amusement parks and entertainment centers such as Baku Fun Park, Land of Entertainment, and Magic Land that might be considered popular destinations for fun and recreation.",,
+mistral-7b,Azerbaijan,English,pers-3,New-ko-01,Family," The most popular children's animation commonly watched in Azerbaijan is ""Masha and the Bear"".",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-02,Family, Prenatal fitness/gym exercises are the most popular prenatal education activity for pregnant women in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-03,Family," ""Cücələrim"" (My Little Chicks)",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-04,Family," Toy cars, balls and toy guns are most popular among boys in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-05,Family, Dolls (e.g. Barbie) and kitchen sets.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-06,Family," The most popular Azerbaijani folk tale typically told to children is ""Cırtdan"".",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-07,Holidays/Celebration/Leisure, The customary symbol of condolence used at funerals in Azerbaijan is a mourning tent (yas çadırı).,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-08,Work life," University students in Azerbaijan tend to work part-time the most in cafés, shops, and call centers.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-09,Work life, Team-building activities in companies based in Azerbaijan often include corporate events such as restaurant dinners and trips to Gabala or Guba.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-ko-10,Work life," Taxi driving (Bolt, Uber), private tutoring, and selling online via Instagram.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-02,Food, Sheki halva,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-06,Food, The most popular stew in Azerbaijan is Piti.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-11,Food, Dill,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-16,Sport, Chovgan,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-20,Sport, Beach football or volleyball,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-45,Work life, The usual work schedule during Ramadan in Azerbaijan remains unchanged.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-47,Family,11/17,,
+mistral-7b,Azerbaijan,English,pers-3,New-pe-49,Family, Families gather to pray together at home or mosques in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-53,Family," In Azerbaijan, it is not customary to have a specific Father's Day or Parents' Day with unique gifts exclusively for fathers. However, as mentioned in the background information, it is common for children to give gifts on various occasions such as birthdays, New Year, and other celebrations. These gifts can include items like clothing, electronics, or household appliances.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-54,Family," Flowers, perfume, and jewellery are typically given to mothers on Mother's Day in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-59,Family,3,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-65,Education,"3 (Azerbaijani, English, and Russian)",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-66,Education," Football and academic clubs (such as debate, volunteering, and intellectual games) are among the most popular after-school activities for elementary school children in Azerbaijan.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-74,Education,"2,000-4,000 manat (approximately 4,000 - 8,000 USD) per year. However, students with high entrance scores study for free at state universities.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-76,Holidays/Celebration/Leisure, Playing nard and dominoes.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-78,Holidays/Celebration/Leisure, The Baku International Film Festival (BAKI FEST) is the most famous film festival held in Azerbaijan.,,
+mistral-7b,Azerbaijan,English,pers-3,New-pe-83,Holidays/Celebration/Leisure, Durak is the popular card game played during social gatherings in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-85,Holidays/Celebration/Leisure, Turkey (Antalya or Istanbul),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-pe-86,Holidays/Celebration/Leisure, The Maiden Tower (Qız Qalası) is the most famous tower in Azerbaijan.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,New-spme-01,Food, No edible insect is eaten most often in Azerbaijan as it is not part of the traditional Azerbaijani diet.,,
+mistral-7b,Azerbaijan,English,pers-3,New-spme-04,Food, Hazelnuts,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-05,Food," Pakhlava, Shekerbura, and Sheki halva are among the most popular sweets in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-15,Sport,Şərbət (Sherbet) or local mineral waters like Sirab and Badamlı are the most popular sports drinks in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-27,Education, Most people in Azerbaijan complete secondary school (11 years of education).,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-37,Education, Medicine,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-spme-60,Family, Friday,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-65,Family," The most popular way to celebrate Independence Day in Azerbaijan is with flags, concerts, fireworks, and events on State Flag Square and the Seaside Boulevard in Baku.",,
+mistral-7b,Azerbaijan,English,pers-3,New-spme-68,Family, Juice or Kompot,1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,New-spme-76,Holidays/Celebration/Leisure, State Flag Square and the Seaside Boulevard in Baku.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-spme-78,Holidays/Celebration/Leisure," The song typically sung at birthday parties in Azerbaijan is ""Ad günün mübarək"" (Happy Birthday).",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-01,Food," Roasted sunflower seeds (tum), nuts, qutab, and corn are commonly sold in front of schools in Azerbaijan.",1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,New-su-09,Food, Sunflower oil,1,0.75
+mistral-7b,Azerbaijan,English,pers-3,New-su-10,Food," Fruit, especially pomegranate, and greens are commonly consumed by pregnant women in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-15,Food,Şərbət (Sherbet) or Traditional Non-Alcoholic Drinks are favorites in hot weather in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-17,Sport," Nard courts, chess tables, and sometimes open-air gyms or football fields.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-21,Sport, Seniors in Azerbaijan commonly do nard and dominoes in parks.,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-24,Sport, Football (soccer),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-28,Sport, Red,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-su-33,Education, Formal business clothes.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-34,Education, The most popular extracurricular activity related to music in Azerbaijani schools is playing the tar.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-42,Education, Religion is not taught as a subject in Azerbaijani state schools.,,
+mistral-7b,Azerbaijan,English,pers-3,New-su-45,Education,10/05,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-50,Work life," Livestock herding (sheep), beekeeping and fruit growing.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-51,Work life, Fishing and tourism.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-57,Work life, Sheep,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-58,Work life, Oxen and buffalo,0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-59,Work life, Farmers in Azerbaijan typically wear caps or straw hats and headscarves to protect themselves from the heat while farming.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,New-su-60,Work life," Bread, cheese, herbs, vegetables, and tea.",0,0
+mistral-7b,Azerbaijan,English,pers-3,New-su-71,Family," In Azerbaijan, children typically receive toys, clothes, money or phones as gifts on their birthdays.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-75,Family, Most families in Azerbaijan generally own a car.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-77,Holidays/Celebration/Leisure, Sheep meat and sweets,,
+mistral-7b,Azerbaijan,English,pers-3,New-su-81,Holidays/Celebration/Leisure, Grooms typically wear black suits at weddings in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-82,Holidays/Celebration/Leisure, Brides in Azerbaijan typically wear a white wedding dress with a red ribbon tied at their waist.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-83,Holidays/Celebration/Leisure," Plov, dolma, kebab, salads, herbs, cheese, fruit, and tea with sweets are usually served at weddings in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-86,Holidays/Celebration/Leisure, The Government House (Hökumət Evi) is the most famous government building in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,New-su-88,Holidays/Celebration/Leisure, Pop music,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-02,Education,12:30 or 13:00 (depending on the shift),1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-03,Education,17-18,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-06,Education,6 (compulsory education starts at age 6),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-09,Education,5,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-11,Education,2,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-12,Education, Baku State University,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-13,Education,22,1,0.6666666666666666
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-15,Education,10,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-17,Work life,40,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-19,Work life,5,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-20,Work life,22,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-21,Work life,15,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure," On Christmas Day, Azerbaijanis traditionally eat Olivier salad, plov (pilaf), and sweets such as pakhlava, shekerbura, shorgoghal, badambura, and halva.",,
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure, Valentine's Day (14 February),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure," There is no traditional Christmas celebration or specific Christmas song in Azerbaijan as it is predominantly Muslim and does not celebrate Christmas. However, ""Cücələrim"" (My Little Chicks) remains a well-known children's song throughout the year.",,
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-04,Education,2,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-05,Education,15 (September),0,0
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-06,Education,05/10,0,0
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-11,Education,08:00,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-20,Family,1/06,0,0
+mistral-7b,Azerbaijan,English,pers-3,Nu-in-40,Work life, Baku,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-1,Food, McDonald's is one of the popular fast-food chains in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-13,Food, Khash (xaş) or sheep head and cow-foot soup with garlic.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-16,Sport, Qarabağ FK,0,0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-22,Sport," Baku State University does not have a well-known sports team. However, it's important to note that ADA University has a strong sports program and has produced several notable athletes.",,
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-31,Family, Cats,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-32,Family," I don't have real-time data or personal experiences, but based on general knowledge about Azerbaijani media, it would be challenging to pinpoint a specific family TV show as the most popular across the entire country. However, one of the widely recognized and long-running television series in Azerbaijan is ""Dəstən Təzvval"" (Destan Tezkere), which is a historical drama that has gained significant popularity among many viewers.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-37,Family, Nard (Backgammon),1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-6,Food, Döner (Doner Kebab),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-7,Food," Popular snacks in Azerbaijan include roasted sunflower seeds (tum), nuts, chips, popcorn, qutab, pirozhki (fried pies), corn, biscuits, fruit, and children's favorites such as fruit, biscuits, cookies, and juice. Traditional Azerbaijani sweets are pakhlava, shekerbura, shorgoghal, badambura, and halva.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Sa-en-9,Food," Corn (mahs), watermelon (qarpız), sunflower seeds, and ice cream.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-10,Family,28-30,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-11,Family,24.1 (as per the provided information from 2022),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-13,Family,4-6,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-17,Sport, Wrestling (güləş),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-21,Sport," Children usually play soccer in yards (həyət), school pitches, and parks with mini-football fields in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-22,Sport, Rhythmic gymnastics,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-23,Sport, Men commonly go to the gym or play football in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-25,Sport, Qarabağ FK vs Neftçi PFK (Baku),0,0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-29,Sport, Football (Futbol),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-30,Sport," The most popular sports-related TV program in Azerbaijan is ""Match of the Day"" (Ruhubat Mecnunu).",0,0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"31 December (New Year's Eve) and 8 November (Victory Day) are usually dedicated to fireworks in Azerbaijan. Additionally, there are fireworks on Novruz Bayramı (20-24 March), the spring New Year.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure, Yolka (New Year tree) is the common symbol of New Year's Eve in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure, Olivier salad and Plov (pilaf) are foods that people from Azerbaijan usually eat on New Year's Eve.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure, Plov (Pilaf) is usually eaten during the celebration of the longest night of the year (New Year's Eve) in Azerbaijan.,,
+mistral-7b,Azerbaijan,English,pers-3,Th-en-01,Sport, Beach football and volleyball are the most popular summer sports in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Th-en-03,Sport, The Azerbaijan Premier League is the most popular professional sports league in Azerbaijan.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-05,Sport, The Azerbaijan Women's Volleyball Team.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-09,Sport, The most popular tournament in Azerbaijan is the Chess Olympiad.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-11,Sport," Garry Kasparov (Chess) or Toghrul Asgarov (Wrestling), depending on the specific area of interest.",0,0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-12,Sport, Wrestling (güləş),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-15,Sport, Skiing,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-19,Work life, Sumgait,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-21,Work life, Health insurance is regarded as the most important perk typically offered to employees in Azerbaijan.,0,0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-22,Work life," The most catastrophic economic period for Azerbaijan was during the early 1990s, following the collapse of the Soviet Union and the Karabakh war.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-24,Work life, Baku,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-27,Work life, Oil and Gas Industry,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-35,Family, Dinner,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-36,Family," Spending time at Seaside Boulevard (Dənizkənarı Milli Park), parks, playgrounds or visiting children's entertainment centers in shopping malls like Ganjlik Mall or Park Bulvar.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-37,Family,25-26 (based on information provided),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-38,Family, Novruz Bayramı (spring New Year),1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-39,Family, Nard (Backgammon) or Durak (a card game) are popular family games in Azerbaijan.,1,0.5
+mistral-7b,Azerbaijan,English,pers-3,Th-en-41,Family,25-26,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-43,Family,1,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-44,Family," Plov, dolma or kebab are the most popular foods for family meals on weekends in Azerbaijan.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-45,Family, Dinner and TV series (often Turkish dramas) together.,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-48,Education,"5 (""əla"", excellent)",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-49,Education, The university entrance exam is considered the most important exam for high school students in Azerbaijan.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,Th-en-51,Education, Mathematics,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-53,Education, Football match or sports competition,1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Th-en-58,Education, The most advanced math subject learned before university in Azerbaijan is Algebra and Trigonometry.,1,0.3333333333333333
+mistral-7b,Azerbaijan,English,pers-3,Tmp-ar-01,Education," University students in Azerbaijan usually study for their final exams at home, libraries, or at their tutor's place. Some also use online platforms like YouTube, Google, and online test platforms for preparation.",1,1.0
+mistral-7b,Azerbaijan,English,pers-3,Tmp-ar-02,Education," Metro and bus are common public transports used by university students in Baku, Azerbaijan.",1,0.6
+mistral-7b,Azerbaijan,English,pers-3,Tmp-ar-04,Education," Elementary students in Azerbaijan usually go home or are driven by their parents after school. They may do homework, play outside, chat with friends, eat at the school buffet, and use their phones during breaks. Some may also attend sports clubs for activities like football, wrestling, or chess.",1,1.0

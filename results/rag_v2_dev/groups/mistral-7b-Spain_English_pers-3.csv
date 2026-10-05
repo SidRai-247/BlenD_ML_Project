@@ -1,0 +1,541 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Spain,English,pers-3,Al-en-01,Food, Churros con chocolate (Churros with hot chocolate) are a popular snack for preschool kids in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Al-en-02,Food, Tapas (small dishes) are commonly enjoyed with beer in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-04,Food, The most popular fruit in Spain is the apple.,1,0.5
+mistral-7b,Spain,English,pers-3,Al-en-06,Food, Tortilla Española (Spanish Omelette),1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-08,Food, Churros con chocolate (fried-dough pastry with hot chocolate) and bocadillos (sandwiches made from a long roll of bread).,1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-09,Food, Churros con chocolate (Churros with hot chocolate),1,0.5
+mistral-7b,Spain,English,pers-3,Al-en-16,Education,"3 (for early childhood education cycle, which can start at age 3)",1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-17,Education, Fútbol (Soccer) is a popular afterschool sport for elementary schools in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-18,Education,18.7% of elementary students in Spain attend fully private schools.,0,0
+mistral-7b,Spain,English,pers-3,Al-en-19,Education," Catalan, particularly in regions like Catalonia. However, Spanish remains the primary language throughout Spain.",1,0.2
+mistral-7b,Spain,English,pers-3,Al-en-21,Education, Science and Mathematics (Ciencias y Matemáticas) are highly valued subjects in gifted education in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-32,Holidays/Celebration/Leisure," Turkey (Turkey is not traditionally a Spanish dish for Thanksgiving, but I'm answering based on the closest equivalent to the traditional American Thanksgiving meal.)",,
+mistral-7b,Spain,English,pers-3,Al-en-33,Holidays/Celebration/Leisure," People in Spain celebrate Halloween as ""La Toma del Castillo"" (The Capture of the Castle) or ""La Día de las Brujas"" (Witches' Day). It is more about dressing up and going from house to house asking for sweets, similar to trick-or-treating, but it is not as widespread or commercialized as in other countries.",1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,12 Grapes Consumption at Midnight (Las Doce Uvas de la Suerte) and Fireworks Display.,0,0
+mistral-7b,Spain,English,pers-3,Al-en-35,Holidays/Celebration/Leisure," People in Spain celebrate Christmas by enjoying traditional foods such as Turrón (soft or hard), spending time with family, attending Midnight Mass on Christmas Eve, and exchanging gifts on Christmas Day.",0,0
+mistral-7b,Spain,English,pers-3,Al-en-36,Holidays/Celebration/Leisure, Roasted Chestnuts (Castañas Asadas),1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-37,Holidays/Celebration/Leisure, Turrón (either soft or hard) is a food associated with Christmas in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Al-en-38,Holidays/Celebration/Leisure," Roscon de Reyes (Three Kings Bread) or Churros con Chocolate are traditionally eaten on Valentine's Day in Spain, but the most popular food associated with this day is Chocolates en forma de corazón (Heart-shaped chocolates).",1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-39,Holidays/Celebration/Leisure," In Spain, it is common for people to celebrate their birthday with a traditional cake called ""Pastel de Bodas"" or ""Wedding Cake"". This cake is usually made of sponge cake layers filled with cream and fruit jam. However, it's also common to find other types of cakes like the ""Torta del Casamiento"" (Casamiento Cake) or ""Tarta de Santiago"" (Almond Cake).",1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-40,Holidays/Celebration/Leisure," Parque de la Ciudad (City Park) or Parques de Ocio (Leisure Parks) are popular choices for families with young children in Spain. These parks often feature playgrounds, picnic areas, and sometimes even small zoos or water attractions.",1,1.0
+mistral-7b,Spain,English,pers-3,Al-en-43,Holidays/Celebration/Leisure, Playing board games (Juegos de mesa) is a popular indoor activity for families in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,An-ar-02,Education," University students in Spain typically have lunch at ""Cafeterías"" or ""Mesones"" on campus, or they might go out to nearby restaurants or tapas bars in the city.",1,1.0
+mistral-7b,Spain,English,pers-3,An-ar-03,Education,6 or 7 (June or July),1,1.0
+mistral-7b,Spain,English,pers-3,An-ar-08,Education,7 (hours),1,0.5
+mistral-7b,Spain,English,pers-3,An-ar-09,Education,2 (Spanish and one other regional language),1,0.25
+mistral-7b,Spain,English,pers-3,An-ar-34,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,An-ar-35,Sport," The information provided does not specify a popular sport commentator in Spain. However, one of the well-known sports commentators in Spain is Jordi Evole, who has worked for various television networks covering football (soccer) matches.",0,0
+mistral-7b,Spain,English,pers-3,An-ar-36,Sport," The concept of a ""most popular sport team"" can be subjective as it often depends on regional preferences and individual interests. However, if we consider the number of federated sports licenses, the football team Real Madrid Club de Fútbol is the most popular in Spain according to the data provided in 2025.",1,1.0
+mistral-7b,Spain,English,pers-3,An-ar-43,Sport,1. Bars (Tasca) and Sports Cafes (Café de los deportes) are common places where individuals in Spain gather to watch sports broadcasts.,1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-05,Food,3,1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-06,Food, Breakfast (La Desayuno) is considered an important meal in Spanish culture.,1,0.25
+mistral-7b,Spain,English,pers-3,Ca-sp-08,Food, Rice or Bread (depending on the meal),1,0.5
+mistral-7b,Spain,English,pers-3,Ca-sp-09,Food, Flan or Torta de Santiago (Almond Cake),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Ca-sp-11,Food, Sunday,1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-14,Food," The most popular hot drink in Spain is Chocolate con Churros (Chocolate with Churros). However, if you are referring to tea or coffee, it would be Cafe con Leche (Coffee with Milk) or Té (Tea).",1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure, Sangria or beer (cerveza) are commonly consumed by young people in Spanish nightclubs.,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,"1, 3, 5, 8, 12",1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,12 Grapes at Midnight (Las Doce Uvas de la Suerte),0,0
+mistral-7b,Spain,English,pers-3,Ca-sp-38,Family, Owned home (Casa propia) is typically the type of house for a family in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Ca-sp-41,Family, With their families or in senior living facilities (Residencias para mayores).,0,0
+mistral-7b,Spain,English,pers-3,Ca-sp-42,Family,19,0,0
+mistral-7b,Spain,English,pers-3,Ca-sp-43,Family,16,1,1.0
+mistral-7b,Spain,English,pers-3,Ca-sp-45,Family, Coastal resorts (Costas) or historic cities (Ciudades Históricas) are commonly chosen for family vacations in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Gu-ch-05,Sport,"62.7% of Spanish seniors (aged 15+) played sport in the past year, with 25.5% playing daily and 53.9% at least weekly according to the 2024/25 Survey of Sporting Habits in Spain.",0,0
+mistral-7b,Spain,English,pers-3,Gu-ch-06,Sport, Football and Hunting are among the most popular sports for men in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-07,Sport, Pau Gasol,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-08,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-09,Sport, Basketball and Football (Soccer) are among the popular sports that Spanish women enjoy playing.,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Gu-ch-11,Sport, Athletics (Track and Field),0,0
+mistral-7b,Spain,English,pers-3,Gu-ch-15,Sport,"53.9% of male students in Spanish universities play sport at least weekly according to the 2024/25 Survey of Sporting Habits in Spain. However, the survey does not specify which sports are the most popular among them. It's best to ask a local student or research more about the specific university for accurate information on the preferred sports.",0,0
+mistral-7b,Spain,English,pers-3,Gu-ch-16,Family,3.4 (This is an approximation based on various sources and may not represent every individual case due to the diversity of Spanish families.),1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-18,Family," The number of children per couple in Spain varies greatly and there is no definitive average. However, according to the latest data available, as of 2018, about 85.6% of couples were married and 14.4% were unmarried (de facto). Among all couples, the percentage of couples with children was not specified in the provided information.",1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-31,Education,6 (for early childhood education) + 10 (basic education) = 16,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-32,Education,10,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-33,Education,6,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-38,Education,4 years,1,1.0
+mistral-7b,Spain,English,pers-3,Gu-ch-40,Education,15:30 (3:30 PM),0,0
+mistral-7b,Spain,English,pers-3,Gu-ch-41,Education,1,1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-02,Work life, Spanish people often prefer to have company dinners on Saturdays or Sundays.,0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-03,Work life, Madrid (Ciudad de Madrid),1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-07,Work life, The most famous private company in Spain is probably Telefónica.,0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-09,Work life, Tapas and Sangria,,
+mistral-7b,Spain,English,pers-3,Ji-ko-14,Work life, Olive Oil,1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,Ji-ko-15,Work life,2.0,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Ji-ko-16,Family," Mothers typically stay in the hospital for 4-5 days after childbirth in Spain, but they can choose to extend their stay if necessary. However, some opt for postpartum care at home with the assistance of midwives or healthcare professionals.",1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-19,Family, Carnation (Carnación in Spanish) is the most commonly given flower on Parents' Day in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-22,Family," A traditional Spanish custom is to save or invest a portion of the first salary, while also using some of it for a special celebration with family and friends, often involving food and drink. However, it's important to note that this can vary greatly among individuals.",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-24,Family, Playground (Parque de juegos) or local parks are the most preferred recreational facilities among children in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-25,Family,"1 January, 6 January, 1 May, 15 August, and 6 December (Constitution Day) are some of the family-related holidays in Spain.",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-26,Family,"16 - Moving out of the family home (autonomía familiar)
+18 - Legal majority and right to vote
+25 - Financial independence (autonomía económica)",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-27,Family, Fresh Fruits or Flowers,1,0.5
+mistral-7b,Spain,English,pers-3,Ji-ko-28,Family,"1st January (New Year's Day) is celebrated as the first day of festivities for a newborn in Spain. However, it's also common to have a separate celebration called ""Bautizo"" or Christening, which can take place anytime within the first few months after birth.",1,0.5
+mistral-7b,Spain,English,pers-3,Ji-ko-29,Family,15th Birthday (Quinceañera for girls and Fiestas de los 15 Años for boys),0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-31,Education, Middle and high school students in Spain usually study for exams at home or in libraries.,1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-33,Education, High school students in Spain often hang out at local parks or cafes after dinner.,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Ji-ko-34,Education," Elementary school students in Spain attend school Monday through Friday (excluding holidays), with compulsory and free education spanning ten years from ages 6-16.",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-35,Education, The most common form of private education in Spain is publicly subsidised private (concertado) schools.,1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-36,Education," Liceo (High School) or Instituto de Educación Secundaria (Secondary School) are the most commonly attended institutions by middle and high school students in Spain. However, these terms can refer to both public and private schools. If referring specifically to a private educational institute, it would be a Colegio Concertado (Concerted School).",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-37,Education," Middle and high school students in Spain typically wear uniforms or casual, smart-casual attire. Uniform requirements vary by school.",0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-38,Education, Engineering (Ingeniería),0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-39,Education, The most commonly learned musical instrument by elementary school students in Spain is the recorder.,0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-40,Education, High school students in Spain typically socialize with their peers during break time at school.,0,0
+mistral-7b,Spain,English,pers-3,Ji-ko-41,Education, Students in Spain typically wear regular school shoes or sneakers. Traditional Spanish footwear like espadrilles are less common in school settings.,1,0.4
+mistral-7b,Spain,English,pers-3,Ji-ko-42,Education," The required subjects for Spain's university entrance exam (Selectividad) include Spanish Language, Mathematics, a Foreign Language (usually English), and two additional subjects from a wide range of options such as Physics, Chemistry, Biology, History, Geography, Philosophy, etc. Additionally, students may choose one or two optional subjects.",1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-44,Education," The information provided does not specify a city, but it suggests that Castilla y León, a region in Spain, has a high number of active rural schools. However, to answer your question about which city within Spain has the highest academic fervor, I would say Madrid, as it is home to some of the most prestigious universities in Spain such as Complutense University and Carlos III University.",1,1.0
+mistral-7b,Spain,English,pers-3,Ji-ko-45,Education,"¡Fiestas de la Universidad! People look forward to celebrating, dancing traditional Spanish dances (like Sardana or Flamenco), enjoying local cuisine, and creating unforgettable memories with friends.",0,0
+mistral-7b,Spain,English,pers-3,Jo-sp-01,Sport, Basketball,1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-02,Sport, Aizkolaris (Basque rural sports),0,0
+mistral-7b,Spain,English,pers-3,Jo-sp-09,Sport, Golf and Polo are sports often associated with the upper class in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-13,Sport, Trainera rowing regattas on the coast.,0,0
+mistral-7b,Spain,English,pers-3,Jo-sp-14,Sport," I'm sorry for any confusion, but there seems to be a misunderstanding in your question. The term ""mental sport"" typically refers to activities that challenge one's cognitive abilities rather than physical ones. In Spain, there isn't a specific mental sport that is more popular than others. However, intellectual activities such as chess, bridge, and puzzles are quite common. If you were referring to a specific Basque cultural activity like aizkolaris (log-chopping) or trainera rowing as a ""mental sport,"" I would kindly ask for clarification on the definition of ""mental sport"" in this context.",1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-18,Work life,24,0,0
+mistral-7b,Spain,English,pers-3,Jo-sp-19,Work life, La Rioja or Castilla-La Mancha regions have been traditionally associated with agriculture in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Jo-sp-21,Work life,2:00 PM (14:00) is the typical time for a lunch break in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-31,Education,"16:00 (4 PM) is the typical time for high school students to leave school in Spain. However, this can vary depending on the specific region and school schedule.",1,0.5
+mistral-7b,Spain,English,pers-3,Jo-sp-32,Education, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-36,Education,10 (weeks),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Jo-sp-37,Education,12 (weeks),1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-39,Education,"6 (The second cycle of early childhood education runs up to age 6 in Spain, but basic education, which includes primary and lower secondary education, begins at the age of 6.)",1,1.0
+mistral-7b,Spain,English,pers-3,Jo-sp-43,Education,"1 (English) is typically studied in Spanish elementary education. However, regional variations may exist.",1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,Jod-ch-01,Food," Fork (tenedor), knife (cuchillo), and spoon (cucharón) are commonly used eating utensils in Spain.",1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-04,Food, Fanta or Coca-Cola are popular soft drinks in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-06,Food, Sidra de Asturias (Asturian cider),1,0.25
+mistral-7b,Spain,English,pers-3,Jod-ch-07,Food,3.0 (on average),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Jod-ch-09,Food,21:00,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-12,Food, Gazpacho or Caldo Gallego (depending on the region) are popular soups in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-13,Food, Churros con chocolate (fried-dough pastry with hot chocolate) or Tinto de Verano (iced red wine with lemon or orange soda) are popular Spanish street foods.,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-15,Food," Seafood (Mariscos) such as Paella Valenciana, Tapas (Gambas al Ajillo, Boquerones en Vinagre, Calamares), and Pulpo a la Gallega are popular in Spanish cuisine.",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure," The biggest festival in Spain can vary depending on the region, but one of the most widely celebrated is La Tomatina, held in the town of Buñol, Valencia, on the last Wednesday of August. It involves a massive tomato fight.",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure, The most commonly used public transport for intercity travel in Spain is the high-speed train (AVE).,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure," La Tomatina (The Big Tomato Fight) - The most famous Spanish festival is known for its colorful, messy, and playful atmosphere. The specific decoration or symbol associated with this event is the tomato, which is thrown during the festival.",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-37,Sport," According to the data provided, it appears that basketball is the sport that Spanish women are most likely to watch, as 10.3% of all federated sport licenses in Spain belong to basketball. However, it's important to note that this data only represents licensed sports and may not reflect the overall preferences of all women in Spain for watching sports.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Jod-ch-38,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure, Going out with friends (salir de compras or salir a pasear) and socializing at bars or restaurants (tapas y copas) is quite popular among Spanish women in their 20s.,0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure, Football (Soccer) is a popular leisure activity among young Spanish men.,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-46,Work life,2.0,0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-48,Work life," During working days in Spain, people typically have a three-course meal for lunch, known as ""la comida"" or ""el almuerzo"". It consists of a starter (entree), main course (plato principal) and dessert (postre). Common dishes include gazpacho (cold tomato soup), paella (rice dish with seafood or meat), tortilla española (Spanish omelette), and a variety of sweet pastries for dessert.",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-50,Work life,30 (This value is an approximation and may vary depending on specific locations within Spain.),1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-51,Work life," Train (Tren) or Bus (Autobús) are commonly used for commuting to work in urban areas of Spain, while Car (Coche) is more prevalent in suburban and rural regions. Bicycle (Bicicleta) is also popular in some cities for short distances.",1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-54,Work life,"16 days (as of the provided background information, there is no specific mention of marriage leave in Spain).",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-56,Work life,65 [Based on information from 2018],1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-57,Work life,65,1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-58,Work life," In Spain, respect for professions can vary among individuals and regions, but historically, the medical profession (Doctors) has been highly esteemed due to their role in preserving health and saving lives. However, it's important to note that this perception may not be universal across all Spaniards.",1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-60,Work life,8 or 9 (depending on the sector and specific company),1,1.0
+mistral-7b,Spain,English,pers-3,Jod-ch-61,Work life," There is no specific occupation that is universally preferred among all Spanish women as preferences can vary greatly among individuals based on their interests, education, and circumstances. However, it's worth noting that Spain has made significant strides towards gender equality in recent years, with more women pursuing a wide range of professions.",0,0
+mistral-7b,Spain,English,pers-3,Jod-ch-62,Work life," There isn't a specific occupation that is universally preferred among all Spanish males. Spain has a diverse economy and workforce, with professions ranging from engineering, medicine, education, business, arts, and more being popular across regions and demographics.",0,0
+mistral-7b,Spain,English,pers-3,Ki-pe-17,Education," In Spain, on average, students typically pursue their education up to the secondary level which spans ten years of compulsory, free schooling. This includes both primary and lower secondary education.",1,1.0
+mistral-7b,Spain,English,pers-3,Ki-pe-24,Education, Catalan (in regions like Catalonia) or Basque (in the Basque Country).,0,0
+mistral-7b,Spain,English,pers-3,Ki-pe-30,Education," Schools in Spain are typically closed on Saturdays and Sundays, as well as holidays specified by their respective autonomous communities.",1,1.0
+mistral-7b,Spain,English,pers-3,Ki-pe-32,Food," Paella or Tapas, depending on the occasion.",1,1.0
+mistral-7b,Spain,English,pers-3,Ki-pe-34,Food, Coffee or tea (usually with milk) is common for breakfast in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Ki-pe-36,Food, Italy (in terms of popularity),1,1.0
+mistral-7b,Spain,English,pers-3,Ki-pe-39,Food," Paella (Valencian: [paˈelja], from Latin patella) is a traditional Spanish dish that is often prepared for a family picnic in Spain. It's a rice dish that originated in its modern form in the mid-19th century near Lake Albufera, Valencia. The basic recipe calls for Bomba rice, green bell peppers, garlic, onion, olive oil, rabbit, chicken, beans, peas, and seasonings such as saffron, salt, and black pepper. Seafood variants often include mussels, clams, prawns, and white fish.",0,0
+mistral-7b,Spain,English,pers-3,Ki-pe-40,Food," The dish ""Cuy"" (Guinea Pig) is not traditionally Spanish but is associated with some regions in Spain due to historical reasons. It's not widely consumed across Spain and is generally considered foreign, especially by people outside of Spain. However, it's important to note that food preferences are subjective and what one person finds disgusting, another might find delicious.",0,0
+mistral-7b,Spain,English,pers-3,Ki-pe-43,Food," The popular bread in Spain is called ""Pan de Aceite"" or ""Mediterranean bread.""",0,0
+mistral-7b,Spain,English,pers-3,Ki-pe-51,Work life,09:00 - 14:00 and 16:00 - 19:00 (with a break for lunch from approximately 14:00 to 16:00),1,0.5
+mistral-7b,Spain,English,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure," The national holiday with the longest duration in Spain is La Fiestas Patrias (National Day), which takes place from October 11th to October 12th.",0,0
+mistral-7b,Spain,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure," Spain does not have an Independence Day as it is not a sovereign state but a member of the Kingdom of Spain, which includes 17 autonomous communities. However, we celebrate National Day (Día de la Hispanidad) on October 12th, commemorating Christopher Columbus's arrival in the Americas in 1492. Common activities include parades, traditional music and dance performances, and official ceremonies at the Royal Palace in Madrid.",,
+mistral-7b,Spain,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure," A Mourning Cross (Cruz de Muerte) or Wreath is often placed in front of the house in Spain upon the death of a family member. However, it's important to note that customs can vary regionally.",,
+mistral-7b,Spain,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure," The pregnancy celebration or ceremony in Spain is typically held during the 22nd week of pregnancy (around the 5th month). This event is known as ""La fiesta de la barriga grande"" or ""El alumbramiento"".",,
+mistral-7b,Spain,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure, La Noviaza or La Hoguera de la Novia (The Bride's Bonfire) is an event that often takes place before a wedding in some regions of Spain.,0,0
+mistral-7b,Spain,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure," In Spain, we do not celebrate Lunar New Year as it is not part of our traditional calendar. However, we have our own festivities such as Three Kings Day on January 6th, where gifts are given to children.",,
+mistral-7b,Spain,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure," In Spain, days before Ramadan, people often engage in shopping for food and necessary items for Suhoor (pre-dawn meal) and Iftar (evening meal), as well as preparing their homes for the holy month. Additionally, there may be social gatherings with family and friends to strengthen bonds and share in anticipation of Ramadan.",,
+mistral-7b,Spain,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure, The Alhambra in Granada.,1,0.5
+mistral-7b,Spain,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure," The Sagrada Familia in Barcelona is one of the most popular religious tourist sites in Spain. It's an unfinished masterpiece designed by Antoni Gaudí, a renowned Catalan architect. Other notable religious sites include the Mezquita of Córdoba, a mosque-cathedral that showcases both Islamic and Christian architecture, and the Alhambra in Granada, a stunning palace and fortress complex with beautiful gardens and intricate decorations.",1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure, Women typically wear formal dresses or suits for graduation ceremonies in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-16,Food, Hot chocolate (Chocolate caliente) or Spanish wine (Vino tinto).,1,0.75
+mistral-7b,Spain,English,pers-3,Kik-in-17,Food, Watermelon (Sandía),0,0
+mistral-7b,Spain,English,pers-3,Kik-in-24,Food, Paella Rice (Arroz de Paella),0,0
+mistral-7b,Spain,English,pers-3,Kik-in-31,Sport," Aizkolaris (Basque rural sports) is considered one of the most popular and famous martial art-like sports in Spain, particularly in the Basque Country.",0,0
+mistral-7b,Spain,English,pers-3,Kik-in-34,Sport, Football (Soccer) and Basketball are often broadcasted on national television in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-35,Sport," Football (Soccer) and Running (Jogging) remained popular among people from Spain during the COVID-19 pandemic, while outdoor activities like Cycling also gained popularity due to social distancing measures.",1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-36,Sport, Pep Guardiola,1,0.5
+mistral-7b,Spain,English,pers-3,Kik-in-37,Sport, Real Madrid vs FC Barcelona,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-38,Sport, El Clásico: Real Madrid vs FC Barcelona,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-40,Sport, Pablo Abián is the most famous male badminton player in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-41,Sport, Carolina Marin,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-44,Sport, Football (Fútbol) receives the most governmental support in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Kik-in-45,Sport," Football (Soccer) pitches, Basketball courts, Swimming pools, Tennis courts, Athletics tracks.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-02,Food, Cafe con Leche (Coffee with Milk),1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-04,Food, Tortilla Española (Spanish Omelette),1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-05,Food, Paella or Tapas delivered hot.,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-07,Food, Ham (Jamón) or Beef (Carne de Res) are among the most commonly consumed meats in Spain.,1,0.8
+mistral-7b,Spain,English,pers-3,Na-ko-08,Food, Chestnuts (castañas) or Pumpkins (calabazas) are commonly eaten during the Autumn season in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-09,Food," Patatas Bravas (Spicy Fried Potatoes) or Gazpacho (Cold Soup) are two examples of common side dishes often found on Spanish dining tables. However, it's important to note that Spain has a rich and diverse gastronomy, so the specific side dish can vary greatly depending on the region and occasion.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-11,Food," Tapas or pintxos, along with beer or wine.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-15,Food," Paella (Valencian: alla valenciana) is a Spanish rice dish that originated in its namesake region, Valencia. It is one of the most popular and characteristic dishes of Spanish cuisine.",1,0.5
+mistral-7b,Spain,English,pers-3,Na-ko-16,Sport," Lionel Messi (born and raised in Argentina but played for FC Barcelona, Spain) or Gerard Piqué (Spain). Both have made significant contributions to Spanish football.",0,0
+mistral-7b,Spain,English,pers-3,Na-ko-17,Sport, Football (Soccer) and Basketball are popular sports that male students often play during lunchtime at schools in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-18,Sport," Netball (Pelota de red) or Basketball are commonly practiced sports for girls in Physical Education classes in Spain. However, it's important to note that the specific sport can vary depending on the region and school.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-19,Sport,"Íker Fernández, a three-time Olympic medalist and two-time World Champion, is one of the most popular volleyball players in Spain.",,
+mistral-7b,Spain,English,pers-3,Na-ko-20,Sport, FIFA World Cup or UEFA Euro Championship (Football/Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-22,Sport, Argentina,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-23,Sport, Football (Soccer) Academies,1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-24,Sport, Churros con chocolate (Churros with hot chocolate),0,0
+mistral-7b,Spain,English,pers-3,Na-ko-25,Sport, Football (Soccer) and Basketball are common sports played during Spanish School Sports Days.,1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-26,Sport, Football (Soccer) and Basketball,1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-28,Sport," I cannot definitively say who the most popular winter sports player in Spain is, as it may vary depending on factors such as individual achievements, popularity, and the specific sport. However, if we are referring to ice hockey, one of the most well-known Spanish players is Sergi Gabinet, a former professional ice hockey player who represented Spain in international competitions.",0,0
+mistral-7b,Spain,English,pers-3,Na-ko-29,Sport,Óscar Pizarró,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-30,Sport," I cannot definitively say which is the most popular e-sport game in Spain as it can vary over time and among different demographics. However, according to Newzoo's Global Esports Market Report 2021, League of Legends (LoL) is one of the most popular e-sports games worldwide, including in Spain.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,"12 Grapes at Midnight on December 31st (not Lunar New Year, but a popular Spanish tradition called ""Los Doce Uvas de la Suerte""). The Lunar New Year is not celebrated in Spain.",,
+mistral-7b,Spain,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure," Costa Brava (Catalonia) or Costa del Sol (Andalusia). Both regions offer beautiful beaches, rich history, and diverse activities.",1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure, La arras (the dowry) or monedas (coins) are the most common traditional wedding gifts from the groom to the bride in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure," A bottle of cava (Spanish sparkling wine) or a small gift, such as a traditional Spanish item like a porron (a pitcher with a spout for pouring wine).",0,0
+mistral-7b,Spain,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,3 (Tres),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure, A basket of flowers (usually white or purple) would be an appropriate condolence offering at a Spanish funeral.,1,1.0
+mistral-7b,Spain,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure," In Spain, it's customary to serve coffee and pastries (usually croissants or buns) at funeral parlors. This tradition is known as ""desayuno fúnebre"" (funeral breakfast). However, it's important to note that each region may have its own specific customs regarding food during funerals.",0,0
+mistral-7b,Spain,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure," In Spain, we don't celebrate the Lunar New Year as it is not a traditional holiday. However, on the first day of the Gregorian calendar year, many Spaniards start their day with a family breakfast, followed by attending church services and exchanging gifts or well wishes among friends and loved ones.",0,0
+mistral-7b,Spain,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure, The Day of the Three Kings (Día de los Reyes Magos) on January 6th.,0,0
+mistral-7b,Spain,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure," Balearic Islands (Islas Baleares), specifically the island of Mallorca (Mallorca).",0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,"1st January (New Year's Day) and 25th December (Christmas Day) are considered among the most important national holidays in Spain. However, it's essential to note that regional differences do exist, as some regions may prioritize other days such as 12 October (Hispanic Day) or 8 December (Immaculate Conception).",1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure," People from Spain do not typically observe or celebrate Ramadan as it is a religious holiday primarily observed by Muslims. However, during this month, many Spaniards might show solidarity with their Muslim friends and colleagues by abstaining from eating and drinking during daylight hours, out of respect for the observance. But in terms of food, Spanish cuisine is not traditionally consumed during Ramadan.",,
+mistral-7b,Spain,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure," People from Spain do not traditionally celebrate Eid ul Fitr as it is an Islamic holiday. However, if invited to share a meal with friends or family of Muslim faith during this time, they might enjoy dishes such as dates (which are a traditional food for breaking the fast), kebabs, rice dishes, and Middle Eastern pastries.",,
+mistral-7b,Spain,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure," People from Spain typically don't celebrate Eid ul Adha as it is an Islamic holiday. However, if they are celebrating with friends or family who follow Islam, they might partake in traditional dishes such as kebabs, biryani, and dates, which are common during this festival.",,
+mistral-7b,Spain,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure," People from Spain typically celebrate New Year's Day in their homes or at street parties known as ""las fiestas de Año Nuevo"" in city centers such as Madrid, Barcelona, and Valencia. However, a significant number also travel to the streets of Puerta del Sol in Madrid to participate in the traditional eating of 12 grapes at midnight for good luck.",1,0.5
+mistral-7b,Spain,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure," In Spain, families typically gather at home during Eid celebrations. However, it's important to note that Eid is not a traditional Spanish holiday but is observed by Muslim communities residing in Spain. The specific location can vary based on individual preferences and community practices.",,
+mistral-7b,Spain,English,pers-3,Ne-ar-16,Work life," The weekend in Spain is typically Saturday and Sunday. However, it's important to note that some businesses or institutions might have different schedules, especially during holidays or special events.",1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-17,Work life,09:00,1,0.75
+mistral-7b,Spain,English,pers-3,Ne-ar-18,Work life,17:00 (assuming a standard working day of 8 hours),0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-20,Work life," In Spain, teaching and healthcare jobs are often considered as secure due to their importance in society and the government's commitment to maintaining these sectors.",0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-24,Work life, Madrid,1,0.75
+mistral-7b,Spain,English,pers-3,Ne-ar-25,Work life, Information Technology (IT) and Telecommunications sector offers some of the highest salaries in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-26,Work life," The most famous public corporation in Spain is probably ""La Caixa"" (Catalan for ""The Bank""), also known as ""caixabank"". It's one of the largest financial institutions in Southern Europe, with a strong social commitment and cultural influence.",0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-31,Food, Paella Valenciana,1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-32,Food," People in Spain typically have a sweet breakfast, although there has been an increasing interest in savory options, particularly for health reasons and in regions like Madrid, Barcelona, and Andalusia.",1,0.2
+mistral-7b,Spain,English,pers-3,Ne-ar-33,Food,2:00 PM,0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-34,Food, Paella (a traditional Spanish rice dish) or Bread,1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-36,Food, A typical festive meal in Spain could be either an Espicha (cider-based feast) from Asturias or a Paella Valenciana from the Valencian Community.,1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-37,Food, Oranges,1,0.5
+mistral-7b,Spain,English,pers-3,Ne-ar-38,Food, Fruits and vegetables are commonly offered as charity in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Ne-ar-39,Food," The cheapest fast food in Spain would be a ""Menú del Día"" (Menu of the Day) at a local eatery or ""tasca"". These menus often include a drink, main course, and sometimes dessert for an affordable price. However, if you're referring specifically to fast-food chains, then a value meal from a chain like ""Hamburgería Española"" would be the most cost-effective option.",1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-43,Food," A sweet pastry or biscuit, such as a polvorón or a churro.",1,1.0
+mistral-7b,Spain,English,pers-3,Ne-ar-44,Food," A sweet pastry or snack, such as churros, croissants, or a piece of cake.",1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,New-am-02,Food, Paella Valenciana,1,1.0
+mistral-7b,Spain,English,pers-3,New-am-04,Food, Romesco sauce.,0,0
+mistral-7b,Spain,English,pers-3,New-am-08,Food," During Christian fasting in Spain, bread and water or olive oil-based dishes are commonly consumed. However, for specific fasting days like 'Ash Wednesday' and 'Good Friday', traditional Spanish dishes such as 'Gazpacho' (a cold tomato soup) or 'Sopa de Ajo' (garlic soup) are often served.",0,0
+mistral-7b,Spain,English,pers-3,New-am-15,Food," Coques de San Juan (Saint John's Bread) or Galletas de Santa Catalina (Catalonia) are traditionally prepared during childbirth in some regions of Spain, not specifically for the mother but as a celebration of the new life. However, it's important to note that this is a regional custom and not a nationwide practice.",,
+mistral-7b,Spain,English,pers-3,New-am-27,Sport," Unfortunately, the provided background information does not specify a most popular female sports personality in Spain. However, some of the well-known female athletes from Spain include tennis players Garbiñe Muguruza and Sara Errani, basketball player Laia Palau, and footballer Virginia Torrecilla.",0,0
+mistral-7b,Spain,English,pers-3,New-am-34,Education, At home or at school.,1,1.0
+mistral-7b,Spain,English,pers-3,New-am-41,Education,"4th Grade (Primaria, Ciclo Medio 2) in Spain, specifically for the Selectividad exam. However, it's important to note that this is a regional examination and not all regions follow the same system. The most common national-level examination is the Bachillerato (Baccalaureate) at the end of secondary education (12th grade).",1,1.0
+mistral-7b,Spain,English,pers-3,New-am-53,Work life, Galicia,,
+mistral-7b,Spain,English,pers-3,New-am-54,Work life, Extremadura,1,0.5
+mistral-7b,Spain,English,pers-3,New-am-59,Work life," There are no deserts in Spain. The majority of the population lives in urban areas and works in various sectors such as services, industry, and tourism.",0,0
+mistral-7b,Spain,English,pers-3,New-am-60,Work life, Donkey (in traditional transhumance practices),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-am-72,Family," The most popular comic book for children in Spain is ""Mortadelo y Filemón"" (Mort and Phil).",1,1.0
+mistral-7b,Spain,English,pers-3,New-am-73,Family, LaClaseMásFácil (The Easiest Class) is one of the most popular YouTube channels for children in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-am-74,Family," The most popular talk show in Spain is ""El Hormiguero"" (The Anthill). It's hosted by Pablo Motos and airs on Antena 3.",1,1.0
+mistral-7b,Spain,English,pers-3,New-am-77,Holidays/Celebration/Leisure, The most famous religious holiday in Spain is Easter (Semana Santa or Holy Week).,1,1.0
+mistral-7b,Spain,English,pers-3,New-am-81,Holidays/Celebration/Leisure,6 (June),1,1.0
+mistral-7b,Spain,English,pers-3,New-am-83,Holidays/Celebration/Leisure, The most popular traditional musical instrument in Spain is the Spanish Guitar (Guitarra Española).,1,1.0
+mistral-7b,Spain,English,pers-3,New-as-01,Food, Olive Oil,1,0.5
+mistral-7b,Spain,English,pers-3,New-as-02,Food, Paella (pronounced: pie-ya),0,0
+mistral-7b,Spain,English,pers-3,New-as-05,Food," Sangria or Tinto de Verano (Red Wine with Lemon or Orange Soda) are common drinks offered to guests in Spanish households. However, if you're visiting during meal times, it would be more likely to find Cerveza (Beer) or Vino tinto (Red Wine).",1,1.0
+mistral-7b,Spain,English,pers-3,New-as-07,Food," Paella Valenciana (with seafood) or Bacalao al Ajillo (Garlic Cod) are among the most popular fish dishes in Spain. However, if I had to pick one, it would be Paella Valenciana due to its widespread popularity and cultural significance.",0,0
+mistral-7b,Spain,English,pers-3,New-as-14,Food," People from Spain often enjoy eating ""Gazpacho"" during rainy weather. Gazpacho is a cold soup made with vegetables such as tomatoes, cucumbers, bell peppers, garlic, and olive oil. It's refreshing and popular in Spanish cuisine.",1,0.5
+mistral-7b,Spain,English,pers-3,New-as-15,Food, Sangria or Tinto de Verano (Red Wine with Lemon or Orange Soda),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-as-20,Sport, Football (Soccer),0,0
+mistral-7b,Spain,English,pers-3,New-as-29,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,New-as-30,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,New-as-58,Work life, Coffee (Café),1,1.0
+mistral-7b,Spain,English,pers-3,New-as-64,Family,12 October (National Day of Spain),0,0
+mistral-7b,Spain,English,pers-3,New-as-76,Holidays/Celebration/Leisure," Families in Spain often play ""Castañuelas"" (Chestnut game), ""Ajedrez de Barro"" (Terracotta chess), and ""Juego de la Oca"" (Duck Game) during traditional holidays.",,
+mistral-7b,Spain,English,pers-3,New-as-80,Holidays/Celebration/Leisure," Traditional Spanish festival attire often includes the ""traje de luces"" (suit of lights) or ""traje de rodillas"" (knee suit) for men, and the ""traje de flamenca"" for women. These are colorful, embroidered costumes that vary by region. Women's outfits typically include a flamenco dress with a lace shawl, while men wear a jacket, vest, trousers, and a wide-brimmed hat.",1,1.0
+mistral-7b,Spain,English,pers-3,New-as-89,Holidays/Celebration/Leisure," Traditional Spanish festival accessories often include:
+
+1. Castanets (Castañuelas)
+2. Fan (Abanico)
+3. Shawl or Scarf (Mantilla)
+4. Lace Collar (Collarín)
+5. Flamenco dress for women and traje de luces for men during Feria de Abril in Seville.
+6. Red and white scarves (pañuelos rojos y blancos) during La Tomatina festival.",0,0
+mistral-7b,Spain,English,pers-3,New-az-05,Food, Asturias,0,0
+mistral-7b,Spain,English,pers-3,New-az-11,Food, Melon (Melón) or Watermelon (Sandía) are commonly eaten fruits during the Spanish summer season.,1,1.0
+mistral-7b,Spain,English,pers-3,New-az-12,Food, Galicia,1,1.0
+mistral-7b,Spain,English,pers-3,New-az-21,Sport, Pyrenees (Catalonia and Aragon),1,0.5
+mistral-7b,Spain,English,pers-3,New-az-26,Sport," There isn't a widely recognized Spanish martial artist known for being a ""player"" in the traditional sense of sports like football or basketball. However, Spain has produced notable figures in Martial Arts such as Juan Antonio Rodriguez Iglesias (Tony Iglesias), a world champion in Karate and Taekwondo, and Ana Julia Ramírez, a multiple-time World Champion in Kickboxing.",,
+mistral-7b,Spain,English,pers-3,New-az-27,Sport," Football (Soccer) or Basketball, depending on the specific region and timeframe within the last decade.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-az-39,Education, United Kingdom (UK),1,0.5
+mistral-7b,Spain,English,pers-3,New-az-49,Work life,"1 or more, but most families have 1 worker.",1,0.2
+mistral-7b,Spain,English,pers-3,New-az-60,Family, Daycare or Guardería (in Spanish) is commonly used for childcare in Spain when both parents are working.,0,0
+mistral-7b,Spain,English,pers-3,New-az-69,Holidays/Celebration/Leisure," Sangria or Beer (Cerveza) are popular choices among Spanish men, but Tinto de Verano (Red Wine with lemon soda) is also quite common during summer months.",1,1.0
+mistral-7b,Spain,English,pers-3,New-az-70,Holidays/Celebration/Leisure," Sangria (a red wine-based cocktail) or Cerveza (beer), both are popular among Spanish women. However, personal preferences may vary.",1,1.0
+mistral-7b,Spain,English,pers-3,New-az-73,Holidays/Celebration/Leisure,150-200 (approximate range for traditional Spanish weddings),0,0
+mistral-7b,Spain,English,pers-3,New-ch-01,Food," Asado de ternera (Grilled Beef) or Embutido (Sausages) are commonly used for barbecues in Spain. However, regional variations exist and some regions may prefer other types of meat such as lamb or pork.",1,0.5
+mistral-7b,Spain,English,pers-3,New-ch-02,Food,09:00 is when people usually have breakfast in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-04,Food," Tapas or small snacks such as tortilla española (Spanish omelette), patatas bravas (fried potatoes with spicy sauce), gambas al ajillo (garlic shrimp) and croquetas (deep-fried rolls filled with ham, chicken or cheese). Additionally, fresh fruits like melon or grapes are common late-night snacks.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-05,Food, Paella Valenciana (or Arroz a Banda) with its characteristic spicy saffron-infused broth and choricero peppers.,0,0
+mistral-7b,Spain,English,pers-3,New-ch-07,Food, Marconas almonds and olives (specifically Manzanilla or Gordal variety) are common snacks paired with hard liquor in Spain.,1,0.25
+mistral-7b,Spain,English,pers-3,New-ch-08,Food, Paprika (Pimentón),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-ch-09,Food," People in Spain typically consume soups, stews, and hot dishes like cocido (a traditional Spanish stew) or fabada asturiana (a bean stew from Asturias) during cold weather.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-13,Food," The concept of ""most famous"" can be subjective and varies based on factors such as popularity, recognition, and sales volume. However, when it comes to traditional Spanish alcoholic beverages, the name that stands out is not a brand but rather a region: 'Sidra de Asturias' (Asturian Cider), which is one of Spain's most renowned regional specialties. If you are referring to commercial spirits or wines, brands like Tempranillo (for wine) and Havana Club (rum) have significant international recognition.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-14,Food," Fruit, broths (sopas), and teas (infusiones) are commonly consumed by Spanish people when they are sick.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-15,Food," Cooked legumes, ready meals, canned tuna, eggs, and dairy products are commonly bought at supermarkets in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-16,Sport," The most famous sports-related movie in Spain is ""El Topo de la Serra"" (The Summit). It tells the story of the 1950 Spanish national football team, which won the World Cup for the first time.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-17,Sport, Mountaineering/Climbing,0,0
+mistral-7b,Spain,English,pers-3,New-ch-18,Sport," Aizkolaris (Log-Chopping) or Carrera de Velas (Race of Candles) are the most popular sports events to watch during competitions in Spain, particularly in Basque Country. However, it's important to note that these are traditional rural sports and not necessarily track and field events as traditionally understood.",1,0.5
+mistral-7b,Spain,English,pers-3,New-ch-19,Sport, Rhythmic Gymnastics (Gimnasia Rítmica),1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-23,Sport," Timo Boll (German by birth) has lived and played professionally in Spain for many years, but the most famous Spanish table tennis player is Ma Long, who holds dual citizenship with China and Spain. However, if we consider only players born in Spain, the most renowned is probably Alan Coquet.",,
+mistral-7b,Spain,English,pers-3,New-ch-26,Sport, Ski Alpine Downhill,1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-27,Sport,"Óscar de la Hoya (Oscar De La Hoya) is one of the most famous Spanish boxers globally. He was born in East Los Angeles to parents from Spain and Mexico. Although he represents the United States, his roots are Spanish.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-30,Sport,"Ángel Rodríguez, a multiple Paralympic gold medalist in long jump and shot put, is one of the most renowned Spanish track and field athletes.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-31,Work life," In Spain, there isn't necessarily a specific job that all parents hope their children will pursue. Parents generally want their children to find fulfilling and stable careers that they enjoy and are passionate about. However, due to the economic importance of certain sectors, some parents might express a preference for fields like medicine, engineering, or law.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-32,Work life," Microsoft Office (Word, Excel, PowerPoint) and Google Workspace (Docs, Sheets, Slides) are commonly used office software in Spain, similar to many other countries. However, it's important to note that preferences may vary depending on the specific company or industry.",1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,New-ch-38,Work life," Barcelona (Catalonia), Madrid (Castile-Leon), Valencia (Valencia), Bilbao (Basque Country), Seville (Andalusia) and Zaragoza (Aragon) are some of the cities known for their import and export activities in Spain. Additionally, the regions of Galicia, Asturias, Cantabria, and Navarra also play significant roles in trade.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-39,Work life, Amazon (Marketplace) and El Corte Inglés (online store) are among the most popular e-commerce platforms in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-44,Work life,90 days (3 meses) is the typical probation period for new employees before signing a formal contract in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-ch-45,Work life," Technology, Tourism, Food & Beverage, and Renewable Energy are popular sectors for young entrepreneurs in Spain.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-49,Family," Video Call (WhatsApp, Skype, etc.)",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-51,Family, Apartment or Casa Rural (Rural House),1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-54,Family, Tomato (Tomate),1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-64,Education,20,1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-66,Education,0 (Free of charge),,
+mistral-7b,Spain,English,pers-3,New-ch-70,Education," In Spain, all university students, regardless of their field of study, are required to take a common course on Spanish Constitution and Society (Constitución y Sociedad Española).",0,0
+mistral-7b,Spain,English,pers-3,New-ch-71,Education,25-30,1,0.5
+mistral-7b,Spain,English,pers-3,New-ch-72,Education," Engineering (Ingeniería) or Business Administration (Administración y Dirección de Empresas) are often considered as fields with good employment prospects in Spain. However, it's important to note that opportunities can vary greatly depending on the specific field and region within Spain.",1,0.5
+mistral-7b,Spain,English,pers-3,New-ch-73,Education, Soccer (Fútbol) and Student Associations (Asociaciones de Estudiantes) are the most popular clubs among university students in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-ch-74,Education," University students in Spain typically live in Residencias Universitarias (University Residences), Apartamentos Compartidos (Shared Apartments) or Casas Particulares (Private Houses).",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-75,Education,60 (Each class period for middle school students in Spain lasts 60 minutes.),1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,"1. Socializing with friends (Tertulias)
+2. Playing cards or board games (Naipes/Tableros)
+3. Gardening (Jardinería)
+4. Knitting or sewing (Costurar)
+5. Reading books (Leer libros)
+6. Walking in parks (Caminar en parques)
+7. Attending religious events (Asistir a eventos religiosos)
+8. Cooking traditional dishes (Cocinar platos tradicionales)",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,"1. Playing cards (particularly bridge or poker)
+2. Socializing at local cafes or bars (tertulias)
+3. Watching football (fútbol) matches, especially those of their favorite team
+4. Gardening and tending to allotment plots (huerto)
+5. Participating in traditional Spanish dances like flamenco or jota
+6. Joining senior clubs for activities such as swimming, table tennis, or walking groups
+7. Reading newspapers and books at home or in the park
+8. Attending cultural events like concerts, theater performances, or art exhibitions
+9. Engaging in conversation (charlar) with friends and family
+10. Enjoying a siesta during the hottest part of the day.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,"1 January, 6 January, Good Friday (3 April), 12 October, and 8 December are the holidays when people typically visit religious sites in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-ch-81,Holidays/Celebration/Leisure, A bottle of Cava (Spanish sparkling wine) and a traditional Spanish olive oil tin.,1,0.5
+mistral-7b,Spain,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,13:00 - 14:00 (traditional Catholic weddings often take place in the afternoon) or 20:00 - 21:00 (secular or civil weddings can occur later in the evening),1,0.25
+mistral-7b,Spain,English,pers-3,New-ch-83,Holidays/Celebration/Leisure," Valencia or Catalonia (depending on the specific festivals referred to) as both regions host unique and significant cultural festivals such as Fallas, Magosto/Castanyada, and Castells.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-ch-84,Holidays/Celebration/Leisure," White or off-white for the bride, formal dark suits (black, navy blue) and ties for men, and elegant dresses in various colors for women at Spanish weddings.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ch-85,Holidays/Celebration/Leisure, Black,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-01,Food," Popcorn (Caramelo) or Churros with hot chocolate (Churros con chocolate caliente). However, it's not as common as in other countries like the USA.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-02,Food," The most popular chip/crisp flavor in Spain is ""Paprika.""",0,0
+mistral-7b,Spain,English,pers-3,New-en-04,Food, Ferran Adrià,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-05,Food, Tortilla Española (Spanish Omelette),0,0
+mistral-7b,Spain,English,pers-3,New-en-07,Food,"1. MasterChef España (MasterChef Spain)
+2. Cocinando con el Chef (Cooking with the Chef)
+3. Top Chef España (Top Chef Spain)
+4. La Gran Ocasión (The Big Chance)
+5. Cocina de Familia (Family Kitchen)",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-08,Food, The most popular chocolate brand in Spain is Mondelez International's Cadbury.,0,0
+mistral-7b,Spain,English,pers-3,New-en-10,Food, Manchego,0,0
+mistral-7b,Spain,English,pers-3,New-en-11,Food, The most disliked vegetable in Spain is artichoke (alcachofa).,0,0
+mistral-7b,Spain,English,pers-3,New-en-12,Food, Fast food such as hamburgers and pizza are most commonly found in food courts in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-en-17,Sport,¡Tarima y las palmas! (Drums and clapping hands),1,1.0
+mistral-7b,Spain,English,pers-3,New-en-18,Sport, A scarf or bandana (pañuelo) and a noisemaker (cascarón).,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-19,Sport," Santiago Bernabéu Stadium (Estadio Santiago Bernabéu) in Madrid, famous for Real Madrid C.F., a prominent football club.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-23,Sport,Ángel María Sab Rosa,,
+mistral-7b,Spain,English,pers-3,New-en-26,Sport,"¡Ahh, ¿qué más! The most recognized sporting chant in España would be ""Ole"" (Oh-leh). It's often used to express enthusiasm and support during football (fútbol) matches, but it can also be heard at other sports events.",0,0
+mistral-7b,Spain,English,pers-3,New-en-38,Work life, Technology and Creative Industries,0,0
+mistral-7b,Spain,English,pers-3,New-en-41,Work life," The most well-known and successful Spanish entrepreneur would be Amancio Ortega Gaona, founder of Inditex (Zara). He is one of the richest people in the world.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-47,Family, Olive tree or orange tree,0,0
+mistral-7b,Spain,English,pers-3,New-en-49,Family," I'm sorry for any confusion, but there isn't a concept of ""the most famous family"" in Spain in the way you might be thinking. Families in Spain are not typically recognized or ranked based on fame. However, some royal families have historical significance, such as the Spanish Royal Family (Casa de Borbón), which has been the reigning dynasty since 1975. But it's important to note that they are not considered famous in the same way celebrities might be.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-50,Family, The most common family name in Spain is García.,1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,New-en-55,Family, Roman Catholicism,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-56,Family, English,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-59,Family, United States,0,0
+mistral-7b,Spain,English,pers-3,New-en-68,Education," Suspension or expulsion from school, depending on the severity of the misconduct.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-69,Education," Miguel de Cervantes Saavedra (Don Quijote), Jorge Manrique (Coplas por la muerte de su padre), and Federico García Lorca (Poetry) are commonly studied writers in Spanish literature classes.",1,1.0
+mistral-7b,Spain,English,pers-3,New-en-70,Education,4,1,0.5
+mistral-7b,Spain,English,pers-3,New-en-72,Education," The most commonly used online resource for studying in Spain is Moodle (Modular Object-Oriented Dynamic Learning Environment). However, it's important to note that each university may have its preferred platform or a combination of resources.",1,0.5
+mistral-7b,Spain,English,pers-3,New-en-75,Education,14-16,0,0
+mistral-7b,Spain,English,pers-3,New-en-76,Holidays/Celebration/Leisure, Barcelona-El Prat Airport (BCN) is the busiest airport in Spain during the holiday season.,1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,New-en-79,Holidays/Celebration/Leisure, The region of Spain that is well-known for its theatrical performances is Andalusia.,0,0
+mistral-7b,Spain,English,pers-3,New-en-87,Holidays/Celebration/Leisure, The Alhambra in Granada.,1,1.0
+mistral-7b,Spain,English,pers-3,New-en-90,Holidays/Celebration/Leisure," The most famous hotel brand in Spain is probably ""Meliá Hotels International"".",1,1.0
+mistral-7b,Spain,English,pers-3,New-gr-05,Food," Churros con chocolate (Churros with hot chocolate) or a bocadillo de calamares (fried squid sandwich) are common grab-and-go options for breakfast in Spain, but the most popular would be a croissant or a roll filled with jamón serrano (Spanish ham).",1,1.0
+mistral-7b,Spain,English,pers-3,New-gr-06,Food," Breakfast foods, particularly sweet formats, are commonly consumed by young people in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-gr-08,Food, Sangria,0,0
+mistral-7b,Spain,English,pers-3,New-gr-13,Food, Coffee (Taza de café) is the most common morning drink in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-gr-15,Food," Turrón (either soft or hard) is the most popular traditional dessert in Spain, particularly during Christmas.",0,0
+mistral-7b,Spain,English,pers-3,New-gr-21,Sport, Tennis,1,0.5
+mistral-7b,Spain,English,pers-3,New-gr-24,Sport, Football (Soccer) is the most popular track and field sport in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-gr-29,Sport, The FIFA World Cup is the most popular international sporting event in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-gr-47,Work life,15,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-gr-58,Work life," In Spain, it is generally perceived that jobs in sectors such as caregiving, education, and certain manual labor positions are often underpaid compared to other professions.",0,0
+mistral-7b,Spain,English,pers-3,New-gr-76,Holidays/Celebration/Leisure," The most common food served during Easter in Spain is ""Monas de Pascua"" or Easter cakes. These are sweet breads typically shaped like a dove or an egg and decorated with colorful icing. They often contain candied fruits, nuts, and aniseed.",0,0
+mistral-7b,Spain,English,pers-3,New-gr-82,Holidays/Celebration/Leisure, Spanish pop and rock,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-gr-88,Holidays/Celebration/Leisure, Wine (Vino),0,0
+mistral-7b,Spain,English,pers-3,New-gr-89,Holidays/Celebration/Leisure, Sangria,0,0
+mistral-7b,Spain,English,pers-3,New-ha-07,Food, Paella,1,1.0
+mistral-7b,Spain,English,pers-3,New-ha-08,Food, Spinach (Espárragos de hortelana),1,1.0
+mistral-7b,Spain,English,pers-3,New-ha-09,Food, Paella Pan (Hornillo),0,0
+mistral-7b,Spain,English,pers-3,New-ha-13,Food, Tomato (Tomate) is one of the most popular vegetables in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-ha-19,Sport," Bull (Toro) is used for sports in Spain, particularly in the tradition of bullfighting (corrida de toros).",,
+mistral-7b,Spain,English,pers-3,New-ha-66,Family," The most popular wedding venue in Spain is a Church or Cathedral followed by a Civil Ceremony venue, with many couples also choosing outdoor locations like gardens or beaches for their celebrations.",1,1.0
+mistral-7b,Spain,English,pers-3,New-in-01,Food," Starbucks is quite popular in Spain, but the most iconic and traditional coffee shop brand would be ""Café de Madrid"" or ""Café de Oriente"", both located in Madrid's historic center.",1,1.0
+mistral-7b,Spain,English,pers-3,New-in-03,Food, Paella (Valencian rice dish) and Tapas (small dishes) are commonly found in Spanish restaurants overseas.,1,1.0
+mistral-7b,Spain,English,pers-3,New-in-33,Work life," Asturias or La Rioja (both regions have significant mining history, particularly in coal and iron ore respectively)",1,1.0
+mistral-7b,Spain,English,pers-3,New-in-34,Work life, The region of Spain that is usually associated with oil is Cantabria.,0,0
+mistral-7b,Spain,English,pers-3,New-in-62,Education, Universidad Politécnica de Madrid (UPM) is a well-known Spanish university for its engineering programs.,0,0
+mistral-7b,Spain,English,pers-3,New-in-63,Education, Universidad Complutense de Madrid (Official Name: Universidad Complutense de España) is popular due to its School of Medicine.,0,0
+mistral-7b,Spain,English,pers-3,New-in-78,Holidays/Celebration/Leisure, Debit Card (Tarjeta de Débito),1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-in-80,Holidays/Celebration/Leisure," The most famous theme park in Spain is ""PortAventura World"" located in Salou, Tarragona.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ko-01,Family," ""El Bosque de las Maravillas"" (The Wonderful Forest) is a widely-watched children's animation in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-ko-02,Family, Pre-natal yoga classes (Clases de yoga para embarazadas) are quite common and popular in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-ko-03,Family," La Bamba (Spanish version) is a popular children's song in Spain that families often sing together, although it originated from Mexico. However, if we consider traditional Spanish songs, ""Canción del Cisne Negro"" (The Black Swan Song) might be more representative.",0,0
+mistral-7b,Spain,English,pers-3,New-ko-04,Family," Lego and action figures (e.g., Star Wars, Marvel) are quite popular among Spanish boys. Additionally, traditional Spanish toys like the ""Cesta Punta"" (a type of javelin-like toy) or ""Tretzos"" (wooden tops) can also be found.",0,0
+mistral-7b,Spain,English,pers-3,New-ko-05,Family," Dolls (Muñecas) and Barbie dolls are quite popular among Spanish girls. Additionally, LEGO sets and board games like ""Talón de Oro"" are also enjoyed by many.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ko-06,Family," The most popular Spanish folk tale for children is ""La Cenicienta"" (Cinderella). However, it's important to note that Spain has numerous regional variations of this story, such as ""La Guiñolera"" from Asturias or ""La Pascuala"" from Galicia.",0,0
+mistral-7b,Spain,English,pers-3,New-ko-07,Holidays/Celebration/Leisure, Black Mourning Veil (Velo de luto) or Black Band (Cinta negra),0,0
+mistral-7b,Spain,English,pers-3,New-ko-08,Work life," University students in Spain tend to work part-time most often in retail and service industries such as restaurants, bars, and shops. However, it's also common for them to work as tutors or freelancers in their field of study.",1,1.0
+mistral-7b,Spain,English,pers-3,New-ko-09,Work life, Castells building (teamwork activity inspired by human towers tradition),0,0
+mistral-7b,Spain,English,pers-3,New-ko-10,Work life," Farming, Crafts, Tutoring, Bartending, Tour Guiding, Freelance Services (Graphic Design, Writing, IT), and Sales at Local Markets.",0,0
+mistral-7b,Spain,English,pers-3,New-pe-02,Food, Paella Valenciana,1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-06,Food," The most popular stew in Spain is ""Gazpacho"" (pronounced: gaθ-pa-θo), although it's technically a cold soup made from vegetables rather than a traditional stew. If you're referring to hot stews, the most common one would be ""Cocido Madrileño,"" a hearty dish from Madrid.",1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-11,Food," The most common herb used in Spanish dishes is probably oregano (or hojas de orégano in Spanish). However, it's important to note that Spanish cuisine uses a variety of herbs and spices, depending on the region and dish. Other commonly used ones include thyme (tomillo), rosemary (romero), saffron (azafrán), paprika (pimentón), and cumin (comino).",1,0.5
+mistral-7b,Spain,English,pers-3,New-pe-16,Sport, Aizkolaris (Basque Country) or Lucha Canaria (Canary Islands) are among the most popular traditional sports in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-pe-20,Sport, Trainera rowing regattas (remo en trainera) are popular sports played on the beaches in Spain.,0,0
+mistral-7b,Spain,English,pers-3,New-pe-45,Work life," In Spain, during the month of Ramadan, the working hours for Muslims may be adjusted to accommodate the fasting period. However, it's important to note that not all Spaniards are Muslim, and the majority of the population does not observe Ramadan. Therefore, the usual work schedule remains largely unaffected for most people in Spain during this month.",,
+mistral-7b,Spain,English,pers-3,New-pe-47,Family,29th of September (09/29) is when Student's Day is celebrated in Spain.,,
+mistral-7b,Spain,English,pers-3,New-pe-49,Family, Iglesia (Church),1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-53,Family," Traditionally, common gifts for Spanish fathers on Father's Day include:
+
+1. Ties
+2. Cologne or aftershave
+3. Leather goods (wallets, belts, etc.)
+4. Tools
+5. Electronics (smartphones, tablets, watches)
+6. Sports-related items (tickets to a game, equipment, etc.)
+7. Alcohol (wine, beer, whiskey)
+8. Books or magazines related to their interests
+9. Gourmet food products
+10. Handmade crafts from children.",1,0.5
+mistral-7b,Spain,English,pers-3,New-pe-54,Family," Flowers and handmade cards are common gifts for mothers on Mother's Day in Spain. However, it is also traditional to give a ""monkey"" made of chocolate or porcelain as a symbol of good luck and motherly love.",1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-59,Family,1 or 2,1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-65,Education,8 (Eight) subjects are taught in Spanish middle schools.,1,0.5
+mistral-7b,Spain,English,pers-3,New-pe-66,Education," The most popular after-school curricular activity in Spanish elementary schools is ""Actividades Extraescolares Reguladas"" (AER), which translates to ""Regulated After School Activities."" These activities can include sports, arts, music, languages, and science clubs. However, it's important to note that participation is not mandatory and varies greatly depending on the school and region.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-pe-74,Education," The average annual tuition fee for public universities in Spain is approximately 1000 euros for EU students and around 2000 euros for non-EU students (as of 2021). However, it's essential to note that some specific courses or universities may have different fees.",1,0.5
+mistral-7b,Spain,English,pers-3,New-pe-76,Holidays/Celebration/Leisure, Playing football (soccer) is a very popular activity in Spanish parks.,0,0
+mistral-7b,Spain,English,pers-3,New-pe-78,Holidays/Celebration/Leisure, San Sebastian International Film Festival,1,1.0
+mistral-7b,Spain,English,pers-3,New-pe-83,Holidays/Celebration/Leisure," Spanish Popular Card Game: ""Spanish Bridghe"" or ""Bridge Español""",0,0
+mistral-7b,Spain,English,pers-3,New-pe-85,Holidays/Celebration/Leisure, The most popular tourist destination abroad for people from Spain is Italy.,1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,New-pe-86,Holidays/Celebration/Leisure, La Torre de la Giralda (The Giralda Tower) in Seville.,1,1.0
+mistral-7b,Spain,English,pers-3,New-spme-01,Food," Locust (Cigrón) or Grasshopper (Saltamontes) are among the most commonly consumed edible insects in Spain, particularly in some regions like Aragon and Catalonia. However, it's important to note that these are not as widespread as other insects such as mealworms (larvae of the mealworm beetle), which are more popularly consumed across the country.",,
+mistral-7b,Spain,English,pers-3,New-spme-04,Food, Oranges (Naranjas) are the most frequently exported agricultural product in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-spme-05,Food," Turrón (soft or hard almond nougat) from Jijona, Alicante.",0,0
+mistral-7b,Spain,English,pers-3,New-spme-15,Sport, The most popular sports drink in Spain is Isotonic.,0,0
+mistral-7b,Spain,English,pers-3,New-spme-27,Education," The average education level for people in Spain includes ten years of compulsory, free basic education (primary and lower secondary) and early childhood education that runs up to age 6, with varying attendance rates across public, publicly subsidised private, and fully private schools.",1,1.0
+mistral-7b,Spain,English,pers-3,New-spme-37,Education, Engineering,,
+mistral-7b,Spain,English,pers-3,New-spme-60,Family, Sunday,1,1.0
+mistral-7b,Spain,English,pers-3,New-spme-65,Family," The most popular way to celebrate Independence Day (La Diada de Catalunya) in Spain's autonomous community of Catalonia is with a large-scale demonstration called ""La Diada"" on September 11th, accompanied by cultural events and concerts.",,
+mistral-7b,Spain,English,pers-3,New-spme-68,Family, Horchata de Chufa (Tiger Nut Milk) or Fresco (Lemonade) are popular beverages among Spanish children.,0,0
+mistral-7b,Spain,English,pers-3,New-spme-76,Holidays/Celebration/Leisure," Spain does not have an Independence Day as it is not a sovereign state but a member of the Kingdom of Spain, which includes 17 autonomous communities. The region with the most significant national day celebration is Catalonia, where La Diada de Catalunya (Catalonia's National Day) is celebrated on September 11th.",,
+mistral-7b,Spain,English,pers-3,New-spme-78,Holidays/Celebration/Leisure," ""Las Mañanitas"" (The Little Mornings) is the traditional song sung at birthday celebrations in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-su-01,Food, Churros con chocolate (Churros with hot chocolate) or bocadillos (sandwiches) are commonly found near Spanish schools.,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-09,Food, Olive Oil,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-10,Food," Fruit and vegetables, particularly seven times a week, are commonly consumed by pregnant women in Spain.",,
+mistral-7b,Spain,English,pers-3,New-su-15,Food," Sangria, while popular worldwide, is actually not a traditional Spanish drink. The most popular traditional non-alcoholic drink in Spain is Horchata de Chufa (Chufa tiger nut milk).",1,0.5
+mistral-7b,Spain,English,pers-3,New-su-17,Sport," In Spanish parks, you can usually find football pitches, basketball courts, tennis courts, and playgrounds for children. Some larger parks may also have areas for outdoor gym workouts or bike paths.",0,0
+mistral-7b,Spain,English,pers-3,New-su-21,Sport," Senior citizens in Spain often engage in social activities such as playing cards or board games, practicing tai chi or other forms of exercise, and enjoying leisurely walks or picnics in parks.",0,0
+mistral-7b,Spain,English,pers-3,New-su-24,Sport, Football (Soccer) and Basketball,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-28,Sport, Red and yellow (La Roja),1,1.0
+mistral-7b,Spain,English,pers-3,New-su-33,Education," In Spain, school teachers typically wear business casual attire, which includes blouses or shirts with trousers or skirts for women, and collared shirts with trousers for men. However, there may be variations depending on the specific school's dress code policy.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-34,Education, Choir (Coros polifónicos) is the most popular extracurricular activity related to music in Spanish schools.,1,0.5
+mistral-7b,Spain,English,pers-3,New-su-42,Education, Catholicism is mainly taught in schools in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-45,Education,"05/13 (May 13th) is not a specific Education Day in Spain as per the provided information. However, it's important to note that each autonomous community in Spain may have its own regional celebrations or events related to education.",0,0
+mistral-7b,Spain,English,pers-3,New-su-50,Work life," Agriculture and livestock farming, with some focus on tourism.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-51,Work life, Fishing and Tourism,1,0.5
+mistral-7b,Spain,English,pers-3,New-su-57,Work life, Sheep,0,0
+mistral-7b,Spain,English,pers-3,New-su-58,Work life," Sheep, cattle, pigs, and goats are commonly used for agriculture in Spain.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-59,Work life, Broad-brimmed straw hats (sombreros de paja) and wide-legged cotton trousers (bombachas).,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-60,Work life," Farmers in Spain typically have a traditional Spanish lunch called ""la comida"" which is eaten around 2:00 PM. This meal often consists of several courses including a starter, main course, and dessert. The main course might be meat (such as pork or beef), fish, or vegetables, accompanied by bread, rice, or potatoes. However, the specific dishes can vary greatly depending on the region in Spain.",0,0
+mistral-7b,Spain,English,pers-3,New-su-71,Family," Traditional birthday gifts for children in Spain often include toys, books, clothes, or electronic devices. However, it's also common for parents to give experiences such as trips, outings, or parties as gifts.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-75,Family, Most families in Spain generally own a passenger car.,1,1.0
+mistral-7b,Spain,English,pers-3,New-su-77,Holidays/Celebration/Leisure," In Spain, we do not celebrate Eid as it is an Islamic holiday and our predominant religion is Christianity. However, during Christmas, Spanish children receive gifts (Los Reyes Magos).",,
+mistral-7b,Spain,English,pers-3,New-su-81,Holidays/Celebration/Leisure," Grooms typically wear a formal suit (traje de boda) or a traditional Spanish costume called trajes de fiesta, which includes a jacket, pants, and a waistcoat, often with lace details, at Spanish weddings.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-82,Holidays/Celebration/Leisure," White wedding gown with a lace mantilla (veil) and a traditional Spanish dress called ""traje de novia"" for the civil ceremony. For the church ceremony, the bride often wears a white or ivory floor-length gown.",1,1.0
+mistral-7b,Spain,English,pers-3,New-su-83,Holidays/Celebration/Leisure, Paella Valenciana or Arroz con Pollo (Chicken Rice) are commonly served at Spanish weddings.,0,0
+mistral-7b,Spain,English,pers-3,New-su-86,Holidays/Celebration/Leisure, The most famous government building in Spain is the Royal Palace of Madrid.,0,0
+mistral-7b,Spain,English,pers-3,New-su-88,Holidays/Celebration/Leisure, Spanish pop and rock,0,0
+mistral-7b,Spain,English,pers-3,Ni-en-02,Education,"15:30 (3:30 PM) is a common finishing time for middle school students in Spain. However, it can vary depending on the region and specific school schedule.",0,0
+mistral-7b,Spain,English,pers-3,Ni-en-03,Education,16,0,0
+mistral-7b,Spain,English,pers-3,Ni-en-06,Education,6 (for basic education which includes primary and lower secondary),1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-09,Education,5,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-11,Education,2 years,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-12,Education, Universidad Complutense de Madrid (official name: Universidad Complutense de España),0,0
+mistral-7b,Spain,English,pers-3,Ni-en-13,Education,23,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-15,Education,12,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-17,Work life,31.7 (hours per week),0,0
+mistral-7b,Spain,English,pers-3,Ni-en-19,Work life,5,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-20,Work life,16,1,0.5
+mistral-7b,Spain,English,pers-3,Ni-en-21,Work life,16,1,1.0
+mistral-7b,Spain,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure, Turrón (either soft or hard) is traditionally eaten on Christmas Day in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,23 April (San Jordi or Dia de Sant Jordi),0,0
+mistral-7b,Spain,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure," ""El Firulete"" or ""Los Peces en el Río"" are among the most popular Christmas songs in Spain.",0,0
+mistral-7b,Spain,English,pers-3,Nu-in-04,Education,2 (Dos),1,1.0
+mistral-7b,Spain,English,pers-3,Nu-in-05,Education,5 or 9,1,1.0
+mistral-7b,Spain,English,pers-3,Nu-in-06,Education,"5 October (10/05) is the day that National Teacher's Day is commemorated in Spain, according to my knowledge. However, it's important to note that this specific date might be subject to change based on local or regional traditions and practices.",0,0
+mistral-7b,Spain,English,pers-3,Nu-in-11,Education,"09:00 (in most cases, but it can vary slightly depending on the region and specific school schedule.)",1,1.0
+mistral-7b,Spain,English,pers-3,Nu-in-20,Family,6th of December is when Children's Day is celebrated in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Nu-in-40,Work life, Madrid,1,1.0
+mistral-7b,Spain,English,pers-3,Sa-en-1,Food, The most popular fast-food chain in Spain is Burger King.,1,0.4
+mistral-7b,Spain,English,pers-3,Sa-en-13,Food, Paella Valenciana,1,0.4
+mistral-7b,Spain,English,pers-3,Sa-en-16,Sport," Real Madrid or FC Barcelona, depending on the region.",1,1.0
+mistral-7b,Spain,English,pers-3,Sa-en-22,Sport," The University of Barcelona, known for Real Club Deportivo de la Universidad de Barcelona (FC Barcelona) sports team, particularly its football (soccer) team.",,
+mistral-7b,Spain,English,pers-3,Sa-en-31,Family, Dog (Perro in Spanish),1,1.0
+mistral-7b,Spain,English,pers-3,Sa-en-32,Family," La Casa de Papel (Money Heist) is currently one of the most popular Spanish TV shows worldwide. However, it's important to note that Spain has a rich television culture with many beloved series, and the ""most popular"" can vary depending on demographics and time periods. Other notable examples include ""Los Serrano,"" ""Aquí no hay quien viva,"" and ""Isabel.""",0,0
+mistral-7b,Spain,English,pers-3,Sa-en-37,Family," The most popular family board game in Spain is ""La Truca"" (The Trick).",0,0
+mistral-7b,Spain,English,pers-3,Sa-en-6,Food, Paella or Pizza (depending on the region),1,0.5
+mistral-7b,Spain,English,pers-3,Sa-en-7,Food," Turrón (soft or hard almond-based sweets), as well as savory breakfast items like churros with chocolate, bocadillos (sandwiches) and tortilla española (Spanish omelette).",1,1.0
+mistral-7b,Spain,English,pers-3,Sa-en-9,Food," Paella or seafood dishes, along with fresh fruits and tapas.",0,0
+mistral-7b,Spain,English,pers-3,Ta-pe-10,Family,39.9 (for men),0,0
+mistral-7b,Spain,English,pers-3,Ta-pe-11,Family,37.2,0,0
+mistral-7b,Spain,English,pers-3,Ta-pe-13,Family,"4.5 (Based on the information provided, it is not possible to determine the exact average number of members in a family for the parents' generation. However, we can infer that it was likely around 4.5, considering the average family size in Spain has historically been around this number and the trend towards smaller families continues.)",1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-17,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-21,Sport, Children usually play soccer in parks or school playgrounds in Spain.,1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,Ta-pe-22,Sport," Jogging (Correr) or Walking (Caminar) are popular daily exercises among women in Spain. However, it's important to note that various forms of physical activity are widely practiced across the population.",1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-23,Sport, Football (Soccer),0,0
+mistral-7b,Spain,English,pers-3,Ta-pe-25,Sport, Real Madrid vs Barcelona (in football/soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-29,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-30,Sport," The most popular sports-related TV program in Spain varies over time, but as of the provided information, it seems that ""Semana Bolística"" has significant prominence due to its representation of Cantabria's history, culture, and tradition. However, it is important to note that football (fútbol) remains a dominant aspect of Spanish popular culture, with numerous TV programs dedicated to it.",1,0.3333333333333333
+mistral-7b,Spain,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"16th of December (La Nit de Foc or La Noche de San Juan) is usually dedicated to fireworks in Spain. However, it's important to note that fireworks are also a common feature during the Fallas festival in Valencia (14-19 March).",0,0
+mistral-7b,Spain,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,12 Grapes (Las Doce Uvas de la Suerte),1,1.0
+mistral-7b,Spain,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure," People from Spain typically eat 12 grapes on New Year's Eve, one for each stroke of midnight, as part of a tradition believed to bring good luck in the coming year.",1,0.5
+mistral-7b,Spain,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure," Roasted Chestnuts (Castañas Asadas) and Galactic Cake (Torta de los Reyes) are traditionally consumed during the celebration of the longest night of the year, known as Nochebuena or La Noche de San Juan, in Spain.",0,0
+mistral-7b,Spain,English,pers-3,Th-en-01,Sport, Football (Soccer) is the most popular summer sport in Spain.,1,0.5
+mistral-7b,Spain,English,pers-3,Th-en-03,Sport, La Liga (Spanish football league),1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-05,Sport," I cannot definitively say which is the most popular women's sports team in Spain as it can vary based on different factors such as region, popularity of specific sports, and individual preferences. However, according to the information provided, it seems that there isn't a single, nationally recognized women's sports team mentioned. Instead, the focus appears to be on sports like log-chopping (aizkolaris) and padel, which are popular in certain regions but may not necessarily have organized teams. For more specific information about women's sports teams in Spain, it would be beneficial to look into regional or local clubs participating in sports such as football (soccer), basketball, handball, and tennis.",1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-09,Sport," The most popular tournaments in Spain vary depending on the context, as Spain has rich and diverse cultural traditions. However, if we are referring to sports, the Running of the Bulls (Encierro) in Pamplona during the San Fermín festival is internationally renowned. If we consider cultural events, the Cádiz Carnival, Bandera de La Concha regattas, and log-chopping competitions are significant and popular within Spain.",0,0
+mistral-7b,Spain,English,pers-3,Th-en-11,Sport," The information provided does not specify a particular individual as the most popular sports personality in Spain. However, it mentions that football (soccer) and basketball are among the leading sports with federated licenses. In terms of global recognition, Spanish athletes like Sergio Ramos (football) and Pau Gasol (basketball) have achieved significant success.",1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,Th-en-12,Sport, Football (Soccer),1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-15,Sport, Skiing is the most popular winter sport in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-19,Work life," Basque Country (País Vasco) or Catalonia are regions in Spain known for their significant manufacturing industries, particularly automotive and engineering sectors.",1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-21,Work life, Permanent Contract (Contrato Indefinido),0,0
+mistral-7b,Spain,English,pers-3,Th-en-22,Work life,1936-1939 (Spanish Civil War) and 2008-2013 (Great Recession),0,0
+mistral-7b,Spain,English,pers-3,Th-en-24,Work life, Madrid or Barcelona,1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-27,Work life," Agriculture, Food, and Retail Industries (Supermarkets and Hypermarkets)",0,0
+mistral-7b,Spain,English,pers-3,Th-en-35,Family, Dinner (La cena) is commonly shared with family members in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-36,Family, Going for a stroll (taking a paseo) in a park or city center is a popular family activity on weekends in Spain.,0,0
+mistral-7b,Spain,English,pers-3,Th-en-37,Family,"32.6 (in terms of motherhood, it suggests when a woman becomes a mother, not when children become independent)",0,0
+mistral-7b,Spain,English,pers-3,Th-en-38,Family, The most important family holiday in Spain is Christmas (25 December).,1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-39,Family,"¡Pelota de goma! (Rubber ball) - A traditional Spanish family game that involves bouncing a rubber ball off a wall and playing catch with it. It's often played in public squares or courtyards, and can be enjoyed by people of all ages.",0,0
+mistral-7b,Spain,English,pers-3,Th-en-41,Family,"35.8 (Average age of couples at first childbirth in Spain: 32.6 for Spanish mothers + 34 for male partners, assuming equal distribution of ages between partners)",1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-43,Family,1.7 (Approximately),1,0.75
+mistral-7b,Spain,English,pers-3,Th-en-44,Family, Paella is a popular choice for family meals on weekends in Spain.,1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-45,Family, Dinner (cena) at home with family.,0,0
+mistral-7b,Spain,English,pers-3,Th-en-48,Education,"10 (Sobre 10) - This is the highest grade given to top-achieving high school students on assignments and exams in Spain, on a scale of 0 to 10.",1,1.0
+mistral-7b,Spain,English,pers-3,Th-en-49,Education, The Bachillerato Exit Exam (Pruebas de Acceso a la Universidad - PAU) or Selectividad is the most important exam for high school students in Spain.,,
+mistral-7b,Spain,English,pers-3,Th-en-51,Education, Education System: Language and Literature (Spanish and often English or another modern language),1,0.6666666666666666
+mistral-7b,Spain,English,pers-3,Th-en-53,Education," The information provided does not specify the most popular extracurricular social event at schools in Spain as it only discusses school schedules and family support for compacted days. However, it's common for Spanish schools to organize various activities such as sports events, cultural festivals, music concerts, and club meetings after regular class hours. Without more specific data, it's challenging to determine the most popular event across all schools in Spain.",0,0
+mistral-7b,Spain,English,pers-3,Th-en-58,Education," In Spain, the most advanced mathematics subject typically learned before university is Trigonometry (Trigonometría). However, some students may also study Calculus (Cálculo) at a higher level in certain schools or programs.",0,0
+mistral-7b,Spain,English,pers-3,Tmp-ar-01,Education, University libraries or designated study rooms within their educational institutions.,1,1.0
+mistral-7b,Spain,English,pers-3,Tmp-ar-02,Education," Metro (Subway) or Bus, depending on the city and proximity of the university.",1,1.0
+mistral-7b,Spain,English,pers-3,Tmp-ar-04,Education," After school, elementary students in Spain often participate in extracurricular activities such as sports clubs, music classes, or study groups, or they may go home to spend time with family.",1,1.0

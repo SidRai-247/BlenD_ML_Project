@@ -1,0 +1,564 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,Cavab: Məktəbəqədər uşaqlar üçün tipik qəlyanlıdır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,Cavab: Livan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,Cavab: Azərbaycan qarnı balığı,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,Cavab: Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,Cavab: Qəlyanalı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,"3
+",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,Cavab: Azərbaycan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,Rusça,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,Azərbaycan dili və ədəbiyyatı,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,Pilaf,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure,Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Halloween haqqında heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,İnsanlar Yeni İl gününü qeyd etmək üçün qonaqlarını qonağa çağırır və qeyranı qonaqlamağı qəbul edir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure,Novruz bayramını qeyd edirlər.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure,"Cavab: Hellouin bayramı, qara xörəklə əlaqələndirilir.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,Cavab: Lavash,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda ad günündən bəhs edilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,Dolma,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education,Cavab: Bu məlumatlarda universitet tələbələri nəhar etdikləri barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,"12
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,"0
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,"3
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport,Futbol,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport,Bakının Zəncərli,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport,Cavab: Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,"3
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,Pilaf,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,Pakhlava,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Cavab: Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,Cavab: Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Cavab: Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Cavab: Azərbaycanda Yeni İl arifəsində kelaghayi (sulu baş örtəyi) və Lankaran çayı kimi ənənələr var.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,Cavab: Ev tipi açıqlanmır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family,Cavab: Ailələri ilə,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,"28
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,"20
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Azərbaycanın basketbolçuları barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport,Pehlevanliq (wrestling).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,"Bu məlumatla cavab verə bilmərək, cavab: Bilmirik.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport,The provided text does not contain information about which sports Azerbaijani university students prefer.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,"5
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,"2.  1
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,"6
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,"9
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,"6
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,"16:00
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,"0
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,Cavab: Çərşənbə günü.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,"Cavab: Bu məlumatlara görə, Azərbaycanda maliyyə şirkətləri ən çox hansı rayonda/şəhərdə var, bu barədə məlumat yoxdur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,Cavab: Azerbaijan Travel,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,"Bu məlumatlarda şirkət toplantıları haqqında heç bir məlumat yoxdur.
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life,Çay və sitrus.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,3.  8,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,Cavab: Gül,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,Cavab: Azərbaycan cəmiyyətində insanlar ilk maaşlarını xüsusilə Lankaran bazarında alış-verişə xərcəylərlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"Cavab: Azərbaycan cəmiyyətində uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsas mərhələlər nələrdir? - Bu suala cavab vermək üçün zəruri olan məlumat yoxdur.
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,Cavab: Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,Cavab: 80 yaş,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education,Azərbaycandaki orta ve ali mekteb şagirdleri adetiyle imtahanlara Azerbaijani mekteblerde hazırlaşirlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,Cavab: Ş쿨dan sonra adətən Azərbaycan dilində oxuyurlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,Cavab: Azərbaycanda ibtidai məktəb şagirdləri məktəbə Azərbaycan dilində tədris keçirilir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,"Cavab: Təhsil statistikası tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstərici göstərir ki, özəl təhsilin ən çox yayılmış forması tərəfindən göstərilən göstə",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,Matematika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,Cavab: Azərbaycan Respublikası Ali Başqat Komandanının əmri ilə Azərbaycan Respublikası üzvləri dövlət tərəfindən müəyyən edilmiş geyim tərəfindən geyinməlidirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,Cavab: Uşaqların müəssasəyə qəbulu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,Cavab: Azərbaycandaşı orta məktəb şagirdləri adətən fasilə vaxtında Azərbaycan dilində oxuyurlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,Cavab: Bu suala cavab yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,Cavab: Sualda bu barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,Cavab: Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,Cavab: Subjekt olimpiyada.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,"14
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,"Cavab: Labour Force Survey-in məlumatlarına görə, işçilərin orta hesabiylə nahar üçün çıxmaları 18:00-dədir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,"16:00
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education,Azərbaycan,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,"7
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,"7
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,"6
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,Pear-shaped glasses.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food,Cavab: Bu məlumatlarda qazlı içkilərdən bəhs edilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,Qayqa,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,3.  2,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,Cavab: 13:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food,Cavab: Bu məlumatlarda şorba barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food,Cavab: Bu məlumatda dəniz məhsulları barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Novruz,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"Cavab: Bu məlumatda verilənə görə, Azərbaycanda şəhərlərarası səyahət zamanı insanlar tərəfindən ən çox istifadə olunan icma nəqliyyat vasitəsi haqqında məlumat yoxdur.
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,The provided text does not contain information about the leisure activities of 20-year-old women in Azerbaijan. It only mentions tea drinking customs and gender indicators.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"The provided text does not contain information about the leisure activities of 20-year-old men in Azerbaijan. It discusses tea drinking, spring celebrations (Novruz), and gender indicators.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,3.  5,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,Çay içirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,1,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,"Cavab: Bu məlumatlarda göstərilən bilgilərə görə, bu suala cavab verə bilmək mümkün deyil.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,"7
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,65,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,Hörmət,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,"9
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,Cavab: Statistiklərdən qadınlar arasında ən çox üstünlük verilən peşə haqqında məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,Cavab: İşçi (Laborer),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education,İbtidai və orta məktəb.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,"Cavab: İngilis, alman, fransız, rus, araz, fars.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,Cavab: Ermeni,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food,Lavash,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,09:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Novruz,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,Cavab: Azərbaycan insanları İstiqlal Gününü qeyd etmək üçün bir-birini təbrik edir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Cavab: Evin qarşısında qurban günüdə quran.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure,Cavab: Novruz.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Cavab: Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Novruz,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda Azərbaycanda turizm üçün ən populyar dini yerlər barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Cavab: Palçınlar,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,Citrus meyvələri,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,Cavab: Bakı vs Sumqayıt,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,Cavab: Azərbaycan futbolu (Azərbaycan futbolu),,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,Cavab: Bu suala cavab tapılmayıbdı.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,Cavab: Bu suala cavab verə bilmərəm.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport,Badminton və athletics.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food,Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food,Cavab: Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,Cavab: Etin spesifi olmadığını belirten bir bilgi bulunmamaktadır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food,Citrus meyvələri,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,Pilaf,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food,Cavab: Tea (Çay),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,Cavab: Krəçməoğlu,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport,Badminton və athletics,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport,Cavab: Bədən tərbiyəsi,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,Cavab: Bu suala cavab verən məlumatlarda voleybolçula bağlı heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,Cavab: Ermeni.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport,Atletika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport,"Artistic gymnastics, table tennis, taekwondo and cycling.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Azərbaycadan olan məşhur üzgüçü barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport,Pehlevanliq,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Baklava, gogal, shekerbura və boyalı yumurta.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"3
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,Cavab: Novruz günü.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,"Novruz
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda Ramazan ayı barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,Cavab: Bu məlumatda Ramazan bayramı barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Cavab: Qurban bayramında nə yeyirlər məlumatı verilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Lankaran bazarına.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Cavab: Ailə Ramazan bayramı münaibəti ilə toplanaq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Cavab: Bu məlumatlarda Azərbaycanda həftə sonu hansı günlərin olduğunu göstərilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,Cavab: 09:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,Cavab: İş təhlükəsiz hesab olunmur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,Cavab: Labor statistikası tərəfindən dərc edilmiş məlumatlara görə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,Cavab: Plov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food,Plov,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,Cavab: Butter və cheese ilə roll edilmiş lavash.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,"09:00
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food,Pilaf,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,Lankaran citruses.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food,Çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food,"Lavash
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,Cavab: Azərbaycanın ən məşhur batırma sousu Azərbaycan şirniyyatının ənənəvi yemiş sousudur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,Lavash,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,Bu məlumatla cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education,Azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara Azərbaycan dilində hazırlaşırlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,"Cavab: 9
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life,Lankaran,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life,Cavab: Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,Cavab: Bu məlumatlarda səhralarda yaşayan insanların əsas məşğuliyyətləri barədə heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,Cavab: Belə bir məlumat yoxdur.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda uşaqların oxuması üçün ən populyar komiks barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,Bu suala cavab verə bilmərəm. Verilmiş məlumatlar Azərbaycanda uşaqlar üçün ən populyar YouTube kanalını göstərmir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,1.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,Cavab: Qanun,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,Pilaf,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food,Cavab: Pişmiş nar şirəsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,Cavab: Qarağöz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,Tea,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family,Novruz,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure,Cavab: Pehlevanliq geyimləri.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure,Novruz,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,Citrus meyvələri,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,Lankaran,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,Cavab: Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,"Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlar Azərbaycanda keçirilən olimpiadlar və Novruz günü barədədir, lakin Azərbaycanda ən məşhur döyüş sənətçisi barədə heç bir məlumat yoxdur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,Cavab: Rusiya,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,"2
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family,Hər iki valideyn.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,Qaraqumlu,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,Cavab: Koñyaq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,100,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,Cavab: Et,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,"09:00
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,"Cavab: Qara Qurdə
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,Cavab: Bu məlumatda verilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,Cavab: Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport,Atletika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,Cavab: Bu məlumatda bu barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport,Artistic gymnastics,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport,Cavab: Bu suala cavab tapmaq üçün zminə bir məlumata sahib olmalıyıq.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,Cavab: Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,Cavab: Məşhur boksuçu barədə məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,"Bu soruda verilen bilgilerAzerbaycanlı bir atletika sporcusu hakkında bilgi vermiyor. Bu nedenle, sorunun cevabı bulunamaz.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life,Cavab: Bu suala cavab tapılmır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,Cavab: Bu məlumatlarda idxal və ixrac fəaliyyətləri ilə tanınan şəhər və bölgələrlə bağlı heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,Cavab: Bu məlumatlarda elektron ticarət barəsində heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,Cavab: 1 ay.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,Kültüvar və yaradıcı sənət sahələrində.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,Cavab: Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,Qəyyədə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,Samani,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,8,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,15,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,Cavab: Azərbaycanın dövlət dilidir.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,1.  28,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,Cavab: təlim-tədris,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,The provided text does not contain information about university clubs in Azerbaijan. It focuses solely on Azerbaijani school education.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education,The provided text does not contain information about student accommodation in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,45,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,Cavab: Təqaüdə çıxmış qadınlar adətən Lankaranın çay və sitrus istehsalı kimi regional agroturizm fəaliyyətlərini sevirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,Cavab: Çay və sitrus tərzəçilikləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,"Bu məlumatda dini yerlərlə (məbədlər, kilsələr və s.) bağlı heç bir məlumat yoxdur. Sualın cavabını verə bilmərəm.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,Pakhlava.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,Cavab: 18:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,Qırmızı,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,Qırmızı,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food,Cavab: Bilmirəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food,Pilaf,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,Cavab: Bu məlumatda Azərbaycanın ən məşhur aşpazlıq şouları barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Azərbaycan şokolad markaları barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food,Cavab: Qırmızı pendir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,Cavab: Bu suala cavab tapılmır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport,Bu məlumatda bu barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,Cavab: Bu məlumatlarla bağlı olaraq bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Paralimpiyaçı barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,"Cavab: Şeyx Şamilin ""Sarı Yamshı"" nəğməsi.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,Cultural and creative industries.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,Bu məlumatla bağlı olaraq bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,Citrus mey və çay,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,Cavab: Məmmədov,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family,Şəfcat.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family,İngilis.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,Cavab: Bu məlumatda göstərilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,The provided text does not contain information about the consequences of bad behavior in Azerbaijani schools.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,Cavab: Azərbaycan dilində və ədəbiyyatında,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,1,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,Cavab: Azərbaycandakı tələbələr adətən Azərbaycan dövlət dilində dərs oxumaq üçün onlayn resurslardan istifadə edirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,16,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,Cavab: Heydar Aliyev Hava Limanı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,Cavab: Qırmızı Qəsəbə,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Azərbaycanın ən məşhur oteli barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,Butter and cheese with lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food,Cavab: Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,Çay,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food,Pakhlava,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,Olimpiya Oyunları,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,"15
+",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,Cavab: Silk tədarücü işləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,Cavab: Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,The provided text does not contain information about the most popular music genre among elderly people in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,Lankaran çayı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,Armudu glasses.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,Cavab: Pera şəklində qablar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food,Cavab: Xəçapır,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family,Cavab: Çay evləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,Cavab: Bu məlumatda göstərilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,Cavab: Dağüstü rayon,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,Bakı,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education,Cavab: Bakı Dövlət Universitetinin Mühəndislik Fəhləsi İnstitutu,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,Cavab: Bakı Dövlət Universitetinin Tibb Klinika Texnologiyaları İnstitutu.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,Cavab: Bu məlumatda verilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda göstərilən mövzu parkı barədə heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,Cavab: Bu məlumatlarda hamilə qadınlar üçün prenatal təhsil fəaliyyətləri barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family,Cavab: Bilmirəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,Cavab: Bu məlumatda qızlar arasında ən populyar oyuncaqlar barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family,Cavab: Küs-kübə,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure,Kelaghayi,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life,Cavab: İşlədikləri yerləri barəsində məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,Kültüvar və yaradıcı sənət sahələri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food,Pakhlava,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food,Cavab: Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,Cavab: Kiyslövü.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,Cavab: Bu məlumatlarda Ramazan ayında Azərbaycanda iş qrafiki barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,"11/28
+",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family,Dolma,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,Cavab: Kelaghayi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family,The provided text does not contain information about gifts given to mothers on Mother's Day (or Parent's Day) in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,"3
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,"6
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,Cavab: Subyekt olimpiyada.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,Cavab: Bu məlumat verilib.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,Cavab: Labor statistikasında işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən işləməli işçi qüvvəsi tərəfindən iş,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,Cavab: Bu suala cavab verən məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,"Cavab: Backgammon (or ""natijə"" in Azerbaijani).",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure,"Mil
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,Cavab: Qırqdeşik,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,Cavab: Neft,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,"Baklava, shekerbura, gogal və boyalı yum hallar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport,Cavab: Bu suala cavab verə bilmərəm. Verilmiş informasiya Azərbaycanda ən məşhur idman içkisini göstərmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,"Cavab: Azərbaycanda insanların orta təhsil səviyyəsi barədə rəsmi statistika, işçi statistika hesabatları, işləmə hallarının təhlili və təhsil statistikası ilə bağlı rəsmi göstəricilərə görə qiymətləndirilə bilər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,Cavab: Mühendislik,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,Çərşənbə axşamı,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,"Cavab: Novruz
+",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,Cavab: Bu məlumatlarda uşaqlar arasında ən populyar içki barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,Baku,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,"Cavab: Azərbaycan, Rus və Gürcü.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,Cavab: Zeyt yağı,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,Qaranquş,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,Swimming pools and complex sport establishments.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport,Cavab: Bu məlumatlarda yaşlıların parklarda etdikləri ümumiyyətlə fəaliyyətlərdən söhbətə qaldırılmır.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport,Qırmızı və yaşayıncı,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,Cavab: Bu məlumatda Azərbaycanda məktəb müəlliflərinin ümumiyyətdə geyim kodu barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education,Cavab: Şagirdliklərdə musiqi kursları.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,Cavab: Azərbaycan.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,"09/24
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,"Cavab: Əldə edilən statistik məlumatlara görə, Azərbaycanın dağlıq ərazilərində insanların əsas məşğuliyyəti, işləməli insanların sayı ilə bağlıdır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,Çay və sitrus təhləyyələrinin təhlil edilməsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,Cavab: Göyçək.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,Cavab: Heyvanlar barinvari məlumatı yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,Kelaghayi,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life,Cavab: Çay.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,Cavab: Bu məlumatlarda övladlarına ad günündə valideynlər necə hədiyyələr verdikləri barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,Cavab: Bu məlumatlarda nəqliyyat vasitələri barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda Qurban (və ya Ramazan) bayramında uşaqlara nə verildiyi barəsində heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,"Bu məlumatlarla cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə bilmərək, cavab verə",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,Lavash preparation is associated in the source with weddings and post-funeral gatherings.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,Cavab: Baku hökmət binası.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,Cavab: Bu məlumatlarda gənclə bağlı musiqi janrı barədə heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,09:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,"18
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,"6
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,"5
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,"2
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,Bakı Dövlət Universitetinin (BDÜ) Ali Hüquq fakültəsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,"17
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,"15
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,"10
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,"4
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,"18
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,"16
+",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Pakhlava,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Novruz,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumatlarda Milad mahnısı barədə heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,"9
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,"1/1/1
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,"09:00
+",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,"04/23
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,Bakı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food,Cavab: Bu suala cavab verə bilmərəm. Verilmiş məlumat Azərbaycanın fast food zənərləri barədə heç nə ifadə etmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food,Cavab: Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,Cavab: Bilmirəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,"Universitetlə bağlı məlumat yoxdur.
+",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family,Cavab: At,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food,Cavab: Pakhlava,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,Cavab: Lankaran çayı və citrus tətəyi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,Cavab: Lankaran çayı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,"28
+",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,"29
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,"2.3
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport,The provided text doesn't contain information about where children play football in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,Cavab: Bu məlumatlarda qadınlar arasında qəbul edilmiş gündəlik idman məşqindən bəhs edilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,Cavab: Bu məlumatlarda kişilərin gündəlik idmanlarına dair heç bir məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport,Pehlevanliq (wrestling),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,Cavab: Bu suala cavab verən məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,"Novruz
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Samani,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Cavab: Çörbə və qara paxıllı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Pakhlava,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport,Cavab: Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,Cavab: Bu məlumatda verilmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,Cavab: Şahmat turniri,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport,Matematika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport,Pehlevanliq,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,Lankaran,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,Cavab: İşçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə adətən təklif edilən ən önəmli imtiyazdır: işçilərə ad,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,"Cavab: 2
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,"Cavab: Bu məlumatlarda göstərilənə görə, bu suala cavab vermək üçün kifayətli məlumat yoxdur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,Cavab: Sənət,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,Cavab: Bu barədə məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family,Novruz,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,Cavab: Bu suala cavab verə bilmərəm.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,"33
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,"0
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,Lavash,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family,Cavab: Ailə fəaliyyətləri ilə bağlı dövlət göstəriciləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,Cavab: Usub.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,Cavab: Müəllim Şirkət İmtahanı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,"Cavab: Təhsil nazirliyinə görə, Azərbaycanın şagirdləri 1992-dan etibarən beynəlxalq mövzu olimpiyyalarında ildə bir dəfə iştirak ediblər. Respublikalı mövzu olimpiyyaları 8-11 sinifdəki yüksək bacarıqlı şagirdlərdə mövzusuz maraq yaratmaq üçün təşkil olunur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,Cavab: Məktəblərdə ən populyar məktəblərdənkənar sosial tədbir haqqında məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education,Matematika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education,Azərbaycanda universitet tələbələri final imtahanlarına hazırlaşmaq üçün adətən universitetə gedirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,Cavab: Bus (Bağıracın),1,0.6
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,Cavab: Azərbaycanda ibtidai sinif şagirdləri adətən məktəbdən sonra Azərbaycan dilində oxumaqdadırlar.,0,0

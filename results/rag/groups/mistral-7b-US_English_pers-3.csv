@@ -1,0 +1,571 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,US,English,pers-3,Al-en-01,Food, Goldfish Crackers,1,0.5
+mistral-7b,US,English,pers-3,Al-en-02,Food," Pretzels or Pub Food (e.g., burgers, wings, nachos) are popular foods to go with beer in the US.",1,0.5
+mistral-7b,US,English,pers-3,Al-en-04,Food, Apples,1,1.0
+mistral-7b,US,English,pers-3,Al-en-06,Food, Pizza or Cheeseburger (often served as options in US school cafeterias),1,1.0
+mistral-7b,US,English,pers-3,Al-en-08,Food," Pretzels, popcorn, and donuts are among the most commonly eaten snacks at shopping malls in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-09,Food, Cotton Candy,1,1.0
+mistral-7b,US,English,pers-3,Al-en-16,Education,3-4 years old,1,1.0
+mistral-7b,US,English,pers-3,Al-en-17,Education," Soccer (or Football) is a popular afterschool sport for elementary schools in the United States. However, it's important to note that other sports like Basketball and Baseball are also widely played, and regional variations may exist as well.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-18,Education," Elementary students in the U.S. may receive private education for various subjects including Religion (Catholic), Language (Chinese), and Cultural Traditions (Jewish).",1,1.0
+mistral-7b,US,English,pers-3,Al-en-19,Education, Spanish,1,1.0
+mistral-7b,US,English,pers-3,Al-en-21,Education," In the United States, the most emphasized subjects for gifted education are Mathematics and Science. However, it's also crucial to note that there's a strong focus on developing critical thinking, creativity, and problem-solving skills across various disciplines.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-32,Holidays/Celebration/Leisure, Turkey,1,1.0
+mistral-7b,US,English,pers-3,Al-en-33,Holidays/Celebration/Leisure," People in the U.S. often dress up in costumes and go trick-or-treating on Halloween night, which involves knocking on doors of houses in their neighborhoods and receiving candy or small treats. Additionally, many communities host Halloween parties, parades, and haunted house attractions.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-34,Holidays/Celebration/Leisure," People gather with family and friends, exchange gifts, and make resolutions for the new year, often involving food, music, and fireworks.",0,0
+mistral-7b,US,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"1. Exchange gifts on December 25th.
+2. Prepare and share traditional foods such as caviar and escargots during family gatherings.
+3. Participate in singing traditions as part of holiday celebrations.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-36,Holidays/Celebration/Leisure, Candy Corn,1,1.0
+mistral-7b,US,English,pers-3,Al-en-37,Holidays/Celebration/Leisure," Caviar and escargots (in some families), while hog-based dishes are also common in certain regions, particularly around Christmas.",0,0
+mistral-7b,US,English,pers-3,Al-en-38,Holidays/Celebration/Leisure, Heart-shaped chocolate boxes or candies,1,1.0
+mistral-7b,US,English,pers-3,Al-en-39,Holidays/Celebration/Leisure," In the U.S., it is common for people to celebrate their birthday with a cake, often with candles on top, and have a party where they may enjoy various foods such as pizza, burgers, or other favorite dishes.",1,1.0
+mistral-7b,US,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,1. Local Parks (Playgrounds),1,1.0
+mistral-7b,US,English,pers-3,Al-en-43,Holidays/Celebration/Leisure, Dinner and Game Night (Board Games or Card Games),1,1.0
+mistral-7b,US,English,pers-3,An-ar-02,Education," University students in the U.S. often have lunch at campus dining halls, cafeterias, food courts, or local restaurants near their universities.",1,1.0
+mistral-7b,US,English,pers-3,An-ar-03,Education,3 or 6 (May or June),1,1.0
+mistral-7b,US,English,pers-3,An-ar-08,Education,6 (hours),0,0
+mistral-7b,US,English,pers-3,An-ar-09,Education,1-4 (depending on the school and region),1,0.6666666666666666
+mistral-7b,US,English,pers-3,An-ar-34,Sport," Soccer (Football) or Basketball, depending on the region and school.",1,1.0
+mistral-7b,US,English,pers-3,An-ar-35,Sport," Jim Nantz (CBS Sports) or Al Michaels (NBC Sports), depending on personal preference and specific sports coverage.",,
+mistral-7b,US,English,pers-3,An-ar-36,Sport," The most popular professional sports team in the United States is the National Football League's (NFL) Dallas Cowboys. However, it's important to note that American sports culture is diverse and varies across regions, with different teams being more popular in specific areas. For example, the New York Yankees are very popular in baseball, while the Boston Celtics and Los Angeles Lakers are well-known basketball teams. The National Basketball Association (NBA), Major League Baseball (MLB), and the National Hockey League (NHL) also have dedicated fan bases across the country.",1,1.0
+mistral-7b,US,English,pers-3,An-ar-43,Sport, Sports bars and living rooms (homes) are common places where individuals in the U.S. usually gather to watch sports broadcasts.,1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-05,Food,3,1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-06,Food," Dinner (or evening meal) is considered an important social gathering for many Americans, often involving family and friends. However, it's essential to note that meal times can vary greatly among individuals due to work schedules, lifestyle choices, and regional differences.",1,0.5
+mistral-7b,US,English,pers-3,Ca-sp-08,Food," The most common ingredient used in the U.S.'s diet is not a single item but rather corn and soy products, as they are widely used in various food items such as high-fructose corn syrup, cornstarch, soybean oil, and soy protein. However, if we consider fresh produce, tomatoes are the most commonly consumed vegetable, and potatoes are the most popular root vegetable.",0,0
+mistral-7b,US,English,pers-3,Ca-sp-09,Food, Pie or Ice Cream,1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-11,Food," Sundays are commonly recognized as a traditional day for organizing family meals in the United States. However, it is important to note that family gatherings can occur on other days as well, depending on individual and cultural practices.",1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-14,Food, Coffee,1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure," Alcoholic beverages such as beer, cocktails, and spirits are commonly consumed by young people at nightclubs in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,12 (December),1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure, One popular tradition in the U.S. for New Year's Eve is the Times Square Ball Drop in New York City.,1,0.5
+mistral-7b,US,English,pers-3,Ca-sp-38,Family, Single-Family Home,0,0
+mistral-7b,US,English,pers-3,Ca-sp-41,Family, With their families or in retirement communities/assisted living facilities.,1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-42,Family,12 (weeks),1,1.0
+mistral-7b,US,English,pers-3,Ca-sp-43,Family,"0 (Currently, there is no federal law mandating paid paternity leave in the U.S.)",0,0
+mistral-7b,US,English,pers-3,Ca-sp-45,Family," A popular destination for a family vacation in the U.S. could be a National Park such as Yellowstone or Yosemite, offering natural beauty and various recreational activities suitable for all ages.",1,0.25
+mistral-7b,US,English,pers-3,Gu-ch-05,Sport,"1. Golf
+2. Bowling
+3. Walking/Hiking
+4. Pickleball
+5. Swimming (in community centers or pools)",1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-06,Sport, Baseball and American Football (NFL) are among the most popular sports that men tend to play in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-07,Sport, Michael Jordan,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-08,Sport, Soccer (Youth Soccer),1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-09,Sport, Softball and Soccer (Football) are among the popular sports that many women enjoy playing in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-11,Sport, The United States has won the most gold medals at the Olympic Games in Athletics (Track and Field).,1,0.3333333333333333
+mistral-7b,US,English,pers-3,Gu-ch-15,Sport, American Football and Basketball are among the most popular sports that male students in U.S. universities tend to play.,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-16,Family,"3.14 (This is an approximation based on the U.S. Census Bureau data showing that the average American household size was approximately 2.58 persons in 2019, but families can have varying structures including single-person households and multi-generational families.)",1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-18,Family," The number of children per couple varies greatly in the U.S., but on average, as of recent data, it is approximately 1.8 children per family.",0,0
+mistral-7b,US,English,pers-3,Gu-ch-31,Education,8-12,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-32,Education,12,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-33,Education,5,0,0
+mistral-7b,US,English,pers-3,Gu-ch-38,Education,4 years,1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-40,Education,"3:00 PM (15:00) is a common finishing time for younger elementary school students in the U.S. However, it can vary depending on the specific school district and schedule.",1,1.0
+mistral-7b,US,English,pers-3,Gu-ch-41,Education,"1 (Typically, elementary school students in the U.S. learn to play one instrument, often a recorder or keyboard, but it varies by school and program.)",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-02,Work life, Weekdays (specifically on average weekdays as mentioned in point 1) are more likely for company dinners in the US culture.,1,0.3333333333333333
+mistral-7b,US,English,pers-3,Ji-ko-03,Work life, New York City,1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-07,Work life, The most famous private company in the United States is likely Microsoft Corporation.,1,0.5
+mistral-7b,US,English,pers-3,Ji-ko-08,Work life,"84.6 hours (assuming an average of 8.1 hours per day for weekdays and working every weekend day, which is 50% of the days in a week)",0,0
+mistral-7b,US,English,pers-3,Ji-ko-09,Work life, BBQ or Potluck (a communal meal where each guest brings a dish) are common choices for food during company get-togethers in the US.,1,0.5
+mistral-7b,US,English,pers-3,Ji-ko-14,Work life," Baseball Equipment (e.g., bats, balls, gloves)",0,0
+mistral-7b,US,English,pers-3,Ji-ko-15,Work life,"1.0 (This refers to a traditional lunch break, which can vary depending on the workplace and region.)",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-16,Family," Mothers typically stay in a hospital or birthing center for a few days after childbirth in the United States, and then they may return home or go to a separate recovery facility if necessary. However, it's important to note that practices can vary based on individual circumstances and healthcare providers' recommendations.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-19,Family, Carnation,,
+mistral-7b,US,English,pers-3,Ji-ko-22,Family," In the U.S., people often use their first salary to establish financial independence, pay off debts, or invest in personal growth and comfort. Common purchases might include a car, apartment rental, or essential household items. However, it's important to note that individual spending habits can vary greatly based on personal values, priorities, and financial circumstances.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-24,Family, Parks and Playgrounds,1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-25,Family," Christmas (December 25), Hanukkah (varies but typically late November to late December), Kwanzaa (December 26 through January 1), and Thanksgiving (fourth Thursday of November) are some of the major family-related holidays in the United States.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-26,Family,"18th Birthday (Legal Age of Majority), Graduation from High School or College, Moving Out for Higher Education or First Job, and First Vote (18-year-olds can vote in U.S. elections).",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-27,Family, Flowers or homemade baked goods are commonly given as gifts when visiting elderly parents in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-28,Family," The first significant day of celebration after a child is born in the United States is typically the hospital visit or home gathering within a few days of birth, followed by the baby's naming ceremony or baptism (if applicable). However, culturally significant celebrations with family and friends often occur on special occasions such as the baby's first birthday (1st year anniversary), which is traditionally celebrated on the child's actual birthday. Additionally, Mother's Day and Father's Day are also celebrated in the US, usually on the second Sunday of May and third Sunday of June respectively, to honor mothers and fathers.",,
+mistral-7b,US,English,pers-3,Ji-ko-29,Family,65th Birthday (due to high percentage of elderly population),0,0
+mistral-7b,US,English,pers-3,Ji-ko-31,Education, At home or school libraries/study rooms.,1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-33,Education," After dinner, high school students in the US typically return home or hang out with friends at each other's homes. Some may also participate in extracurricular activities or study groups.",0,0
+mistral-7b,US,English,pers-3,Ji-ko-34,Education," Elementary school students in the U.S. typically attend school during regular school hours (usually from 8:00 AM to 3:00 PM) and travel there by bus, car, or walking. They learn about U.S. history, culture, and traditions, often participating in rituals like the Pledge of Allegiance. Some schools organize trips to places like Washington, D.C., and students may also engage in community projects, such as preserving local foodways.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-35,Education," The most common form of private education in the U.S. can be found in religiously-affiliated schools (Catholic, Jewish, etc.) and ethnic/cultural schools (Chinese American). These institutions often foster strong bonds and lifelong friendships through shared routines and traditions.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-36,Education," Middle or high school students most frequently attend public schools in the United States. However, some also attend private schools or specialized academies.",0,0
+mistral-7b,US,English,pers-3,Ji-ko-37,Education," Casual attire such as jeans, t-shirts, sweaters, and sneakers are commonly worn by middle and high school students in the U.S. Dress codes may vary by school district or individual schools.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-38,Education," In the United States, it is commonly perceived that Ivy League universities have some of the most competitive admissions processes. These include Harvard University, Yale University, Princeton University, Columbia University, University of Pennsylvania, Dartmouth College, Brown University, Cornell University, and the Massachusetts Institute of Technology (MIT). However, it's important to note that admission is based on a variety of factors and not just academic achievement.",0,0
+mistral-7b,US,English,pers-3,Ji-ko-39,Education, Piano or Recorder (depending on the region and school curriculum),1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-40,Education," In U.S. high schools, students typically socialize, study, or participate in extracurricular activities during break times. Some may also engage in hobbies or sports.",0,0
+mistral-7b,US,English,pers-3,Ji-ko-41,Education," Students in schools in the U.S. typically wear various types of shoes, including sneakers, loafers, dress shoes, and sandals, depending on the school's dress code and personal preference.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-42,Education," The required subjects for U.S. university entrance exams typically include Math (Algebra I and II, Geometry), English/Language Arts, Science (Physics, Chemistry, Biology), Social Studies (U.S. History, World History, Government/Civics) and Foreign Language. However, specific requirements may vary depending on the institution and the student's intended major.",1,1.0
+mistral-7b,US,English,pers-3,Ji-ko-44,Education," The Lower East Side of New York City, as evidenced by the academic focus and preservation efforts at Seward Park High School.",0,0
+mistral-7b,US,English,pers-3,Ji-ko-45,Education, Sharing and experiencing diverse cultural performances and activities.,,
+mistral-7b,US,English,pers-3,Jo-sp-01,Sport, American Football (NFL),1,0.3333333333333333
+mistral-7b,US,English,pers-3,Jo-sp-02,Sport, Wrestling (Appalachian independent style),1,0.5
+mistral-7b,US,English,pers-3,Jo-sp-09,Sport, Polo and Golf,1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-13,Sport, Swimming or Surfing (depending on region),1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-14,Sport, Chess,1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-18,Work life,"10 (Memorial Day, Juneteenth, Independence Day, Labor Day, Thanksgiving, Christmas, and seven days of paid vacation or sick leave, assuming no additional federal holidays are observed at the state level)",1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-19,Work life, The Midwest region of the United States has been traditionally associated with agriculture.,1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-21,Work life,"12:00 (Noon) is a common time for people to take a lunch break in the US, but it can vary depending on the workplace and individual schedules.",1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-31,Education,"15:00 (3:00 PM) is a common dismissal time for many U.S. high schools. However, it can vary depending on the district and school schedule.",1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-32,Education, Basketball,1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-36,Education,10 (weeks),1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-37,Education,12 (weeks),1,1.0
+mistral-7b,US,English,pers-3,Jo-sp-39,Education,6,1,0.6666666666666666
+mistral-7b,US,English,pers-3,Jo-sp-43,Education,"1 (or more, depending on the specific schools and regions)",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-01,Food," Fork, Knife, Spoon (FKS) and sometimes a plate are commonly used eating utensils in the US.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-04,Food, Coca-Cola or Pepsi,1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-06,Food," Whiskey (specifically Bourbon) is one of the most iconic traditional American alcohols. However, it's important to note that the U.S. has a rich diversity of regional and cultural alcohol traditions, including beer, wine, and spirits, each with its unique history and significance.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-07,Food," On average, it is difficult to determine the exact number of hours Americans spend dining out at restaurants as it can vary greatly depending on factors such as location, time of day, and personal preferences. However, if we consider an average dinner time, it might be around 1.5-2 hours.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-09,Food,18:00 - 20:00 (This range is common as dinner times can vary based on personal schedules and preferences.),1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-12,Food, Tomato Soup,1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-13,Food, Corn Dog (on a stick) or Soft Pretzel.,0,0
+mistral-7b,US,English,pers-3,Jod-ch-15,Food," Lobster, Crab, Shrimp, Salmon, Tuna",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure," The United States does not have one single biggest festival as it is a diverse nation with numerous communities celebrating various traditions and events throughout the year. However, if we consider the most widely recognized event, it would be Mardi Gras in New Orleans, Louisiana.",,
+mistral-7b,US,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure, Airplanes (or commercial flights) are the most commonly used public transport for traveling between cities in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure," Mardi Gras (New Orleans, Louisiana) is known for its colorful beads, masks, and floats adorned with feathers and glitter.",0,0
+mistral-7b,US,English,pers-3,Jod-ch-37,Sport," Women in the U.S. enjoy watching a variety of sports, but according to Nielsen Sports, as of 2019, the most popular sports for female spectators are:
+
+1. Soccer (Football)
+2. Basketball
+3. Tennis
+4. American Football
+5. Golf
+6. Ice Hockey
+7. Volleyball
+8. Baseball
+9. Athletics (Track and Field)
+10. Horse Racing
+
+These rankings may vary slightly depending on the source, but these sports are consistently among the favorites for female spectators in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-38,Sport, American Football (NFL),1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure," Cooking and cleaning up at home (preparation and cleanup of food) on both weekdays and weekend days, as well as camping or outdoor activities, are among the common leisure activities for females in their 20s in the US.",0,0
+mistral-7b,US,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure," Camping or Fishing (These activities are popular among males in their 20s in the US, often combined with outdoor adventures.)",0,0
+mistral-7b,US,English,pers-3,Jod-ch-46,Work life,1.5 (This is an approximation and can vary based on individual work culture and company policies.),1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-48,Work life," Sandwich or fast food (such as hamburger, pizza, or Chinese takeout) are common choices for lunch among employed people during weekdays in the US. Some also opt for packed lunches from home.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-50,Work life," I'm sorry for any confusion, but the information provided doesn't include data about average commute times in the US. The details given pertain to working hours, socializing and communicating habits, and time spent on these activities on weekdays versus weekend days. To answer your question accurately, we would need separate data or statistics regarding average commute times in the US.",0,0
+mistral-7b,US,English,pers-3,Jod-ch-51,Work life, Car (private or shared),1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-54,Work life,"0 (No federally mandated marriage leave in the U.S.) However, some employers may offer it as a benefit.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-56,Work life,66,0,0
+mistral-7b,US,English,pers-3,Jod-ch-57,Work life,65-67,1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-58,Work life," In the United States, respect for professions can vary greatly among individuals and regions. However, based on general trends, it can be said that healthcare professionals (such as doctors and nurses) are often highly respected due to their critical role in maintaining public health and well-being.",1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-60,Work life,8.1,1,1.0
+mistral-7b,US,English,pers-3,Jod-ch-61,Work life," It is not accurate or fair to generalize that one occupation is most preferred among all females in the United States, as preferences can vary greatly based on individual interests, backgrounds, and circumstances. However, it's worth noting that a significant number of women are employed in various fields such as education, healthcare, business, and social assistance. According to the U.S. Bureau of Labor Statistics, these sectors have consistently had high female employment rates over the years.",0,0
+mistral-7b,US,English,pers-3,Jod-ch-62,Work life," It is not accurate to say that there is one specific occupation that is most preferred among all males in the United States, as preferences can vary greatly based on factors such as education, location, personal interests, and economic conditions. However, it's worth noting that in 2024, a higher percentage of workers with a bachelor’s degree or higher were more likely to work at home compared to those with a high school diploma and no college, suggesting a trend towards knowledge-based and remote occupations among educated males.",0,0
+mistral-7b,US,English,pers-3,Ki-pe-17,Education," On average, students in the U.S. typically pursue their education up to High School and then some may continue to College or University. However, it's important to note that this can vary greatly depending on individual circumstances and career paths.",1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-24,Education," In addition to English, various ethnic community-based schools across the United States teach languages such as Chinese, Spanish, Hebrew, and others.",1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-30,Education," Schools in the U.S. are typically closed on Sundays and federal holidays such as New Year's Day, Martin Luther King Jr. Day, Presidents' Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, and Christmas Day. Some schools may also have a spring break and winter break.",1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-32,Food," In the United States, it varies greatly as our culture values regional diversity and individual preferences. However, some common foods that are often prepared for guests include homemade meals such as roasted turkey with stuffing (Thanksgiving), barbecue (summer gatherings), tamales (in regions like Texas during holiday seasons), and traditional dishes specific to each family or ethnicity.",1,0.3333333333333333
+mistral-7b,US,English,pers-3,Ki-pe-34,Food, Orange juice or coffee are common drinks with breakfast in the US.,1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-36,Food, Mexico (due to its proximity and historical influence on American cuisine),1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-39,Food," Picnics in the U.S. often feature a variety of foods, but a common choice might be sandwiches (such as ham, turkey, or egg salad), potato salad, fruit salads, chips, cookies, and lemonade or iced tea. However, regional differences can lead to different food preferences; for example, barbecue may be popular in the South, while New England clam chowder might be a favorite in the Northeast.",1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-40,Food," It is difficult to generalize that a specific American food is universally considered disgusting by the rest of the world, as tastes and preferences vary greatly across cultures. However, some foods such as canned corn or canned green beans might be less popular outside of the US due to differences in taste preferences and dietary habits.",0,0
+mistral-7b,US,English,pers-3,Ki-pe-43,Food," The term ""popular"" can be subjective as regional preferences vary, but one widely recognized and consumed type of bread in the United States is the Hamburger Bun.",0,0
+mistral-7b,US,English,pers-3,Ki-pe-51,Work life,09:00 - 17:00 (with variations depending on specific office and location),1,1.0
+mistral-7b,US,English,pers-3,Ki-pe-53,Work life,09:00,1,0.6666666666666666
+mistral-7b,US,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure," The celebration of Christmas lasts the longest in the U.S., starting from late November and extending through December 25th. However, it's important to note that the cultural and festive activities associated with Christmas often continue beyond this date.",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,"1. Parades, fireworks displays, family gatherings, barbecues, and patriotic ceremonies are common activities for celebrating Independence Day in the United States.",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure," A Mourning Wreath or Sympathy Wreath may be placed in front of the house. However, it's important to note that there are regional differences and personal preferences regarding memorial practices in the U.S.",,
+mistral-7b,US,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure," In the U.S., a pregnancy celebration or ceremony is typically held during a baby shower, which is usually organized by friends and family around the 6th or 7th month of pregnancy. However, it can vary based on cultural traditions and personal preferences.",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure," Bachelorette Party (or Hen Party) or Bachelor Party (Stag Party). These are social gatherings for the bride-to-be and groom-to-be respectively, often involving friends and family, and can include various activities such as dining out, partying, and other celebrations.",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure," In the U.S., there isn't a traditional Lunar New Year celebration that involves sharing specific gifts or items with children. However, during holidays such as Christmas and Easter, children often receive gifts and treats like candy, toys, and sometimes money.",,
+mistral-7b,US,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure," In the United States, common activities before Ramadan include shopping for groceries and supplies, cleaning homes, preparing traditional recipes, and attending community gatherings or events to celebrate Eid al-Fitr (the festival marking the end of Ramadan).",,
+mistral-7b,US,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure," The Statue of Liberty and Ellis Island, located in New York Harbor, are among the most popular tourist attractions for foreign visitors in the United States.",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure," The most popular religious site for tourism in the United States is Saint Peter's Basilica, located within the Vatican City in Rome, as it is considered an extension of the U.S., being the Pope's official residence. However, if you are referring to sites within the U.S., the Notre-Dame Cathedral in New York City and the Saint Louis Cathedral in New Orleans are among the most visited religious sites by tourists.",0,0
+mistral-7b,US,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure, Women typically wear formal dresses or business suits at graduation commencement ceremonies in the United States.,1,0.3333333333333333
+mistral-7b,US,English,pers-3,Kik-in-16,Food, Hot Cocoa or Hot Apple Cider,1,0.6
+mistral-7b,US,English,pers-3,Kik-in-17,Food, Dates (or Date Palm Fruits) are more commonly found and sold during Ramadan in the US.,,
+mistral-7b,US,English,pers-3,Kik-in-24,Food, French Fries (or fried potatoes) are commonly served with chicken in a fast-food restaurant in the US.,1,1.0
+mistral-7b,US,English,pers-3,Kik-in-31,Sport, American Football,0,0
+mistral-7b,US,English,pers-3,Kik-in-34,Sport,"1. American Football (NFL)
+2. Basketball (NBA)
+3. Baseball (MLB)
+4. Soccer (MLS)
+5. Auto Racing (NASCAR)
+6. Golf (PGA Tour)
+7. Tennis (ATP/WTA tours)
+8. Ice Hockey (NHL)
+9. College Football and Basketball games
+10. Boxing and Mixed Martial Arts events",1,1.0
+mistral-7b,US,English,pers-3,Kik-in-35,Sport," Soccer (youth), Running (individual), Cycling (outdoor), Virtual Sports (video games).",0,0
+mistral-7b,US,English,pers-3,Kik-in-36,Sport," The concept of a ""most popular"" soccer coach in the U.S. can be subjective and may vary based on personal preferences, regional affiliations, and recent successes. However, one could argue that Jurgen Klinsmann, who coached the U.S. Men's National Soccer Team from 2011 to 2016, has had a significant impact on American soccer culture due to his tenure and influence during that time.",,
+mistral-7b,US,English,pers-3,Kik-in-37,Sport," New England Revolution vs. New York Red Bulls, Seattle Sounders FC vs. Portland Timbers, Philadelphia Union vs. D.C. United, and Los Angeles Galaxy vs. San Jose Earthquakes are some of the famous soccer teams in the U.S. known for their intense rivalries.",,
+mistral-7b,US,English,pers-3,Kik-in-38,Sport, New York Red Bulls Supporters - The Empire Supporters Club (ESC) vs D.C. United Supporters - Barra Brava (DCU),,
+mistral-7b,US,English,pers-3,Kik-in-40,Sport, The most famous male badminton player in the U.S. is Kevin Han Yi Han.,,
+mistral-7b,US,English,pers-3,Kik-in-41,Sport," The most famous female badminton player in the U.S. is Wang Yihan (Wang Yihan is actually Chinese, but the most famous American female badminton player is currently Saina Nehwal, an Indian-American).",,
+mistral-7b,US,English,pers-3,Kik-in-44,Sport," The United States Government does not primarily support a specific sport. However, it provides funding and resources for various sports through organizations like the National Collegiate Athletic Association (NCAA), USA Olympic Committee, and local school districts.",0,0
+mistral-7b,US,English,pers-3,Kik-in-45,Sport," Sports fields such as soccer fields, baseball diamonds, basketball courts, and tennis courts are commonly available at schools in the United States. Additionally, swimming pools and track & field facilities may also be present.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-02,Food, Coffee,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-04,Food, Over-easy eggs and greasy bacon or a grease laden cheeseburger are commonly preferred hangover cure foods in the U.S.,0,0
+mistral-7b,US,English,pers-3,Na-ko-05,Food, Pizza Delivery,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-07,Food, Beef,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-08,Food, Hatch green chiles (though technically not a fruit but often associated with autumn traditions in certain regions of the U.S.) or Apples (a common fruit associated with autumn across many parts of the U.S.).,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-09,Food," Fried potatoes (e.g., French fries, mashed potatoes) or salad (e.g., potato, pasta, or green salad) are among the most commonly served side dishes on a dining table in the US. However, regional differences and personal preferences can lead to a wide variety of side dishes being served.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-11,Food, Hot dogs or hamburgers with beer (or soda) are commonly consumed during a soccer game in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-15,Food," BBQ (Barbecue) could be considered a representative nourishing food in the United States, given its widespread popularity and regional variations across the country. However, it's important to note that American foodways are incredibly diverse, with many regional specialties and cultural influences shaping the cuisine.",0,0
+mistral-7b,US,English,pers-3,Na-ko-16,Sport, The most famous soccer player in the U.S. is Landon Donovan.,1,0.5
+mistral-7b,US,English,pers-3,Na-ko-17,Sport, Basketball and Soccer (Football) are popular sports that many male students enjoy playing during lunchtime at schools in the United States.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-18,Sport, Softball or Basketball,1,0.3333333333333333
+mistral-7b,US,English,pers-3,Na-ko-19,Sport," I cannot definitively say who the most popular current U.S. volleyball player is as popularity can change over time and varies among individuals. However, some notable American volleyball players include Kerri Walsh Jennings (beach volleyball), Karch Kiraly (indoor volleyball), and Jordan Larson (indoor volleyball). These athletes have achieved significant success in their respective careers and are widely recognized within the U.S. sports community.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-20,Sport, The Olympic Games,1,0.5
+mistral-7b,US,English,pers-3,Na-ko-22,Sport, Mexico,,
+mistral-7b,US,English,pers-3,Na-ko-23,Sport, Private Sports Academies or Clubs (Youth Sports Organizations) are attended the most by children in the U.S.,0,0
+mistral-7b,US,English,pers-3,Na-ko-24,Sport, Hot Dogs,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-25,Sport," Soccer, Basketball, Baseball, Football (American), and Track & Field are commonly played sports on U.S. school sports days.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-26,Sport,"1. Baseball
+2. Basketball
+3. Football (American)
+4. Golf
+5. Tennis",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-28,Sport," Michael Phelps (Swimming) or Shaun White (Snowboarding), both are highly recognized and celebrated for their achievements in Winter Olympics.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-29,Sport, Michael Phelps,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-30,Sport, League of Legends (LoL) is currently the most popular eSport in the United States.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure," Unfortunately, there isn't a specific traditional symbolic food that Americans universally eat on Lunar New Year as it is not a widely celebrated holiday in the United States. However, many Asian-American communities celebrate Lunar New Year and have their unique traditions related to food, such as dumplings (symbolizing wealth), fish (abundance), and rice cakes (hope for higher achievements).",0,0
+mistral-7b,US,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,"1. Orlando (Florida), known for its theme parks such as Walt Disney World and Universal Studios.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure," A marriage itself, symbolizing the union of two individuals, is considered the primary ""gift"" exchanged during a wedding ceremony in the U.S. However, it's important to note that material gifts such as household items, jewelry, or cash are also commonly given by friends and family to help the newlyweds start their new life together.",1,1.0
+mistral-7b,US,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure, A gift is typically given as a congratulatory gesture at a friend's wedding in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,7 (days),0,0
+mistral-7b,US,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure, A sympathy basket or flowers would be appropriate as a condolence offering at a U.S. funeral.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure," In the United States, it is common for funeral parlors to provide light refreshments such as sandwiches, cookies, and coffee or tea. However, specific offerings can vary based on regional customs and family preferences.",0,0
+mistral-7b,US,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure," In the United States, there isn't a specific cultural tradition for the Lunar New Year that is universally practiced across the country. However, many Asian-American communities celebrate it with various customs and rituals, such as preparing special foods, giving red envelopes (hongbao), and setting off firecrackers. On an average day, about 80% of people engage in household activities like cooking or housework.",0,0
+mistral-7b,US,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure, The day with the US's most severe nationwide traffic congestion is typically the Wednesday before Thanksgiving.,1,1.0
+mistral-7b,US,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure," Unfortunately, the provided background information does not provide enough context to determine the most popular honeymoon destination in the U.S. as it pertains to cultural practices or traditions. Honeymoon destinations can be influenced by various factors such as geographical location, climate, popularity, and personal preferences. Some of the commonly chosen honeymoon destinations in the U.S. include Hawaii, California (specifically areas like Napa Valley, Santa Barbara, and San Francisco), Florida (especially the Florida Keys and Miami), and New York City.",1,0.5
+mistral-7b,US,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure, Independence Day (July 4th) is considered one of the most significant national holidays in the United States.,1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure," In the United States, people of Muslim faith typically follow traditional Islamic cuisine during Ramadan, as they observe fasting from dawn until sunset. However, it's important to note that the U.S., being a melting pot of cultures, also offers a variety of dishes reflecting different regional and ethnic influences. Some common foods consumed during Iftar (the evening meal breaking the daily Ramadan fast) include dates, soups, rice dishes, kebabs, and various desserts such as baklava or rice pudding.",,
+mistral-7b,US,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure," In the United States, people from various cultural backgrounds celebrate Eid ul Fitr with different traditional foods. However, a common dish that might be found during this celebration is Baklava, a sweet pastry made of layers of filo filled with chopped nuts and sweetened with honey or syrup.",,
+mistral-7b,US,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure," In the United States, people from various cultural backgrounds celebrate Eid ul Adha by sharing meals that often include traditionally halal-slaughtered lamb or goat, along with rice, vegetables, and a variety of side dishes. However, it's important to note that there is no one specific ""US"" food for this occasion as the celebration reflects the diversity of the country.",,
+mistral-7b,US,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure," People in the U.S. often celebrate New Year's Day at home with family and friends, or they gather in public places such as Times Square, New York City for the famous ball drop event.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure, Mosques or homes of Muslim families for Eid festivities in the US.,,
+mistral-7b,US,English,pers-3,Ne-ar-16,Work life, The weekend in the US is typically Saturday and Sunday.,1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-17,Work life,09:00 (assuming standard business hours),1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-18,Work life,16:30 (assuming a standard 8-hour workday from 08:30 to 16:30),0,0
+mistral-7b,US,English,pers-3,Ne-ar-20,Work life," A secure job in the United States is typically one that offers stable employment, benefits such as health insurance and retirement plans, and opportunities for growth and advancement. These jobs are often found in sectors like healthcare, education, government, and technology. However, it's important to note that job security can vary greatly depending on economic conditions, industry trends, and individual performance.",0,0
+mistral-7b,US,English,pers-3,Ne-ar-24,Work life, New York City,1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-25,Work life," The industry that pays the highest in the U.S. can vary greatly depending on factors such as location, qualifications, and specific job roles. However, generally speaking, industries like Technology (particularly in Silicon Valley), Finance, and Oil & Gas tend to offer high salaries.",1,0.5
+mistral-7b,US,English,pers-3,Ne-ar-26,Work life, The most famous public corporation in the United States is likely Microsoft Corporation.,1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-31,Food," It is difficult to pinpoint one specific dish as the ""most famous"" in the United States due to its diverse culinary landscape, but pizza and hamburgers are widely recognized and enjoyed across the country.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-32,Food," Eggs, grits, and biscuits are one common American breakfast option, but it's important to note that regional variations exist, and many other dishes are also popular.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-33,Food,"12:00 (noon) or 1:00 PM is a common time for many Americans to have lunch. However, it can vary greatly depending on individual schedules and work hours.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-34,Food," Family and friends gathering together, along with diverse regional food traditions.",0,0
+mistral-7b,US,English,pers-3,Ne-ar-36,Food," A typical festive meal in the U.S. might include a Thanksgiving feast with turkey, stuffing, cranberry sauce, and pumpkin pie; or a Sunday family dinner featuring fried chicken, baked chicken with dressing, and pork. Additionally, Cinco de Mayo celebrations often involve traditional Mexican dishes such as tacos, enchiladas, and tamales.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-37,Food," Maple syrup, a product derived from maple trees, is often offered to tourists or visitors in the U.S., symbolizing a part of our cultural heritage and regional specialty.",0,0
+mistral-7b,US,English,pers-3,Ne-ar-38,Food," Pie, particularly apple pie, is often donated or offered as charity in the United States.",0,0
+mistral-7b,US,English,pers-3,Ne-ar-39,Food," The cheapest fast food in the US can vary depending on location and specific menu items, but McDonald's often offers affordable meal options such as their McChicken sandwich or Happy Meal.",1,1.0
+mistral-7b,US,English,pers-3,Ne-ar-43,Food," Sweet or savory snacks such as cookies, sandwiches, pastries, or fruits are commonly enjoyed alongside tea in the United States. However, it's important to note that this can vary greatly depending on personal preference and regional customs.",0,0
+mistral-7b,US,English,pers-3,Ne-ar-44,Food, People often have pastries or snacks with coffee in the US.,0,0
+mistral-7b,US,English,pers-3,New-am-02,Food," It is difficult to pinpoint one single most popular traditional food in the United States due to its diverse cultural heritage and regional variations. However, some foods that are widely recognized as American include hamburgers, hot dogs, apple pie, and Thanksgiving turkey with stuffing.",,
+mistral-7b,US,English,pers-3,New-am-04,Food, Ranch Dressing,1,1.0
+mistral-7b,US,English,pers-3,New-am-08,Food," During Christian fasting periods in the United States, it is common for individuals to consume simple meals that focus on fruits, vegetables, and other plant-based foods. Fish may also be included as a protein source. However, specific dietary practices can vary greatly depending on the denomination and individual observance.",1,1.0
+mistral-7b,US,English,pers-3,New-am-15,Food," No specific food is traditionally prepared when mothers give birth in the U.S. However, postpartum meals often consist of comfort foods such as casseroles, soups, and sandwiches, which are easy to prepare and eat. These meals are usually provided by friends or family members during this time.",,
+mistral-7b,US,English,pers-3,New-am-27,Sport, Althea Gibson,0,0
+mistral-7b,US,English,pers-3,New-am-34,Education, At home or school study rooms.,1,1.0
+mistral-7b,US,English,pers-3,New-am-41,Education,8th Grade (Middle School),1,0.5
+mistral-7b,US,English,pers-3,New-am-53,Work life, The Pacific Northwest region of the United States is widely known for its coffee and tea industry.,1,1.0
+mistral-7b,US,English,pers-3,New-am-54,Work life," Utah (specifically Fountain Green) is widely known for its livestock industry, particularly sheep.",0,0
+mistral-7b,US,English,pers-3,New-am-59,Work life," Agriculture (Farming) or Mining (extracting resources like oil and gas). However, it's important to note that many people living in deserts in the U.S. might not primarily be engaged in these occupations but may work remotely, in services, or other industries. The main occupation can vary greatly depending on the specific region and community.",,
+mistral-7b,US,English,pers-3,New-am-60,Work life, Horses or automobiles (depending on context: historical or modern),1,1.0
+mistral-7b,US,English,pers-3,New-am-72,Family," The most popular comic book for children in the United States is likely ""Diary of a Wimpy Kid"" by Jeff Kinney. However, it's important to note that comic books encompass a wide range of genres and audiences, and other popular choices among children include Marvel Comics (e.g., Spider-Man, Avengers) and DC Comics (e.g., Batman, Superman). The preferences can vary greatly depending on the age group and individual interests.",1,0.5
+mistral-7b,US,English,pers-3,New-am-73,Family," The most popular YouTube channel for children in the U.S. is currently ""Ryan's World (also known as Ryan ToysReview)"".",1,0.5
+mistral-7b,US,English,pers-3,New-am-74,Family," The Oprah Winfrey Show was historically one of the most popular talk shows in the United States. However, it ended its run in 2011. Currently, there isn't a definitive answer for the most popular talk show as the landscape of television and media has significantly changed since then, with many popular shows available on various platforms like streaming services.",0,0
+mistral-7b,US,English,pers-3,New-am-77,Holidays/Celebration/Leisure, Easter and Christmas are among the most widely celebrated religious holidays in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-am-81,Holidays/Celebration/Leisure,12 (December),0,0
+mistral-7b,US,English,pers-3,New-am-83,Holidays/Celebration/Leisure," The Banjo is one of the most iconic traditional musical instruments in the United States, particularly associated with American folk music and bluegrass.",0,0
+mistral-7b,US,English,pers-3,New-as-01,Food, Corn (maize) is one of the main agricultural products produced in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-as-02,Food," Bread (specifically, sandwich bread) is one of the most popular wheat-based food items in the United States. However, it's important to note that regional variations and preferences exist, such as hamburger buns, bagels, tortillas, and pizza crusts.",1,1.0
+mistral-7b,US,English,pers-3,New-as-05,Food, Iced Tea or Water (as it depends on personal preference and regional customs),1,1.0
+mistral-7b,US,English,pers-3,New-as-07,Food," Fried Fish (such as catfish or cod) is a widely popular dish in the United States, particularly in the Southern and Midwestern regions. However, it's important to note that regional cuisines vary greatly across the country, so other popular dishes involving fish might include salmon in the Pacific Northwest, clam chowder in New England, or fish tacos in California.",1,1.0
+mistral-7b,US,English,pers-3,New-as-14,Food, Chicken Noodle Soup,1,1.0
+mistral-7b,US,English,pers-3,New-as-15,Food, Lemonade or Iced Tea,1,1.0
+mistral-7b,US,English,pers-3,New-as-20,Sport, Basketball,1,1.0
+mistral-7b,US,English,pers-3,New-as-29,Sport, American Football (NFL),1,1.0
+mistral-7b,US,English,pers-3,New-as-30,Sport, Soccer (or Football) is widely popular among women in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-as-58,Work life, Coffee,1,1.0
+mistral-7b,US,English,pers-3,New-as-64,Family, Christmas or Thanksgiving,1,1.0
+mistral-7b,US,English,pers-3,New-as-76,Holidays/Celebration/Leisure," Families in the U.S. often play board games like Monopoly or Scrabble, card games such as Poker or Bridge, and outdoor games like Hide and Seek or Kick the Can during traditional holidays. Additionally, they may engage in activities like charades or family trivia contests. Some regions also have unique holiday games, such as apple bobbing at Halloween or snowball fights on Christmas Day.",1,1.0
+mistral-7b,US,English,pers-3,New-as-80,Holidays/Celebration/Leisure," During traditional U.S. festivals, people often wear clothing that reflects regional or cultural heritage, such as Native American regalia, cowboy hats and boots, or traditional ethnic garments like Mexican charro suits or Chinese Hanfu. However, it's important to note that the clothing can vary greatly depending on the specific festival and its cultural roots.",0,0
+mistral-7b,US,English,pers-3,New-as-89,Holidays/Celebration/Leisure,"1. Rhododendron crowns (Florence, Oregon)
+2. Spam-themed costumes (Austin, Minnesota)
+3. Traditional folk art clothing (varies by region and community)",,
+mistral-7b,US,English,pers-3,New-az-05,Food," Napa Valley (California) is one of the most famous regions for wine production in the United States. However, it's important to note that various regions across the country are known for different types of alcoholic beverages, such as bourbon in Kentucky and craft beer in places like Portland, Oregon and Asheville, North Carolina.",0,0
+mistral-7b,US,English,pers-3,New-az-11,Food, Watermelon,1,1.0
+mistral-7b,US,English,pers-3,New-az-12,Food, The New England region of the United States is known for its seafood.,1,1.0
+mistral-7b,US,English,pers-3,New-az-21,Sport," The Rocky Mountains region, particularly Colorado and Utah, is the most popular skiing destination in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-az-26,Sport," I cannot definitively say who the most popular martial arts player in the U.S. is as popularity can vary greatly and is subjective. However, some of the most practiced martial arts in the U.S. include Taekwondo, Karate, Brazilian Jiu-Jitsu, and Mixed Martial Arts (MMA). Notable figures in these fields include Taekwondo Olympic gold medalist Steven Lopez, Karate world champion Rafael Aghayev, BJJ black belt and UFC fighter Ronda Rousey, and MMA champions like Conor McGregor and Amanda Nunes.",,
+mistral-7b,US,English,pers-3,New-az-27,Sport, Soccer (Football),1,1.0
+mistral-7b,US,English,pers-3,New-az-39,Education, The United Kingdom (UK) is the most popular destination for American students studying abroad.,1,1.0
+mistral-7b,US,English,pers-3,New-az-49,Work life,1 or more (depending on the family structure),1,0.6666666666666666
+mistral-7b,US,English,pers-3,New-az-60,Family," In the U.S., when both parents are working, childcare responsibilities can be shared between them, or they may hire a babysitter, nanny, or enroll their children in daycare centers or preschools. Additionally, family members, friends, or neighbors might also help with childcare on occasion.",1,1.0
+mistral-7b,US,English,pers-3,New-az-69,Holidays/Celebration/Leisure," The preferred alcoholic beverage for men in the U.S. varies greatly due to regional differences and personal preferences. However, it's important to note that there isn't a ""preferred"" national drink for all American men. Common choices include beer, wine, spirits such as whiskey or bourbon, and cocktails like the Old Fashioned or Margarita.",1,1.0
+mistral-7b,US,English,pers-3,New-az-70,Holidays/Celebration/Leisure," The preference for an alcoholic beverage among U.S. women can vary greatly due to personal tastes and regional differences. However, it's important to note that there isn't a ""preferred"" drink for all women in the U.S. Some popular choices might include wine, beer, or cocktails like margaritas or cosmopolitans.",1,1.0
+mistral-7b,US,English,pers-3,New-az-73,Holidays/Celebration/Leisure,"150-200 (This is an approximate range as it can vary greatly depending on factors such as family size, cultural background, and personal relationships.)",1,1.0
+mistral-7b,US,English,pers-3,New-ch-01,Food, Beef or Pork (often Ribs or Brisket),1,1.0
+mistral-7b,US,English,pers-3,New-ch-02,Food,"7:00 - 9:00 (Typically, breakfast time in the U.S. ranges from 7 AM to 9 AM.)",1,1.0
+mistral-7b,US,English,pers-3,New-ch-04,Food," Pizza, sandwiches, chips, cookies, ice cream, and candy are common foods for late-night snacks in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-05,Food," The most famous spicy dish in the U.S. is likely the ""Hot Wings"" or ""Buffalo Wings,"" originating from Buffalo, New York.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-07,Food," Peanuts, olives, and pickles (bar snacks), as well as cocktail onions (for martinis). Additionally, various fruits like oranges, cherries, and lemons are common garnishes for mixed drinks.",0,0
+mistral-7b,US,English,pers-3,New-ch-08,Food, Salt,1,1.0
+mistral-7b,US,English,pers-3,New-ch-09,Food," In the US, during cold weather, people often consume comfort foods such as soups (like Chicken Noodle or New England Clam Chowder), stews (such as Beef Stew or Gumbo), casseroles (like Mac and Cheese or Green Bean Casserole), and hot beverages like Hot Cocoa, Apple Cider, or Coffee.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-13,Food, Budweiser (Anheuser-Busch InBev),1,1.0
+mistral-7b,US,English,pers-3,New-ch-14,Food, Chicken soup and ginger ale are commonly eaten by Americans when they are sick.,1,1.0
+mistral-7b,US,English,pers-3,New-ch-15,Food," Ready-to-eat foods such as sandwiches, salads, rotisserie chickens, sushi, pizza slices, and prepackaged meals are commonly purchased at American supermarkets.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-16,Sport," The most famous sports-related movie in the U.S. is ""Rocky.""",1,1.0
+mistral-7b,US,English,pers-3,New-ch-17,Sport," It is difficult to pinpoint one specific ""extreme"" sport that Americans generally wish to try the most, as interests vary greatly across the country. However, activities such as skydiving, bungee jumping, white-water rafting, and rock climbing are often popular choices among many Americans seeking adventure.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-18,Sport,100-meter Dash or Football (Soccer) - depending on whether you consider track and field events as separate from sports overall.,1,1.0
+mistral-7b,US,English,pers-3,New-ch-19,Sport, Gymnastics Artistic Women's All-around Competition,1,0.3333333333333333
+mistral-7b,US,English,pers-3,New-ch-23,Sport," The most famous table tennis player in the U.S. is probably Glenn Cowan or Nancy Richey, both of whom have achieved significant international success in the sport.",,
+mistral-7b,US,English,pers-3,New-ch-26,Sport, Figure Skating,0,0
+mistral-7b,US,English,pers-3,New-ch-27,Sport, Muhammad Ali (born Cassius Clay),1,1.0
+mistral-7b,US,English,pers-3,New-ch-30,Sport, Jesse Owens,,
+mistral-7b,US,English,pers-3,New-ch-31,Work life," It is difficult to generalize as individual aspirations vary greatly among U.S. families. However, based on common trends, many parents may express a desire for their children to pursue stable and financially rewarding careers such as doctors, lawyers, engineers, or business professionals.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-32,Work life, Microsoft Office (or MS Office) is commonly used in workplaces in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-ch-38,Work life," Cities such as New York, Los Angeles, Chicago, Houston, Dallas, Atlanta, and Seattle, along with regions like the Midwest (Chicago area), the Gulf Coast (Houston, Dallas), and the Pacific Northwest (Seattle) are known for their significant import and export activities in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-39,Work life, Amazon or eBay,1,1.0
+mistral-7b,US,English,pers-3,New-ch-44,Work life,"90 days is commonly the probation period for new employees before signing a formal contract in the US. However, it can vary depending on the company and job role.",0,0
+mistral-7b,US,English,pers-3,New-ch-45,Work life,"1) Technology (Software development, e-commerce, digital marketing)
+2) Food and Beverage (Cafes, food trucks, artisanal products)
+3) Creative Arts & Design (Graphic design, fashion, filmmaking)
+4) Health & Wellness (Fitness studios, wellness centers, organic product stores)
+5) Education & Training (Online courses, tutoring services, language schools)",1,1.0
+mistral-7b,US,English,pers-3,New-ch-49,Family," Video Calling (e.g., Skype, Zoom, Facetime)",1,0.3333333333333333
+mistral-7b,US,English,pers-3,New-ch-51,Family," Hotels or vacation rentals (such as Airbnb) are commonly booked for family trips in the United States. However, it's important to note that preferences can vary greatly depending on personal and familial needs, budget, and destination.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-54,Family, Pumpkin (for pie during Thanksgiving),0,0
+mistral-7b,US,English,pers-3,New-ch-64,Education,"15-20 (hours of classes per week in the U.S. can vary depending on the institution and program, but this is a common range)",1,0.5
+mistral-7b,US,English,pers-3,New-ch-66,Education,0 (Public high schools in the U.S. typically do not charge tuition fees.),1,1.0
+mistral-7b,US,English,pers-3,New-ch-70,Education," University students in the U.S. typically have English Composition and College Mathematics (Algebra or Calculus) in common as core requirements. However, these can vary depending on the major and institution.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-71,Education,25-30 (approximately),1,1.0
+mistral-7b,US,English,pers-3,New-ch-72,Education," Bachelor's degree or higher, particularly in fields related to technology, healthcare, finance, and business.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-73,Education, Sports Clubs and Academic/Interest-based Clubs,0,0
+mistral-7b,US,English,pers-3,New-ch-74,Education," Apartments, dormitories, and off-campus houses.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-75,Education,45,1,1.0
+mistral-7b,US,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,"1. Gardening
+2. Reading books (libraries and book clubs are popular)
+3. Playing cards or board games
+4. Exercise classes (Yoga, Zumba, etc.)
+5. Visiting museums and art galleries (such as Smithsonian)
+6. Traveling (domestic and international trips)
+7. Crafting (knitting, sewing, painting, etc.)
+8. Volunteering in community organizations or charities
+9. Watching movies or TV shows
+10. Cooking and baking for family and friends.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-79,Holidays/Celebration/Leisure," Fishing, golfing, watching sports (e.g., baseball, football, basketball), gardening, playing cards or board games, and using exercise equipment at home or gyms are common leisure activities for retired men in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,"1. Christmas (December 25)
+2. Easter (varies by denomination, usually March or April)
+3. Hanukkah (usually in December)
+4. Diwali (October or November)
+5. Ramadan Eid al-Fitr (varies, typically in May or June)
+6. Rosh Hashanah and Yom Kippur (September or October)",1,1.0
+mistral-7b,US,English,pers-3,New-ch-81,Holidays/Celebration/Leisure," A housewarming gift in the U.S. can be a decorative item, a useful household item, or a food basket such as a bottle of wine, flowers, or a plant.",1,1.0
+mistral-7b,US,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,"18:00 (6 PM) is a common starting time for weddings in the U.S. However, it can vary depending on the region and personal preference. Some weddings may start earlier or later.",0,0
+mistral-7b,US,English,pers-3,New-ch-83,Holidays/Celebration/Leisure, New York City,0,0
+mistral-7b,US,English,pers-3,New-ch-84,Holidays/Celebration/Leisure," White or off-white for the bride, various colors for the groom and guests.",1,0.5
+mistral-7b,US,English,pers-3,New-ch-85,Holidays/Celebration/Leisure, Black or dark-colored clothing is typically worn at funerals in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-en-01,Food, Popcorn,1,1.0
+mistral-7b,US,English,pers-3,New-en-02,Food, Barbecue (BBQ) flavor is one of the most popular chip/crisp flavors in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-en-04,Food, Guy Fieri,0,0
+mistral-7b,US,English,pers-3,New-en-05,Food, Fried rice or tacos (can be customized with various ingredients) are cost-effective and quick meal options in the US.,0,0
+mistral-7b,US,English,pers-3,New-en-07,Food,"1) ""MasterChef""
+2) ""Chopped""
+3) ""Iron Chef America""
+4) ""Gordon Ramsay's Kitchen Nightmares""
+5) ""The Great British Baking Show (US version)""",1,1.0
+mistral-7b,US,English,pers-3,New-en-08,Food, Hershey's,1,1.0
+mistral-7b,US,English,pers-3,New-en-10,Food, Mozzarella,0,0
+mistral-7b,US,English,pers-3,New-en-11,Food," It is difficult to definitively state that there is one universally disliked vegetable in the United States as tastes and preferences vary greatly among individuals. However, one vegetable that often receives mixed reviews is Brussels sprouts due to their strong flavor and texture.",0,0
+mistral-7b,US,English,pers-3,New-en-12,Food," Fast Food (e.g., burgers, pizza, Chinese food, Mexican food)",1,1.0
+mistral-7b,US,English,pers-3,New-en-17,Sport,"1. Cheerleaders, 2. Fans' homemade signs/posters, 3. Noisemakers (e.g., cowbells, drums), 4. Chants and songs, 5. Baseball cards or souvenir programs.",1,1.0
+mistral-7b,US,English,pers-3,New-en-18,Sport, Souvenir programs or merchandise related to the team they are supporting.,0,0
+mistral-7b,US,English,pers-3,New-en-19,Sport," Yankee Stadium (New York City) or Fenway Park (Boston), depending on whether you consider baseball or football as more iconic in American culture.",1,1.0
+mistral-7b,US,English,pers-3,New-en-23,Sport, The most famous Paralympian in the U.S. is Tatyana McFadden.,,
+mistral-7b,US,English,pers-3,New-en-26,Sport," ""Let's Go, [Team Name]!"" (This phrase can be adapted for various sports teams across the U.S.)",0,0
+mistral-7b,US,English,pers-3,New-en-38,Work life,"1) Information Technology (IT) and Creative Industries (e.g., Advertising, Design, Media) are often associated with more flexible working hours in the United States. However, it's important to note that this can vary greatly depending on the specific company and role within these industries.",1,1.0
+mistral-7b,US,English,pers-3,New-en-41,Work life," The term ""most well-known"" can be subjective as it often depends on personal perception and geographical location. However, one of the most universally recognized American entrepreneurs is Elon Musk, known for companies like Tesla, SpaceX, Neuralink, and The Boring Company. His innovations in electric vehicles, renewable energy, and space travel have made significant global impacts.",0,0
+mistral-7b,US,English,pers-3,New-en-47,Family," Vegetable Garden (Spring/Summer) or Chile Ristras (Autumn), depending on the region and season.",1,0.5
+mistral-7b,US,English,pers-3,New-en-49,Family," There isn't a specific ""most famous"" family in the United States as such a designation would be subjective and vary based on factors like profession, politics, entertainment, or philanthropy. The Kennedy family is often mentioned due to their political influence, while the Waltons are known for their business empire. However, it's important to note that the U.S. values individual achievements over family lineage more than some other cultures.",1,0.3333333333333333
+mistral-7b,US,English,pers-3,New-en-50,Family," The most common surname in the United States is Smith. However, it's important to note that family names can vary greatly across different ethnic groups and regions within the U.S.",1,1.0
+mistral-7b,US,English,pers-3,New-en-55,Family, Christianity is the most commonly practiced religion among families in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-en-56,Family, Mandarin Chinese,1,0.25
+mistral-7b,US,English,pers-3,New-en-59,Family, Canada,1,1.0
+mistral-7b,US,English,pers-3,New-en-68,Education," In the United States, consequences for bad behavior in schools can include detention, suspension, or expulsion, depending on the severity of the misconduct. Additionally, students may be required to complete extra assignments or community service as a form of restitution.",1,1.0
+mistral-7b,US,English,pers-3,New-en-69,Education," Mark Twain, Ernest Hemingway, Edgar Allan Poe, Nathaniel Hawthorne, and F. Scott Fitzgerald are commonly studied authors in U.S. literature classes.",1,1.0
+mistral-7b,US,English,pers-3,New-en-70,Education,"3 (Spring Break, Winter Break, and Summer Break)",1,1.0
+mistral-7b,US,English,pers-3,New-en-72,Education," Khan Academy or Coursera (online educational platforms) are commonly used by students in the U.S., but it depends on the subject matter and level of education. For eighth-grade students studying U.S. history, they might use textbooks or resources provided by their school, such as the Smithsonian's website.",0,0
+mistral-7b,US,English,pers-3,New-en-75,Education,"15-17 (The length can vary between institutions and academic programs, but a typical semester lasts around 15 to 17 weeks.)",1,1.0
+mistral-7b,US,English,pers-3,New-en-76,Holidays/Celebration/Leisure, Hartsfield-Jackson Atlanta International Airport,1,1.0
+mistral-7b,US,English,pers-3,New-en-79,Holidays/Celebration/Leisure, New York City (specifically Broadway) is well-known in the U.S. for its theatrical performances.,1,1.0
+mistral-7b,US,English,pers-3,New-en-87,Holidays/Celebration/Leisure, The most famous historic landmark in the U.S. is the Statue of Liberty.,1,0.3333333333333333
+mistral-7b,US,English,pers-3,New-en-90,Holidays/Celebration/Leisure, The Ritz-Carlton Hotel Company.,0,0
+mistral-7b,US,English,pers-3,New-gr-05,Food," A grab-and-go breakfast option that is quite popular in the U.S. is a breakfast sandwich, often consisting of an egg, cheese, and meat (such as bacon or sausage) on a toasted English muffin or biscuit.",1,1.0
+mistral-7b,US,English,pers-3,New-gr-06,Food," It is difficult to pinpoint one specific food as the most popular among young people in the U.S., given the diverse cultural backgrounds and regional variations that exist within the country. However, fast-food chains such as McDonald's, Subway, and Chipotle are widely popular among many young Americans due to their convenience, affordability, and familiarity.",0,0
+mistral-7b,US,English,pers-3,New-gr-08,Food, Picon Punch or Beer (depending on the region and festival),1,1.0
+mistral-7b,US,English,pers-3,New-gr-13,Food, Coffee,1,1.0
+mistral-7b,US,English,pers-3,New-gr-15,Food," The most popular traditional dessert in the United States can vary greatly due to its multicultural society, but one that holds significance across many regions is Apple Pie.",1,1.0
+mistral-7b,US,English,pers-3,New-gr-21,Sport, Tennis,1,1.0
+mistral-7b,US,English,pers-3,New-gr-24,Sport, Track and Field: Football (Soccer),0,0
+mistral-7b,US,English,pers-3,New-gr-29,Sport, The Super Bowl (American Football),0,0
+mistral-7b,US,English,pers-3,New-gr-47,Work life,15 (minutes),1,0.5
+mistral-7b,US,English,pers-3,New-gr-58,Work life," In the United States, jobs that require essential services such as childcare providers, home health aides, and food service workers are often considered underpaid due to their low wages compared to the importance of their roles in society.",0,0
+mistral-7b,US,English,pers-3,New-gr-76,Holidays/Celebration/Leisure," The most common food served during Easter in the U.S. varies across regions, but one popular dish is Ham. However, it's essential to note that many families also enjoy traditional dishes from their cultural backgrounds, such as lamb or specialty chicken dishes.",1,1.0
+mistral-7b,US,English,pers-3,New-gr-82,Holidays/Celebration/Leisure, Country Music,1,1.0
+mistral-7b,US,English,pers-3,New-gr-88,Holidays/Celebration/Leisure," In the United States, it is not customary to offer a specific drink at funerals. However, refreshments such as water and coffee are often provided for guests.",1,1.0
+mistral-7b,US,English,pers-3,New-gr-89,Holidays/Celebration/Leisure, Champagne or sparkling wine is commonly served at weddings in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-ha-07,Food, Hamburger,1,1.0
+mistral-7b,US,English,pers-3,New-ha-08,Food, Brussels sprouts,0,0
+mistral-7b,US,English,pers-3,New-ha-09,Food, Cast Iron Skillet,0,0
+mistral-7b,US,English,pers-3,New-ha-13,Food," It is difficult to determine a single ""most popular"" vegetable in the United States as our dietary preferences vary greatly across regions and cultures. However, tomatoes are widely consumed due to their versatility in various dishes, from salads to sauces.",0,0
+mistral-7b,US,English,pers-3,New-ha-19,Sport," Horses (for sports like horse racing and rodeo) and Balls (used in various sports such as baseball, basketball, soccer, etc.) are commonly associated with sports in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,New-ha-66,Family, Church or Chapel (for religious weddings) or Banquet Hall/Hotel (for secular weddings).,1,1.0
+mistral-7b,US,English,pers-3,New-in-01,Food, Starbucks,1,1.0
+mistral-7b,US,English,pers-3,New-in-03,Food," Picon Punch (Basque diaspora drink) and dishes from American regional cuisines such as barbecue (Southern U.S.) or clam chowder (New England) can be found in some restaurants overseas, but it's important to note that these are adaptations rather than the original versions. The most widely recognized ""American"" food served globally is likely fast food from chains like McDonald's and KFC.",0,0
+mistral-7b,US,English,pers-3,New-in-33,Work life, The Western Region of the United States is usually associated with mining.,1,1.0
+mistral-7b,US,English,pers-3,New-in-34,Work life, Texas,1,1.0
+mistral-7b,US,English,pers-3,New-in-62,Education, Massachusetts Institute of Technology (MIT),1,1.0
+mistral-7b,US,English,pers-3,New-in-63,Education, Johns Hopkins University School of Medicine,1,0.6666666666666666
+mistral-7b,US,English,pers-3,New-in-78,Holidays/Celebration/Leisure," Credit/Debit Cards (or digital payments like Apple Pay, Google Wallet, etc.)",1,1.0
+mistral-7b,US,English,pers-3,New-in-80,Holidays/Celebration/Leisure, Disney World (located in Florida),1,1.0
+mistral-7b,US,English,pers-3,New-ko-01,Family," One of the most popular children's animations in the U.S. is ""Paw Patrol.""",0,0
+mistral-7b,US,English,pers-3,New-ko-02,Family," Reading and learning about child development through books or educational resources, such as those provided by the Smithsonian Education collections.",0,0
+mistral-7b,US,English,pers-3,New-ko-03,Family," It is difficult to determine the ""most popular"" children's song as it varies across regions and families within the U.S., but one of the widely recognized songs that many American families may sing together is ""The Wheels on the Bus."" This song, with its verses describing various parts of a bus and their actions, has been a staple in American children's music for several decades.",1,0.3333333333333333
+mistral-7b,US,English,pers-3,New-ko-04,Family," Action Figures (e.g., Superheroes, Star Wars, Transformers) and Video Games (consoles or handheld devices).",1,1.0
+mistral-7b,US,English,pers-3,New-ko-05,Family, Barbie dolls and LEGO sets (for older girls) are among the most popular toys for girls in the United States.,1,1.0
+mistral-7b,US,English,pers-3,New-ko-06,Family," The most popular American folk tale often told to children is likely ""The Tortoise and the Hare,"" a story about patience and persistence, which has been adapted from Aesop's fable but gained significant popularity in America. However, it's important to note that regional folklore varies greatly across the U.S., with many unique stories and traditions existing alongside this well-known tale.",0,0
+mistral-7b,US,English,pers-3,New-ko-07,Holidays/Celebration/Leisure, The customary symbol of condolence used at funerals in the U.S. is a bouquet of flowers.,1,1.0
+mistral-7b,US,English,pers-3,New-ko-08,Work life, University students in the U.S. tend to work part-time most often in retail and food service industries.,1,0.6666666666666666
+mistral-7b,US,English,pers-3,New-ko-09,Work life,"1. Team Building Sports Activities (e.g., Softball Leagues, Volleyball Tournaments)
+2. Group Problem-Solving Workshops (e.g., Escape Rooms, Brainstorming Sessions)
+3. Social Outings (e.g., Happy Hours, Company Picnics)
+4. Charity Events (e.g., Volunteer Days, Fundraising Campaigns)
+5. Training and Development Workshops (e.g., Leadership Seminars, Team-Building Retreats)",1,0.5
+mistral-7b,US,English,pers-3,New-ko-10,Work life,"1. Food Delivery (e.g., Uber Eats, DoorDash)
+2. Rideshare Driving (e.g., Uber, Lyft)
+3. Freelance Work (e.g., graphic design, programming, writing)
+4. Gig Economy Jobs (e.g., TaskRabbit tasks like cleaning, moving help)
+5. Tutoring or Teaching Online
+6. Pet Sitting or Dog Walking Services
+7. Direct Sales (e.g., Avon, Tupperware)
+8. Multi-Level Marketing (MLM)
+9. Real Estate Investment and Flipping
+10. Consulting in various fields (e.g., business, finance, healthcare)",1,1.0
+mistral-7b,US,English,pers-3,New-pe-02,Food," Peanuts (or peanut brittle) at an American baseball game might be considered a well-known edible souvenir associated with U.S. culture, given the relevance of sports and spectatorship in our society as mentioned in your background information about the Smithsonian collections. However, it's important to note that regional specialties like pretzels (Philadelphia), beignets (New Orleans), or clam chowder bread bowls (San Francisco) could also be considered famous edible souvenirs depending on the area visited by tourists.",0,0
+mistral-7b,US,English,pers-3,New-pe-06,Food," The most popular stew in the United States is likely the New England Clam Chowder. However, it's important to note that regional preferences vary greatly, and other popular stews include Gumbo (in the South), Posole (in the Southwest), and Philly Cheesesteak Stew (in Philadelphia).",1,0.5
+mistral-7b,US,English,pers-3,New-pe-11,Food, Salt,1,0.5
+mistral-7b,US,English,pers-3,New-pe-16,Sport, American Football (NFL),1,1.0
+mistral-7b,US,English,pers-3,New-pe-20,Sport, Volleyball,1,1.0
+mistral-7b,US,English,pers-3,New-pe-45,Work life," In the US, the work schedule during Ramadan may vary depending on individual observance and workplace policies. However, it's important to note that there are no specific cultural norms requiring all workers to adjust their schedules according to fasting hours. Many people continue with their regular work schedules while others may take short breaks during the day to eat and rest. It is always best to check with individual employers for specific policies regarding Ramadan.",,
+mistral-7b,US,English,pers-3,New-pe-47,Family," There isn't a specific national holiday known as ""Student's Day"" in the United States. However, we celebrate and value student and family voice throughout the year in various educational settings.",,
+mistral-7b,US,English,pers-3,New-pe-49,Family,"1) Catholic Churches, Synagogues (Jewish), and Chinese American private schools (often with cultural significance).
+2) New England clambake tradition is more about family gathering for food rather than prayer.",1,1.0
+mistral-7b,US,English,pers-3,New-pe-53,Family," Cards, ties, electronics, tools, grilling equipment, and experiences such as golf outings or sporting events are common gifts for Fathers/Parents' Day in the U.S.",1,1.0
+mistral-7b,US,English,pers-3,New-pe-54,Family, Flowers and/or cards are common gifts for mothers on Mother's Day in the U.S.,1,1.0
+mistral-7b,US,English,pers-3,New-pe-59,Family,"3 (Based on the provided information, it suggests that at least three generations - parents, children, and grandparents - are involved in the Christmas tradition, implying they may reside together or frequently visit each other.)",0,0
+mistral-7b,US,English,pers-3,New-pe-65,Education,8 (subject areas),1,1.0
+mistral-7b,US,English,pers-3,New-pe-66,Education," In the United States, there isn't a singular ""most popular"" after-school curricular activity for all elementary schools. However, it's common to find activities focusing on sports, arts (music, dance, visual arts), academic enrichment programs, and cultural or language clubs based on students' interests and the school's offerings.",1,1.0
+mistral-7b,US,English,pers-3,New-pe-74,Education," The average annual tuition fee for public universities in the U.S. can vary greatly depending on the state and institution. However, as of 2019, it was approximately $10,230 for in-state students and $26,820 for out-of-state students at public four-year institutions (National Center for Education Statistics).",1,1.0
+mistral-7b,US,English,pers-3,New-pe-76,Holidays/Celebration/Leisure," Picnicking or Outdoor Recreation (Camping, Fishing, Hiking)",1,1.0
+mistral-7b,US,English,pers-3,New-pe-78,Holidays/Celebration/Leisure, The most famous film festival held in the United States is the Sundance Film Festival.,1,1.0
+mistral-7b,US,English,pers-3,New-pe-83,Holidays/Celebration/Leisure, Poker,1,1.0
+mistral-7b,US,English,pers-3,New-pe-85,Holidays/Celebration/Leisure, France (Paris),1,1.0
+mistral-7b,US,English,pers-3,New-pe-86,Holidays/Celebration/Leisure, The Statue of Liberty,0,0
+mistral-7b,US,English,pers-3,New-spme-01,Food, Cricket or Mealworm (not widely consumed by the general population),,
+mistral-7b,US,English,pers-3,New-spme-04,Food, Corn (Maize),1,1.0
+mistral-7b,US,English,pers-3,New-spme-05,Food," Apple Pie, Cookies (such as Oatmeal Raisin and Chocolate Chip), Candies (like M&Ms and Hershey's Chocolates), Donuts, and Ice Cream are among the most popular sweets in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-spme-15,Sport, Gatorade,1,1.0
+mistral-7b,US,English,pers-3,New-spme-27,Education," Among adults age 25 and over in the U.S., about 34% have a bachelor’s degree or higher. However, it's important to note that this number varies across different demographic groups and regions within the country.",0,0
+mistral-7b,US,English,pers-3,New-spme-37,Education, Engineering,1,0.5
+mistral-7b,US,English,pers-3,New-spme-60,Family, Sunday,1,1.0
+mistral-7b,US,English,pers-3,New-spme-65,Family, Fireworks displays and barbecues.,1,1.0
+mistral-7b,US,English,pers-3,New-spme-68,Family, Milk or Juice (depending on age and preference),1,1.0
+mistral-7b,US,English,pers-3,New-spme-76,Holidays/Celebration/Leisure," The most popular places to celebrate Independence Day in the U.S. are typically small towns and cities that host large-scale parades, fireworks displays, and community events on July 4th. Examples include Philadelphia (where the Declaration of Independence was signed), Boston (one of the first cities to celebrate Independence Day), and Washington D.C. (the nation's capital). However, it is important to note that celebrations occur all across the country, with many communities organizing their own events to honor this national holiday.",1,1.0
+mistral-7b,US,English,pers-3,New-spme-78,Holidays/Celebration/Leisure," ""Happy Birthday to You""",1,1.0
+mistral-7b,US,English,pers-3,New-su-01,Food," Pretzels, Hot Dogs, Ice Cream, Chips, and Cookies.",,
+mistral-7b,US,English,pers-3,New-su-09,Food," Vegetable Oil (or Canola Oil) is commonly used for cooking in the United States. However, regional preferences may vary, with some areas using olive oil or other oils based on local availability and cultural influences.",1,1.0
+mistral-7b,US,English,pers-3,New-su-10,Food, Pickles and ice cream are commonly consumed by pregnant women in the US.,1,0.5
+mistral-7b,US,English,pers-3,New-su-15,Food, Lemonade,0,0
+mistral-7b,US,English,pers-3,New-su-17,Sport," Baseball fields, basketball courts, tennis courts, playgrounds, jogging trails, and sometimes swimming pools or ice rinks (depending on the region).",1,1.0
+mistral-7b,US,English,pers-3,New-su-21,Sport," Senior citizens in U.S. parks often engage in activities such as walking, jogging, picnicking, gardening, socializing, and participating in organized events like exercise classes or community gatherings.",1,1.0
+mistral-7b,US,English,pers-3,New-su-24,Sport," Soccer, Basketball, Baseball, and American Football (Touch or Flag versions for younger children) are some of the sports that parents and children commonly play together in the United States. Additionally, activities like swimming, tennis, and martial arts are also popular family pastimes.",1,1.0
+mistral-7b,US,English,pers-3,New-su-28,Sport," Red, White, and Blue",,
+mistral-7b,US,English,pers-3,New-su-33,Education," In the United States, school teachers typically wear business casual attire, which may include dress shirts, blouses, trousers, skirts, and sweaters. However, dress codes can vary depending on the specific school district or educational institution.",1,1.0
+mistral-7b,US,English,pers-3,New-su-34,Education," Chorus or Band (Instrumental Music) are among the most popular extracurricular activities related to music in many U.S. schools, but it varies depending on the region and school district.",1,1.0
+mistral-7b,US,English,pers-3,New-su-42,Education, None (Public schools in the U.S. are required by law to be secular and do not teach any specific religion.),,
+mistral-7b,US,English,pers-3,New-su-45,Education,"02/02 (February 2nd) is not a specific day for ""Education Day"" celebration in the U.S. However, there are various events and observances related to education throughout the year, such as National Education Week in November.",,
+mistral-7b,US,English,pers-3,New-su-50,Work life," Agriculture and Forestry, Mining, and Construction are common occupations in mountainous areas in the US.",1,1.0
+mistral-7b,US,English,pers-3,New-su-51,Work life, Fishery or related marine industries.,0,0
+mistral-7b,US,English,pers-3,New-su-57,Work life, Cattle (Beef Cattle),1,1.0
+mistral-7b,US,English,pers-3,New-su-58,Work life," Cattle, Pigs, Chickens, Turkeys, and Sheep are commonly used for agriculture in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-su-59,Work life," Farmers in the US typically wear wide-brimmed hats, long-sleeved shirts, and pants made of breathable materials like cotton or denim to protect themselves from the heat while farming.",1,1.0
+mistral-7b,US,English,pers-3,New-su-60,Work life," Turkey sandwich or a variety of regional dishes such as barbecue, tacos, or salads.",,
+mistral-7b,US,English,pers-3,New-su-71,Family," In the U.S., parents typically give toys, books, clothing, electronics, or games as birthday gifts to their children.",,
+mistral-7b,US,English,pers-3,New-su-75,Family, Sedan or SUV,1,1.0
+mistral-7b,US,English,pers-3,New-su-77,Holidays/Celebration/Leisure," In the United States, gifts are often given to children on Eid, similar to many other celebrations. However, it's important to note that practices can vary greatly among different communities and families due to cultural diversity.",,
+mistral-7b,US,English,pers-3,New-su-81,Holidays/Celebration/Leisure," Tuxedo or suit (black or dark gray) with a white shirt, tie, and dress shoes are commonly worn by grooms at weddings in the United States.",1,1.0
+mistral-7b,US,English,pers-3,New-su-82,Holidays/Celebration/Leisure, White wedding dress,1,1.0
+mistral-7b,US,English,pers-3,New-su-83,Holidays/Celebration/Leisure, Wedding Cake,1,1.0
+mistral-7b,US,English,pers-3,New-su-86,Holidays/Celebration/Leisure, The White House,1,1.0
+mistral-7b,US,English,pers-3,New-su-88,Holidays/Celebration/Leisure, Hip Hop/Rap,1,0.75
+mistral-7b,US,English,pers-3,Ni-en-02,Education,"3:00 PM (15:00) is a common finishing time for middle school students in the U.S. However, it's important to note that this can vary depending on the specific school district and schedule.",1,1.0
+mistral-7b,US,English,pers-3,Ni-en-03,Education,18,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-06,Education,6 (Compulsory education typically starts at age 6 in the U.S.),1,0.6666666666666666
+mistral-7b,US,English,pers-3,Ni-en-09,Education,5,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-11,Education,"2 years (on average) for a full-time Master's degree program in the U.S. However, this can vary depending on the field of study and the specific institution. Some programs may take longer due to part-time study or research requirements.",1,1.0
+mistral-7b,US,English,pers-3,Ni-en-12,Education," The top university in the United States, according to various rankings, is often considered to be Harvard University. However, it's important to note that the ""best"" university can vary depending on the criteria used for ranking. Other highly ranked universities include Stanford University, Massachusetts Institute of Technology (MIT), and the University of California, Berkeley.",1,1.0
+mistral-7b,US,English,pers-3,Ni-en-13,Education,22,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-15,Education,11 or 12 years old,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-17,Work life,42.7 (Assuming a standard workweek of 5 days and an average of 8.1 hours per day),0,0
+mistral-7b,US,English,pers-3,Ni-en-19,Work life,5 (assuming weekends are considered non-workdays),1,1.0
+mistral-7b,US,English,pers-3,Ni-en-20,Work life,16,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-21,Work life,16,1,0.6666666666666666
+mistral-7b,US,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure," Caviar and escargots (snails) are among some of the traditional foods eaten by a multigenerational family in California on Christmas Day, although it's important to note that regional and cultural differences mean that not all families in the U.S. follow this tradition. Common holiday dishes across the country often include roast turkey or ham, along with various side dishes such as stuffing, mashed potatoes, cranberry sauce, and pumpkin pie.",1,1.0
+mistral-7b,US,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure, Valentine's Day,1,1.0
+mistral-7b,US,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure," ""Jingle Bells"" is one of the most popular Christmas songs in the United States.",1,0.3333333333333333
+mistral-7b,US,English,pers-3,Nu-in-04,Education,2 (Semesters: Fall and Spring),1,1.0
+mistral-7b,US,English,pers-3,Nu-in-05,Education,8 or 9 (August or September),1,1.0
+mistral-7b,US,English,pers-3,Nu-in-06,Education,"05/03 (May 3rd) or 10/05 (October 5th), depending on the region and school system. There are two Teacher Appreciation Days in the US, one in spring (usually May 3rd) and one in fall (usually October 5th).",0,0
+mistral-7b,US,English,pers-3,Nu-in-11,Education,08:30 (Elementary schools typically start around this time in the morning.),1,0.2
+mistral-7b,US,English,pers-3,Nu-in-20,Family," The United States does not have a specific national holiday called ""Children's Day."" However, there are celebrations and events focused on children throughout the year, such as Children's Week at the White House during Easter time, and various local events organized by schools and communities.",,
+mistral-7b,US,English,pers-3,Nu-in-40,Work life, New York City,1,1.0
+mistral-7b,US,English,pers-3,Sa-en-1,Food, McDonald's,1,1.0
+mistral-7b,US,English,pers-3,Sa-en-13,Food," Watermelon and Mac & Cheese are foods that can be quite divisive in the U.S., with strong opinions on both sides regarding taste preferences.",0,0
+mistral-7b,US,English,pers-3,Sa-en-16,Sport," I cannot definitively say that there is one ""most popular"" soccer team in the United States as it varies greatly across regions and individual preferences. However, some of the more well-known professional teams include the New York Red Bulls, Los Angeles Galaxy, Seattle Sounders FC, and D.C. United from Major League Soccer (MLS).",0,0
+mistral-7b,US,English,pers-3,Sa-en-22,Sport," The University of Michigan or University of Alabama, both renowned for their football teams.",1,1.0
+mistral-7b,US,English,pers-3,Sa-en-31,Family, Dog,1,1.0
+mistral-7b,US,English,pers-3,Sa-en-32,Family," I cannot definitively state which is the ""most popular"" family TV show in the U.S., as preferences vary greatly among individuals and demographics. However, some of the shows that have gained significant popularity across multiple generations include ""The Simpsons,"" ""Full House,"" ""The Fresh Prince of Bel-Air,"" and more recently, ""Stranger Things."" These shows often feature family dynamics and values in their storylines.",1,1.0
+mistral-7b,US,English,pers-3,Sa-en-37,Family, Monopoly,1,1.0
+mistral-7b,US,English,pers-3,Sa-en-6,Food, Pizza,1,1.0
+mistral-7b,US,English,pers-3,Sa-en-7,Food," Turkeys, apples, potatoes, cranberries, apple pie, pumpkin pie, kransekake (Norwegian American), and various other regional dishes such as those found in New York City's Lower East Side.",0,0
+mistral-7b,US,English,pers-3,Sa-en-9,Food," BBQ (Barbecue) or Picnic Foods such as Hamburgers, Hot Dogs, Chips, and Sandwiches are commonly eaten at beaches in the US.",1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-10,Family,30.2 (years),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-11,Family,28.6 (Based on the median age at first marriage for women in 2024 as per your provided information.),1,0.5
+mistral-7b,US,English,pers-3,Ta-pe-13,Family,5-6 (approximately),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-17,Sport, Track and Field (Athletics),0,0
+mistral-7b,US,English,pers-3,Ta-pe-21,Sport, Parks and school grounds are common places where children usually play soccer in the U.S.,1,0.5
+mistral-7b,US,English,pers-3,Ta-pe-22,Sport, Yoga or Pilates (These activities are considered leisure activities and are often practiced for fitness and relaxation purposes.),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-23,Sport, Running or Jogging,1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-25,Sport, Boston Red Sox vs New York Yankees (in Major League Baseball),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-29,Sport, American Football (NFL),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-30,Sport," ""Sunday Night Football"" on NBC has been one of the most popular sports-related TV programs in the U.S. for many years.",0,0
+mistral-7b,US,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure, July 4th (Independence Day),1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure," Ball Drop (Times Square, New York City)",1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure," On New Year's Eve, many Americans might consume foods like black-eyed peas, pork (such as ham or pork and beans), greens (like collard or cabbage), and grapes. These foods are often associated with good luck and prosperity in the coming year. Additionally, some regions may also enjoy regional specialties such as shrimp cocktail, oysters, or champagne toast at midnight.",1,1.0
+mistral-7b,US,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure," During the celebration of the longest night of the year (Winter Solstice) in the US, foods such as cookies, cakes, and hot beverages like cocoa or apple cider are commonly enjoyed. This is often associated with traditions like Yule Log desserts and wassailing. However, it's important to note that regional variations may exist.",,
+mistral-7b,US,English,pers-3,Th-en-01,Sport, Baseball,1,1.0
+mistral-7b,US,English,pers-3,Th-en-03,Sport, National Football League (NFL),1,1.0
+mistral-7b,US,English,pers-3,Th-en-05,Sport, The Women's National Soccer Team (WNT) is widely recognized as one of the most popular women's sports teams in the United States.,0,0
+mistral-7b,US,English,pers-3,Th-en-09,Sport," The Super Bowl, which is an annual American football game between the champions of the National Football League (NFL)'s National Football Conference (NFC) and the American Football Conference (AFC), is one of the most popular tournaments in the United States.",0,0
+mistral-7b,US,English,pers-3,Th-en-11,Sport, LeBron James (as of 2021),1,0.5
+mistral-7b,US,English,pers-3,Th-en-12,Sport, Basketball,1,1.0
+mistral-7b,US,English,pers-3,Th-en-15,Sport, Ice Hockey,1,1.0
+mistral-7b,US,English,pers-3,Th-en-19,Work life," Detroit, Michigan is known for its automobile manufacturing industry.",1,1.0
+mistral-7b,US,English,pers-3,Th-en-21,Work life," Paid Time Off (PTO), which often includes holidays such as Memorial Day, Juneteenth, Independence Day, Labor Day, Veterans Day, Thanksgiving, and Christmas, among others.",0,0
+mistral-7b,US,English,pers-3,Th-en-22,Work life,1929 (The Great Depression),1,1.0
+mistral-7b,US,English,pers-3,Th-en-24,Work life, Silicon Valley (California),1,1.0
+mistral-7b,US,English,pers-3,Th-en-27,Work life," Agriculture plays a significant role in the U.S., but it's difficult to pinpoint one specific industry as the ""most important"" due to the country's diverse economy. However, if we focus on cultural traditions, both the sheep industry (as seen in Lamb Day celebrations) and Indigenous foodways (represented by blue corn festivals) are important aspects of American culture in certain regions.",1,0.3333333333333333
+mistral-7b,US,English,pers-3,Th-en-35,Family, Dinner,1,1.0
+mistral-7b,US,English,pers-3,Th-en-36,Family, Weekend Family Dinner or Movie Night,0,0
+mistral-7b,US,English,pers-3,Th-en-37,Family,"18 (This refers to the age of legal adulthood and emancipation in the U.S., although cultural norms and financial independence may vary.)",1,1.0
+mistral-7b,US,English,pers-3,Th-en-38,Family," Christmas and Thanksgiving are among the most significant family holidays in the United States. However, it's essential to note that cultural practices can vary greatly across the country due to its diverse population.",1,1.0
+mistral-7b,US,English,pers-3,Th-en-39,Family, Monopoly,1,1.0
+mistral-7b,US,English,pers-3,Th-en-41,Family,"30.2 (women), 30.2 (men) (estimated median age at first marriage in 2024, assuming most couples have their first child shortly after marriage)",1,1.0
+mistral-7b,US,English,pers-3,Th-en-43,Family,"2.06 (This is an approximation based on data from the U.S. Census Bureau, which shows that in 2019, the average number of vehicles per household was approximately 2.06.)",1,1.0
+mistral-7b,US,English,pers-3,Th-en-44,Family, Roasted Chicken or BBQ (Barbecue),1,0.25
+mistral-7b,US,English,pers-3,Th-en-45,Family, Dinner together (or Family mealtime),1,1.0
+mistral-7b,US,English,pers-3,Th-en-48,Education," The highest grade given to top-achieving high school students on assignments and exams in the U.S. is an ""A"".",1,0.6666666666666666
+mistral-7b,US,English,pers-3,Th-en-49,Education, The SAT or ACT exam is considered one of the most important for high school students in the United States as it is often used by colleges and universities to make admission decisions.,1,1.0
+mistral-7b,US,English,pers-3,Th-en-51,Education," Education in the United States covers a broad range of subjects, and it's difficult to pinpoint one as the most important. However, U.S. History, including the study of American culture, traditions, and values, is often emphasized due to its relevance to the students' own lives and the country they live in.",0,0
+mistral-7b,US,English,pers-3,Th-en-53,Education, Maple sugaring events (if available) or school-based cultural/religious gatherings (such as ethnic community-based schools).,0,0
+mistral-7b,US,English,pers-3,Th-en-58,Education," In the United States, Algebra II is typically the most advanced mathematics subject learned before attending university. However, this can vary depending on the school district and individual student's pace.",1,0.6666666666666666
+mistral-7b,US,English,pers-3,Tmp-ar-01,Education, Libraries or Study Rooms on Campus.,1,1.0
+mistral-7b,US,English,pers-3,Tmp-ar-02,Education, Bus or Train (depending on availability and proximity),1,1.0
+mistral-7b,US,English,pers-3,Tmp-ar-04,Education," Elementary students in the U.S. often participate in extracurricular activities or clubs after school, such as sports teams, music programs, art classes, or academic clubs. Some may also attend after-school care programs or go home to spend time with family.",1,1.0

@@ -1,0 +1,526 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,South_Korea,English,inst-4,Al-en-01,Food,떡볶이 (Tteokbokki),0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-02,Food,jjajangmyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-04,Food,Fruit,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-06,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-08,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-09,Food,tteokbokki,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-16,Education,36,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Al-en-17,Education,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-18,Education,The provided text does not specify which subject elementary students receive private education in.,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-19,Education,English,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Al-en-21,Education,Private education,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,"Halloween is celebrated with elaborate costumes and themed parties, particularly among younger generations.",0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"Greet ancestors, wish for family health and abundant farming, and participate in customs like charye, sebae, yutnori, neolttwigi, kite flying and bokjori.",0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,The provided text does not contain information about how people celebrate Christmas in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,Ganggangsullae,,
+gemma3-4b,South_Korea,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,None,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,Chuncheon dakgalbi,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,Cold food,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-02,Education,It’s not specified where university students have lunch in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-03,Education,1,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-08,Education,24,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-09,Education,3,1,1.0
+gemma3-4b,South_Korea,English,inst-4,An-ar-34,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-35,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-36,Sport,FC Seoul,0,0
+gemma3-4b,South_Korea,English,inst-4,An-ar-43,Sport,It cannot be determined from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-06,Food,Kimchi-related meal,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-08,Food,Rice,1,0.5
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-09,Food,Hansik,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-11,Food,Seol,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-14,Food,Barley tea,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,"5
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Dongji,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-38,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-41,Family,One-person households,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-42,Family,100,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-43,Family,6,0,0
+gemma3-4b,South_Korea,English,inst-4,Ca-sp-45,Family,South-western Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-05,Sport,Sports participation was ~59.5% for people 70+.,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-06,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-07,Sport,Ham Ji-won,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-08,Sport,Data insufficient to determine.,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-09,Sport,Insufficient information,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-11,Sport,Badminton,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-15,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-16,Family,2.16,0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-18,Family,1.2,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-31,Education,6,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-32,Education,"12
+",1,1.0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-33,Education,"12
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-40,Education,15:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Gu-ch-41,Education,0,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-02,Work life,It cannot be determined from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-03,Work life,Seoul,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-07,Work life,Samsung,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-08,Work life,52,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-09,Work life,Cold food,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-14,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-15,Work life,1.5,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-16,Family,South Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-19,Family,Chrysanthemums,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-22,Family,Housing,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-24,Family,The provided text does not contain information about recreational facilities or children's preferences.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-25,Family,"Hansik, Seollal, Dano, and Chuseok",0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-26,Family,Aging population and financial burdens related to children's education.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-27,Family,Pansori,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-28,Family,Seol,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-29,Family,Buddha's birthday,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-31,Education,Private education,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-33,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-34,Education,They go to school with class sizes of 20.9.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-35,Education,Elementary education,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-36,Education,English,1,0.8
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-37,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-38,Education,Medicine,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-39,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-40,Education,The provided text does not contain information about what high school students do during break time.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-41,Education,The text does not provide information about the type of shoes students wear in schools in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-42,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-44,Education,Seoul,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ji-ko-45,Education,Circle-dance and singing performances like Ganggangsullae.,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-01,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-02,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-09,Sport,Golf,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-13,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-14,Sport,ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-18,Work life,12,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-19,Work life,South-western Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-21,Work life,"00:00
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-31,Education,"18:00
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-32,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-36,Education,14,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-37,Education,2,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-39,Education,6,0,0
+gemma3-4b,South_Korea,English,inst-4,Jo-sp-43,Education,1,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-01,Food,Chopsticks,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-04,Food,Coca-Cola,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-06,Food,Andong soju,1,0.5
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-07,Food,2.  5,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-09,Food,"18:00
+",1,0.6666666666666666
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-12,Food,Samgyetang (ginseneng chicken soup),0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-13,Food,Tteokguk,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-15,Food,Fermented seafood,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Data insufficient to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,None.,,
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-37,Sport,Baseball,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-38,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-46,Work life,6.0,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-48,Work life,People eat alone during the working days.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-50,Work life,"1
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-51,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-54,Work life,"12
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-56,Work life,31.6,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-57,Work life,65,1,0.5
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-58,Work life,It cannot be determined from the provided information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-60,Work life,48,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-61,Work life,Large corporations,0,0
+gemma3-4b,South_Korea,English,inst-4,Jod-ch-62,Work life,Large corporations,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-17,Education,High school,1,0.2
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-24,Education,Korean,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-30,Education,The provided text does not contain information about school closures in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-32,Food,"Songpyeon, japchae, namul, jeon and fruit.",1,0.5
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-34,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-36,Food,Japan,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-39,Food,"Songpyeon, japchae, namul, jeon and fruit",0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-40,Food,None,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-43,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-51,Work life,"20:00
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Pansori,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,The provided text does not contain information about Independence Day celebrations in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Joss paper.,,
+gemma3-4b,South_Korea,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,During Chuseok.,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Bokjori,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,,
+gemma3-4b,South_Korea,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Kimjang,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Seollal/Daeboreum,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Mosi ramie cloth,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-16,Food,Kimchi soup,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-17,Food,Songpyeon,,
+gemma3-4b,South_Korea,English,inst-4,Kik-in-24,Food,dakgalbi,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-31,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-34,Sport,Baseball,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-35,Sport,"Sports participation was ~65% for ages 20-60, 43.2% for teens and 59.5% for people 70+.",0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-36,Sport,Answer: Jürgen Klopp,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-37,Sport,Jeongseon vs. Busan,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-38,Sport,Jeongseon vs. Busan,,
+gemma3-4b,South_Korea,English,inst-4,Kik-in-40,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-41,Sport,Lee Sung-hee,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-44,Sport,ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Kik-in-45,Sport,Public facilities,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-02,Food,Barley tea,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-04,Food,Chodang sundubu,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-05,Food,budaejjigae,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-07,Food,The provided text does not contain information about the most consumed meat in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-08,Food,Fruit,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-09,Food,Kimchi,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-11,Food,Korean food,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-15,Food,Samgyetang,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-16,Sport,Son Heung-min,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-17,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-18,Sport,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-19,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-20,Sport,Soccer,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-22,Sport,Japan,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-23,Sport,The provided text does not contain information about the types of sports academies children attend.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-24,Sport,Chicken wings,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-25,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-26,Sport,Sports,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-28,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-29,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-30,Sport,League of Legends,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,ogokbap,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,The text does not provide information about wedding gifts.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,An ox,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"3
+",1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Incense and paper money.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Songpyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"Greet ancestors and wish for family health and abundant farming, with charye, sebae, yutnori, neolttwigi, kite flying and bokjori.",1,1.0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,This question cannot be answered with the provided information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Data insufficient to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Chuseok,1,0.2
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,Kimchi,,
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Dongji,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,,
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-16,Work life,The provided information does not state when the weekend is in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-18,Work life,18:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-20,Work life,A job offering high income and stability.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-24,Work life,Seoul,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-25,Work life,Data insufficient to determine.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-26,Work life,Samsung,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-31,Food,Kimchi,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-32,Food,Eating alone on weekdays.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-33,Food,12:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-34,Food,Kimchi,1,0.75
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-36,Food,"Songpyeon, japchae, namul, jeon and fruit",0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-37,Food,Fruit,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-38,Food,Songpyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-39,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-43,Food,Bread,0,0
+gemma3-4b,South_Korea,English,inst-4,Ne-ar-44,Food,Black coffee,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-02,Food,Soju,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-04,Food,Jang,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-08,Food,None,,
+gemma3-4b,South_Korea,English,inst-4,New-am-15,Food,Songpyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-27,Sport,Na-Young Kim,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-34,Education,Private tutoring,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-41,Education,High-school year one,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-53,Work life,Jeju,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-54,Work life,South-western Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-59,Work life,The provided text does not contain information about the occupations of people living in deserts in South Korea.,,
+gemma3-4b,South_Korea,English,inst-4,New-am-60,Work life,Horse,,
+gemma3-4b,South_Korea,English,inst-4,New-am-72,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-73,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-74,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-77,Holidays/Celebration/Leisure,Chuseok,0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-81,Holidays/Celebration/Leisure,"1
+",0,0
+gemma3-4b,South_Korea,English,inst-4,New-am-83,Holidays/Celebration/Leisure,Drummer,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-01,Food,Ox,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-02,Food,Naengmyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-05,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-07,Food,Jang,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-14,Food,Tteokguk,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-15,Food,Makgeol,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-20,Sport,ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-29,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-30,Sport,Baseball,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-as-58,Work life,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-64,Family,Seollal,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-76,Holidays/Celebration/Leisure,yunnori and neolttwigi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Masks and belts,0,0
+gemma3-4b,South_Korea,English,inst-4,New-as-89,Holidays/Celebration/Leisure,"Belts, ropes",0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-05,Food,Jeju,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-11,Food,Fruit,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-12,Food,South-western Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-21,Sport,Gangwon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-26,Sport,Taekkyeon practitioners,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-27,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-39,Education,China,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-49,Work life,2.16,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-az-60,Family,It is not stated who takes care of kids when both parents are working.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-69,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-70,Holidays/Celebration/Leisure,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-az-73,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-01,Food,Beef,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-02,Food,"09:00
+",0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-04,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-05,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-07,Food,"Andong soju, Yangpyeong makgeolli and Seocheon's Hansan sogokju",0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-08,Food,Gochujang,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-ch-09,Food,"Songpyeon, japchae, namul, jeon and fruit",0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-13,Food,Soju,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-14,Food,Cold food,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-15,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-16,Sport,Taegukgaejang,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-17,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-18,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-19,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-23,Sport,Jang Woong-nam,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-26,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-27,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-30,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-31,Work life,Income,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-32,Work life,Microsoft Office,1,0.3333333333333333
+gemma3-4b,South_Korea,English,inst-4,New-ch-38,Work life,"Jeonnam, Gyeongbuk, Gangwon, Jeonbuk, Busan",1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-ch-39,Work life,Coupang,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-ch-44,Work life,Not specified.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-45,Work life,Construction and education services,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-49,Family,Not enough information to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-51,Family,Traditional guesthouses,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-54,Family,Fruit,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-64,Education,7.6,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-66,Education,"772,000",1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-ch-70,Education,None.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-71,Education,23.4,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-72,Education,Unknown.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-73,Education,Private education clubs,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-74,Education,Not specified in the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-75,Education,24.9,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,Weaving mosi ramie cloth,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,Neolttwigi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,Chuseok,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,"Songpyeon, japchae, namul, jeon and fruit.",0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"18:00
+",,
+gemma3-4b,South_Korea,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,South Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,,
+gemma3-4b,South_Korea,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,Black,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-en-01,Food,Chocolate.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-02,Food,"Data about South Korea is not relevant to answering this question.
+",0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-04,Food,Lee Jae-won,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-05,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-07,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-08,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-10,Food,Gochujang cheese,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-11,Food,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-12,Food,Jjajangmyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-17,Sport,Cheering culture,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-18,Sport,"Food, cheering culture, and the game itself.",0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-19,Sport,Seoul World Cup Stadium,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-en-23,Sport,Lee Sang-hoon,,
+gemma3-4b,South_Korea,English,inst-4,New-en-26,Sport,Pansori,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-38,Work life,Construction and education services,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-41,Work life,Lee Kun-hee,1,0.25
+gemma3-4b,South_Korea,English,inst-4,New-en-47,Family,Not enough information to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-49,Family,Samsung,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-50,Family,Kim,1,0.75
+gemma3-4b,South_Korea,English,inst-4,New-en-55,Family,Buddhism,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-en-56,Family,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-59,Family,United States,1,0.5
+gemma3-4b,South_Korea,English,inst-4,New-en-68,Education,Insufficient information to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-69,Education,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-70,Education,1,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-72,Education,EBS textbooks,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-en-75,Education,"1
+",0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Incheon International Airport,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-en-79,Holidays/Celebration/Leisure,South-west Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-87,Holidays/Celebration/Leisure,Pansori,0,0
+gemma3-4b,South_Korea,English,inst-4,New-en-90,Holidays/Celebration/Leisure,Lotte Hotel,1,0.2
+gemma3-4b,South_Korea,English,inst-4,New-gr-05,Food,Eating alone.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-06,Food,Insufficient information to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-08,Food,Makgeolli,1,0.6666666666666666
+gemma3-4b,South_Korea,English,inst-4,New-gr-13,Food,Coffee,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-gr-15,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-21,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-24,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-29,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-47,Work life,"1
+",0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-58,Work life,Jobs favored by older adults (40.2% employed at 60+).,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,This question cannot be answered using the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Soju,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,Soju,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ha-07,Food,Chuncheon dakgalbi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ha-08,Food,Songpyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ha-09,Food,Pot,1,0.5
+gemma3-4b,South_Korea,English,inst-4,New-ha-13,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ha-19,Sport,Ox,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ha-66,Family,"Data from [2] indicates 222,000 marriages in 2024, but doesn't specify a most popular venue.",0,0
+gemma3-4b,South_Korea,English,inst-4,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-in-03,Food,jjajangmyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-in-33,Work life,South-western Korea,0,0
+gemma3-4b,South_Korea,English,inst-4,New-in-34,Work life,Jeju,,
+gemma3-4b,South_Korea,English,inst-4,New-in-62,Education,KAIST,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-in-63,Education,Seoul National University,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-in-78,Holidays/Celebration/Leisure,Cash,0,0
+gemma3-4b,South_Korea,English,inst-4,New-in-80,Holidays/Celebration/Leisure,Everland,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-ko-01,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-02,Family,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-03,Family,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-04,Family,Ox,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-05,Family,Ox,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-06,Family,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,Mosi ramie cloth,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-08,Work life,Gyeongbuk,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-09,Work life,Hometown or residence ties.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-ko-10,Work life,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-02,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-06,Food,Kimchi jjigae,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-pe-11,Food,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-16,Sport,Ssireum,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-pe-20,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-45,Work life,Insufficient information.,,
+gemma3-4b,South_Korea,English,inst-4,New-pe-47,Family,05/05,,
+gemma3-4b,South_Korea,English,inst-4,New-pe-49,Family,Temples,,
+gemma3-4b,South_Korea,English,inst-4,New-pe-53,Family,Data regarding gifts is not provided in the text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-54,Family,Seollal gifts,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-59,Family,2.16,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-pe-65,Education,1,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-66,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-74,Education,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,Busan International Film Festival,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,Yutnori,0,0
+gemma3-4b,South_Korea,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Japan,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Lotte World Tower,1,0.5
+gemma3-4b,South_Korea,English,inst-4,New-spme-01,Food,Grasshoppers,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-04,Food,Ox,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-05,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-15,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-27,Education,High school,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-spme-37,Education,Not enough information.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-60,Family,It cannot be determined from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-65,Family,This question cannot be answered with the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-68,Family,gwibalgi-sul,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,This question cannot be answered based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,Yeondeunghoe lights,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-01,Food,떡볶이 (Tteokbokki),1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-su-09,Food,The provided text does not contain information about cooking oils used in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-10,Food,Songpyeon,,
+gemma3-4b,South_Korea,English,inst-4,New-su-15,Food,Makgeolli,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-17,Sport,Public facilities,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-21,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-24,Sport,Ganggangsullae and tug-of-war,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-28,Sport,White,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-33,Education,This question cannot be answered from the provided text.,,
+gemma3-4b,South_Korea,English,inst-4,New-su-34,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-42,Education,None.,,
+gemma3-4b,South_Korea,English,inst-4,New-su-45,Education,09/26,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-50,Work life,The provided text does not contain information about the main occupation of people in mountainous areas in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-51,Work life,Fishing,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-su-57,Work life,Chicken,1,0.5
+gemma3-4b,South_Korea,English,inst-4,New-su-58,Work life,Rice,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-59,Work life,Mosi ramie cloth,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-60,Work life,Kimchi,1,0.3333333333333333
+gemma3-4b,South_Korea,English,inst-4,New-su-71,Family,It's difficult to determine specific gift trends from the provided information.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-75,Family,SUV,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-77,Holidays/Celebration/Leisure,"ogokbap (five-grain rice), gwibalgi-sul (ear-brightening liquor) and bureom-kkaegi (crakcing nuts)",,
+gemma3-4b,South_Korea,English,inst-4,New-su-81,Holidays/Celebration/Leisure,It is not possible to answer this question based on the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-82,Holidays/Celebration/Leisure,Mosi ramie cloth,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Songpyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Blue House,1,1.0
+gemma3-4b,South_Korea,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-02,Education,"15:00
+",1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-03,Education,18,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-06,Education,6,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-11,Education,"4
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-12,Education,Seoul National University,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-13,Education,"22
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-15,Education,13,1,0.25
+gemma3-4b,South_Korea,English,inst-4,Ni-en-17,Work life,48,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-19,Work life,5,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-20,Work life,20,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-21,Work life,"12
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Dongji,0,0
+gemma3-4b,South_Korea,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Unknown,0,0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-04,Education,2,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-05,Education,"12
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-06,Education,"09/29
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-11,Education,09:00,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-20,Family,05/05,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Nu-in-40,Work life,Seoul,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-1,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-13,Food,Budae jjigae,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-16,Sport,Hometown or residence ties.,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-22,Sport,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-31,Family,Dogs,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-32,Family,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-37,Family,Baduk (Go),0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-6,Food,jjajangmyeon,0,0
+gemma3-4b,South_Korea,English,inst-4,Sa-en-7,Food,"Kimchi, tteokbokki, and bungeoppang.",1,0.5
+gemma3-4b,South_Korea,English,inst-4,Sa-en-9,Food,This question cannot be answered from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-10,Family,"34
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-11,Family,31.6,1,0.5
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-13,Family,4.16,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-17,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-21,Sport,The text does not provide information about where children play soccer in South Korea.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-22,Sport,Ganggangsullae,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-23,Sport,None.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-25,Sport,FC Seoul vs. Jeonbuk Hyundai Motors,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-29,Sport,None of the provided information answers the question.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-30,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,Dongji,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,An ox,0,0
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Cold food,,
+gemma3-4b,South_Korea,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Foods associated with Dongji.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-01,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-03,Sport,K League 1 and 2,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-05,Sport,Insufficient information,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-09,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-11,Sport,It cannot be determined from the provided text.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-12,Sport,Insufficient information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-15,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-19,Work life,Busan,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-21,Work life,Parental leave,1,0.5
+gemma3-4b,South_Korea,English,inst-4,Th-en-22,Work life,The 1997-1998 Asian Financial Crisis,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Th-en-24,Work life,Gangnam-gu,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-27,Work life,It cannot be determined from the provided information.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-35,Family,Dinner,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Th-en-36,Family,Not enough information to answer.,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-37,Family,29,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-38,Family,Chuseok,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-39,Family,Yutnori,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Th-en-41,Family,29,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-43,Family,1.2,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Th-en-44,Family,Kimchi,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-45,Family,Eating alone,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-48,Education,Unknown,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-49,Education,English,1,0.3333333333333333
+gemma3-4b,South_Korea,English,inst-4,Th-en-51,Education,Income,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-53,Education,Ssireum,0,0
+gemma3-4b,South_Korea,English,inst-4,Th-en-58,Education,"Math
+",0,0
+gemma3-4b,South_Korea,English,inst-4,Tmp-ar-01,Education,Cram schools (hagwon),0,0
+gemma3-4b,South_Korea,English,inst-4,Tmp-ar-02,Education,Bus,1,1.0
+gemma3-4b,South_Korea,English,inst-4,Tmp-ar-04,Education,Learn privately.,0,0

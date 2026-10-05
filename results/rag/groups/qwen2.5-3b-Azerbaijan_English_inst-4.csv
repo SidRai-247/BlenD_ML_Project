@@ -1,0 +1,507 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-01,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-02,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-04,Food,Citrus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-06,Food,Unavailable information,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-09,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-16,Education,3,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-17,Education,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-18,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-19,Education,Russian,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-21,Education,Mathematics,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-32,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-33,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-34,Holidays/Celebration/Leisure,"People meet to congratulate each other before the Novruz holiday, not specifically for New Year's Day.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-35,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-36,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-37,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-38,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-39,Holidays/Celebration/Leisure,None of the provided background information specifically mentions what people eat on their birthday in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-40,Holidays/Celebration/Leisure,None of the provided background information directly answers what a popular outdoor place for families to have fun with little kids in Azerbaijan is.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Al-en-43,Holidays/Celebration/Leisure,None of the provided background information directly specifies a popular indoor activity for families in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-02,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-03,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-08,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-09,Education,6,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-34,Sport,"None of the provided information directly answers what the most popular sport played in a team at school in Azerbaijan is. The given background information pertains to Pehlevanliq, which is a traditional Azerbaijani sport and performance tradition involving wrestling and zorkhana games, but it does not specify any popularity or mention schools or team sports.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-35,Sport,"The information provided does not contain details about the most popular sport commentators in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-36,Sport,"None of the provided background information directly answers which sports teams are popular in Azerbaijan. Therefore, based solely on the given information, no specific answer can be provided for the most popular sport team in Azerbaijan.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,An-ar-43,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-06,Food,Pilaf,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-08,Food,None of the provided background information specifically mentions a most common ingredient used in Azerbaijan's diet.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-09,Food,Baklava,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-11,Food,"It is not specified which day of the week people usually organize a family meal in Azerbaijan. The provided information does not mention specific days for organizing meals, only that people meet to congratulate each other before the Novruz holiday, and Pilaf is described as the main meal during this time.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-14,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,None of the provided background information specifically mentions what young people from Azerbaijan usually drink at nightclubs.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,5,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-38,Family,The provided background information does not specify the typical type of house for families in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-41,Family,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-42,Family,16,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-43,Family,12,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ca-sp-45,Family,Lavash bakery or restaurant,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-05,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-06,Sport,Wrestling,1,0.2
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-07,Sport,"The information provided does not contain details about the most famous basketball players in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-08,Sport,"None of the information provided specifically mentions sports or their popularity among children in Azerbaijan. Therefore, no answer can be determined from the given background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-09,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-11,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-15,Sport,Unavailable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-16,Family,4,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-18,Family,5,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-31,Education,9,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-32,Education,9,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-33,Education,1,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-38,Education,4,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-40,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Gu-ch-41,Education,0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-02,Work life,March 20–21,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-03,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-07,Work life,None of the provided background information specifically mentions the most famous private company in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-08,Work life,48,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-09,Work life,Pakhlava,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-14,Work life,Oil,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-15,Work life,1.0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-16,Family,I don't have specific information about postpartum care practices in Azerbaijan. The provided background doesn't contain this detail.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-19,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-22,Family,It is not specified what people especially spend their first salary on in Azerbaijan's society based on the provided information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-24,Family,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-25,Family,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-26,Family,The provided background information does not specifically address key milestones associated with children's independence from their parents in Azerbaijan's society.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-27,Family,None of the provided background information specifically mentions a common gift for visiting elderly parents in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-28,Family,March 20–21,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-29,Family,"The information provided does not specify which age's birthday is celebrated the most grandly in Azerbaijan's society. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-31,Education,Azerbaijani,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-33,Education,"I don't have information about where high school students in Azerbaijan usually go after dinner, so I cannot provide an answer to that specific question.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-34,Education,The information provided does not specify how elementary school students in Azerbaijan go to school.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-35,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-36,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-37,Education,The given information does not specify what type of clothing middle and high school students wear to school in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-38,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-39,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-40,Education,I don't have specific information about what high school students typically do during break time in schools in Azerbaijan. The provided background doesn't include details on student activities during breaks.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-41,Education,Unavailable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-42,Education,The information provided does not specify the required subjects for Azerbaijan's university entrance exam.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-44,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ji-ko-45,Education,Unspecified,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-01,Sport,"None of the provided information directly answers what the second most popular sport in Azerbaijan is. The given background about Pehlevanliq does not specify its popularity or compare it to other sports. Therefore, based on the provided context:
+
+Answer: None",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-02,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-09,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-13,Sport,"None of the provided background information specifically mentions water sports, so there isn't enough information to determine the most popular water sport in Azerbaijan. The given text only discusses Pehlevanliq, which is a land-based traditional Azerbaijani performance tradition involving wrestling and zorkhana games.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-14,Sport,"None of the provided information directly mentions a ""mental sport"" in Azerbaijan. The given background information pertains to Pehlevanliq, which is a physical traditional Azerbaijani sport and performance tradition involving wrestling and zorkhana games. Therefore, based on the available information, there isn't a most popular mental sport in Azerbaijan mentioned.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-18,Work life,7,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-19,Work life,Lankaran,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-21,Work life,Not applicable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-31,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-32,Education,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-36,Education,6,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-37,Education,4,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-39,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jo-sp-43,Education,5,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-01,Food,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-04,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-06,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-07,Food,0.0,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-09,Food,19:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-12,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-13,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-15,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,"The information provided does not specify what the most commonly used public transport is for traveling between cities in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,"The question as posed does not specify which festival in Azerbaijan it is asking about, nor does it mention ""the biggest festival."" Without this information, it's impossible to provide a single answer regarding specific decorations or symbols associated with any particular festival. Please clarify the festival you are referring to.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-37,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-38,Sport,Wrestling,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,None of the provided background information specifically mentions a common leisure activity for females in their 20s in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,None of the provided background information specifically mentions a common leisure activity for males in their 20s in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-46,Work life,1.0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-48,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-50,Work life,0,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-51,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-54,Work life,0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-56,Work life,60,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-57,Work life,60,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-58,Work life,None of the provided background information directly answers which profession is the most respected in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-60,Work life,8,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-61,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Jod-ch-62,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-17,Education,university,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-24,Education,Arabic and Persian.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-30,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-32,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-34,Food,Butter and cheese with lavash bread.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-36,Food,Turkey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-39,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-40,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-43,Food,Lavash,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-51,Work life,Not applicable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ki-pe-53,Work life,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure,"There is no specific information provided about the duration or length of any national holidays in Azerbaijan. Therefore, based on the given background information, it's not possible to determine which national holiday has the longest duration.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure,None of the provided background information directly answers what is installed in front of the house when a family member dies in Azerbaijan. The given points do not mention funeral practices or specific installations related to death.,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure,March 20–21,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Novruz,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Novruz,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Not enough information provided to determine the most popular tourist attraction.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"The provided background information does not mention any specific religious sites or temples that are popular for tourism in Azerbaijan. Therefore, based on the given context, no answer can be definitively provided.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure,"The given information does not specify what clothes women typically wear to a graduation commencement ceremony in Azerbaijan. Therefore, no specific answer can be provided based solely on this information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-16,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-17,Food,Citrus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-24,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-31,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-34,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-35,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-36,Sport,"The information provided does not contain details about the popularity or identity of the most popular soccer coach in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-37,Sport,Not applicable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-38,Sport,None vs None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-40,Sport,"The information provided does not contain details about the most famous male badminton player in Azerbaijan. Therefore, I cannot provide an answer based on the given background information.",,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-41,Sport,"The information provided does not contain details about the most famous female badminton player in Azerbaijan. Therefore, I cannot provide an answer based on the given background information.",,
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-44,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Kik-in-45,Sport,Athletics,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-02,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-04,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-05,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-07,Food,Unspecified,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-09,Food,Suzme plov,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-11,Food,None of the provided background information specifically mentions what people from Azerbaijan eat while watching a soccer game.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-15,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-16,Sport,"The information provided does not contain details about the most famous soccer players in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-17,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-18,Sport,"None of the provided background information specifically mentions the most common sports that girls participate in during physical education classes in Azerbaijan. Therefore, no specific answer can be determined from the given information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-19,Sport,"The information provided does not contain details about the popularity of volleyball players in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-20,Sport,"There is no information provided about sports events or passionate support for them in Azerbaijan's international competitions. The given background focuses on academic olympiads, not sporting events. Therefore, the answer cannot be determined based solely on the provided information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-22,Sport,Turkey,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-23,Sport,Athletics,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-24,Sport,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-25,Sport,"Table tennis, artistic gymnastics, taekwondo, cycling",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-26,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-28,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-29,Sport,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-30,Sport,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure,Baklava,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure,It is not specified in the provided background information what the most common wedding gift between the bride and groom is in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Azerbaijani tea,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,It is not specified what specific foods people from Azerbaijan eat during Ramadan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,It is not specified what people from Azerbaijan eat in Eid ul-Fitr. The provided background information does not mention this particular food or holiday tradition.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,It is not specified what people from Azerbaijan eat during Eid ul Adha in the provided background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,None of the provided background information specifically mentions where people in Azerbaijan go to celebrate New Year's Day.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,"None of the provided background information specifically mentions where families gather for Eid festivities in Azerbaijan. Therefore, based solely on the given information, it is not possible to accurately answer this question.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-16,Work life,Friday,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-17,Work life,07:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-18,Work life,17:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-20,Work life,"Based on the provided background information, there isn't a specific definition of what constitutes a ""secure job"" in Azerbaijan. The given sources pertain to labour statistics and traditional silk production methods but do not provide details about job security criteria or classifications.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-25,Work life,None of the provided background information directly addresses which industry pays the best in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-26,Work life,"Avaunt! The provided background information does not contain any details about the most famous public corporations in Azerbaijan. To answer this question accurately, one would need specific data on corporate rankings or market presence in Azerbaijan.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-31,Food,"None of the provided background information specifically identifies a ""most famous"" dish in Azerbaijan. Therefore, no single answer can be definitively determined from this limited set of data.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-32,Food,Butter and cheese with lavash bread.,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-33,Food,12:30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-34,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-36,Food,Pilaf,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-37,Food,Citrus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-38,Food,"None of the provided background information specifically mentions charity or a particular food being offered as charity in Azerbaijan. Therefore, based solely on the given information, there is no specific answer to this question.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-39,Food,"The provided background information does not contain any specific details about the cheapest fast food in Azerbaijan. Therefore, I cannot provide an accurate answer based on the given information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-43,Food,Pear-shaped armudu glasses,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ne-ar-44,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-02,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-04,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-15,Food,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-27,Sport,"The information provided does not contain specific details about the popularity of female sportspeople in Azerbaijan. Therefore, I cannot provide an accurate answer based solely on the given background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-34,Education,Azerbaijani,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-41,Education,None of the provided background information directly answers the specific question about the grade level for the first national-level examination in Azerbaijan. The given points are related to education levels and language instruction but do not specify exam grades or types.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-53,Work life,Lankaran,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-54,Work life,"None of the provided background information specifically mentions a region in Azerbaijan known for its livestock industry. Therefore, no specific answer can be determined from the given context.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-59,Work life,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-60,Work life,Donkey,1,0.4
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-72,Family,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-73,Family,Not available,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-74,Family,"The information provided does not contain details about the popularity of talk shows in Azerbaijan. Therefore, no answer can be determined from the given background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-77,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-81,Holidays/Celebration/Leisure,5,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-am-83,Holidays/Celebration/Leisure,The information provided does not mention the most popular traditional musical instrument in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-01,Food,Tea and citrus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-02,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-05,Food,Lankaran tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-07,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-14,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-15,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-20,Sport,"None of the provided information directly specifies an ""indoor sport"" or indicates which sport is the most popular. The given background about Pehlevanliq does not address indoor sports either. Therefore, based on the available information:
+
+Answer: None",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-29,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-30,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-58,Work life,"Drinking tea before and after meals is described as a common practice in Azerbaijan, but the specific context of ""in their workplace"" for this practice isn't provided. Therefore, based solely on the given information:
+
+Answer: Tea",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-64,Family,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-76,Holidays/Celebration/Leisure,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-80,Holidays/Celebration/Leisure,Pehlevanliq,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-as-89,Holidays/Celebration/Leisure,People from Azerbaijan do not specifically wear traditional festival accessories for the Novruz holiday as mentioned in background information (3). The provided background does not mention specific attire or accessories worn during this festival.,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-05,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-11,Food,Citrus,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-12,Food,None of the provided background information specifically mentions a region in Azerbaijan known for its seafood.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-21,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-26,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-27,Sport,"None of the sports mentioned (Pehlevanliq) have been provided as information that has experienced significant growth over the last decade. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-39,Education,Russia,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-60,Family,The family committee.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-69,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-70,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-az-73,Holidays/Celebration/Leisure,20,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-01,Food,"The given information does not specify what kind of meat is typically used for barbecues in Azerbaijan. Therefore, no specific answer can be provided based on the available background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-02,Food,07:00,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-04,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-05,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-07,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-09,Food,Black tea,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-13,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-14,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-15,Food,Samani,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-16,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-17,Sport,Armwrestling,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-18,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-19,Sport,Table tennis,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-23,Sport,"The information provided does not contain details about the most famous table tennis player in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-26,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-27,Sport,"The question about the most famous boxer in Azerbaijan does not have a specific or widely recognized answer as of my last update. Boxing achievements can vary over time, so it's important to note that this information might change with new performances and records.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-30,Sport,Nurbek Manaev,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-31,Work life,None of the provided background information directly addresses what job parents most hope their children will pursue in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-32,Work life,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-38,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-39,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-44,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-45,Work life,Cultural and creative industries,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-49,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-51,Family,Hotel,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-54,Family,"None of the provided background information specifically mentions a fruit that is typically prepared for family dinners in Azerbaijan. The given points are related to Novruz, gender indicators, and traditional foods like samani (which could be considered a grain or vegetable), lavash, and baking methods. Therefore, no single answer can be definitively determined from this information alone.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-64,Education,0,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-66,Education,0,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-70,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-71,Education,25,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-72,Education,"None of the majors are provided in the given information, so no specific answer can be determined based solely on the provided background.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-73,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-74,Education,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-75,Education,45,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-79,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-80,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-81,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-82,Holidays/Celebration/Leisure,"The provided background information does not contain specific details about the typical starting times of weddings in Azerbaijan. Therefore, no answer can be determined from the given information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-83,Holidays/Celebration/Leisure,Ganja,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-84,Holidays/Celebration/Leisure,White,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ch-85,Holidays/Celebration/Leisure,White,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-01,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-02,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-04,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-05,Food,Pilaf,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-07,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-10,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-11,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-12,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-17,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-18,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-19,Sport,None of the provided background information directly answers which is the most well-known sporting stadium in Azerbaijan. Additional research would be needed to determine this specific information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-23,Sport,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-26,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-38,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-41,Work life,"The given information does not specify or mention any particular entrepreneurs in Azerbaijan. Therefore, no specific answer can be provided based on the given context.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-47,Family,Citrus trees,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-49,Family,"The information provided does not contain details about the ""most famous family"" in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-50,Family,The information provided does not contain specific data about the most common family names in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-55,Family,Islam,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-56,Family,French,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-59,Family,"The information provided does not contain details about which countries families from Azerbaijan are immigrating to. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-68,Education,The provided background information does not specifically address the repercussions for bad behavior in schools in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-69,Education,"I don't have specific information about which writers are commonly studied in literature classes in Azerbaijan. For accurate details, you may want to consult educational resources or official curriculum documents from Azerbaijan's Ministry of Education.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-70,Education,0,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-72,Education,"The education ministry reports that most school students receive instruction in Azerbaijani as the state language. Therefore, the online resources used by students to study are likely those providing materials in Azerbaijani.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-75,Education,14,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-76,Holidays/Celebration/Leisure,Baku International Airport,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-79,Holidays/Celebration/Leisure,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-87,Holidays/Celebration/Leisure,"The question asks for the most famous historic landmark in Azerbaijan, but no specific landmarks are provided in the given background information. Therefore, without additional context or data about particular landmarks, it's not possible to provide a single answer to this question based solely on the given information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-en-90,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-05,Food,"The UNESCO-linked Azerbaijani lavash source describes breakfast use with butter and cheese, but it does not explicitly mention it as the most popular grab-and-go option. Therefore, based solely on the given information, no single answer can be definitively provided for what is the most popular grab-and-go breakfast option in Azerbaijan.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-06,Food,It is not specified in the given information which food is the most popular among young people in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-13,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-15,Food,Pakhlava,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-21,Sport,"None of the provided background information directly addresses the popularity of racket sports in Azerbaijan. Therefore, based solely on the given information, there isn't enough data to determine the most popular racket sport in Azerbaijan.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-24,Sport,"None of the provided information directly addresses the most popular track and field sport in Azerbaijan. Therefore, based solely on the given background, it's not possible to determine the answer to this question.",1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-29,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-47,Work life,30,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-58,Work life,Unspecified,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-76,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-82,Holidays/Celebration/Leisure,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-88,Holidays/Celebration/Leisure,Lankaran tea,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-gr-89,Holidays/Celebration/Leisure,"Pear-shaped armudu glasses are the usual glassware for drinking tea in Azerbaijan. However, based on the given background information about Lavash preparation being associated with weddings and post-funeral gatherings, it's inferred that tea might be served but not specifically mentioned as the drink at weddings. Without more direct information linking a specific drink to weddings, we cannot definitively answer this question from the provided data.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-07,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-08,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-09,Food,None of the provided background information specifically mentions a common cooking utensil used in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-13,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-19,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ha-66,Family,Unknown,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-01,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-03,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-33,Work life,Not relevant to the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-34,Work life,"Azerbaijan's energy sector, particularly its oil industry, is often associated with the Baku-Tbilisi-Ceyhan (BTC) Pipeline corridor. However, this does not directly specify a particular region within Azerbaijan. Given the question asks for a specific region and no additional context is provided, it's challenging to pinpoint an exact answer without more information.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-62,Education,Baku State University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-63,Education,Baku Medical University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-78,Holidays/Celebration/Leisure,The information provided does not contain details about the most popular payment methods in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-in-80,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-01,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-02,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-03,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-04,Family,Not available with the provided information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-05,Family,Not available with the provided information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-06,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-07,Holidays/Celebration/Leisure,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-08,Work life,unspecified,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-09,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-ko-10,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-02,Food,Lankaran tea,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-06,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-11,Food,Turmeric,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-16,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-20,Sport,"None of the provided information specifically mentions a sport played on the beach in Azerbaijan. Therefore, based solely on the given background information, there is no specific answer available for this question.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-45,Work life,"I do not have specific information about the usual work schedules during Ramadan in Azerbaijan. For accurate details, it would be best to consult local labor laws or employment regulations directly.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-47,Family,05/09,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-49,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-53,Family,None specific to Father's Day or Parents' Day are mentioned.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-54,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-59,Family,3,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-65,Education,7,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-66,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-74,Education,"The provided background information does not contain specific data on average annual tuition fees for public universities in Azerbaijan. Therefore, I cannot provide an accurate answer based solely on this information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-76,Holidays/Celebration/Leisure,None of the provided background information specifically mentions popular activities to do in parks in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-78,Holidays/Celebration/Leisure,Baku International Film Festival,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-83,Holidays/Celebration/Leisure,Shashki (also known as Checkers),0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-85,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-pe-86,Holidays/Celebration/Leisure,Beylis Tower,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-01,Food,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-04,Food,Tea,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-05,Food,Baklava,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-15,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-27,Education,Insufficient information provided to determine the average education level for people in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-37,Education,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-60,Family,Not relevant to the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-65,Family,Not provided in the given information.,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-68,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-76,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-spme-78,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-01,Food,Unspecified,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-09,Food,"None of the provided background information specifically mentions an oil commonly used for cooking in Azerbaijan. Therefore, based solely on the given information, it's not possible to determine which oil is typically used for cooking in Azerbaijan.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-10,Food,None of the provided background information specifically mentions foods commonly consumed by pregnant women in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-15,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-17,Sport,Complex sport establishments,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-21,Sport,None of the provided background information specifically mentions common activities for seniors in parks in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-24,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-28,Sport,Red,1,0.5
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-33,Education,Unavailable,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-34,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-42,Education,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-45,Education,09/28,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-50,Work life,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-51,Work life,I do not have specific information about the main occupation of people in coastal areas in Azerbaijan. The provided background does not specify this detail.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-57,Work life,None of the provided background information specifically mentions the most common livestock raised in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-58,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-59,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-60,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-71,Family,The information provided does not specify what gifts parents generally give to their children on birthdays in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-75,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-77,Holidays/Celebration/Leisure,Gifts,,
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-81,Holidays/Celebration/Leisure,"None of the provided background information directly addresses what clothes grooms typically wear at weddings in Azerbaijan. Therefore, based solely on the given information, no specific answer can be determined.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-82,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-83,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-86,Holidays/Celebration/Leisure,Baki Parliament Building,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,New-su-88,Holidays/Celebration/Leisure,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-02,Education,Not provided in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-03,Education,18,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-06,Education,6,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-09,Education,5,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-11,Education,3,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-12,Education,Baku Technical University,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-13,Education,24,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-15,Education,14,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-17,Work life,40,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-19,Work life,5,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-20,Work life,15,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-21,Work life,16,1,0.25
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-04,Education,2,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-05,Education,9,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-06,Education,05/09,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-11,Education,"The provided background information does not contain specific details about the starting times of elementary schools in Azerbaijan. Therefore, it is impossible to provide a precise answer based on the given information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-20,Family,06/01,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Nu-in-40,Work life,Not enough information provided to determine a specific city as the main destination for job seekers in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-1,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-13,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-16,Sport,"The information provided does not contain details about the popularity of soccer teams in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-22,Sport,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-31,Family,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-32,Family,"The information provided does not contain details about the popularity of family TV shows in Azerbaijan. Therefore, no specific answer can be given based on the provided background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-37,Family,"The information provided does not contain details about the popularity of family boardgames in Azerbaijan. Therefore, no specific answer can be determined from the given background information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-6,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-7,Food,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Sa-en-9,Food,None of the provided background information specifically mentions what people from Azerbaijan eat at the beach.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-10,Family,30,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-11,Family,25,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-13,Family,1,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-17,Sport,"None of the sports mentioned (Pehlevanliq) are currently recognized as Olympic sports. Therefore, no specific sport can be identified as the most popular in Azerbaijan within the context of the Olympic Games based on the information provided.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-21,Sport,Not specified in the given information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-22,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-23,Sport,None of the provided background information directly addresses which daily exercise is popular among men in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-25,Sport,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-29,Sport,"None of the provided background information directly addresses which professional sport is the highest-paying in Azerbaijan. Therefore, based solely on the given information, no specific answer can be determined for this question.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-30,Sport,"None of the provided background information directly addresses the popularity of sports-related TV programs in Azerbaijan. Therefore, no specific answer can be determined from this information alone.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,March 20–21,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Samani,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,None,,
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-01,Sport,"None of the provided information directly specifies a ""most popular"" summer sport in Azerbaijan. The given text only describes Pehlevanliq, which involves wrestling and zorkhana games but does not indicate its popularity or whether it is considered a summer sport. Without additional relevant data, it's impossible to determine the most popular summer sport in Azerbaijan based on the provided information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-03,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-05,Sport,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-09,Sport,"The information provided does not specify which tournament is the most popular in Azerbaijan. Therefore, no specific answer can be given based on the provided background.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-11,Sport,The information provided does not contain specific details about the most popular sportspeople in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-12,Sport,"There is no specific information provided about Azerbaijan's success in sports, particularly not in terms of being ""most successful"" in any particular sport. The given background focuses on Azerbaijani students participating in subject olympiads but does not mention any sporting achievements or successes. Therefore, the answer to this question cannot be determined from the provided information.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-15,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-19,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-21,Work life,Unavailable information,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-22,Work life,Not available,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-27,Work life,None,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-35,Family,dinner,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-36,Family,None of the provided background information specifically mentions popular family activities for children on weekends in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-38,Family,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-39,Family,"Turkish round (also known as ""Oyun"")",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-41,Family,31,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-43,Family,N/A,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-44,Family,Lavash,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-45,Family,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-48,Education,The information provided does not specify the exact highest grade given to top-achieving high school students in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-49,Education,"It is not explicitly stated what is considered the most important exam for high school students in Azerbaijan. The information provided focuses on Azerbaijani language instruction and participation in international olympiads, but does not mention specific exams.",0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-51,Education,Not enough information provided to determine which subject is considered the most important.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-53,Education,Not provided in the given background information.,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Th-en-58,Education,Mathematics,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-01,Education,Azerbaijan,0,0
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-02,Education,Bus,1,0.6
+qwen2.5-3b,Azerbaijan,English,inst-4,Tmp-ar-04,Education,"I don't have specific information about what elementary students in Azerbaijan typically do after school, so I cannot provide an accurate answer to that question. The provided background does not include details on post-school activities for students.",0,0

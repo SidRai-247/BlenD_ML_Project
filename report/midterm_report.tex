@@ -10,7 +10,7 @@
 \setlist{nosep,leftmargin=*}
 
 \title{Improving Cultural Knowledge Coverage in LLMs via Region-Aware RAG\\
-\large An Extension of BLEnD --- Mid-term Report: Data, Knowledge Base and Baseline}
+\large An Extension of BLEnD --- Mid-term Report: Data, Knowledge Base, Baseline, RAG v1 and RAG v2}
 \author{Siddharth Rai (12342050)}
 \date{October 2026}
 
@@ -22,11 +22,20 @@ We extend the BLEnD benchmark (Myung et al., NeurIPS 2024) with inference-time, 
 to test whether retrieval narrows the gap between high- and low-resource cultures. This mid-term report
 covers the first half of the project: (i) the evaluation subset (5 countries, 9 country--language
 settings, 4{,}500 short-answer questions), (ii) an independently built, contamination-safe English
-cultural knowledge base (720 evidence cards), and (iii) a full replication of BLEnD's zero-shot
+cultural knowledge base (720 evidence cards), (iii) a full replication of BLEnD's zero-shot
 baseline protocol on three free, locally run open-weight LLMs (27{,}000 model answers, scored with
-BLEnD's official scorer). The baseline reproduces the paper's central finding: accuracy falls from
-75\% (US) to 8\% (Ethiopia, in Amharic) on identical questions, and low-resource cultures are answered
-better in English than in their own language.
+BLEnD's official scorer), (iv) a first Always-RAG run (\emph{RAG v1}, another 27{,}000 answers) and
+(v) an improved adaptive pipeline (\emph{RAG v2}). The baseline reproduces the paper's central
+finding: accuracy falls from 75\% (US) to 8\% (Ethiopia, in Amharic) on identical questions.
+RAG v1 (hybrid BM25 + bge-m3, always top-3) \emph{lowers} accuracy by 9--14 points per model, because
+the KB contains the answer for only 7--14\% of questions and small models refuse or get distracted.
+RAG v2 adds (a) a question-type-driven KB extension for Azerbaijan and Ethiopia (295 new cards),
+(b) dense retrieval with cross-encoder reranking and a relevance cut-off tuned only on the
+high-resource countries, (c) a prompt that tells the model to fall back on its own knowledge, and
+(d) an adaptive gate that keeps the baseline answer when no card is relevant. RAG v2 improves
+\emph{every} Azerbaijan and Ethiopia setting for all three models (+8.6 to +36.9 points; low-resource
+mean 28.3$\rightarrow$48.7), loses 1--11 points on high-resource countries (old KB), and shrinks the
+high--low resource gap from 27.2 to 2.0 points.
 \end{abstract}
 
 %=====================================================================
@@ -81,7 +90,7 @@ Ethiopia    & 101 & 77 & 86 & 83 & 67 & 58 & 472 \\
 \end{table}
 
 %=====================================================================
-\section{Cultural Knowledge Base (completed)}
+\section{Cultural Knowledge Base (KB v1)}
 For the RAG phase we built one knowledge base (KB) per country. It consists of short English
 \emph{evidence cards}, each giving one documented cultural fact with its source. To avoid the
 contamination problem reported in SemEval-2026 Task~7, \textbf{no BLEnD material was used}. Sources
@@ -108,9 +117,11 @@ Ethiopia    & 25 & 22 & 25 & 23 & 25 & 20 & 140 \\
 \end{tabular}
 \end{table}
 
-\noindent Retrieval will index the English text of each card (\texttt{text\_en}). For a
-local-language question, an English rendering is used \emph{only} as the search query; the LLM still
-receives the original-language question.
+\noindent Retrieval indexes the English text of each card (\texttt{text\_en}) plus its keywords.
+For a local-language question, BLEnD's own English version of the question is used \emph{only} as the
+search query; the LLM still receives the original-language question. The local-language and English
+versions of a question therefore receive the same cards. A second, question-driven extension of the
+KB for Azerbaijan and Ethiopia (KB v2) is described in Section~\ref{sec:kbv2}.
 
 %=====================================================================
 \section{Baseline: Experimental Setup}
@@ -237,20 +248,354 @@ models and the scoring code are unchanged.
 \end{itemize}
 
 %=====================================================================
+\section{RAG v1: Always-RAG}
+\label{sec:ragv1}
+\paragraph{Retrieval.} Retrieval is region-aware hybrid search over the target country's KB only (SOP
+\S III-A). Each card (\texttt{text\_en} + keywords) is scored by BM25Okapi (\texttt{rank\_bm25},
+$k_1{=}1.5$, $b{=}0.75$) and by the cosine similarity of \texttt{BAAI/bge-m3} embeddings. Both score
+lists are min-max normalised per query and combined as $0.5\cdot\text{dense} + 0.5\cdot\text{BM25}$.
+The top~3 cards are kept. The query is always BLEnD's English version of the question, so the
+local-language and English versions of a question receive the same cards. All settings were fixed
+before seeing any RAG results.
+
+\paragraph{Generation.} The prompt is the \emph{unchanged} baseline prompt (\texttt{inst-4} /
+\texttt{pers-3}, in the question's language), preceded by \emph{``Background information about
+\{country\} (may or may not be relevant): [1] \ldots\ [2] \ldots\ [3] \ldots''}. Models, decoding and
+scoring are identical to the baseline: another 27{,}000 answers.
+
+\paragraph{Retrieval coverage.} We use the gold answers only as a diagnostic. A gold English answer
+appears in the retrieved top~3 cards for 13.0\% (US), 14.3\% (Spain), 6.7\% (South Korea), 9.8\%
+(Azerbaijan) and 11.0\% (Ethiopia) of scorable questions.
+
+\begin{table}[h]
+\centering
+\caption{Always-RAG vs baseline (SEM-B \%, mean of the two prompts): baseline $\rightarrow$ RAG, and
+the change $\Delta$. Positive changes in bold.}
+\label{tab:rag}
+\small
+\begin{tabular}{ll|ccc|ccc|c}
+\toprule
+ & & \multicolumn{3}{c|}{Baseline $\rightarrow$ RAG} & \multicolumn{3}{c|}{$\Delta$ (RAG $-$ baseline)} & \\
+Country & Lang. & Gemma3-4B & Mistral-7B & Qwen2.5-3B & Gemma & Mistral & Qwen & Mean $\Delta$ \\
+\midrule
+US          & en & 72.1$\rightarrow$46.0 & 84.9$\rightarrow$65.7 & 67.8$\rightarrow$48.7 & $-$26.1 & $-$19.2 & $-$19.1 & $-$21.5 \\
+Spain       & es & 58.8$\rightarrow$33.0 & 61.3$\rightarrow$44.8 & 48.6$\rightarrow$32.5 & $-$25.8 & $-$16.5 & $-$16.1 & $-$19.5 \\
+            & en & 41.2$\rightarrow$28.4 & 65.6$\rightarrow$46.2 & 45.7$\rightarrow$28.4 & $-$12.8 & $-$19.4 & $-$17.3 & $-$16.5 \\
+South Korea & ko & 54.3$\rightarrow$40.3 & 47.9$\rightarrow$42.4 & 41.9$\rightarrow$34.8 & $-$14.0 & $-$5.5  & $-$7.1  & $-$8.9 \\
+            & en & 43.7$\rightarrow$30.0 & 60.6$\rightarrow$49.3 & 38.7$\rightarrow$28.1 & $-$13.7 & $-$11.3 & $-$10.6 & $-$11.9 \\
+Azerbaijan  & az & 29.4$\rightarrow$20.5 & 27.7$\rightarrow$18.3 & 13.6$\rightarrow$15.1 & $-$8.9  & $-$9.4  & \textbf{+1.5} & $-$5.6 \\
+            & en & 45.7$\rightarrow$27.1 & 59.8$\rightarrow$40.7 & 37.1$\rightarrow$24.1 & $-$18.6 & $-$19.1 & $-$13.0 & $-$16.9 \\
+Ethiopia    & am & 14.4$\rightarrow$16.4 & 3.7$\rightarrow$5.3   & 5.6$\rightarrow$15.3  & \textbf{+2.0} & \textbf{+1.6} & \textbf{+9.7} & \textbf{+4.4} \\
+            & en & 30.6$\rightarrow$20.2 & 46.3$\rightarrow$33.2 & 25.5$\rightarrow$17.8 & $-$10.4 & $-$13.1 & $-$7.7  & $-$10.4 \\
+\midrule
+\multicolumn{2}{l|}{All 9 settings} & 43.4$\rightarrow$29.1 & 50.9$\rightarrow$38.4 & 36.1$\rightarrow$27.2 & $-$14.3 & $-$12.4 & $-$8.9 & $-$11.9 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Findings}
+\begin{enumerate}
+\item \textbf{Always-RAG hurts overall} ($-$8.9 to $-$14.3 points per model). It improves only 3 of
+27 model--setting cells, all in the two lowest-resource local-language settings: Amharic for all three
+models (3-model mean 7.9$\rightarrow$12.3; Qwen +9.7) and Azerbaijani for Qwen (+1.5).
+\item \textbf{The more the model already knows, the more retrieval hurts.} US ($-$21.5) and Spain
+($-$19.5) lose most; South Korea and Azerbaijani lose 6--12; Amharic, with a 4--14\% baseline, gains.
+This is the pattern Team CultRAG reported on this benchmark, and it motivates the adaptive gate (PS-2).
+\item \textbf{Failure modes.} Across all model answers, 4{,}934 changed from correct to wrong and 1{,}932
+from wrong to correct. Inspection shows two failure modes:
+(i) \emph{refusal}: 7--20\% of RAG answers per country (vs.\ $\leq$0.4\% at baseline) say the provided background does
+not contain the answer, even when the model answers correctly without it;
+(ii) \emph{distraction}: the model answers with something mentioned in a loosely related card.
+Refusals account for 22\% of the correct$\rightarrow$wrong flips. Replacing every refusal with the
+model's baseline answer still leaves RAG 7--11 points below the baseline, so distraction is the
+dominant cause.
+\item \textbf{Root cause: KB coverage.} With a gold answer in the top~3 cards for only 7--14\% of
+questions, most retrieved context is noise for these everyday-life questions. That is the kind of
+knowledge BLEnD notes is rarely written down in institutional sources.
+\end{enumerate}
+
+%=====================================================================
+\section{Diagnosis of RAG v1 and Related Work}
+\label{sec:diag}
+\paragraph{RAG works when the right card is retrieved.} Splitting the RAG v1 answers by whether a
+gold-mentioning card was in the top~3 (diagnostic only) shows that retrieval itself is useful, but
+rarely succeeds (Table~\ref{tab:hitsplit}). When the right card is present, accuracy rises sharply,
+most in the local languages (Azerbaijani 26$\rightarrow$51, Amharic 8$\rightarrow$30). When it is
+absent (86--89\% of questions), the cards are noise and accuracy falls.
+
+\begin{table}[h]
+\centering
+\caption{RAG v1 accuracy (\%, all models and prompts pooled) split by whether a gold answer appears
+in the 3 retrieved cards. ``Base'' is the baseline accuracy on the same questions.}
+\label{tab:hitsplit}
+\begin{tabular}{ll|cc|cc}
+\toprule
+ & & \multicolumn{2}{c|}{Gold in top-3 (11--14\%)} & \multicolumn{2}{c}{Gold not in top-3} \\
+Country & Lang. & Base & RAG v1 & Base & RAG v1 \\
+\midrule
+Azerbaijan & az & 26.4 & \textbf{50.6} & 23.2 & 13.8 \\
+           & en & 62.6 & \textbf{70.4} & 45.6 & 25.6 \\
+Ethiopia   & am &  7.6 & \textbf{30.1} &  8.0 &  9.3 \\
+           & en & 44.6 & \textbf{49.5} & 32.4 & 19.4 \\
+\midrule
+\multicolumn{2}{l|}{All 9 settings} & 49.6 & \textbf{56.1} & 42.5 & 28.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Fusion weights.} Re-scoring the v1 retrieval with different BM25/dense weights
+(Table~\ref{tab:sweep}) shows that BM25 \emph{hurts}: questions share generic words
+(``most popular'', the country name) with many cards. Dense-only retrieval finds a gold-mentioning
+card most often for every country.
+
+\begin{table}[h]
+\centering
+\caption{Answer-hit@3 (\%) of KB v1 for different fusion weights ($\alpha$ = weight of the dense
+score; RRF = reciprocal-rank fusion with $k{=}60$).}
+\label{tab:sweep}
+\begin{tabular}{lcccccc}
+\toprule
+Country & BM25 only & $\alpha{=}0.3$ & $\alpha{=}0.5$ (v1) & $\alpha{=}0.7$ & Dense only & RRF \\
+\midrule
+US          &  8.2 & 12.1 & 13.0 & 15.8 & \textbf{18.4} & 13.0 \\
+Spain       &  9.8 & 11.9 & 14.3 & 16.2 & \textbf{19.2} & 14.1 \\
+South Korea &  3.8 &  5.1 &  6.7 & 10.1 & \textbf{15.6} &  8.2 \\
+Azerbaijan  &  6.4 &  9.0 &  9.8 & 11.3 & \textbf{14.1} & 10.4 \\
+Ethiopia    &  7.2 &  8.3 & 11.0 & 16.1 & \textbf{17.4} & 14.2 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{SemEval-2026 Task~7.} BLEnD was the basis of SemEval-2026 Task~7 (62 teams). The
+lessons we take from it:
+\begin{itemize}
+\item \textbf{king001} (1st place, SAQ) used embedding retrieval with GPT-5.2. Their KB was the official
+BLEnD question--answer data itself, which explains their 98--99\% on Amharic and Azerbaijani; we do not
+copy this, since it amounts to answer leakage. We do adopt two of their ideas: use \emph{no} context when
+nothing relevant is found, and keep answers short.
+\item \textbf{CultRAG} (hybrid BM25 + dense + RRF) found that plain RAG did not beat the LLM-only
+baseline, because only 40.7\% of questions were answerable from their KB. RAG helped under-represented
+cultures (e.g.\ Ethiopia +4.1) and hurt the US/UK. The only component that helped was a prompt against
+anchoring on the context, and they recommend selective retrieval and targeted KB expansion.
+\item \textbf{Simorgh} used $0.4\cdot\text{BM25}+0.6\cdot\text{dense}$ with a regional boost, top-5,
+without ablations.
+\end{itemize}
+Our diagnosis agrees with CultRAG: KB coverage is the bottleneck, and context must be gated.
+
+%=====================================================================
+\section{RAG v2: Question-Driven KB + Reranked, Gated Retrieval}
+\label{sec:ragv2}
+RAG v2 changes four things. Models, decoding, prompts' question part and scoring are identical to
+the baseline.
+
+\subsection{KB v2: question-driven extension (Azerbaijan, Ethiopia)}
+\label{sec:kbv2}
+KB v1 cards are institutional and often niche (e.g.\ a Sidama festival dish), while BLEnD asks about
+mainstream everyday life (most popular sport, typical breakfast, school starting age). We therefore
+wrote new cards for the two low-resource countries, driven by the BLEnD \emph{question types}: for each
+template we wrote a card stating the mainstream fact in the style ``The most common X in Ethiopia is
+Y; also common are Z'', with local-language terms in brackets (e.g.\ the Amharic-script spelling of \emph{injera}, or
+Azerbaijani \emph{\c{c}ay} for tea).
+Facts come from cited sources: national labour law (Ethiopia Labour Proclamation 1156/2019,
+Azerbaijan Labour Code summaries), Wikipedia articles on each country's cuisine, education, public
+holidays, sport, culture and economy, and news reports. Each card stores the question IDs whose
+template motivated it (\texttt{written\_for}). The cards are kept in a separate file
+(\texttt{KB\_Articles/<Country>\_KB\_v2\_additions.jsonl}); retrieval searches the union of KB v1 and
+KB v2 as one pool, and \texttt{written\_for} is never used at retrieval time.
+
+\begin{table}[h]
+\centering
+\caption{KB v2 cards per category, and question templates covered (out of 500).}
+\label{tab:kbv2}
+\begin{tabular}{lrrrrrrrc}
+\toprule
+Country & Food & Sports & Family & Education & Holidays & Work-life & Total & Templates \\
+\midrule
+Azerbaijan & 36 & 19 & 29 & 27 & 16 & 19 & 146 & 440 \\
+Ethiopia   & 39 & 17 & 27 & 25 & 21 & 20 & 149 & 432 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Coverage.} Answer-hit@3 with dense retrieval rises from 17.4\% to 57.4\% (Ethiopia) and from
+14.1\% to 63.5\% (Azerbaijan). To check that the cards hold general knowledge rather than one answer per
+question, we also retrieved with each question's own \texttt{written\_for} cards removed: hit@3 is
+still 37.9\% (Ethiopia) and 35.2\% (Azerbaijan), about 2.5$\times$ KB v1.
+
+\paragraph{Honesty statement.} Gold answers were not consulted while writing cards, but the KB was
+written \emph{after} the RAG v1 error analysis, during which the 25 most frequent gold answers per
+country were seen. KB v2 is therefore question-aware, not blind. About one third of the cards
+(53 for Ethiopia, 46 for Azerbaijan) are directly backed by a source we checked (``high''); the rest
+state widely known everyday facts and cite a general reference page (``medium''). US, Spain and South
+Korea keep KB v1 only.
+
+\subsection{Retrieval and gating}
+\begin{enumerate}
+\item \textbf{Candidates:} $\alpha\cdot\text{dense} + (1-\alpha)\cdot\text{BM25}$ (both min-max
+normalised per query) over the country's KB; top~20 candidates. $\alpha$ is chosen from
+$\{0.8, 1.0\}$ by recall@20 on the development countries: 33.5\% vs 34.0\%, so $\alpha{=}1.0$
+(dense only).
+\item \textbf{Reranking:} each (English question, card) pair is scored by the cross-encoder
+\texttt{cross-encoder/ms-marco-MiniLM-L-12-v2}, giving a relevance probability in $[0,1]$. We first
+tried the multilingual \texttt{BAAI/bge-reranker-v2-m3}, but it ran at about 1 pair/s on the laptop CPU
+($\approx$12\,h for 50{,}000 pairs). Queries and cards are English, so the small English reranker is
+adequate; it scored all pairs in about 20 minutes.
+\item \textbf{Cut-off:} keep at most $K{=}3$ cards with relevance $\geq\tau$. A question therefore gets
+0--3 cards.
+\item \textbf{Tuning $\tau$ without the test countries:} US, Spain and South Korea are the
+development set. With ``card mentions a gold answer'' as the relevance label, $\tau$ maximises the
+precision-weighted $F_{0.5}$ over the cards that would be sent, on a grid $0.05, 0.10, \ldots, 0.95$.
+The best value is $\tau{=}0.45$ ($F_{0.5}{=}0.129$). It was then frozen for Azerbaijan and Ethiopia,
+whose gold answers were never used for tuning.
+\end{enumerate}
+
+\subsection{Prompt v2 and the adaptive gate}
+If at least one card passes the cut-off, the unchanged baseline prompt is preceded by:
+\emph{``Background information about \{country\}. Use it only if it directly helps to answer the
+question; otherwise ignore it and answer from your own knowledge. Always give an answer and never say
+that the information is not provided. [1] \ldots''} This targets the two v1 failure modes, refusal and
+distraction. If no card passes, the prompt is byte-identical to the baseline prompt. Decoding is
+greedy, so the answer equals the stored baseline answer, which is reused without a new model call.
+This is the training-free Adaptive-RAG gate of the SOP (PS-2).
+
+\begin{table}[h]
+\centering
+\caption{RAG v2 configuration (all values fixed before evaluating Azerbaijan and Ethiopia).}
+\label{tab:hparams}
+\begin{tabular}{ll}
+\toprule
+Component & Setting \\
+\midrule
+Retrieval query & BLEnD's English question (also for local-language questions) \\
+Search scope & target country's KB only (v1 $\cup$ v2 for AZ/ET; v1 for US/ES/KR) \\
+Dense encoder & \texttt{BAAI/bge-m3}, cosine similarity, max length 256 \\
+BM25 & \texttt{rank\_bm25} BM25Okapi, $k_1{=}1.5$, $b{=}0.75$, sklearn English stop-words \\
+Fusion weight $\alpha$ (dense) & 1.0 (chosen on dev from $\{0.8, 1.0\}$) \\
+Candidates & top 20 \\
+Reranker & \texttt{cross-encoder/ms-marco-MiniLM-L-12-v2}, max length 256 \\
+Relevance cut-off $\tau$ & 0.45 (max $F_{0.5}$ on dev) \\
+Max cards $K$ & 3 \\
+No relevant card & baseline prompt $\Rightarrow$ baseline answer reused \\
+Prompt & v2 instruction (above) + unchanged \texttt{inst-4}/\texttt{pers-3} \\
+Models / decoding & as baseline (greedy, temperature 0, seed 0, max 512 tokens) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{RAG v2 retrieval statistics per country (scorable questions for the last two columns).}
+\label{tab:v2ret}
+\begin{tabular}{lcccccc}
+\toprule
+Country & KB cards & \multicolumn{4}{c}{Questions with 0 / 1 / 2 / 3 cards} & Answer-hit \\
+\midrule
+US          & 150 & 467 & 27  & 6  & 0   &  1.5\% \\
+Spain       & 150 & 289 & 115 & 57 & 39  &  8.7\% \\
+South Korea & 130 & 288 & 117 & 55 & 40  &  5.5\% \\
+Azerbaijan  & 296 & 1   & 5   & 18 & 476 & 64.6\% \\
+Ethiopia    & 289 & 1   & 7   & 10 & 482 & 58.9\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent For Azerbaijan and Ethiopia, 95--97\% of the cards sent come from KB v2. For the
+high-resource countries the cut-off withholds context for 58--93\% of questions. In total, 3{,}992
+(AZ/ET) + 1{,}758 (US/ES/KR) prompts per model received context and were run; the rest reuse the
+baseline answers.
+
+\subsection{Results}
+
+\begin{table}[h]
+\centering
+\caption{All three systems (SEM-B \%, mean of \texttt{inst-4} and \texttt{pers-3}): Baseline (B),
+RAG v1 and RAG v2, and the 3-model mean change of each RAG version. US, Spain and South Korea are the
+development countries for $\alpha$ and $\tau$ and use KB v1 only; Azerbaijan and Ethiopia are held out.}
+\label{tab:all}
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{ll|ccc|ccc|ccc|cc}
+\toprule
+ & & \multicolumn{3}{c|}{Gemma3-4B} & \multicolumn{3}{c|}{Mistral-7B} & \multicolumn{3}{c|}{Qwen2.5-3B} & \multicolumn{2}{c}{Mean $\Delta$} \\
+Country & Lang. & B & v1 & v2 & B & v1 & v2 & B & v1 & v2 & v1 & v2 \\
+\midrule
+US          & en & 72.1 & 46.0 & 70.8 & 84.9 & 65.7 & 83.4 & 67.8 & 48.7 & 65.4 & $-$21.5 & $-$1.7 \\
+Spain       & es & 58.8 & 33.0 & 53.4 & 61.3 & 44.8 & 56.0 & 48.6 & 32.5 & 40.5 & $-$19.5 & $-$6.3 \\
+            & en & 41.2 & 28.4 & 40.0 & 65.6 & 46.2 & 58.5 & 45.7 & 28.4 & 34.9 & $-$16.5 & $-$6.4 \\
+South Korea & ko & 54.3 & 40.3 & 48.4 & 47.9 & 42.4 & 45.5 & 41.9 & 34.8 & 37.3 & $-$8.8  & $-$4.3 \\
+            & en & 43.7 & 30.0 & 39.8 & 60.6 & 49.3 & 55.8 & 38.7 & 28.1 & 31.4 & $-$11.9 & $-$5.4 \\
+\midrule
+Azerbaijan  & az & 29.4 & 20.5 & \textbf{56.1} & 27.7 & 18.3 & \textbf{53.3} & 13.6 & 15.1 & \textbf{50.5} & $-$5.6 & \textbf{+29.7} \\
+            & en & 45.7 & 27.1 & \textbf{63.6} & 59.8 & 40.7 & \textbf{71.4} & 37.1 & 24.1 & \textbf{61.2} & $-$16.9 & \textbf{+17.9} \\
+Ethiopia    & am & 14.4 & 16.4 & \textbf{40.7} & 3.7 & 5.3 & \textbf{17.2} & 5.6 & 15.3 & \textbf{26.2} & +4.4 & \textbf{+20.1} \\
+            & en & 30.6 & 20.2 & \textbf{46.5} & 46.3 & 33.2 & \textbf{54.9} & 25.5 & 17.8 & \textbf{42.7} & $-$10.4 & \textbf{+13.9} \\
+\midrule
+\multicolumn{2}{l|}{All 9 settings} & 43.4 & 29.1 & \textbf{51.0} & 50.9 & 38.4 & \textbf{55.1} & 36.1 & 27.2 & \textbf{43.3} & $-$11.9 & \textbf{+6.4} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Summary: mean accuracy over high-resource settings (US, Spain, South Korea; 5 settings) and
+low-resource settings (Azerbaijan, Ethiopia; 4 settings), and the gap between them.}
+\label{tab:gap}
+\begin{tabular}{l|ccc|ccc|c}
+\toprule
+ & \multicolumn{3}{c|}{High-resource (per model)} & \multicolumn{3}{c|}{Low-resource (per model)} & \\
+System & Gemma & Mistral & Qwen & Gemma & Mistral & Qwen & Gap (mean) \\
+\midrule
+Baseline & 54.0 & 64.1 & 48.6 & 30.0 & 34.4 & 20.5 & 27.2 \\
+RAG v1   & 35.5 & 49.7 & 34.5 & 21.1 & 24.4 & 18.1 & 18.7 \\
+RAG v2   & 50.5 & 59.8 & 41.9 & \textbf{51.7} & \textbf{49.2} & \textbf{45.1} & \textbf{2.0} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Findings}
+\begin{enumerate}
+\item \textbf{RAG v2 improves every low-resource setting for every model}, by +8.6 to +36.9 points
+(Table~\ref{tab:all}). The low-resource mean rises from 28.3\% to 48.7\%. The largest gains are in the
+local languages (Azerbaijani +29.7, Amharic +20.1), the settings the SOP targets.
+\item \textbf{The resource gap nearly closes.} The high--low gap falls from 27.2 points (baseline) to
+2.0 (Table~\ref{tab:gap}). RAG v1 also narrowed the gap, but only by making everything worse.
+\item \textbf{High-resource countries still lose a little} ($-$1.7 to $-$6.4 points mean, versus
+$-$8.8 to $-$21.5 for v1). They still use the niche KB v1, so the few cards that pass the cut-off
+are sometimes misleading. The US is almost unaffected because 93\% of its questions get no context.
+\item \textbf{The failure modes of v1 are largely fixed.} Refusal-like answers drop from 7--20\% (v1) to
+1--5\% (v2) per country. For Azerbaijan and Ethiopia, 3{,}017 answers changed from wrong to correct and
+716 from correct to wrong (v1: 810 vs 1{,}614).
+\item \textbf{What drives the gain.} Tables~\ref{tab:hitsplit} and~\ref{tab:v2ret} together show that
+the gain comes mainly from KB coverage: the same retrieval and prompt ideas cannot help when the KB
+does not contain everyday knowledge. The gate and prompt v2 limit the damage when it does not.
+\end{enumerate}
+
+\subsection{Limitations of RAG v2}
+\begin{itemize}
+\item KB v2 is question-aware (written from BLEnD's question templates after error analysis), so its
+gains are an optimistic estimate for unseen questions; the leave-own-cards-out coverage (35--38\%
+hit@3) is the more conservative figure.
+\item Two thirds of KB v2 cards are not individually source-verified.
+\item The cut-off was tuned on countries that have only KB v1, so it is untuned for the denser KB v2
+(99.8\% of AZ/ET questions receive context).
+\item Answer-hit is a lexical proxy for relevance, used only for tuning on dev countries and for
+diagnostics.
+\end{itemize}
+
+%=====================================================================
 \section{Next Steps}
 \begin{enumerate}
-\item \textbf{Always-RAG:} hybrid BM25 + dense (bge-m3) retrieval over the country's KB, top-$k$ cards
-prepended to the same prompts. Then run the same 27{,}000-answer protocol and compute the per-setting
-change against Table~\ref{tab:main}.
-\item \textbf{Adaptive-RAG:} a training-free gate (retrieval score / category prior) choosing per
-question between the RAG and baseline answers. It needs no extra model calls.
+\item \textbf{Oracle-KB upper bound:} RAG with cards built from the BLEnD answers, run separately and
+labelled as an upper bound, to separate the effect of knowledge coverage from the RAG method.
+\item \textbf{KB v2 for US, Spain and South Korea}, to test whether question-driven cards remove the
+remaining high-resource losses.
 \item \textbf{Cross-lingual retrieval:} machine-translated English queries for Azerbaijani and Amharic
 questions, compared against the oracle English query.
 \item \textbf{Category-aware analysis} of where retrieval helps or hurts, from the per-question logs.
 \end{enumerate}
 
-\paragraph{Reproducibility.} The code (\texttt{rag\_pipeline/}), all prompts sent, all 27{,}000
-responses and per-question scores are in the project repository
+\paragraph{Reproducibility.} The code (\texttt{rag\_pipeline/}), the KBs, all prompts sent, all model
+responses (baseline, RAG v1, RAG v2) and per-question scores are in the project repository
 (\url{https://github.com/SidRai-247/BlenD_ML_Project}).
 
 \end{document}

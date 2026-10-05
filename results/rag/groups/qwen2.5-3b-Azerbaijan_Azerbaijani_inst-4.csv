@@ -1,0 +1,627 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,"Aşağıdakı tipik qəlyanaltı təyin edilməlidir Azərbaycanda məktəbəqədər uşaqlar üçün:
+
+Qəlyanaltılar tələb olunur və 3-ci yaşdan yana olan uşaqlara qoşulur. Ministry of Education, məktəbəqədər uşaqların qəlyanaltıya alınması üçün uyğun kurallar təyin edir və bu kurallar ştatik statistika ilə bağlı preschool enrolment (uşaqların qəlyanaltıya qoşulması) ilə bağlı olan statistiğənə baxılırdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food,Azerbaijan dövründə lavash yeməyi pivə ilə yaxşı gedən populyarnasıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,"Azərbaycanın en populyar meyvəsi haqqında baxış qoyub gelsəm, bu məlumatımızda yoxdur. Azərbaycanda çox meyva türünü var və bu türdən biri olmayacaq.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,"Aşağıdakı sualın cevabı heç bir suallar və ya izahatsız tək bir cavab verməmə üçün bu məlumatlarla istehsal edilməyəcəkdir. Bu məsələn, ""Aşağıdakı sualın cevabı"" ifadəsi onun izahatsız olması ilə bağlıdır.
+
+Cavab: Bu məlumatlarla istehsal etmək üçün Aşağıdakı suallar və ya izahatsız tək bir cavab verməmə üçün bu məsələn, ""Aşağıdakı sualın cevabı"" ifadəsi onun izahatsız olması ilə bağlıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,Azərbaycanın əyləncə parkında populyar qəlyanaltı məhsulu pakhlavadır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,3,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,Azerbaijandaki ibtidai sinif şagirdlərin fəndinə və dövlət dilinin (Azeri) fərdi təhsil alırlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,Azerbaijani-Rusça,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,Azerbaijani language and literature,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,Pilaf,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure,"Aşağıdakı sualın cevabı, Azərbaycan'da Halloween'in qeyd etilmediyi və bu təlimatın azərbaycanca bir şəkildə verilməsi ilə bağlı olan məlumatlarla uyğun olmayacaq. Azərbaycanda Halloween, dəstəklənilməyən bir festivaldir və bu mağarada insanlar qeyd etmək üçün nə edirlər bilmirik.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,"İnsanlar Novruz holidayi ilə bağlı qeyd etmək üçün dövlətın təşkilatı və ştatın mütəxəssisləri təqdim edən ən yaxşı suallardan, kelaghayi (silk headscarf) qeyd etmək və Novruz holidayu ilə bağlı qeyd etmək üçün dövlət şahitlərindən istifadə edirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure,"Azərbaycanın Milad bayramı ilə bağlı bəynəlbaz məlumat yoxdur. Bu mağaranın tarihi, kültürlü və yerel məqsədləri ilə bağlı olmayan bir suallarla cavab verilməsindən istifadə edilir.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure,"Aşağıdakı sual və cevabı oxuyun:
+
+Sual: Azərbaycanda Hellouin bayramı hansı yeməklərlə əlaqələndirilir?
+
+Cevap: Hellouin bayramı, Azərbaycan'da dəniz qızılması (Turkish: Yeni Gün) adını verməsi məcbur oldu. Bu bayram Hellouin isminin tarihi və dilalı köklü ilmiy əsasında yaradılmışdır. Hellouin bayramı, Azərbaycan'da dəniz qızılması günündə (17-18 Haziran) dövrün birikməsi və dəniz qızılmasının ətrafında tərbiya edilir. Bu bayramda, Azərbaycanlılar dəniz qızılmasının ətraflarında yemək etdirlər. Hellouin bayramı dövrün birikməsi və dəniz qızılmasının tarihi ilmiy əsasında tərbiya edilir, bu da Azərbaycanlıların Hellouin bayramını yeməklərlə əlaqələndirdiyini göstərir.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,Azərbaycanın Milad bayramında lavash yeməkleri əlaqələndirilib.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,"Azərbaycanın Novruzbaşığı ilə qarşılaşması zamanı, insanlar ad günündə Növruzbaşımı yeyirlər. Bu təlimatdan istifadə etməyə cümlə açarıq: ""Növruzbaşim"" dəyişdirin və daha çox detaylı cavab verin.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure,Gərəkli cavab: Gəlilibəddə (Gəlili),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,Azərbaycanın ailələrinə məşhurdır qapalı fəaliyyət - dolma.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education,"Azərbaycanın universitet tələbələrinin nahardan nahar edilməsi məsələsinə dair baxış qoyub olmayacaq. Məsələn, suallarda verilənlər cümlələrdə təyin etmədik, universitet tələbələrinin nahardan nahar edilməsi məqsədlənən policy yoxdur. Azərbaycanın universitetləri tələbələrini müxtəlif dil və dil dövründən qoşdurur, fəaliyyət etmək üçün tələbələrinin bir-birinin dilində məsələləri var.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,16,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,3,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport,"İster bu səhifədən istənilmiş və ya bilməyək, Azərbaycanın ən məşhur idman şərhçiləri arasında Pehlevanlıq (Pehlevanliq) mövzusu həmçiddir. Bu, Azeri təlimatçı və sport şərhçiliyyəsi dairəsində bir məşhur idmandır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport,"İşte cavab:
+
+Qeyd etmək məcburiyyətdir ki, suallarda verilənlər birligilənmiş vaxt qanaklama edilməsidir. Azərbaycanın ən populyar idman komandası haqqında bir nəticə yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport,Ağazada insanların adətən idman yayımlarını izləmək üçün toplaşğı ilkin Lankaran şəhərinin qızıllarlıq qaynar mərkəzində yerlər və ya məkanlar olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,3,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,Pilaf Azərbaycanlıların Novruz bayramı üçün ən vacib yeməyidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,"Azerbaijan Travel dokumentları Baku, Guba və Ganja şəhərlərdə pakhlava suyu adəttindən istifadə edir.",1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Ağustov 12-ncü çildikini (Novruzbaaxtıq) dəfəsində Azərbaycanın ailəvə qoşulması və yemək təşkil edilməsi mövcuddur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,"Azərbaycanın ən populyar isti içki siyahısında qeyri-sıxdır. Bu mağlup sual, Azərbaycanda isti içki ilə bağlı bir təcrübə və ya isti içki növü haqqında bilməyim kiçik bir məqsədədir. Azərbaycanın isti içkiləri çox xatlı və regionallıktan ibarətdir, lakin bu sual üçün təcrübən bir cavab verəmək imkanımız olmur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,Azərbaycan dövründə gəncə və ya gecə klubunda adətən qıva içirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,12,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,Kelaghayi silki qalabıq traditionu və Lankaran çayı azərbaycan resmий tarihi intangible heritage listində yer alır. Azərbaycanda Yeni İl arifəsində bu ənənlər var.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,"İşte Azerbaycan'da ailenin tipik evi:
+
+Kafeler (Yerler) Evlərini təsvir edir, lakin bu məqamda dəyişən vaxtında və yerlərdən istifadə olunur. Azərbaycan'da ailenin tipik evi qeyd etmək müddətdür.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family,No,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,14,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,14,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,"İşte cevap:
+
+İşte bu soruya dair verilen background bilgilerine görə, Azərbaycanda ailə tətilinin üçün adətən hansı növ təyinat seçilbilmək olmur. Verilənlər ciddilərinin birligini və ilə bağlı istehsal edilmiş məlumatların növbəsi olduğunu göstərir, ancak ailə tətilinin üçün adətən hangi növ təyinat seçilbilmək olmur? Bu bilgi verilənlərda yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport,Yaşlılar Azərbaycan'da pehlevanlıq idmanını xoşlarsınız.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport,Pehlevanlıq idmanları ilə məşğul olmaqla xoşlayır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,"İstifadəçi, Azerbaycanda en məşhur basketbolcu haqqında sual saxlamış. Bu sualların vaxtında Azerbaycan Basketbol Şirketi (AZB) və ya Azerbaycan basketbolu oyunları ştatı üçün komitasi (Azerbaijan Basketball Federation, ABF) dövrda en məşhur basketbolçu haqqında tələb olunmayacaq. Bu sualların vaxtında Azerbaycan basketbolu oyunları ştatının resmi qrupları basketbolu oyunları üçün komitasi (ABF) dövrda en məşhur basketbolçu haqqında tələb olunmayacaq.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport,Pehlevanlıq idmanı ilə məşğul olmaqla azərbaycan qadınları ən çox məşğul olurlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,Azərbaycan Olimpiyadasında ən çox qızıl medalı təqdim etmiş olan idman yarışması istehsal edilməkdir. Bu məlumatlar vaxtindən istifadə olunmur və daha sonra təsisatlı bir nəticə verilməsini də istəyirim.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport,"Azərbaycanın universitetində tələbə oğlanları ən çox hansı idman növlərini oynamağı xoşlayırlar, bu məlumatda istehsal etməyə yaxşılanamadım.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,5,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,15,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,4,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,14,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,4 years,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,14:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,12,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,Sualınızda verilmən növbəti sual vaxtında Azərbaycanda Novruz həftəsində şirkətlə şam yeməyi üstünlük edir. Novruz həftəsi 20-21 Martda təqdim olunan Qızıl Qış (Qızıl Qış Həftəsi) vaxtında təyin edilir və bu həftədə insanlar Novruz bayramının qeyri-sarşımlı şam yeməyi yaxşılaşdırmaq üçün ən çox üstünlük verirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,Azərbaycan Rayonunun və şəhirlərində maliyyə şirkətlərinin növbəsi haqqında verilmiş məlumatlar yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,None of the provided information specifically mentions a most popular company in Azerbaijan.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,Şirket toplantılarında zamanı Azərbaycanlıların adətən Novruz kütürlüyü ilə bağlı qoşulması ilə bağlı olaraq yemək yaradılır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life,Azerbaijan Travel məhsulu daxildir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,3.5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,"Aşağıdakı sualları çözmek üçün, verilənlər arasında ilgili məlumat yoxdur. Azərbaycanın anaların doğuşdan sonra sağlama süriyəsi təsnif edilməsinə görə müddətli olmayan bir məlumat yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,Valideynlər Günündə Azərbaycanda ən çox lavash güldür.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,Azərbaycan cəmiyyətində insanlar ilk maaşlarını xüsusilə nəyə xərcləyirlər vaxtda bilmədən. Bu konuda daha çox istismar edə bilərsiniz?,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,"İşte cavab:
+
+Bakı",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family,"Azərbaycan daillərində ən məşhur bayramlar:
+
+- Nevruz (Nevruz)
+- Ramazan Bayramı
+- Şeker Bayramı
+- Id al-Fitr
+
+Bu bayramlar də qalib ilə təqdim olunur və ailə ilə bağlı ən məşhur aktivitələrə görə hazırlanır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"Aşağıdakı əsas mərhəllər uşaqların valideynlərindən müstəqilliyi ilə əlaqədar olmaq üçün:
+
+1. Uşaqlar valideyə qatışdırılacaq.
+2. Valideyə uşaqların valideynlərinin növü və mənziri təsvir ediləcək.
+3. Valideyə uşaqların müstəqilliyi ilə əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+4. Valideyə uşaqların valideynlərinin növü və mənziri ilə müstəqilliyi əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+5. Valideyə uşaqların valideynlərinin növü və mənziri ilə müstəqilliyi əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+6. Valideyə uşaqların valideynlərinin növü və mənziri ilə müstəqilliyi əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+7. Valideyə uşaqların valideynlərinin növü və mənziri ilə müstəqilliyi əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+8. Valideyə uşaqların valideynlərinin növü və mənziri ilə müstəqilliyi əlaqədar olmaq üçün istehsal etməli olan faktorlar təsvir ediləcək.
+9. Valideyə uşa",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,"Adetən hədiyyə verilməsinə malik olmayan məlumat yoxdur. Azərbaycan'da yaşlı valideyin ziyarətində nə hədiyyə verilə biləcək, bu da tərbiya və qonuşma dövründən istifadə olunan məhsullardan ibaret olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,"Novruz məğlusi 20-21 Martda dördünüzünə qarşılanır, bu da Azərbaycanda uşaq doğulduqdan sonra insanların bayram etdiyi ilk gün vaxtdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,15 Ocak,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education,"Azərbaycanın orta və ali məktəblərində şagirdlərin adətən imtahanlara hazırlanması mövcud xüsusiləm. Azərbaycan respublikasının müxtəlif birləştlərlə birlikdə, azərbaycan dili ilə məktəblərində çalışır və bu dillən məhdud şagirdlərin imtahanlarla qarşılanmasına malikdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,No,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,"Azərbaycanın ibtidai məktəblarda (esas məktəblarda) qalıqədən gəldiyi şagirdlərin məktəbə gəldiyini məlumatlarla istehsal etmək müddətdir. Azərbaycanın ibtidai məktəblərində dövrədən qalıqədən gəldiyi şagirdlərin məktəbə gəldiyi suallarla ilgili daha çox məlumat verilməyib. Azərbaycanın ibtidai məktəblərində dövrədən qalıqədən gəldiyi şagirdlərin məktəbə gəldiyi təsnif edilməsinə görə, bu da dövrədən qalıqədən gəldiyi şagirdlər və qalıqədən dövrədən gəldiyi şagirdlərin məktəbə gəldiyi ilə bağlı olur. Azərbaycanın ibtidai məktəblərindəki şagirdlərin məktəbə gəldiyi təsnif edilməsinə görə, bu da dövrədən qalıqədən gəldiyi şagirdlər və qalıqədən dövrədən gəldiyi şagirdlərin məktəbə gəldiyi ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,"Özəl təhsilin ən çox yayılmış forması buna qarşı olmayan bir cavab veremirsiniz, məsələn, ştatlar və ili, ilçələr və ya illərdə özəl təhsil. Azərbaycanın özəl təhsilin yayılışı bittirən faktör ciddilidir və bu faktör ölkədəki bölgələrin, ilçələrin və illərlərin növü və səyahat məbləği ilə bağlı olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,"Azərbaycanda orta və ya ali məktəb şagirdləri ən çox hansı fənn akademiyasına/və ya xüsusi təhsil müəssisəsinə qatılırlar? Bu maq'alada verilməyib, lakin Azerbaycanın məktəbdəki şagirdlərin 1992-ci illərindən ita'atda ola bilən vaxt internasional dərs olimpiyası yaradılmışdır. Bu olimpiya birləşdirmək üçün təyin olunmuş fənnlərdən istifadə edilir, lakin bu fənnlərin növbəsi ilə bağlı məlumatlar verilməyib.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,Azərbaycanın orta və yuxarı sinif şagirdlərin məktəbdə Azerİyani dilməni saxlayır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,"Ağropaq ixtisasının qəbulu azərbaycanın ən çətin hesab olunan təsisat olaraq dəyil, məsələn, birləşmə və iş tətbiqlərinin qəbulu daha çox istismar edilmiş və müxtəlif faktoralardan ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,"Azerbaijanın ibtidai sinif şagirdlərində musiqi alətləri ilə bağlı baxış qoyulmayacaq, məsələn, sualda ""ən çox öyrəndiyi"" dəyişəni təyin etmək istənilmişdir. Azərbaycanın müzai musiqi alətləri ilə bağlı baxış qoymaqla, şagirdlərin ən çox öyrəndiyini təyin etmək mümkün deyil.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,"Məsələndən istifadə etmək üçün verilənlər yoxdur. Azərbaycanın orta məktəblərdəki şagirdlərin fasilə vaxtında nə işləyirlər, bu da dairədən istifadə etmək üçün daha çox verilənlərlə bağlı olmalıdır. Verilənlər bilmədi ki, şagirdlərin fasilə vaxtında nə işləyirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,"Azerbaijani, Rus və Gruzn dillerində məktəblərdə qurulmuş.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,"Ali məktəblərinə qəbul imtahanında Azərbaycanın fənləri tələb olunmur. Bu fənlərlə rast gelsən ki, bu səhv ola bilər və dəyişikliklər istifadə edə bilərsiniz.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,Lankaran bölgəsində (şəhər daxilində) azərbaycanın akademik həvəs daha yüksəkdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,Universitet festivallarında insanlar ən çox Novruz mühaqqaqatlarını gözləyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport,Pehlevanlıq (pah-leh-va-nlick)dır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,Lankaran bölgəsi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,09:00-17:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education,Azərbaycanın ibtidai məktəb şagirdlərində məktəbdə əsasən Azerbaijani dili ilə müəyyən edilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,8,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,3,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food,Azərbaycanın qazlı içkilərində Ganja pakhlavası və Lankaran çaylarından fərqlənədilə bilinir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,"Cevap: Məsələlərində, Azərbaycan'da ən məşhurdan məşqədən bir içkinin növbəsi yoxdur və bu təlimatlarla ilgili olmayacaq.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,4.5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,09:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food,"Aşağıdakı sualın cevabı, verilənlərdan istifadə etməyə ciddi bir izahat olmayacaq. Verilən məlumatlar Azərbaycan'da insanların növbəti şorbalardan xoşlayışını təsvir edirlər, fərqlən sualda vaxtın şorba ilə bağlı bir məlumat verilməyib. Bu nedenle, bu səhifədə verilənlərdan istifadə etməyə ciddi bir izahat olmayacaq.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food,Azərbaycanlılar küçə yeməklərindən lavash yeməyi xoşlayır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food,"Azərbaycanlıların dəniz məhsulları ilə olan əlaqəsini heç bir rasmı oxumaqla, sualın baxımı ilə bağlı olmayan bu cavab verdim. Azərbaycan'da dəniz məhsullarını yeməyi xoşlayan növ məhsullar var, ancak bu mağaraları və təlimatlarla bilməyə bilərsiniz.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Metro,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,"Azərbaycanın ən böyük festivali - Novruz - ilə bağlı xüsusi dekorasiyalar və ya simvollar haqqında verilmiş məlumat yoxdur. Novruz, Azərbaycan'da qızıl dərəcədə bir festivaldir və bu təlimatlarla ilgili xüsusi dekorasiyalar və simvollar həmchülək edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport,Azərbaycan dağının qadınları ən çox hansı idman növlərini izləyir? Bu məlumat yoxdur və buna görə heç bir cavab verilməsilmədir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"İstifadəçi, suallarınızı izahatsız tək bir cavab verməkdən istəyirsiniz. Bu səhifədə vaxtla birləşdirilməsidə, bu məlumatlar yoxdur. Azərbaycanın 20 yaşlarında qadınların ümumi asudə vaxtları hansı fəaliyyətlə məşğul olmaq üçün nəticəsini tapmaq üçün daha çox məlumat istifadə etməlidir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"20 yaşlarında olan kişilerin ümumi asudə vaxtları Azərbaycanın ən populyar və ya mütəxəssis vaxtçilərində məşğul olur. Bu vaxtda, Novruz müharibəsi (Şubqə qışığına bənzəyi biləcək 20-21 Martda) və Lankaran şəhərinin tərəfindən istehsal olunan lāčə (təmiz su) vaxtda məşğul olur. Azərbaycanın ümumi asudan fəaliyyətlə məşğul olan 20 yaşlarında olan kişilerin bu vaxtda tərəqqi etmək üçün birləşdirilmiş vaxtçilərlə müvafiq olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,"Azərbaycan iş günlərinə ciddilər, lavash yiyirlərlə başlayar və sonra qızıq, təmizlik suyu və ya qızıqda yedişləri ilə doldurulmuş lahmacun yemir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,160,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,Avtomobil,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,14,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,Novruz,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,10,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,Qadınların arasında ən çox üstünlük verilən peşə mühəndislərindədir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,Peşə mühəndisiliyi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education,"Təmsil olunmayaraq, Azərbaycanda tələbələrin təhsilləri adətən 1-5-ci il (ibtidai və orta məktəblər) davam etdirirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,"English, German, French, Russian, Arabic and Persian dillərindən başqa bir dilləmədür.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education,"Aşağıdakı sualların heç bir izahatsız tək bir cavabı verilməsidə, Azərbaycanda məktəblərin həftənin hansı günlərində bağlıdır? Bu maq'ul bir məlumat olmayacaq və dəməli, bu səhifədən istifadə etməyək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food,Azərbaycanın ev sahiblərində qonaqlarda adətən lavash yeməkleri hazırlanır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,Ağra suyu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,Azərbaycanın ailə pikniqlərinə adətən lavash hazırlanır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food,Azərbaycan çörəyi (pakhlava) məşhurdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,15:30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure,"Ağzada, Azərbaycanın ən uzun müddətli milli bayramı hansıdır səbəbindən rastlamaq məlumatımızda yoxdur. Novruz bayramı həm də ən populyar milli bayram ola bilər, lakin bu da təsis edilmədikdən kiçik bir ştatın qeyri-şəxsi milli bayramı olmayacaq. Azərbaycanın resmi milli bayramları - Ramazan bayramı və Şərqələr bayramı - həm də ən uzun müddətli olan ola bilər, fərqlən bu məlumatımızda yoxdur.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"Aşağıdakı ümumi fəaliyyətlər Azərbaycan insanlarının İstiqlal Gününü qeyd etmək üçün etdiklərdir:
+
+1. Müştəriliklərin İstiqlal günündə müştəriya müraciətlərini artırması
+2. Şəhərlərdə İstiqlal gününü təşkil edən şahsiyyət fəaliyyətlərində qoşulması
+3. İstiqlal günündə müştəriya müraciətlərin artırılması və müştəriliklərin müştəriya müraciətlərini artırması
+
+Bu fəaliyyətlər Azərbaycanın İstiqlal Gününü qeyd etmək üçün təşkil edilir və insanlar bu günü müştəriliklərinə, şahsiyyət fəaliyyətlərinə və daha çox müraciətlərə qoşulur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"Ağzin dərəcəsində, istifadəçinin verdiyi məlumatlarla ilgili cavabı tapa bilməyə bilərsiniz. Azərbaycanın akılə üzvü ölündə qarşısında nə quraşdırilsənə ciddilər, bu da təhlükəli vaxtdır. Evin qarşısında aşağıdakı məsələlərlə ilgili bir çox şey quraşdırılır:
+
+1. Evin qarşısında yemeklər hazırlanır.
+2. Evin qarşısında aydınlaşdırmaq və şəhərli həddəllər təyin edilir.
+3. Evin qarşısında qaraşdırılmış bir dənizə baxılır.
+4. Evin qarşısında qaraşdırılmış bir yemek masası hazırlanır.
+
+Bu məsələlər Azərbaycanın təhlükəli vaxtda olan akılə üzvü ölündən istifadə olunur. Bu, evin qarşısında qaraşdırılması bir dəyəri var, ancak bu məsələlər Azərbaycanın təhlükəli vaxtda olan akılə üzvü ölündən istifadə olunur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure,Novruz bayramı və ya mərasimi,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Novruz,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,"Aşağıdakı sualların cevabı, Azərbaycanın Guardian systeminin 14 yaşından altında uşaqla ilgili olduğunu və bu sistemin qanun edilən adı ""adətən"" olan Guardianship olduğunu təyin etməlidir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Ramazan ayında 8 gün əvvəl adətən tədbir və ya qarşılama tapınakları görülür.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure,"Aşağıdakı sualın növü vaxtindən istifadə olunara çox xatoludur və müstəqillikləri yoxdur. Azərbaycan dini məbədlərinin ən populyarı və ya turizm üçün ən popuları növü təyin etmək, bu dini məbədlərinin qeyri-sal xüsusiyyətlərindən ibarətdir. Azərbaycan dini məbədlərinin ən populyarı və ya turizm üçün ən popuları növü təyin etmək, bu dini məbədlərinin qeyri-sal xüsusiyyətlərindən ibarətdir. Azərbaycan dini məbədlərinin ən populyarı və ya turizm üçün ən popuları növü təyin etmək, bu dini məbədlərinin qeyri-sal xüsusiyyətlərindən ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Qadınların məzuniyyət mərasimində adətən geyilən paltarlar təmsil edilmir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,Azərbaycanında Ramazan ayında citrus (çay qısfası) daha çox satılır və tapılır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food,"Azərbaycanın fast-food restorandlarında toyuqla adətən qədim təlimatlarla dəyişkil bir karbohidrat xidmət etmir. Lavash, yaxud lavashı hazırlamak üçün tələb olunan qədim təlimatlardan ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,"İnsanlar qeyd etməyə çalışmayın, o daqquqda azərbaycan futbollarında ən məşhur məşqçisini tapmaq zəruri olmayacaq. Bu təlimatlar vaxt indeksi saxlama ilə qarşılanır və futbol məşqçilərinin ən məşhurunu tapmaq üçün uyğun istehsal etmək lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,"Azerbaijan şta futbol komandası gərgin rəqabəti ilə məşhurdur:
+
+AZERBAIJAN TIMI vs GREECE TIMI",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,Ali vs Salah,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,"Badmintonçuqaların ən məşhur və ya əsasən Azerbaycanın badmintonu ilə bağlı məşhurluğunun ölçülərində bu səbəbdən, daxil olmaqla sualın növbəti cavabı da izahat etmək üçün yoxdur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,"Qeyd etmək lazımdır ki, istifadəçinin suallarını izah etməyə yanaşması vaxtında verilənlər dəyişikliklərlə təsadüfi olur. Bu da Azərbaycanın ən məşhur qadın badmintonçu üçün bir nəticə verməyə yanaşır. Verilənlərdən istifadə etmək vaxtında, bu təlimatlar dəyişikliklərə baxmaq lazımdır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport,"İşte Azerbaycan'da hükümetten en çok destek verilen idman növü:
+
+Atlı Idmanlarini (Atletizm)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport,Azərbaycanda məktəblərində adətən badminton və atletik meydancılardır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food,Azərbaycanlılar ən çox qıva (tea) və ya su içdən zövq alırlar.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food,"Azərbaycan'da tipik çatdırılma yeməsi pakhlavadır. Bu yemək Baku, Guba və Ganja şəhərlərdə yerləşir və regionallardan biri olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,"Azərbaycan insanları ən çox hansı növ eti istehlak edilmez məsələsi daxil olmayacaq. Bu tür detalların verilməsinə görə, Azərbaycan'da bəzilərində eti istehlak etmək istəyirlər və onların növbəsi var.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food,"Azərbaycanlılar payız mövsümündə qıva, pırvan, qıva və qıva tez-tez yeyirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,Pilaf,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food,Azərbaycanlılar futbol oyununa baxarkən suya və ya qırvanlı yeyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food,Azərbaycanın ən məşhurdan yaxşıq qidalandırıcı yeməyi lavash deyir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,"Azərbaycanın ən məşhur futbolçu haqqında mağlub olacaq, çünki futbolda məşhurluqlar qeyd edilir vaxtindən istifadə etmək olar. Azərbaycanın futbollu xüsusiyyətləri ilə bağlı bilmək üçün daha çox rəqəmlərdi tapmaq lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport,Azərbaycanda məktəbdə tələbə oğlanları nahar vaxtı badminton növlərinə zövq alır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,Sualın axşam cavabıx: Azərbaycanın ən məşhur voleybolçu haqqında mağlup məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport,"Azerbaijani students participate in various international olympiads including mathematics, physics, chemistry, biology, and informatics. There is no specific mention of which sport they excel at the highest level among these subjects.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,Türkiye,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport,Azərbaycanın uşaqları ən çox Pehlevanlıq akademiyasına qatılırlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport,Azərbaycanın məktəblilərində idman günündə badminton və atletik dəyərləri oynanır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,"Pehlevanliq oyunçusu ola bilməz. Azərbaycanın ən məşhur qış idman oyunçusu vaxtində bilinməyəcək, çünkü bu tür oyunlar hər dəfə azərbaycanlı qış idmanı şahsiyyətləri arasında populyar olur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,Sabir Aliyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport,Pehlevanlıq (wrestling) azərbaycanın ən məşhur e-idman oyunudur.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Azərbaycanlılar (Ay) Yeni İlində baklava, gogal və shekerbura simvolik yeməklər yeyirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure,"Aşağıdakı sualın tam matni haqqında mağlubiyat qazanmayacaq, lakin bir neçə faktörə görə Azərbaycan'da bəy və gəlin arasında ən çox verilən toy hədiyyəsi olardı:
+
+1. Qızıl su (Kırmızı su)
+2. Şamşurda
+3. Kəndi (Kəndi qızıl su)
+
+Bu hədiyyələr Azərbaycan'da bəy və gəlin arasında ən populyar toy hədiyyələrdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Təbrik,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"Azərbaycan dəfn mərasimində başsağlığı təqdimatları üçün hazırlanacağınız bir şəbəkədən istifadə edə bilərsiniz. Başsağlığı təqdim etmək vaxtında, müştərilərin dəfn mərasimində başsağlığı təqdimatları üçün istifadə etməsini təmin etmək lazımdır. Bu növ şəbəkədən istifadə edə bilərsiniz:
+
+1. Başsağlığı təqdimetlərinin məhsulunu hazırlayın.
+2. Müştərilərin dəfn mərasimində başsağlığı təqdimatları üçün istifadə etməsini təmin edən bir şəbəkədən istifadə edin.
+3. Başsağlığı təqdimetlərinin məhsulunu müştərilərə qeyd etdiyiniz vaxtda təqdim etməsini təmin edin.
+
+Bu növ şəbəkədən istifadə etmək, dəfn mərasimində başsağlığı təqdimatları üçün müştərilərin istifadə etməsinini təmin edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"Azərbaycan dağları və su şərqi dövründə yerləşdirilmiş xüsusi malikələrlə cümlələrdən istifadə edərək yas mərasimlərində lavash, qızılbāğ, pide və bilmədilər verilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"(Ay) Yeni Il Səhəri Azərbaycanın Novruz kundalıq vaxtında, yani Mart 20-21-da qarşısındadır. Bu zamanlarda insanlar Lankaran bazarı ilə bağlı məsələlərə dair mövzuqlar təyin edilib.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"Axıllardan axıllara dönmüş (Assuming the question is in Azerbaijani and asking about when Azerbaijan's main public transportation system operates):
+
+Sual: Azərbaycanda ən ciddi ümummilli nəqliyyat sıxlığının olduğu gün nə vaxtdır?
+
+Cavab: Axıllardan axıllara dönmüş (The answer is not provided in the given background information and cannot be determined from the provided data points.)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Azərbaycanın ən önəmli milli bayramı Novruzbayramdır.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,Azərbaycanlılar Ramazan ayında keşif edilən qızıq yeyirlərindən istifadə edir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"Azərbaycanlıların Ramazan bayramında nə yeyirlərlərimi bildirəm, buna görə vaxtindən ibarətdır. Azərbaycanda Ramazan bayramı dövründə qızıl su yeməyi (Ramzan kebabı) yoxdur və yerinə pakhlava yērdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"Azərbaycanın Qurban bayramı ilə bağlı şərh edilməyəcək məlumat yoxdur. Bu mağaranın təsnif etməsindən istehsal olunan vaxt, yer və siyasətlər nəticəsinə uyğun cavab verilə bilməz.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,"Aşağıdakı sualın növbəti cavabı:
+
+İki ildi ilə bağlı şərh edilməyəcək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Azərbaycanın ailəsində Ramazan bayramı ilə ilgili toplama ilə bağlı verilənlər yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Bazar ertəsi,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,07:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,"Azərbaycanın iş təhlükəsizliyi haqqında vaxtindən istifadə etməyək, bu məlumatlar qanaklanbır. Azərbaycanın iş təhlükəsizliyi ilə bağlı daha çox detallı məlumatlar istehsal etmək üçün Azərbaycanın iş市场监管部门 veya statistikalarına baxmaq lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,"İş haçımları saxlanması saxlanıla buna qarşı olaraq, bu sual üçün tam bir cavab verilmemiş. Azərbaycanın ən yaxşı maaş verən sənaye sahəsi neçə faktörə təyin edilir: iş haçımları saxlanması, iş haçımlarının qurulması və ya iş haçımlarının xidmətlərindən istifadə etbaları. Bu nəticələr üçün iş haçımlarının maaşları haqqında statistikal əsaslar təyin edilməlidir və bu, bir neçə faktörə qoymuş olacaq: iş haçımlarının türü, xidmətlərin məbləği, iş haçımlarının xidmətlərindən istifadə etbaları və ya iş haçımlarının qurulması.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,Azərbaycan Milli Ştat Bakıya Dövlət Bankası (AZB) ən məşhur dövlət korporasısıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food,Qıymetli plovunu oxuyun.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,"Azerbaijanlıların səhər yeməyi dəfədələndirilən bir şəbəkə tətbiqindən istifadə edərək lavash yeməyində, bu yemə üçün balşu və qızılbay yeməyirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,09:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food,Lavash azərbaycan yeməklərində adətən vacibdir.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food,Azərbaycanlıların tipik Bayram yeməsi pilafdur.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,"Azərbaycanın xaricdən gələn turistlərinə və qonaqlara ədəd məsələli bir meyvəni təklif etmək istəmirəm. Azərbaycanda çox məşhur və xaricdən gələn turistlərinə qeyibdirən meyvələr var, lakin bu məsələ təhlil edilməlidir. Azərbaycanın yerli meyvələri və agrotourizm dövründə Lankaran şəhərinin tekerlek qızıllar və kış qızıl məşğululluqları təklif edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,Azərbaycanın adətən lavash yeməyini sədəqə kimi verir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food,Azərbaycanın ən ucuz fast foodu haqqında bilməyə bilərsiniz. Bu məlumat qan ablakda yoxdur və tərəfindən azərbaycanlılar arasında da istismar edilə bilər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,Azərbaycanlıların adətən çayla dördü içməsidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food,"Azərbaycanın bu məhsullu ən çox yaxşılaşdırma və təqdim edilməsindən istifadə etməyə ciddilidir, lakin sualda nə içirlər diqqət etdik. Azərbaycanlıların kofe ilə nə içirlər məlumatı mövcud deyil və bu məsələn azərbaycanın təhsil, siyasətlər və qızılşamal ilə bağlı olar.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,"İstifadə etmək olar ki, suallarda verilməyən vaxt qazlı bir cavab verirəm:
+
+Sual: Azərbaycanda ən məşhur batırma sousu hansıdır?
+
+Cavab: Bu sualın istifadə etmək olaraq xüsusi bir cavab verilməyib. Azərbaycan respublikası və ya ştatında ən məşhur batırma sousları təmsil edəcək elementlər yoxdur. Azərbaycan sualı qazlıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,"Azərbaycan cinsində xristiyanların orucu zamanı təyin etmək imkanı yoxdur və bu da dövrün, yerin və siyasetin qarşısılardan çox məqsədli olduğu nəticələnir. Azərbaycan cinsindəki xristiyanların orucu zamanı təyin etmək hər hansı bir yemək və ya yeməklərin dəyişiklikləri ilə bağlı olur, bu da yerin qarşılanan siyasetlərdən ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,Samani,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,"Qeyri-oxunan cavab vermək olar, çünki Azərbaycanın ən məşhur qadın idmançıları haqqında təsisatlı verilənlər yoxdur. Bu növbədə məsələ ilə bağlı daha fərqlənmiş bir cavab verə bilərsiniz.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education,Ha,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,İki sinfdan ibaret.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life,Azerbaijan'da Lankaran çayları ile geniş tanınır.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life,Lankaran sənaiya,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,Pilaf,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,Heyvan motoru busu azərbaycan nəqliyyatında adətən istifadə olunur.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,"Qeyd etmək məşhur bir komiksi var ki, Azərbaycanın uşaqların oxumasına dair populyar vaxt-ı xüsusiyyət təqdim edir. Bu komiks üçün yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,Qeyd etmək məşhur olmayan bir şeydir. Azərbaycanın uşaqlar üçün populyar YouTube kanalları təyin edilməlidir.,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,Novruz,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure,İslam Bayramı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,"İstifadə etməyə cümlələr və izahat olmayara çox uygun deyil, lakin bu tür bir cavab verir:
+
+Sual: Azərbaycanda ən məşhur ənənəvi musiqi aləti hansıdır?
+
+Cavab: Qalib (guitars) azərbaycan musiqisi üçün ən məşhurdır.",1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,Pilaf,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food,Azərbaycan dövründə ən məşhurdanı buğda əsaslı qidalar arasında lavash var.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food,Pear-shaped armudu glasses,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,"Azərbaycan dövrində balıqla hazırlanan ən məşhur yemək bilmədüm. Azərbaycanda çox balıq yeməyi var və bu yeməklər arasında təyinatlı bir məşhurdan istifadə etmək olar ki, onlar də bir-birinin ən məşhur olduğunu qoymağa imkan vermir. Azərbaycan ştatının balıqlı vahşi suxu ilə bağlı olan yeməklər arasında təyinatlı bir məşhurdan istifadə etmək olar ki, onlar də dövrindən ən məşhur yeməkləri qoymağa imkan verir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food,Azərbaycanlılar yağışlı havalarla dördün onda lavash yeməyi xoşlayır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport,"Azərbaycanın qadınları sport-sectionlardan 69,160-nin biridir və pehlevanlıq idi.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,"Azərbaycanlılar iş yerində ən çox hansı içkini içməyi xoşlayırlar? Bu məlumat qeyd edə bilər ki, Azərbaycanda bir dərsin vaxtında heç bir istehsal edilən içki var. Azərbaycanlılar arasında çox içkilər mövcuddur, fərqlən iş yerində ən çox xoşlanan içkinin növü məlumat qeyd edilməyən.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family,"Aşağıdakı bayramda Azerbaycanın ailə üzvlərinə bir araya geldir:
+
+Novruz Bayramı",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure,"Pehlevanlıq oyunları oynayan azərbaycanailər hansıda ənənəvi bayramlarda oynayır? 
+
+(Not: Azərbaycanda pehlevanlıq oyunları vaxtında ənənəvi bayramlarla bağlı olan mütəxəssis nəticəyə gəldir. Bu, tələbədən istifadə olunmayacaq.)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure,Pehlevanliq,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure,"Aşağıdakı sual və cavabını oxuyun:
+
+Sual: Azərbaycanlılar hansı ənənəvi bayram aksesuarları geyinirlər?
+
+Cavab: Azərbaycanda, Novruz bayramında qeyiblərlər dairəsində milyonlarca aksesuar təqdim olunur. Bu aksesuarlar arasında şaxşın qeyiblər (şəxsi), şapka, kafanlı qeyiblər və daha çox mövcuddur. Novruz bayramında, bu aksesuarlar dairəsində milyonlarca insan təqdim olunur və ənənəvi aksesuarlar arasında şaxşın qeyiblərlər qatıldıqda yer alır.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,Shaki,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,"Azərbaycanlılar Novruz mövsümü ilə bağlı məsələdən qonuşmayaraq, sualda verilənlərdən istifadə etmək olar ki, Azərbaycanda çox meyvə var. Bu mağaraları təsvir edərkən heç bir cavab vermirəm, çünki sualda ən çox hansı meyvələri yeyirlər? diye bir məqsedilmən.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,"Azərbaycan dəniz məhsulları ilə məşhurdur Lankaran suyu və bu suyu tərəfindən əvvəl qayıxdıklarından sonra, Lankaran teypası.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,"Ağazdax bölgəsində xizək üçün bilməx ki, azərbaycan respublikası xizək üçün en məşhur bölgəsi dəyil. Xizək üçü azərbaycanın hər hansı bir bölgəsindən istifadə olunur və birləşmiş ştatların hər hansı bir regionda da mövcuddur. Azərbaycanda xizək üçün en məşhur bölgələri dəyil, fərqlən bu təlimatlar ilə bağlı olmayan sual olunmuşdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,Azərbaycanın ən məşhur döyüş sənətçisi haqqında verilməkdir. Bu sual vaxetləri ilə bağlı olaraq ciddi bir cavab vermək olmur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,Azerbaijan,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,2,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family,"İki valideyə işləyən zaman, Aşağıdakı şərhədə nəticə vermək olar:
+
+Azerbaijanın təhsil və mütəxəssislik kanalları ilə bağlı qanunlar, hər iki valideyə uşaqlara qayğı göstərir. Bu, 14 yaşından aşağı olan uşaqlara qayğı göstərinin birləşməsi və 14 yaşından yana olan uşaqlara da qayğı göstərinin birləşməsi ilə bağlıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,Şarap,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,Cevap: Rakı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,10,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,Barbekü zamanı Azərbaycanın əsas növ ət yeməyi köfte və qızıq tərəfindən keşfilib olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,09:00,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,Azərbaycanın gecə qəlyanaltılarından lavash yeməkdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,Azərbaycanın ən məşhur acı yeməğidir səyahatlıqda qan çorbası.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,Azərbaycanlıların adətən Novruz kütürlüyü ilə bağlı sualına ciddi izahatsız tək bir cavab verilməsə məşhur qidaları sərt içki ilə birgə yeyilər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,Azərbaycanın hava soyuq olduğu zamanlarda insanlar adətən qızıqlardan yeyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,"Azərbaycanın ən məşhur alkoqol markası haqlanmamışdır. Bu tür detalları vaxtında bilməyə bilərəm. Azərbaycan'da çox alkoqol markası var, fərqli ştatlar və qızıllarla bağlı olmaqla məşhur olanların nəticəsi olsun.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,"Azərbaycanın insanları adətən təyillədilmiş yeməklərini, suya və ya maşğulutlara görə supermarketlərdə alırlar. Azərbaycanlılar təyillədilmiş yeməkləri təyillənmiş lavash, qızıq, şörvə, qızılma və ya suya və ya maşğulutlara görə hazırlar.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,Qeyri-oxunan cavab olaraq verilməlidir. Azərbaycanın idmanla bağlı ən məşhur filmi mövcud deyil və ya buna dair istehsal edilmiş nümunələr yoxdur. Idmanla ilgili populyar filmlərin təqdim olunması da qeyri-özəli məsələdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport,Horse racing sections,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,"Qeyd etmək məşhur sual üçün uyğun cavab verilməyəcək, çünki suallarda öyrənilmiş bir dəyişə var ki, Azərbaycanın yarışlar zamanı qeyri-populyar atletika yarışlarını izləmək ən populyardır. Bu tür suallar vaxtında uyğun cavab verilməyəcək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport,Taekwondo,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport,"İstifadə etmək olar ki, suallarda verilmiş olan məlumatlarla bir cavab verə bilərsiniz. Azərbaycanın ən məşhur stolüstü tennisçilərini təyin etmək istənilir.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,Qış Olimpiya Oyunlarında Azərbaycanda ən çox izlənilən tədbir haqqında baxınmayla verilməyəcək cavab verirəm. Bu informasiya vaxtindən istifadə olunmur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,Qatil Haydar Aliyev,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,"İster istemémədik, Azərbaycanın ən məşhur atletika idmançısı haqqında mağlubiyetimiz var və bu məlumatımızda yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life,"Validənlər (çocuqların parents) övladlarının ən çox hansı peşəni seçməsini istəyirlər, dəyişəklidir və bu sualın tələb etdiyi cavab olmayacaq. Azərbaycan xalqının siyasitika, ekonomik və sosial axşamı ilə bağlı olan çoxlu faktora baxılmalıdır. Bu növ suallar özümlülükli və dəyişəklidir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,Azərbaycan iş yerlərində adətən Microsoft Office proqramlarından istifadə edirlər.,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,Azerbaijan şəhərlərində və bölgələrində idxal və ixrac fəaliyyətləri ilə tanınırlar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,Amazon,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,2 ay,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,"Gənclər Azərbaycanda adətən ştatda iş təcrübəsi və mühüm şirkətlərə girişim etmək üçün sahələrdə seçirlər. Bu sahələrləri qoşmakla, Azərbaycanın ən böyük mütəxəssislik ştatları arasında yer alması ilə bağlı olaraq, enerji, təhsil, baxılış və mühüm xidmətlər sahələri həyata keçirilməlidir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,"Lavash preparation, where family members often work collectively and sometimes involve friends and neighbors.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,"Azərbaycan ilə bağlı istehsal olunan istitvani nəticələrdə, ailəvi səfərlərin üçün adətən hansı yaşayış forması bron edilmir vaxtda məqsədli bir nəticə yoxdur. Azərbaycanın ailəni ilə bağlı istitvani nəticələr haqqında daha çox məlumat təqdim etmək üçün uyğun bakanlıqlardan keçməyin lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,Samani,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,5,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,"Azərbaycanın universitet tələbələrində ortaq məcburi kurslar:
+
+1. Azərbaycan dili və edebiyatı
+2. Matematika
+3. Fizika
+4. Kimya
+5. Bioloji",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,"İşə düzəlməyə olan azərbaycan xidmətləri üçün uyğun bir ixtisas təsnifinin növbəsi yoxdur. Azərbaycanda işə düzəlmək üçün ən məhsul olmaqla, işdar və işərədən xidmətləri istehsal edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,"İşbu sualın növbəti vaxtında istifadə olunan məlumatlarla, Azərbaycanın universitet tələbələrinin arasında hansı tip klublar ən populyardır? məlumat verilməyib.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education,"Azərbaycanın universitet tələbələrinin adətən yataqxanalarında yaşıyarlardı. Bu məlumat qeyd edilən vaxtda olan istehsal olunmuşdur, lakin bu da bir nəticədir.",1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,Azərbaycanın iş statistikləri ilə bağlı qadınların təqaüdə çıxışlı adətdə hansı asu daxil etməyə vaxt fəaliyyətlərini sevirlər? Bu məlumat sualın bilmək üçün yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,Azərbaycanın təqaüdə çıxmaqdan sonra (şəxsinə dairək) adətən xidmətdə və ya əsasən culturada fəaliyyətlərini sevirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,"Azərbaycanlıların dini yerlərinə adətən Novruz bayramında ziyarət etmək məşhurdur. Novruz, yuldan və qışqışdan keçən günəs üçün tərbiya edilmiş bir bayramdır və 20-21 Martda (yənbəcək) daxil olar.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,Novruz münasibətləri üçün,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,12:00,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,Azərbaycanlılar toy mərasamlarda qara rəngdə geyim gəlir.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,"Azərbaycan dəfən mərasimlərinə uyğun, insanlar qızıl paltar gəlmirlər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,Azərbaycanın kinoteatrlarda qələnaltı yemedilmez. Cinemas mütəxəssislikdən istifadə edilməsidir və bu yerinə kina filmi观赏不包括餐饮服务。,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food,"İstifadəçi, Azerbaycan'da en popüler cips dadısı hakkında səbəb olmayan bir cavab vermək üçün sualları oxurdu. Məsələn, suallarda Lankaran cipsi və ya qeyri-populyar cips dadılarla ilgili məlumat verilməyib.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,"Azərbaycanın ən məşhur aşpazı haqqında mağlup məlumat yoxdur. Azərbaycan siyahısında birçok tərtibatlı aşpaz var, fərqlən bu səbəbindən bir cavab verəmək olar.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,"Azərbaycanın ən məşhur aşpazlıq şouluları ilə bağlı baxımı yoxdur. Azərbaycanda çoxlu şoul var və bu şoulalar regionallik, dil, tarihi və sosyal faktoralardan istifadə edir. Azərbaycan Travel qeyd etdi ki, Baku, Guba və Ganja şahrişlərində pakhlava şouluna əsasən regionallik şoul şəbəkəsi ilə bağlı olur. Lankaran teyəsizlik və limonat qaynaqlarının agrotourismdan istifadə edilən şoulalar da regionallik şoul şəbəkəsinin bir parçası ola bilər. Bu növ şoulalar Azərbaycan sosial və kulturnu təşkil etməyə yarayan faktoralardan istifadə edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,"Aşağıdakı sual və cavabı oxuyun:
+
+Sual: Azərbaycanda ən məshhurdan şokolad markası hansıdır?
+
+Cavab: Azərbaycanın ən məşhur şokolad markası ilkin bir tələbə olmayacaq. Şokolad markaları vaxtında azərbaycan şəxsiyyətlərinin xidmətiy məhsul olynmasına görə ən çox dövrda yaradılırdı. Azərbaycanda şokoladın en populyarnası, buna Azerbajdžan Şokoladı (Azerbaijan Chocolate) və Ganja Şokoladı (Ganja Chocolate) olur. Bu markalar ən çox Baku, Guba və Ganja şəhirlərdə yaradılıp, təyin edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food,Lankaran teypaşası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,"Aşağıdakı sual və cavabı oxuyun:
+
+Sual: Azərbaycanda ən az sevilən tərəvəz hansıdır?
+
+Cavab: Bu məlumat qazandırmaq üçün uyğun olmayan. Azərbaycanın tərəvəzi çox müxtəlif vahidliyin var, bu da ştatın bölgəsindəki ən yaxşı tərəvəzdir. Lankaran tərəvəzi, regiona agrotourism ilə bağlı məlumatlarla bilinir, və bu tərəvəzin sevililiyi qazandırmaq üçün uyğun olmayan. Azərbaycanın ən sevilən tərəvəzi nəticəsi yoxdur və məsələn, Baku, Guba və Ganja şəhirlərinin pakhlava variantları regional tərəvəz təqdim edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,"Azərbaycanın yeməkxanalarında ən çox hansı yeməklərə rast gəlinməsidir? Bu məlumat qazanclı olmayan və ya təsdiqlənməmiş. Azərbaycanda yemək xanalarında çox döyüşli, farklı şəbəkədən gülən yeməklər var. Lavash vaxtında məcbur ola bilər, ama bu tələbə edilməlidir. Azərbaycanın yemək xanaları həm döyüşli yeməklər həm de şəxsi yeməklərə malikdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport,"Azərbaycan-da canlı oyuna gədən azarkeşlər özüllər ilə bilmədi. Azərbaycanda canlı oyunlar təqdim olunmur, lakin bu formatda azarkeşlərin özülləri ilə bağlı məqsədlər və nəzərdən istifadə olunmamalıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,Azərbaycanın ən məşhur idman stadionu haqqında bilməyə bilərsiniz. Bu maq'ul bir suallarla yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,"Aşağıdakı sual və cavabı oxuyun:
+
+Sual: Azərbaycanda ən məşhur Paralimpiyaçı kimdir?
+
+Cavab: Bu məlumat qanapçı olaraq ilə bağlı olan, Azərbaycan Paralimpiyasının ən məşhur və ya əsaslı paralimpiyaçlarının adı verilməsinə görə, buna rast gelsəm yoxdur. Azərbaycanda Paralimpiyaçılar üçün tələb olunmayan bir dəyərli məqsəd və ən çox xüsusilə, bu məsələ Paralimpiyasının təşkilatı ilə bağlı olan.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,Azerbaijanda Cultural and creative industries sahələrinin daha fleksibl iş saatları ilə tanınıb.,1,0.5
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,"İstifadəçi, suallarınıza izahatsız tək bir cavab verməyə yaxşılaşdırmaq lazımdır. Azərbaycanın ən məşhur və uğurlu sahibkarı haqqında bilməmiş olacağım, bu da suallarını izahatsız tək bir cavab verməyə yaxşılaşdırmaq üçün. Azərbaycanın ən məşhur və uğurlu sahibkarı haqqında daha çox məlumat verin, lakin bu suallarını izahatsız tək bir cavab vermək imkanı yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,Adagatlar və taşqırıqlar,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,"Ağzadının adı möstər xəbərdarlıqda istehsal olunmur, lakin bu sual üçün tələblərinizə uyğun cavab verə bilərsiniz. Azərbaycanın ən məşhur ailələrindən biri ""Şuşa"" ola bilər, fərqlən bu xəbərdarlıq təyin olunmamışdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,Azərbaycanın ən çox yayılmış soyadı haqqında mağlubu var. Bu konuda nəticələr yaxud istehsal olunan məlumatlar yoxdur və bu tür bir məlumat qeyd edilə bilmədi.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family,"Aşağıdakı sualların cevabı, Azərbaycan'da ailələr (families) dini etikadı ilə qoymaq üçün hansı dinə etqad edirlər və ya azərbaycan dilindən tələb olunmuş deyil. Azərbaycan fahramatıdır və həmçinin dini mütəxəssislikdən istifadə etmək üçün müxtəlif dinlər var. Azərbaycanın qızıl dini, İslam dini və qizil-dinliq (yaxud pehlevanlıq) mütəxəssisliklər həll edilib. Azərbaycan fahramatının dini etikadı ilə qoymaq üçün müxtəlif dinlər və təlimlər var, bu da azərbaycanın mütəxəssislikdən istifadə edilə biləcək.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family,Persian,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,İki verdiyiniz məqalədə ilə bağlı cavabı tapa bilmədim. Azərbaycanın ailələrin immiqrasiya etmək üçün ən populyar yeri hansı ölkədir səbəbi bu.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,"Azərbaycan məktəblərinə axtarıldığı vebi-şəxsiyyət (pis davranış) məqsədli nəticələr həmçinin təbii şəxsiyyətlər və qurultuların daha iyi işləyinməsini təmin etmək olar. Bu, müəyyən məktəblərinə axtarılan vebi-şəxsiyyət növü, onların şəxsiyyətlərindəki qurultuları daha iyi işləyinmədən istifadə olunur. Bu nəticələr həm müəyyən məktəblərinə axtarılan vebi-şəxsiyyət növü, həm de onların şəxsiyyətlərindəki qurultuları daha iyi işləyinmədən istifadə olunur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,Azerbaijanın respublikan olimpiadalarında adətbəyn dərsində adətən İsmail Bey Guliyev və Şahin Veliyev öyrənilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,3,1,0.6666666666666666
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,Azerbaijanın tələbələrinin adətən dərs oxumaq üçün onlayn resurslardan istifadə etmək məcbur olmayır və bu konusunda rast gelsəm yoxdur. Azərbaycanın tələbələrinin adətən dərs oxumaq üçün onlayn resurslardan istifadə etmək məcbur olmayır və bu konusunda rast gelsəm yoxdur. Azərbaycanın tələbələrinin adətən dərs oxumaq üçün onlayn resurslardan istifadə etmək məcbur olmayır və bu konusunda rast gelsəm yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,45,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,Azərbaycanın Novruz bayramında qeyri-şəhərli limanlar (sunaq limanları) bayram mövsümündə en işlədirmişdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,Azerbaijanın teatr tamaşaları ilə məşhurduluq bölgəsi haqqında verilmiş bir məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,"Azərbaycanın ən məşhur otel brandı haqqında mağlub olacaq, çünki bulara dair istehsal edilmiş vaxt yoxdur. Azərbaycanın turizmi ilə bağlı məhsul var, lakin bu da bir yerin ya bir şirkətin adıdır, otoritələrin təyin etməsi lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,"Azərbaycanın ən populyar teykaut səhər yeməyi, lavash sandwichlari olaraq təykləndirirlər və bu sandwichlarda biber, qızıltan, qızıl qızıltan və qızıl qızıltan dövürülür.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food,Şərqi suyu vurma,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,"Azərbaycanın festivallarda ən çox hansı spirtli içkilər istehlak olunması bilməyəcük. Bu tür məsələlər dəyişikliklərlə və yerin fəaliyyətindən ibarətdir. Azərbaycanın festivalları arasında qızıl pırvan, şərq pırvan və qızıl şərq pırvan var. Bu tür festivallarda ən çox istehlak edəcək içkilər dəyişikdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,Lankaran tea,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food,Pakhhlava,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,"Qwen, created by Alibaba Cloud, is designed to provide information and answers based on the data provided. However, in the given background information about Azerbaijan, there is no mention of any popular rocketry or raket performance tradition. The provided information pertains to a traditional Azerbaijani sport called Pehlevanliq, which involves wrestling and zorkhana games.
+
+Therefore, with the available information, I cannot provide an answer to the question ""Azerbaijanda ən populyar raket idman növü hansıdır?"" as there is no relevant data provided.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,"Azərbaycanın ən populyar international olimpiadası vaxtında məsələdir, çünki bəzilərində bir neçə beynəlxalq idman yarışması təyin edilib. Azərbaycanda International Physics Olympiad (IPhO), International Chemistry Olympiad (IChO) və International Math Olympiad (IMO) da ən populyardır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,1,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,"İş az maaşlı olmayan detayı oxumaqla, bu soruya dair özgün vaxtli bir cavab veremirsiniz. Azərbaycanın iş maaşları ilə bağlı detallar tapmaq üçün təlimat qoyulmasın.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,Pasxa (Paskhyar) bayramı zamanı Azərbaycanlıların ən çox yemək olan lavashdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,"İstifadəçi, sualları izahatsız və ya tək bir cavab vermək üçün istifadə etmişdir. Azərbaycan'da yaşlı əhali arasında ən populyar musiqi janrı haqqında baxış qoyulmayacaq. Bu məlumatlar yoxdur və ya azərbaycanın təhsilindən istifadə olunaraq verilməlidir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,Tea,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,Toy mərasamlarda adətən qızıq içilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food,Lavash yeməği Azərbaycan'dan qaynaqlanır və dünyanın hər yerində tapıla bilər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food,"Azərbaycanın ən populyar tərvəz yoxdur və bu məqsədli bir cavab verilməsindən istifadə etmək olar. Azərbaycan, böyük ştat olaqda və çox qonuşma ştatı olduğu üçün tərvəzlər arasında çox xatırlanmış məhsullardır. Bu ştatın ən populyar tərvəzləri bilməmədik, ancak Baku, Ganja və Guba ştatları növündüklərində qonuşma tərvəzlərindir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport,Pehlevanlıq heyvandır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,"None of the provided information relates to coffee or coffee shops in Azerbaijan. The background information is about tea and related cultural practices in Lankaran, which is a coastal region of Azerbaijan. Therefore, I cannot provide an answer to the given question based on the provided context.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,Lavash yeməkini təqdim etməsidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,Lankaran,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,Ağazatörax (Bakı rayonu),1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education,Baku Teknik Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,Baku Tiflis Demokratik Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,Azerbaijan plovu,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,"Azərbaycanın ən məşhur mövzu parkı mağan ola bilmir, çünki bu tür bir listə növbəti verilə bilər. Azərbaycanın ştatisticaq və sosial məlumatları ilə bağlı olan istehsal etmək imkanı yoxdur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,Kelaghayi animasısı,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,"Hamilə qadınlar üçün ən populyar prenatal təhsil fəaliyyəti nədir, bu məlumat yoxdur və buna görə heç bir cavab verilməyəcək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,"Aşağıdakı sualın nəticəsində, Azərbaycanın oğlanlar arasında ən populyar oyuncaqları haqqında məlumat yoxdur. Bu tür detallarda yer almasa da, Azərbaycanda də bir şablonlu oyun və ya populyar oyuncaq təsnif edilməsinə malik deyil. Oyunlaşmanın tərəbi, məhsulun quruları və ən populyar oyuncaqları dənizdə yer alacaqdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,"Aşağıdakı sualın nəticəsində, Azərbaycanın qızların arasında ən populyar oyuncaqları haqqında məlumat yoxdur. Bu tür detallarda yer almasa da, Azərbaycanda dəyərli oyunlar və aktivitələri var.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life,İki gün,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,"Azərbaycanda fəaliyyət göstərən şirkətlərdə ən çox hansı komanda quruculuğu fəaliyyətləri həyata keçirilir? 
+
+Cavab: Bu məlumatımızda yoxdur və buna görə, suallarda istifadə olunan məsələlər ilə bağlı qeyd etmək lazımdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,Azerbaijanın iş fəaliyyətlərinin növbəsi ilə bağlı qeyd etmək imkanımız xüsusilə yaxın deyil. Azərbaycanın iş fəaliyyətlərini təsvir edən istehsal statistikası və ya iş fəaliyyət növkləri ilə bağlı daha geniş bir məlumat qeyd etmək üçün baxıma qoyulmalıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food,Şərqi şəbəkəsi pakhlava.,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food,Şərhü müstəqillidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,"Azərbaycan yeməklərinin en çox istifadə olunan ədvizat (ot) növü, dolmadır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,Ramazan ayında Azərbaycanda adətən iş qrafikləri yüksəkdir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,12/31,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family,"Aşağıdakı sualın cevabı:
+
+Azərbaycanda ailələr birikdiyə qədər dolma yeməyi və toplamaq üçün harada toplaşırlar.",1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,"Atalar Günunu və ya Valideynlərin Gününü Azərbaycanın atalara həmiş hədiyyələrlə təyin etmək istəmirəm. Bu günün tarihi mütəxəssisliklərindən ibarət və onların təbii cümlələrinə görə, hədiyyələr dairəsində nöqtələr var. Azərbaycanın atalara verilə biləcək hədiyyələri bu günün tarihi mütəxəssislərinə qarşı olmalıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family,Azərbaycanın valıdeyin günü və ana günüsü ilə bağlı məsələlər haqqında bilmərim yoxdur. Daha sonra tələbədən daha fərqlənmiş bir suallar vermək olar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,"Aşağıdakı sualın nəticəsində, ibtidai məktəblərdə ən populyar məktəbdənkənar fəaliyyətlər hansılardır? Bu maq'alada verilənlər birləşdirilməyib və daha çox məlumat qazandırmalıyıza gerek var.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,"Azərbaycanın dövlət universitetlərinin orta illik təhsil haqqı haqqında verilmiş məlumat yoxdur. Bu maq'alada verilməyən məlumatlarla vaxtda bir cavab verə bilərsiniz, ama bu məlumatlar istehsal edilməyib və dövlət universitetlərinin təhsil haqqı ilə bağlı bittikdən yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,Parklarda iş etmək populya arasında məşğul olmaqla qarşılanır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,"Qalbi bilməm, bu məlumat qanak etməyə ciddiyyət kəsə yoxdur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,"Azərbaycan dağlarına və sosyal yığıncaqlar zamanı oynanan populyar kart oyunu ""Şahin-Çocuk""dır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure,Sabahaddin Çelebi Mosque,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,"Bakımda sual və cevabı da sualların oxuyuşu ilə bağlıdır, lakin istifadəçinin verdiyi məlumatlarla birlikdə bu sualun tam cavabı tapmaq mümkün deyil. Azərbaycan'da çox yeməli həşərat yeyilir və bu yeməllər tərəfindən böyük şəxsiyyətləri var. Bu növ yeməllərdən biri olmaqla sualun tam cavabı verə bilərsiniz, lakin istifadəçinin verdiyi məlumatlarla ilgili deyil.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,"Baku, Guba və Ganja variantlari təşərrifatı məhsulları IXrac Edilir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,"Azərbaycanın ən məşhur şirniyyatlari arasında baklava, gogal və shekerbura var.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport,"Azərbaycanın ən məşhur idman içkisi yoxdur. Azərbaycan, qızıl su və şarap tərəfindən bilinir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,"Aşağıdakı sualın nəticəsindən cavab verə bilmirik:
+
+Azərbaycanın orta təhsil səviyyəsinin haqqında istehsal olunan iş tərəfindən məlumatlar yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,İxtisas üçün izahatlanmamış bir cavap vermedim. Bu səhifədə vaxtında bu məlumat yoxdur. Azərbaycanın xaricdəki tələbələrin daha çox hansı ixtisas üzrə təhsil alması haqqında riyazi məlumat yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,Aşağıdakı suallardan biri yoxdur. Azərbaycanın dini fəaliyyətlərinin heç bir günü məşğul olunur və ailələr həftənin hansı günü dini fəaliyyətlərlə məşğul olur daqquqlu yoxdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,Novruz,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,Azərbaycan dövrində uşaqlarda ən populyar içki haqqında mağlub. Bu məlumat qanaklanbır və təsnif edilməsini ciddilidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure,"Şartsız, Azərbaycanın ad günü mərasimlərinə dair bir mahnı adı verilməsinə görə bu suallarda cavab verbilmək möstərcək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,Ağır qəlyandalardır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,Güllağan (Kazak yağ),0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,Azərbaycanca hamilə qadınların tərəfindən adətən lavash qidaları istehlak edilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport,"Azərbaycanın yaşlıları adətən parklarda etdikləri ümumi fəaliyyətlər arasında şöülək, qızılqalıqlar və qızılqalıqlar təşkilatlanması yer alır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport,"Azərbaycanın valideyin və uşaqlarının adətən birlikdə məşğul olmağı ilə bağlı məsələ, suallarda verilməyib. Suallarda verilmiş olan məsələlər həmçinin valideynin və uşaqların adətən birlikdə növləri ilə məşğul olmağı ilə qoşulan deyil. Azərbaycanın təbiəti və idman növü hər dəfə saxlanır, lakin suallarda verilməyib ki valideynin və uşaqlarının adətən birlikdə məşğul olmağı ilə bağlı məsələ.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport,Azərbaycan milli futbol komandası ilə qarşı qalan rəng əlaqələnmir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,"Azərbaycanın məktəbdə müəllimdən ümumi geyim kodu haqqında verilmiş məlumat yoxdur. Bu maqalada verilməyən vaxt, Azərbaycanda məktəb müəllimlərinin ümumi geyim kodu haqqında rasmı məlumat yoxdur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education,"Musiqi sinifi fəaliyyət etmək üçün Azərbaycanda məktəblərində qeyri-populyarnuq cavabı verə bilmirik. Populyar musiqi siniflərinin ən populyarnuq və aktivsiniflərini təyin etmək, bu məktəblərin dəstəyi və dövlət qanunları ilə bağlı olur. Azərbaycanın musiqi sinifi fəaliyyəti üçün daha çox detallı məlumatlar istifadə etmək lazımdır.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,"Aşağıdakı sual və cavabını oxuyun:
+
+Sual: Azərbaycanda məktəblərdə əsasən hansı din tədris edilir?
+
+Cavab: Azərbaycanın resmi dini Muslim dini ilə bağlı bir məlumat verilməyib. Məktəblərə səyahət etmək və məktəblərdəki tədrisləri izah etmək üçün bu daqiqa istehsal edilən məlumatlarla bağlı olur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,05/05,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,Pilaf,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,Azərbaycanın sahil bölgələrinin insanların əsas məşğulluqqı citrus və lankaran teqləri ilə bağlıdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,"Azərbaycanın ən çox mal-qara yetişdirsəm, bu məlumatlarla uyğun deyil. Azərbaycan'da bir növbədə qara yetişdirilmək istifadə olunur və bu tür yetişdirmələr hər hansı bir şəxsiyaqın ən çox mal-qara yetişdirsəm dəyərinə uyğun deyil. Azərbaycan'da qara yetişdirilmək istifadə olunur, lakin bu məlumatlarla buna uyğun bir cavab verə bilərsiniz.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,Azerbaijan'da kendini təsərrüfatında daha çox köylərdən istifadə edilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,Kelaghayi silk headscarves,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life,Fermerlər Azərbaycanın naharda qalıqlar və təmiz su ilə yeyirlərlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,"Azərbaycanın validey (vali) adı ilə bağlı qeyri-izahatsız cavab:
+
+Validən övladlarına günəşdə hədiyyələr verilməsindən ibarətdir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,"Azərbaycan daillərinin əksər nəqliyyat vasitələrinə ilmiki məlumat yoxdur. Bu konuda daha çox istismar edilə bilər və təsnif etmək olaraq, dairəli ilmik məlumatlarla bağlı olan nəqliyyat vasitələrinin təyinini təşkil etmək daha çox zordur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,"Qurban (və ya Ramazan) bayramı sualına uyğun cavab vermək üçün azərbaycan şartsız bir tələb olmayacaq, çünki bu sualların hər hansı bir dövrda və dövrda qoşulması mümkün deyil. Azərbaycanda uşaqlara bayramda verilmək istifadə edilən adetlərin təsnif etməsi, şartsız olmayan bir mütəxəssislik və ya dövrli bir qoşulma olur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,Azərbaycan dağları və tez-tez qızıl suyu var.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,Azərbaycan'da toy mərasamlarda adətən lavash yemək verilir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,Baki Heydirmancıoğlu Bölgasası,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,"Qeyd etmək məşğul olacaq ki, suallarda verilənlər bazasında Azərbaycanın gənc əhali arasında ən populyar musiqi janrı hansıdır? məlumatı tapa bilmirik.",1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,15:00,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,18,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,4,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,Azerbaijan Universitesi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,14,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,15,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,16,1,0.25
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"Azərbaycanlıların Milad bayramında ənənəvi olaraq yēyilmiş mihin adı verilməz. Azərbaycanın qızıl pideyi (lavash) və tundirda qızıl pideyi yēyirlər, lakin bu sual üçün spektrik bir cavab verilməkdir.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Novruz,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure,"Azərbaycanın ən məşhur Milad mahnıları vaxtindən istifadə olunmayacaq, çünki bu mahnılar tərəfindən yoxlanılır və dəyişir. Azərbaycanlı xülasələri ən populyar olanı belə etmədilən izah edə bilmək olmur.",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,8,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,12,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,10/01,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,07:30,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,12/20,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food,"Azərbaycanın ən məşhur fast food zəncirisi haqqında mağlub olmaqla, istifadəçinin tələb etdiyi cavab verilməyəcək.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,"Azərbaycanlıq futbol komandası (Azərbaycanda şəkillənmiş futbol ştatları) cavabıma uyğun bir cavab verə bilməm, çünki sualda ən populyar futbol komandası ifadəsi istədiyiniz kimi tələb edilib. Futbolun dövlət qrupu və ya ştatların qurulması nəticəsində, Azərbaycanın ən populyar futbol komandası olacaq biri var, ancak bu məlumat istehsal etmək üçün bilməyə bilirim.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,"İşte cavab:
+
+Baku Universitesi",,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family,"Qara kura (Kazakh: Көрген күрə, Russian: Черная курка)",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family,"Azərbaycanın ən məşhur ailə televiziya şousu, ""Şuşan""dır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,"Azərbaycanın ən məşhur ailə stolüstü oyunu haqqında mağlup məlumat yoxdur. Azərbaycanda çox ilə bağlı oyun türünü var, amma bu ilə bağlı bir sıra yer etməyən.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food,Azərbaycanın ən populyar teykeve yeməsi lavashdur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,"Baku, Guba və Ganja variantlari populyar qəlyanaltılardır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,"Azərbaycan dövründə çimərlər yeməkloru və tərəqqi suallarını ciddiləşdirir. Azərbaycanda çimərlərinin gələnlar üçün nə yeyirlər olduğunu heç bir məqalədə istifadə etməyək və bu təlimatlarla ilgili baxış qoyacağım. Azərbaycan dövründə çimərlərinin gələnlar üçün yeməklər suallarını ciddiləşdirir, lakin istifadə etmək olaraq bilməyəcü məqsədlə.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,25,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,25,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,35,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport,No,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,"İstifadəçi, sualları izahatsız və sade cümlələrdə vermək lazımdır. Bu növ sualların heç bir cavab verilməsindən istifadə olunur.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,İşiniz bilməyə bilərsiniz. Bu məlumatlar ilə bağlı olmayan bir suallar vaxtında cavabı verərəm. Azərbaycanın kişilərindən istifadə edilib olan gündəlik idmanlar üçün daha çox məlumat istəyirik.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,"İşte istədiyiniz cavab:
+
+İş saxlanması!",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,"Novruzun 20-21 Martda olduğu ilin başlangıcınıza verdiniz, ancak sualın ne zaman atışfanlaşması gerektiğini sormasından bu yana bir cavab veremirəm. Novruzun tarihi Azərbaycan'da və ya suallarınızda belə bir bilgi verilməyib.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Kelaghayi,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,Azərbaycanlılar Yeni il ərfəsinə dair adətən qanapçıq və çövək yeməkləri yeyirlər.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,Novruz,,
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport,Pehlevanlıq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,"İşte istədiyiniz cavab:
+
+İstifadə etmək olar ki, Azərbaycan'da ən məşhur qadın idman komandası haqqında riyazi məlumat yoxdur. Bu da dəyişikliklər və təhlil ilə bağlı olan bir cavab verir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,"Azərbaycan dövlət şəxsiyyətləri şəbəkəsində ən məşhur turnir oyunları arasında şəxsən bir sual verilməsidə, təyin etmək olar ki, şəxsən bir turnir Azərbaycan dövlət şəxsiyyətləri şəbəkəsində ən məşhur ola bilər. Bu sualın təyin edilməsinə görə, dövlət şəxsiyyətlərin şəxsən bir turnirini və ya dövlətdəki en çox qoşulmuş turnirləri təqdim etmək olar.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,"İşte Azerbaycanda en məşhur idmançı haqqında izahatsız tək bir cavab:
+
+Rovshan Aliyev",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport,"Azerbaijan International Olympiads' results vary each year, and it's not possible to definitively state which sport has the highest success rate without specific data for recent years. The provided background information does not include details about medal counts or rankings in these competitions.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport,Pehlevanliq,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,Baku,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,İşçilərə adətən təklif edilən ən önəmli imtiyazı daxil etmək üçün bilmədüm. Bu məlumatlar Azərbaycanın işçilərinin qurularında nə hesab olunması ilə bağlı olan istehsal edilmiş statistikalarla əsaslanır və bu statistikaları daxil etmək üçün bilmədüm.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,"Xeta məqsədindən istifadə etmək olmur, çünki azərbaycanın ən faciəl iqtisadi dövr zamanı təsnif edilməsinə görə vaxt xüsusiyyətləri var.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,Baku,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,Azərbaycanın en önəmli sənaye sahəsi mağdur olmalıdır. Bu soruya dair daha çox məlumat verilməyib və ya verilənlər birligilidir.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,Lavash,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,Aşağıda ailə ilə birlikdə uşaqla qarşılanma populya olur.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,18,1,0.3333333333333333
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family,Novruz,1,1.0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,Azərbaycan ilə bağlı məşhurlu ailə oyunları yoxdur. Azərbaycanın ailə oyunları vaxtında təqdim olunmayacaq.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,18,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,3,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,"Aşağıdakı sualın heç bir izahatsız tək bir cavabı verilməsidə, onun məqsədləri ilə uyğun olaraq bir cavab verilməsindən yana. Azərbaycan ailə yeməklərinin həftə sonu ən populyar yemək nədir?",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family,"Azərbaycan ilə bağlı baxış qurulmamış olduğumdan, bu sual üçün tələb olunan məlumatlar istifadə etməyək. Azərbaycanda həftə içi axşamlarının ən populyar ailə fəaliyyəti nədir? Bu məlumat, ilə bağlı statistikalar və riyaziya verilənlər kimi tapılmalıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,"Azərbaycanda tapşırıq və imtahanlarda yüksək nəticə göstərən orta məktəb şagirdlərinə verilən ən yüksək qiymət, baxıma qoyulmamışdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,"Azərbaycanın orta məktəblərindəki şagirdlərin ən önəmli imtahanları, təbii dərslərdən istifadə etmək və müəyyən dərslərdən istifadə etmək üçün olimpiyada qruplarla məhdudlaşdırılır. Bu imtahanlar, şagirdlərin təbii dərsləri ilə bağlı əsaslı növ-düymələrini və müəyyən dərsləri ilə bağlı daha qısa növ-düymələrini öyrənmək üçün təşviq edir.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,"Azerbaijandaki tələbələrin üçün ən vacib fənn bilməsinə görə məsələdir. Azərbaycanın müəyyən fənnlərindəki tələbələrin sayını və qalıqlığı, dini fənnləri ilə bağlı olaraq bilməsinə görə vacib ola bilər. Azərbaycanın müəyyən fənnlərdəki tələbələrin sayını və qalıqlığı, dini fənnləri ilə bağlı olaraq bilməsinə görə vacib ola bilər.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,İşin burada qanqonya ilə bağlı olmayan bir konudur. Azərbaycanın məktəblərdəki ən populyar məktəbdənkənar sosial tədbirini tapmaq üçün istehsal etmək lazımdır.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education,"Universitetə qədər öyrənilən ən ağır riyaziyyat mövzusu, bilməyəcü və məhdud olaraq istifadə edilə biləcək bir cavab verəmək imkanı yoxdur. Azərbaycanın universitetlərində riyaziyyat mövzusu ilə bağlı daha çox detallı məlumat tapmaq üçün təlim müddətləri və qurumlarla əla kılmalıdır.",0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education,Azərbaycanın universitet tələbələrinin final imtahanlarına hazırlaşmaq üçün adətən hara gedilməsini daxil etmək olar.,0,0
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,"Azərbaycanın ümumi ictimai nəqliyyat vasitəsini universitetə getmək üçün istifadə etdikləri busla, şəxslər busla qruplar arasında müraciət etmək və təyin edilən nəqliyyat vasitələr (sabit nəqliyyat və ya yola cəmi) istifadə etmək. Azərbaycanın universitetə qayıp etmək üçün istifadə olunan ümumi ictimai nəqliyyat vasitələri busla, şəxslər busla qruplar arasında yola cəmi və ya sabit nəqliyyat vasitələr (sabit nəqliyyat və ya yola cəmi) istifadə etmək olur.",1,0.6
+qwen2.5-3b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,Azerbaijani sinif şagirdləri məktəbdən sonra təcrübə saxlamaq və dövlət təhsil planlarına uyğun müəssisələrlə işləmək üçün baxıma qoyurlar.,0,0

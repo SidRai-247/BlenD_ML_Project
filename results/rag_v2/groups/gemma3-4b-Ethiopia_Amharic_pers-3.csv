@@ -1,0 +1,579 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-01,Food,"In Ethiopia, you’ll most commonly find people enjoying injera with shiro or misir wat – a flavorful chickpea stew or lentil dish – for their everyday meals.",1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-02,Food,በኢትዮጵያ ቢራ ጋር ብዙውን ጊዜ የ肉 አይነት ምግብ ይነድፋል፣特别是 ቲብስ (የ牛 ወይም የ양 ጋር የተጋገጠው)፣ ಕಿಟ್‌ፎ (የ牛肉 የተጋገጠው እና አረሞ የተደረገው) እና ተሬ ሲጋ (አረሞ የተደረገ አረንጓዴው የ肉)። በተጨማሪም ኮሎ (የአተር፣ ምድራት እና ቀ Peanut ጋር የተጋገጠው) እና ଚिप्स እንዲሁ ተወዳጅ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-04,Food,በኢትዮጵያ ሙዝ፣ ብርቱካን፣ మాంసం፣ አቮካዶ እና ፓፓያ በጣም ታዋቂ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-06,Food,በጣም ብዙ አይነት ምግቦች አሉ፣ ግን ብዙውን ጊዜ በሽሮ፣ ሚስር ዌት፣ ወይም በየያኔቱ (የጾታዊ ምግብ) ጋር በኢንጀራ ይ吃ል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-08,Food,"በኢትዮጵያ በገባያ አዳራሽ ውስጥ በተለይ የሚበሉ ምግቦች አ menudo incluyen injera con shiro, misir wat, o beyaynetu. También son populares samusas y galletas.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-09,Food,በኢትዮጵያ የመዝናኛ ፓርክ ውስጥ ታዋቂ አሰራር ምግብ Kolo ነው። ሰዎች Kolo፣ ቡና እና ፒዛ ይ吃ቸው፣ እንዲሁም ቡና ይብጡ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-16,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-17,Education,በኢትዮጵያ በመጀመሪያ ደረጃ ትምህርት ቤቶች ከትምህርት በኋላ የሚካሄድ ዝነኛ ስፖርት ዓይነት እግር ኳስ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-18,Education,በኢትዮጵያ፣ የመጀመሪያ ደረጃ ተማሪዎች ብዙውን ጊዜ የግል አስተማሪዎችን (ትutor) ያዋጣሉ፣ እነዚህም ወደ ቤት ይምጣሉ። በተለይ ፈንታ፣ inglés እና አካባቢ ሳይንስ (physics) የሚ học ይ می‌کنند። ፈንታ እና inglés በጣም አስፈላጊ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-19,Education,በሁለተኛ ደረጃ ትምህርት ቤት ተማሪዎች ተመራጭ ሁለተኛ ቋንቋ ምንድነው የሚሆነው፡ በኢትዮጵያ፣ ተማሪዎች በሁለተኛ ደረጃ ትምህርት ቤት ውስጥ inglésን (እንግሊዝኛ) ተመራጭ ሁለተኛ ቋንቋቸው ማድረግ ይችላሉ። በተጨማሪም፣ ተማሪዎች በአካባቢቸው የሚነበሩ የአማርኛ፣ ኦሮምኛ፣ ትግርኛ፣ እና ሌሎችም regionales ቋን Speakingዎችንም መ学习 ይችላሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-21,Education,በኢትዮጵያ፣ ለብልህ ተማሪ ጠቃሚ ትምህርት የሚባለው የትምህርት አይነት በዋናነት ሒሳብ፣ inglés፣ እና አካላዊ ሳይንስ ነው። እነዚህም በዋናነት ለትምህርት ተፈላጊ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-32,Holidays/Celebration/Leisure,Doro wat with injera is the main dish for celebrations and special occasions in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-33,Holidays/Celebration/Leisure,人们在埃塞俄比亚庆祝新年时，会向亲友赠送礼物，通常是糖果和糕点。,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-34,Holidays/Celebration/Leisure,በኢትዮጵያ አዲስ አመት ቀን፣ Enkutatash፣ 11 सितंबर ላይ፣ ሰዎች የ tradicionales ነጭ ልብስ መልበስ፣ ልጃ chicas ወደ ቤት ወደ ቤት በመሄዳቸው “Abebayehosh” የሚዘጉት canción በመቀራት፣ niños dibujos የ Flowers እና የ Yellow Adey Abeba flower ይሰጣሉ፣ ቤተሰቦች Doro Wat ለማ准备 کردن አንድ Chicken ወይም Sheep ያግዛሉ እና Church የሚጎበኙት ያደርጋሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-35,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች ገና በአል ለማክበር ምን ያደርጋሉ?
+
+በኢትዮጵያ፣ ገና በአል ለማክበር ሰዎች በብዙ መንገዶች ይደሰማሉ። ለምሳሌ፣ በዓል ላይ ሁሉም ሰው ነጭ ቀለም ያለው ""ኔቴላ"" շልል ያ穿着፣ በ Church ውስጥ ሙሉ रात አገልግሎት ይቀնኛሉ፣ እንዲሁም niñosዎች ""ገና ጫት"" ጨዋታ ይ jueganሉ፣ እና ቤተሰቦች ""ዶሮ ዌት"" እና ""ኢንጀራ"" ይ吃ሉ፣ ይህም በዓሉን የበለጠ ልዩ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ ያ",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-36,Holidays/Celebration/Leisure,በሃሎዊን ወቅት፣ ኢትዮጵያውያን ብዙውን ጊዜ ከኪትፎ፣ ቴክስ እና ቲብስ (እንደ የበጋገጸ የ肉 ወይም የበጋገጸ የሻማ) ጋር ቡና ይ饮ታሉ፣ ይህም በየዓመቱ በየአካባቢው የሚሰሩ ልዩ የባህል ምግብ ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-37,Holidays/Celebration/Leisure,በገና በዓል ላይ፣ ኢትዮጵያውያን በቤተክ Churches ውስጥ የሰርቪስ በኋላ የዶሮ ወጥ (دሮ ወጥ) እና ኢንጀራ (እንጀራ) ይ吃 می‌کنند። በተጨማሪም ወ niñosዎች የገና መጀመሪያ (ገና መጀመሪያ) ጨዋታ ይ juegan می‌کنند።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-38,Holidays/Celebration/Leisure,"በቪልንቴይን ቀን ኢትዮጵያ ውስጥ ቀይ አበባዎች (red roses), చాኮሌቶች እና ቀይ ልብስ በማ穿着 ይከበራል።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-39,Holidays/Celebration/Leisure,በልደታቸው ቀን፣ ብዙውን ጊዜ ቡና እና корн ይበላሉ። በተጨማሪም፣ አንዳንድ ጊዜ они могут также есть хлеб и различные соусы.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-40,Holidays/Celebration/Leisure,"በኢትዮጵያ ቤተሰቦች ከታናሽ ልጆች ጋር ለመዝናናት ብዙውን ጊዜ ወደ ሀይማኖታዊ ቦታዎች፣ parques እና ሃያል ቦታዎች ይሄዳሉ። በተለይም በቡሽොፍቱ (ዴብረ ዘይት), ሃዋሳ, ባህር ዳር (ሌክ ታና) እና አርባ ሚንክ ያሉ ሀይማኖታዊ ቦታዎች እና ሃያል ቦታዎች ተወዳጅ ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Al-en-43,Holidays/Celebration/Leisure,በኢትዮጵያ ለቤተሰቦች የታወቀ ውስጥ ቤት እንክብካቤ ብዙውን ጊዜ ቡና ማ准备፣ ምግብ መ Consumption እና ቲቪ ማ viendo ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-02,Education,"University students eat in the university cafeteria, which is part of the cost-sharing system.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-03,Education,"6
+",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-08,Education,5.5,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-09,Education,ሁለት ቋን Speaking።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-34,Sport,በኢትዮጵያ በትምህርት ቤት በቡድን የሚጫወቱ እጅግ ታዋቂ ስፖርት እግር ኳስ ( fútbol) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-35,Sport,በኢትዮጵያ ታዋቂ የስፖርት አስተያየት ሰጪ የሆኑት አሉ። ነገር ግን፣ እግር ኳስ ደጋፊዎች እና የEnglish Premier League ተከታዮችም በብዙ ናቸው። ከእነርሱም መካከል፣ የSaint George ክለብን ደጋፊዎች እና የEnglish Premier League ተከታዮች በጣም ታዋቂ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-36,Sport,Saint George (Kidus Giorgis) በጣም ታዋቂ ስፖርት ቡድናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,An-ar-43,Sport,"በኢትዮጵያ ሰዎች በተለይ ስፖርት ዝግጅቶችን ተሰባስበው ለመመልከት ብዙውን ጊዜ በካፌዎች፣ ባሮች ወይም ትንሽ የ televisión ማእከል (ብዙ veces ""ፎት‌ቦል ሃውስ"" የሚል ስሜት አላቸው) ይሄው ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-05,Food,በኢትዮጵያ ሰዎች በተለይነት በአንድ ቀን ሦስት ጊዜ ይመገባሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-06,Food,"Injera is absolutely indispensable in almost every Ethiopian meal. It’s the main staple, used as both the plate and the spoon – truly the heart of our food!",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-08,Food,በኢትዮጵያ የምግብ አሰራር ላይ በተለይ የተለመዱ ንጥረ ነግር በዋናነት тефф፣ በርበሬ፣ Onion፣ Garlic እና Niter Kibbeh ናቸው። እነዚህ ንጥረ ነገሮች ኢትዮጵያዊ ምግብን ልዩ ያக்குகின்றன።,1,0.25
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-09,Food,"After a meal, Ethiopians traditionally enjoy a cup of coffee, often accompanied by fresh fruit.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-11,Food,እርሶ በቤተሰብ ምግብ ለማዘጋጀት ብዙውን ጊዜ ቅዳሜ ቀን ነው። በቤተሰብ መካከል በሳምንቱ በሙሉ ምግብ ለማዘጋጀት ቅዳሜ ቀን በጣም ተወዳጅ ቀን ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-14,Food,"በኢትዮጵያ በጣም ተወዳጅ ትኩስ መጠጥ ቡና (buna, ቡና) ነው። ቡና በኢትዮጵያ በዓለም አቀፍ ደረጃ ታዋቂest ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,ሌሊት ክለብ ሲሄዱ ወጣቶች ብዙውን ጊዜ ኮካ ኮላ፣ ፔፕሲ ወይም ሚርিনዳ ያሉ ኮካ ኮላ እና ፔፕሲን ይጠጣሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች በተለይ በጃንವರಿ ወር በአላት ይበዛሉ። (1),0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,በኢትዮጵያ አዲስ አመት ዋዜማ፣ Enkutatash፣ በካቲ mediados 11 ቀን ነው የሚ Observed የሚው። በዚህ ወቅት ሰዎች ባህላዊ ነጭ ልብስ መልበስ፣ ልጃ chicas ወደ ቤት ወደ ቤት በመሄዳቸው “Abebayehosh” የሚባለውን ዘፈን በማቅuliar እና ገንዘብ ወይም хлеብ በመ获取 کردن፣ ልጆች አበባ dibujos animados በመስራት እና የ黄色的 Adey Abeba አበባ ምልክት ነው። ቤተሰቦች ደግሞ Doro Wat ለማ准备 کردن እና ቤተክርስቲያን የሚጎበኙ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-38,Family,"በኢትዮጵያ ቤተሰብ የሚኖሩ ሰዎች ብዙውን ጊዜ በኮንዶሚኒየም apartamentos ወይም గిబి గృహాలలో ይኖራሉ. እነዚህም ግቢዎች detrás de un muro alrededor están, lo que significa que cada familia tiene su propio espacio privado. También es común ver familias viviendo en casas tradicionales de paja llamadas tukuls, especialmente en las zonas rurales.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-41,Family,በኢትዮጵያ አረጋዊያን ብዙውን ጊዜ ከ своих ልጆች እና ቤተሰብ ጋር ይኖራሉ፤ አိပ် ቤት (ንርስ ፎርም) በስተቀር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-42,Family,120,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-43,Family,3,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ca-sp-45,Family,በኢትዮጵያ ለቤተሰብ ሽርሽር በተመረጡት መድረኮች ውስጥ የታወቀ ዓይነት መድረክ ደብረ ዘይት፣ ኩሪፉቱ ሆቴል፣ ሃዋሳ እና ባህር ዳር ያሉ በሐውልቶች የሚገኝ መድረኮች ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-05,Sport,በኢትዮጵያ፣ እግር ኳስ ( fútbol) በጣም ይዎላል። ብዙ ሰዎች ይጫወታሉ፣ ይስራሉ። እንዲሁም በ escuelas ውስጥ እና በдомаiones ውስጥም ይጫወታሉ። ብዙ ሰዎችም በዓለምભዋ情况下 የሚጫወቱ ቡድኖችን ይከታ thụሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-06,Sport,"ወንዶች በኢትዮጵያ በተለያዩ deportes ይደሰታሉ፣ ነገር ግን እግር ኳስ ( fútbol) በጣም ተወዳጅ ስፖርት ነው። ብዙ ወንዶች እግር ኳስ ይጫወታሉ፣ እንዲሁም inglés ምርጫን ( particularmente Arsenal, Manchester United and Chelsea) በጣም любят። በተጨማሪም እግር ኳስ በ escuelas ውስጥ በጣም ተወዳጅ ስፖርት ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-07,Sport,Mengistu Worku ናቸው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-08,Sport,በኢትዮጵያ ልጆች መካከል እጅግ ታዋቂ የሆነ ስፖርት እግር ኳስ ( fútbol) ነው። ብዙዎቹ ልጆችም እግር ኳስ ይጫወታሉ፣ እንዲሁም inglés ምርት ሉ በጣም ይከታ thụሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-09,Sport,"Ethiopian women are predominantly involved in running/athletics, volleyball, and aerobics or gym exercise. Many women also enjoy watching athletics and football.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-11,Sport,"Ethiopia has achieved incredible success internationally through athletics, particularly long-distance running. The nation’s Olympic gold medals have overwhelmingly been won in events like the 10,000m, 5,000m, and marathon.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-15,Sport,በዩኒቨርስቲ ውስጥ ወንድ ተማሪዎች በተረኛም የሚወዱት ስፖርት እግር ኳስ ( fútbol) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-16,Family,በአማካይ፣ በአንድ ቤተሰብ 5 ሰዎች ይኖራሉ፡፡,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-18,Family,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-31,Education,አስር። (10),0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-32,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-33,Education,በኢትዮጵያ ተማሪዎች ሁለተኛውን ቋንቋ ከ12ኛው ዓመት ጀምሮ ማስተማር ይጀምራሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-38,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-40,Education,09:00,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Gu-ch-41,Education,"በኢትዮጵያ የመጀመሪያ ደረጃ ተማሪዎች በተለይ ዘፈን እና የ escuela መዋቅያት ቡድኖች (bands) ውስጥ ይሳተствуют። ብዙውን ጊዜ የሙዚቃ መሳሪያዎችን በ школе aprendizaje ውስጥ አይማሩም። ይሁን እንጂ የ ባህላዊ መሳሪያዎች፣ እንደ ክራር (krar), ማሰንቆ (masenqo), ዋሽንት (wahsint) እናኬበሮ (kebero) ይጫወታሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-02,Work life,በኢትዮጵያ ሰዎች በሳምንቱ ብዙውን ጊዜ viernes እና Saturday ለድርጅት እራት ምግብ መብላትን ይመርጣሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-03,Work life,አዲስ አበባ ኢትዮጵያዊው ነው፣ ምክንያቱም ኢትዮጵያዊው ዋና የፋይናንስ እና የንግድ ማዕከል ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-07,Work life,Ethiopian Airlines is undoubtedly the most famous private company in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-08,Work life,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-09,Work life,በድርጅት ስብሰባ ጊዜ፣ ብዙውን ጊዜ በቡሽት፣ ምግብ እና መጠጥ ይበላሉ። ብዙውን ጊዜ በኢንጀራ፣ በረሮ (raw meat) እና ቲብስ (tibs) ይበላሉ፣ ይህም በቡሽት acompañada ይነሳል። በተጨማሪም ቡሽት ጋር ቡና ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-14,Work life,ትክክለኛውን ጥያቄ ለመመለስ፣ የኢትዮጵያ ወኪል የጭነት ንግድ ምርት በዋና ደረጃ ቡና ነው። ቡና ኢትዮጵያዊው ምርጥ экспорт ነው፣ እና በዓለም አቀፉ ገበያ ውስጥ ትልቅ ቦታ ይዟል።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-15,Work life,2.  30,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-16,Family,"ከወሊድ በኋላ እናቶችን በቂረፍ ይፈፀማሉ፣ ብዙውን ጊዜ እናታቸውም ይሳተፉታል። ከዚያም они получают genfo и atmit, традиционные продукты, которые помогают им восстановиться после родов.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-19,Family,The yellow Adey Abeba flower is the symbol for Valentine’s Day.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-22,Family,"በኢትዮጵያ ሰዎች በተለይ የመጀመሪያ ደመወዛቸውን በልጆቻቸው እና አያያቸው ላይ ያውላሉ። 
+
+It's customary for Ethiopians, particularly when receiving their first salary, to spend a significant portion on gifts for their parents and grandparents. Specifically, clothing for the mother is a very important gift.",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-24,Family,በኢትዮጵያ ልጆች በሚወዷቸው የመዝናኛ ተቋማት መካከል እጅግ የተመረጠው የመዝናኛ ተቋም እግር ኳስ ነው። ብዙዎቹ jóvenes ወንዶች እና niños እግር ኳስ ይጫወታሉ፣ እንዲሁም በዓለምભፊው እግር ኳስ ትግሎች፣特别是 inglés ምርጫ ትግሎች፣ በጣም ተቀባይነት አላቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-25,Family,በኢትዮጵያ ቤተሰብ በዓላት ብዙ ናቸው። ዋና ዋናዎቹ Festive (ፋሲካ)፣ Christmas (ገኒ)፣ Meskel (መስቀል) እና Enkutatash (እነክታሻ) ናቸው። እነዚህ በዓላት ቤተሰቦች በአብል ይገናኛሉ፣ በተ特别是 Festive እና Meskel በዓላት በጣም ትልቅ reunión ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-26,Family,እኔ እንደ ኢትዮጵያዊ ሰው አዎ፣ ልጆች ከወላጆቻቸው እገዛ ይኖራሉ፣ ብዙውን ጊዜ እስከ አደባባህ ግርግር ድረስ። ብዙዎቹ jóvenes ሰዎች በነባር ትምህርት ቤት ተማሩ በኋላ በ trabajos ላይ ይነሳሉ። በተጨማሪም፣ አደባባህ ግርግር እና ፓትሪots Victory Day ያሉትን celebraciónዎች በሙሉ አገራዊ entusiasmo ጋር celebración ይደረጋሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-27,Family,በኢትዮጵያ አያቶችን ስትጎብኙ በተለመደ የምትሰጡት ስጦታ ብዙውን ጊዜ ቡና፣ azúcar፣ ፓስታ እና ልብስ ነው። በተጨማሪም፣ አያቶቻቸውን ለማሳደግ ልብስ፣ particularmente ለእናታቸው ልብስ መስጠት ትልቅ честь ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-28,Family,"በኢትዮጵያ ልጅ የመጀመሪያውን cumpleaños ሲከበሩት፣ በከተማዎቿ ውስጥ የሚ celebrado cumpleaños celebración ነው። ብዙውን ጊዜ የመጀመሪያ cumpleaños celebración ነው። niños को कपड़े, खिलौনা या पैसे जैसे उपहार मिलते हैं।",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-29,Family,The first birthday is most celebrated in Ethiopian households.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-31,Education,በኢትዮጵያ የአንደኛ እና ሁለተኛ ደረጃ ተማሪዎች ለፈተናዎች በተለይ በ escuelas፣ በአከመ አውራጃዎች ቤተክ书ዎች እና በህዝብ ቤተክ书ዎች ይ họcባቸዋል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-33,Education,በእርግጥ፣ በሁለተኛ ደረጃ ትምህርት ቤት ተማሪዎች ከእራት በኋላ ብዙውን ጊዜ ወደ ቤታቸው ይመለሳታል። ከዚያም ወደ ተግባራቸው ይለወዳታል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-34,Education,በጣም ብዙዎቹ የመጀመሪያ ደረጃ ተማሪዎች በእጃቸው ይሄዳሉ። ብዙም አይደሉም በብስጭት ተሽከርካሪዎች ይወሰዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-35,Education,"በኢትዮጵያ ውስጥ በጣም የተለመደው የግል ትምህርት ምንድነው?
+
+በቤት ውስጥ የሚሰሩ አስተማሪዎች ናቸው። ብዙውን ጊዜ አስተማሪዎች ወደ ተማሪዎቹ ቤት ይመጣሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-36,Education,"በኢትዮጵያ፣ ከፍተኛ ትምህርት የሚሰጣው ትምህርት በዋናነት matemática (ሂሳብ), እንግሊዝኛ, እና አካባсты (physics) ናቸው። እነዚህም ለተማሪዎች በጣም አስፈላጊ ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-37,Education,በአንደኛ እና ሁለተኛ ደረጃ ትምህርት ቤቶች ውስጥ ያሉ ተማሪዎች ብዙውን ጊዜ ቀላል አልባሳት ይለብሳሉ፣ እያንዳንዱ escuela የሚኖረው ቀለምን መሰረት በማድረግ። ብዙውን ጊዜ обычные zapatos ወይም sneakers ይለብሳሉ፣ እና አስተማሪዎች በமுறையான ልብስ ይ vestir ይሆናል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-38,Education,በኢትዮጵያ ለመግባት በጣም ከባድ የሆነው የትምህርት ዘርፍ ዶክተሮች እና ምህንድስና ነው፣ ምክንያቱም እነዚህ በጣም ተፎካካሪ እና በ empleo ውስጥ በጣም ተፈላጊ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-39,Education,"በመጀመሪያ ደረጃ ትምህርት ቤት ውስጥ፣ በተለይ፣ የሙዚቃ መሣሪያዎች Singing እና School Bands ናቸው። በተጨማሪም የ tradicionales መሣሪያዎች Krar, Masenqo, Washint እና Kebero ናቸው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-40,Education,በእረፍት ጊዜ ተማሪዎች ይጫወታሉ፣ ይነጋገራሉ፣ እና ምሽራሽ ይ吃ሉታል። በተለይም እግር ኳስ ይጫወታሉ፣ ይህም በጣም ተወዳጅ deporte ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-41,Education,አዎ፣ በኢትዮጵያ በትምህርት ቤቶች ውስጥ ተማሪዎች አይነት ጫማ ይለብሳሉ፡፡ በተለይም በ초등학교 ደረጃ ያሉ ተማሪዎች ብዙውን ጊዜ አይነት ጫማ ይለበሱታል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-42,Education,"በኢትዮጵያ ዩኒቨርስቲ መግቢያ ፈተና የሚሰጥባቸው የትምህርት አይነቶች አሁን ላይ Mathematics, English, and aptitude ናቸው። በተጨማሪም፣ የCivics and Moral Education, General Psychology, Anthropology, Geography of Ethiopia and the Horn, History of Ethiopia and the Horn, Physical Fitness and Entrepreneurship ያሉ አጠቃላይ ኮርሶች ይነገሩታል።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-44,Education,አድિસ્አበባ ነው። አድિસ્አበባ ኢትዮጵያዊቷ ትምህርትና የባህል ማዕከል ነው። ብዙ ት Universities እና ከፍተኛ ትutoringschools ይገኛሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ji-ko-45,Education,በኢትዮጵያ በዩኒቨርስቲዎች የሚካሄዱ ፌስቲቫሎች በነዚህ ነገሮች ላይ የተመሰረሰ ናቸው: ትልቅ የእሳት መብራት (Demera) እና የ黄 Meskel አበባዎች (Adey Abeba)። እነዚህም በMeskel ፌስቲቫል ወቅት በዩኒቨርስቲዎች የሚካሄዱ ዋና ዋና ዝግጅቶች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-01,Sport,"ሩጫ (athletics, especially long-distance running) is Ethiopia’s second most popular sport.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-02,Sport,በኢትዮጵያ ያልኳስ (ፍुट볼) በጣም ተወዳጅ ስፖርት ነው፤ በተለይም ወንዶችና ልጆች መካከል፣ እንዲሁም በ escuelas ውስጥ ይጫወቻል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-09,Sport,በኢትዮጵያ የተለያዩ ስፖርቶችን ይዘወተራለን። እግር ኳስ በጣም ታዋቂ ስፖርት ሲሆን በተለይም በ escuelas እና በባህላችንም ውስጥ ይጫወታል። በተጨማሪም፣ በቤት ውስጥ የሚጫወቱ ስፖርቶችም አሉ፤ እንደ ታኬዎንዶ፣ ካራቴ፣ baloncesto፣ቮሊቦል እና ቢልያርድ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-13,Sport,በኢትዮጵያ እጅግ ታዋቂው ውሃ ስፖርት እግር ኳስ ( fútbol) ነው። በ escuelas ውስጥ እና በባህላዊ እንቅስቃሴዎችም በበፊቴ ይጫወቻል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-14,Sport,በኢትዮጵያ እግር ኳስ ( fútbol) በጣም ታዋቂ deporte ነው። ብዙ ሰዎች ይጫወታሉ፣ ይስራሉ። እንዲሁም በ escuelas ውስጥ እና በдома también ይጫወታል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-18,Work life,አንድ መደበኛ ሠራተኛ በአመት 16 ቀን በአል ያገኛል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-19,Work life,በኢትዮጵያ ከግብርና ጋር በተለምዶ የተያያዘው ክልል የካፋ ነው። የካፋ ክልል በዓለም አቀፉ ደረጃ ለኮፌ ምርት ዝቅተኛ የሆነው ክልል ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-21,Work life,17:30 (5:30 PM).,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-31,Education,15:30-16:00።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-32,Education,"በመጀመሪያ ደረጃ ትምህርት ቤቶች ውስጥ በኢትዮጵያ niñosዎች በ menudo deporte ይሠራል: Fútbol (soccer) በጣም ተወዳጅ ነው, ብዙውን ጊዜ በመፈጠር, በኋላ እና በPE ውስጥ ይጫወታል። በተጨማሪም chạy (athletics), volleyball እና baloncesto común ናቸው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-36,Education,എಂಟು ሳምንታት። (8),1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-37,Education,7,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-39,Education,7,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jo-sp-43,Education,3,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-01,Food,"When it comes to eating, Ethiopians primarily use their right hand to tear and pick up injera – a spongy flatbread – from a shared platter. We also use a mitad, a clay griddle, for baking injera and a jebena clay pot for our coffee. It’s a very communal and traditional way of enjoying a meal!",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-04,Food,በኢትዮጵያ ሰዎች ብዙውን ጊዜ ኮካ ኮላ፣ ፔፕሲ፣ ሚሪንዳ፣ ፋንታ እና ስፕራይት ያሉ ኮካ ኮላ መጠጦችን ይወዳሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-06,Food,በኢትዮጵያ በጣም የታወቁ ባህልያዊ መጠጦች Tej (ጠጅ) እና Tella (ጠላ) ናቸው። Tej በዋናነት በዘር Ceremonies እና በ Holidays ይዘጋጃል።,1,0.75
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-07,Food,በጣም ብዙ ሰዎች ምግብ ቤት ውስጥ በአካባቢው 2 ሰዓታት ያህል እራት ለመመገኘት ያሳልፉታል።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-09,Food,በбычно፣ የ bữa ጊዜያችን ከጧት 7:00 እስከ 8:00 утра ነው፣ ከቀጠሮ 12:30 እስከ 13:00 አካባቢ ለ점심 ምሽት እና ከ Evening 19:00 እስከ 20:00 አካባቢ ለ저녁 ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-12,Food,"Ethiopians love to eat shorba, which is a flavorful meat or bone broth. It’s a staple in our cuisine, especially during cooler weather, and is often enjoyed with injera and various wats – stews – for a truly satisfying meal.",1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-13,Food,"Ethiopians love a really diverse range of foods! You’ll often find us enjoying things like sambusa, chips, burgers, and pizza – especially among younger people. But our traditional favorites are definitely injera with wat, particularly doro wat (a spicy chicken stew), and various stews like shiro and misir wat. We also enjoy snacks like kolo, dabo kolo, and roasted corn. It’s a very flavorful and varied food scene!",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-15,Food,እርግጥ ነው፣ ኢትዮጵያውያን በሙሉ በላክቻቸው አቃቤ አረሞችን ይወዳሉ፣特别是 በላክቻቸው አቃቤ አረሞችን፣ እንደ ትና አረሞችን፣ አርባ ሚን አረሞችን እና ሃዋሳ አረሞችን። እነዚህ አረሞችን ብዙውን ጊዜ በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይነድላሉ እና በደንብ ይ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,The biggest international festival in Ethiopia is the Great Ethiopian Run!,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,"በጣም ብዙ ሰዎች በልંગዳማዊ ባስ (Selam Bus, Sky Bus) ይጓዛሉ፣ ይህም በጣም ተወዳጅ መንገድ ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,በኢትዮጵያ ውስጥ በጣም ታላቅ በዓል የሆነው Meskel ነው። Meskel በዓል በ enormes Demera የእሳት መቃብራዎች እና በሌሎች አረንጓዴ አበባዎች (Adey Abeba) ይከበር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-37,Sport,"በኢትዮጵያ ሴቶች ብዙውን ጊዜ chạy/athletics, والیபால் እና gimnas exercise ማየት ይወዳሉ። በተጨማሪም chạy እና እግር ኳስን በጣም ይደግፋሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-38,Sport,"ወንዶች በኢትዮጵያ በ entusiasmo ከፍተኛ ደረጃ እግር ኳስ ማየት любят, đặc biệt là Premier League của Anh, với các đội như Arsenal, Manchester United và Chelsea có lượng fan hâm mộ lớn.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,ዋናነት አድናቆት ሚያደርጉት የመዝናኛ እንቅስቃሴዎች አድናቆት ሚያደርጉት የካፌዎችን ቃላቶች፣ መ Buying  adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis adquis,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,ወንዶች በዋናነት የሚያደርጉት የመዝናኛ እንቅስቃሴዎች አጫጭር ጨዋታዎች፣ ቡድኖች ውስጥ መጫወት እና በካፌዎች reunión መውաղድ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-46,Work life,አስር ሰዓት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-48,Work life,በስራ ቀናት ላይ ሰዎች ብዙውን ጊዜ በሽሮ፣ ሚስር ዌት ወይም በየያኔቱ (የጾም ምናሌ) ጋር በኢንጀራ ይበላሉ። እነዚህ ምናሎች በስራ ቦታዎች በጣም ተወዳጅ እና በስፋት የሚገኝ ምግብ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-50,Work life,በመካከለኛው የጉዞ ጊዜው 30-60 ደቂቃዎች ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-51,Work life,"በኢትዮጵያ ሰዎች ለመስራት የሚወስዱት እጅግ ተደጋጋሚ መጓጓዣ እንደምን ነው?
+
+በጣም ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադિસ አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադિસ አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադિસ አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበበ ውስጥ። ብዙ ሰዎች በሞட்டார் vehículos ውስጥ ይጓዛሉ፣特别是 በադیس አበ",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-54,Work life,በኢትዮጵያ የጋብቻ የፍቃድ ጊዜ አብረውት መኖር የલapses የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው ጊዜ አብረውት መኖር የሚለው,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-56,Work life,በኢትዮጵያ ሴቶችና ወንዶች ambos 60 ዓመት ናቸው። ,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-57,Work life,በኢትዮጵያ ወንዶች ጡረታ የሚዎጡበት እድሜ 60 ዓመታት ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-58,Work life,አልችልም፣ በኢትዮጵያ አትሌቲክስ (ስፖርት) በጣም ጥሩ የከፈላን ሙያ ነው። በተ特别是 internacionales Races- ውስጥ የሚሸነፉ አትሌቶች ከፍተኛ ገንዘብ ያገኛሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-60,Work life,8:30 - 17:30,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-61,Work life,እንደ ኢትዮጵያዊ ሰው፣ በሙያ elección በተመለከተ፣ ምንም አይነት ሙያ ለሴት ልጃሚዶች በተሻለ አይገኝም። ይሁን እንጂ፣ በ sociedades nuestro ውስጥ አንዳንድ tendencias አሉ። ሴቶች ብዙውን ጊዜ በ hospitales ውስጥ ለ médicos እና ለ አ Nurses በመሰሉት ቦታዎች ይሰራሉ። በተጨማሪም በ ባንኮች፣ በ አviation (Ethiopian Airlines) እና በ telecoms ያሉ ቦታዎችም በጣም ጥሩ ናቸው። ይሁን እንጂ፣ በ educación ውስጥ docentes እና በንግድ ውስጥ ያሉ ሰዎችም ከፍተኛ respeto ያገኛሉ።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Jod-ch-62,Work life,"እንደ ኢትዮጵያዊ ሰው፣ በሙያ elección በተመለከተ፣ አንዳንድ ሙያዎች በሌሎች ላይ ይልቅ በወንዶች መካከል የበለጠ ተፈላጊ ናቸው። በተለይም መንግስታዊ እና የ银行 ሥራዎች በጣም ደንታ ናቸው። ደር Doctors በጣም ተ 존ባustible profesión ናቸው። በተጨማሪም ወንዶች ብዙውን ጊዜ ingeniería, medicina እና የንግድ ሥራን ይወቁ። ሆኖም ግን፣ በሙያ elección ላይ ምንም አይነት ሙያ በተሻለ አይመጣም።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-17,Education,በኢትዮጵያ ተማሪዎች በአማካኝ እስከ ከፍተኛ ትምህርት ይቀጥላሉ። በአካዴሚካльном ደረጃ፣ ተማሪዎች ብዙውን ጊዜ በ Universities እስከ 22-23 ዓመት ድረስ ትምህርት ይቀጥላሉ።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-24,Education,በኢትዮጵያ ትምህርት ቤቶች ከእንግሊዝኛ ቋንቋ በተጨማሪ አማርኛ እና የአካባቢኛ idiomas ይማራሉ፣ ለምሳሌ ኦሮምኛ፣ ትግሪኛ፣ እና ሌሎችም።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-30,Education,በኢትዮጵያ ትምህርት ቤቶች ቅዳሜ እና እሑዳ ቀን ይዘጋሉ፣ ምክንያቱም እነዚህ ቀኖች በኢትዮጵያ ኦርቶዶክስ አ Church Church የ religiosos ቀን ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-32,Food,"When welcoming guests in Ethiopia, families typically prepare a celebratory feast featuring doro wat with injera, raw meat (tere siga), kitfo, and tibs. It’s the most common festive meal, often accompanied by coffee, tej, or tella.",1,0.25
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-34,Food,በኢትዮጵያ ምግብ ጊዜ በጣም የተለመደው መጠጥ ቡና ነው፣ በተለይም “ቡና” የሚባል ባህላዊ ቡና። ይህ ቡና በሦስት ደረጃዎች (አቦል፣ tọaና፣ በረካ) ይዘጋጃል እና ለተመጡ invitados ይቀርባል። በተጨማሪም በ desayuno ጊዜ чай (ሻይ) እና ማኪያቶም ይረкомендуется።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-36,Food,"Yes, pizza and burgers are incredibly popular among young people in Ethiopia.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-39,Food,"When Ethiopians gather for family celebrations, especially around the dinner table, we typically prepare a wonderful spread!  The cornerstone is always *doro wat* – a spicy chicken stew served with *injera*, our spongy flatbread.  We’ll also have *kitfo*, finely chopped raw beef marinated in spiced butter and chili powder, and *tibbs*, which are stir-fried beef or lamb.  Of course, plenty of *injera* is essential to scoop up all the delicious flavors. It’s a truly special and joyful occasion.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-40,Food,በጣም ብዙ ሰዎች ኢትዮጵያዊው ዶሮ ወጥ (Doro Wat) የሚጠላ ምግብ ነው የሚል ስሜት አላቸው። በበርቤሬ (berbere) ቅመም እና በስፋት የሚዘጋጀው ይህ ምግብ በስሜት እና በአካባቢው ለብዙ людей በጣም አ强烈的 ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-43,Food,Dabo (ዳቦ) is the most famous name for bread in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-51,Work life,በኢትዮጵያ የመንግሥት ቢሮዎች ከሰዓት 17:30 (5:30 PM) በኋላ አይዘጋሉም።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ki-pe-53,Work life,08:30,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-01,Holidays/Celebration/Leisure,"Timket is celebrated over about three days (Ketera eve, Timket, and St. Michael’s day).",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-02,Holidays/Celebration/Leisure,በMenelik II Square በደረጃዎች እና በ Patriotic Songs በመ Celebrating አድዋ የ Victory Day ይከበራል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-04,Holidays/Celebration/Leisure,"በቤተሰብ አባል ሲሞት፣ በቤት ፊት አንድ “داس” (dass) የሚባል የሞራል கூட ይነሳል። ይህ ማለት የሞተው ሰው ላይ የሞራል ጸምታ ለማሳየት፣ የሞረcomers quienes vienen a expresar sus condolencias, se reúnen en este espacio para ofrecer apoyo y compañía.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"በኢትዮጵያ የእርግዝና በዓል ወይም ሥነ-ሥርዓት በбычно በ nacimiento después de la nacimiento de un bebé, una madre etíope tradicionalmente descansa durante aproximadamente 40 días, a menudo en la casa de su propia madre, y es alimentada con genfo y atmit.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-06,Holidays/Celebration/Leisure,በኢትዮጵያ ከሰርግ በፊት፣ አ Elderlyዎች (shimagile) ተክተው ወደ ሚልካቸው ሚስት ቤተሰብ ውስጥ በመግለማቸው ይነሳሉ። ከዚያም አገባብያ (telosh) ይሰጣሉ፣ ይህም ለሴት ልጃigable የ衣物 እና የወር joyas ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-07,Holidays/Celebration/Leisure,በኢትዮጵያ አዲስ አመት ልጆች የሚጋሩት ነገር፣ ልጆች dibujos ( dibujos) የሚል dibujos የሚል dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos dibujos,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-08,Holidays/Celebration/Leisure,በመጀመሪያው ረመዳን በፊት፣ ኢትዮጵያዊው ሙስልሞች ቤታቸውን ያ清 می‌کنند፣ ምግብ፣ በርበሬ እና Dates ያዛዛሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-10,Holidays/Celebration/Leisure,"በኢትዮጵያ ለውጪ ዜጎች በጣም ታዋቂው የመስበ ቦታዎች በዋና ጊዜ በሐዋሶቹ አካባቢዎች ናቸው። ለምሳሌ፣ ቢሾፍቱ (ደብረ ዘይት), ሃዋሳ፣ ባህር ዳር (ዠብረ ክርስቲ)፣ ላናጎ፣ ሶደሬ ሆቴል እና አርባ ሚን ናቸው። እነዚህም በሐዋሶቹ ውስጥ የሚገኝ ልዩ የሆነ የዝናብ እና የፀሐይ ብርሃን ተደራረሰባቸው ቦታዎች ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Lalibela and Axum (specifically the St Mary of Zion church) are the most famous religious sites in Ethiopia for tourism.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-15,Holidays/Celebration/Leisure,በመጨረሻው የውድድ ስነስርዓት ላይ፣ ሴቶች ነጭ የሃበሻ ኬሚስ (ባህላዊ ኢትዮጵያዊቷ ነጭ ልብስ) እና የኔቴላ շል ለ ይለብሳሉ። በተጨማሪም የ금 ወይም የብርን joyería እና የ头bands ይ Wearing می‌کنند።,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-16,Food,በሙቀት ሲቀዝቅዝ፣ በኢትዮጵያ ሰዎች ብዙውን ጊዜ ቀጭን ውሃ፣ ኮካ-ኮላ፣ ፔፕሲ፣ ሚሪንዳ፣ ፈንታ፣ አምቦ ውሃ ወይም ፍራሽ ጁስ ይጠጣሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-17,Food,"During Ramadan, you’ll primarily find dates, sambusa, soup, and fruit.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-24,Food,French fries (chips) or rice.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-31,Sport,ዶንጋ (Donga) ነው። በሱርማ ህዝብ መካከል የሚጫወታቸው የጦርነት አይነት የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  የሚባለው የ Struggles  ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-34,Sport,"በኢትዮጵያ ብሔራዊ ቴሌቪዥን ላይ በተደጋጋሚ የሚሰሩ ስፖርቶች በዋናነት እግር ኳስ ( fútbol) ናቸው። በተጨማሪም baloncesto, እግር ኳስ (table tennis), እንዲሁም የተለያዩ የጦርነት እንቅስቃሴዎች ይታወቃሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-35,Sport,"በCOVID-19 ጊዜ በኢትዮጵያ ሰዎች መካከል በጣም ታዋቂ ነበሩ የሚሆኑት deporteዎች የሆኑት የ Fútbol (Soccer), የቮሊቦል, የብስበልት (Billiards/Pool) እና የቴኬዎንዶ (Taekwondo) ናቸው። እነዚህም በ escuelas እና በአጫውኮች ውስጥ በተ Particularly በተነሳሽነት ተጫወተዋል።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-36,Sport,"Sewnet Bishaw is Ethiopia’s most famous football coach, as he led the national team back to the Africa Cup of Nations in 2013.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-37,Sport,Saint George እና Ethiopian Coffee ለባሕርይ መዋዕላቸው ለመሆን የታወቁ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-38,Sport,The most popular and successful football club in Ethiopia is called Saint George (Kidus Giorgis).,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-40,Sport,Abebe Bikila.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-41,Sport,Tirunesh Dibaba.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-44,Sport,በኢትዮጵያ፣ አ্যাথልቲክስ ስፖርት ከመንግስት ከፍተኛ ድጋፍ ያገኛል። በተጨማሪም፣ ከ internacionales Races የሚመጣ ሽልማት благодаря ለ አ্যাথልቲክስ ስፖርት ከፍተኛ ገቢ приносит።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Kik-in-45,Sport,በኢትዮጵያ የትምህርት ቤቶች ውስጥ በተለይ የሚገኙ የስፖርት መስኮች አሉ። ትምህርት ቤቶች ብዙውን ጊዜ የ축구 ሜዳዎች፣ቮሊቦል እና ബാસ્কেটબોል መድረኮች አሏቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-02,Food,"ቡና (buna, ቡና) ነው። ኢትዮጵያ በኮffe ስትሆን፣ ቡና እዚህ ሀገር ውስጥ በጣም ተወዳጅ መጠጥ ነው። በተለምዶ በነባር መታወቂያ እና በሦስት ደረጃዎች (አቦል፣ tonos፣ በረካ) ይቀርባል።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-04,Food,የሐንጋቨር ፈውስ ምግቦች በኢትዮጵያ በብዙ ዓይነት ስሞች ይታወቃሉ። ዋናው እና በጣም የተለመደው ምግቡ ደግሞ “ገንፎ” (genfo) ነው። ይህ ደግሞ በሰustible በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚሠራ በበጠር딱 ውሃ ውስጥ የሚ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-05,Food,"በኢትዮጵያ፣ በጣም ተወዳጅ ምግብ ለሚመጣው ቦታ የሚመጣው ምግብ “ፍፍሪር” (firfir/fitfit) ነው። ይህ በበርቤር (berbere) ቅመም ያዘለቀች በሰustible ወይም በግብስ የተደረገ ናብብ ነው። ብዙውን ጊዜ ከነምስ አትክልት እና ዶማሚ ጋር ይዘጋጀዋል።
+",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-07,Food,በኢትዮጵያ ሰዎች በዛት የሚበሉት የሥጋ አይነት፣ በብ肉፣ ላጋ እና ገጠር ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-08,Food,በኢትዮጵያ በመህር ወቅት ቀይማማና፣ ஆரንዲ፣ ታમેር፣ አቮካዶ እና ፓፓያ ይበልጫሉ፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-09,Food,"In Ethiopia, the most commonly served food at a meal is injera with wat.",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-11,Food,እርግጥ ነው፣ እግር ኳስ ሲመለከቱ፣ ኢትዮጵያውያን ብዙውን ጊዜ ቡና፣ ኮሎ፣ ምናሳ እና ፓውት ይበላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-15,Food,"በኢትዮጵያ የሚወክል ምግብ በብዙ አይነት രൂപ ይገኛል። በጣም comunes ናቸው genfo (ገንፎ) - ይህ ደጋ እና በርበሬ ጋር የተደረጉ ጥቅላማይት ነው። በተጨማሪም inera, kocho, awaze, tej እና borde በጣም ተወዳጅ ናቸው። እነዚህ ምግብዎች በየአይነቱ በየወቅቱ በየነባዩ ይዘጋሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-16,Sport,"Mengistu Worku is Ethiopia’s most famous footballer, particularly for his heroic performance at the 1962 Africa Cup of Nations.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-17,Sport,ወንድ ተማሪዎች በምሳ ሰዓት በሙሉ እግር ኳስ ይጫወታሉ፣ ይህም በጣም ተወዳጅ ስፖርቱ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-18,Sport,ሴቶች በኢትዮጵያ በተለይ chạy (athletics)፣ والیቦል እና аэроቢክስ (aerobics) ላይ ተባባሪዎች ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-19,Sport,Saint George (Kidus Giorgis) ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-20,Sport,በኢትዮጵያ ሰዎች በአለም አቀፍ ውድድሮች ላይ በታላቅ ቅንንት የሚደግፉት ስፖርት ክስተት በዘል ባለ አሯሯጭ (ሩጫ) ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-22,Sport,"እንግሊዝ! ኢትዮጵያኖች inglés प्रीमियर ሊግን (Arsenal, Manchester United, Chelsea) በጣም любят።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-23,Sport,በኢትዮጵያ ልጆች በብዛት እግር ኳስ ( fútbol) ይጫወታሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-24,Sport,"በኢትዮጵያ ስታዲዮሞች ላይ ጨዋታዎችን በመመልከት ብዙውን ጊዜ ቡናማ ስፖርታዊ atmósfera ውስጥ, ለምሳሌ, ኮፖን, ቆሎ (ሮስተድ ባርሌይ እና ምቹሃን), ሰምቡሳ (ለንቲል ወይም ሥጋ የተሞሉ ፓስቲዎች), እና ቡናማ ስፖርታዊ atmósfera ውስጥ ይበላሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-25,Sport,በኢትዮጵያ ትምህርት ቤቶች የስፖርት ቀን ላይ ተጫወቱ የሚሆኑ አይነቶች የስፖርት መድረኮች ዋናው የ Fútbol (Soccer) ነው። በተጨማሪም የቮሊቦል፣ baloncesto እና የአቴልስ ( chạy ) ይጫወታሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-26,Sport,በመካከለኛ ዕድሜ ላሉ ኢትዮጵያውያን፣ መንገድ ላይ በማራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽከርከር መራመድ እና በማሽ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-28,Sport,አበበ ቢክሌ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-29,Sport,"Abebe Bikila is arguably the most famous athlete from Ethiopia. He was the first African Olympic champion, winning the marathon barefoot at the 1960 Rome Games – a truly iconic achievement!",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-30,Sport,እግር ኳስ ( fútbol) በጣም ታዋቂ ነው፤ በተ特别是 inglés Premier League የሚጫወቱ ቡድኖች፣ እንደ አርሰናል፣ ማንችስተር யுናይትድ እናቼልሲ፣ በኢትዮጵያ ከፍተኛ ደጋፊዎች አሉት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-33,Holidays/Celebration/Leisure,በአዲስ አመት ላይ ኢትዮጵያውያን በሙሉ ዶሮ ወጥ ይበላሉ። በተጨማሪም በቤተክ Churches ውስጥ ይጸልይሉ እና በAlgunos случаях በገመል ወይም በገበያ ውስጥ ይዘማሉ።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-37,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች የሚመርጡት መኖሪያ የእረፍት ቦታዎች ብዙውን ጊዜ በሐዋሶችን አካባቢ ያሉ ቦታዎች ናቸው። በተለይም Bishoftu (Debre Zeit), Kuriftu Resort, Hawassa, Bahir Dar (Lake Tana), Lake Langano, እና Sodere Hot Springs በጣም ተወዳጅ ናቸው። እነዚህ ቦታዎች ለቤተሰብ vacaciones እና ለጋብቻ vacaciones ተስማሚ ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-38,Holidays/Celebration/Leisure,"በኢትዮጵያ፣ አቶታ በነ Entering marriage, the groom gives the bride gifts called “telosh,” which often include beautiful clothes and jewelry.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-39,Holidays/Celebration/Leisure,በሰርግ ወቅት እንደ በርካታ እጅ መንሻ የሚሰጣቸው ነገሮች፣ ለውጪ  invitados እንደ ልዩ ስጦታ ይቀርባሉ። ብዙውን ጊዜ፣ ለ invitados እንደ ልዩ ስጦታ ገንዘብ ወይም የቤት ውስጥ ዕቃዎች ይሰጣሉ እነዚህም የሰርግ ስነ ምግባር አካ phần ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-40,Holidays/Celebration/Leisure,40,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"When someone passes away in Ethiopia, you should prepare to offer your condolences with black clothing, food like injera, bread, and coffee or money. It’s a time for the community to support the grieving family, and your presence and generosity are deeply valued.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-42,Holidays/Celebration/Leisure,በሃዘን ቤት የሚመገቡት ምግብ አትክልት፣ እንቁላል፣ ቡና እና በ ocasiones የሚዘጋጁ ልዩ ምናቶች ናቸው። በተጨማሪም፣ ለሞቱ በگذረፉ 40ኛው ቀን የሚቀርቡት ልዩ ምናቶች አሉ፣ እነዚህም ብዙውን ጊዜ በሃዘን ቤት ይዘጋጁ ነበር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"በ(የጨረቃ) አዲስ አመት ማለዳ በኢትዮጵያ ሰዎች በደስታ celebración ያደርጋሉ! በዚያ ቀን ሁሉም ሰው ነጭ ልብስ መልበስ ይችላል፣ ልጃ chicas ልጆች ወደ ቤት ወደ ቤት ይሄዳሉ እና ""Abebayehosh"" ይዘራሉ እና ገንዘብ ወይም хлеብ ይቀበላሉ፣ ልጆች አበባ dibujos ይሰሩ እና የ黄色的 Adey Abeba አበባ ምልክት ነው። በተጨማሪም ቤተሰቦች በደስታ Doro Wat ለማ准备 እና ወደ Church ይሄዳሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-44,Holidays/Celebration/Leisure,በኢትዮጵያ viernes (ጃንವರಿ 1 ቀን) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Na-ko-45,Holidays/Celebration/Leisure,በኢትዮጵያ በጣም የታወቁ መድረክዎቻቸው የሆኑት የሐረር አጥቢያ ቤተክ Churches ናቸው። በተለይም ላሊበላ ቤተክ Churches በጣም ታዋቂ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,"Adwa Victory Day (2 March) is the most important national holiday in Ethiopia. It’s a hugely significant celebration commemorating Ethiopia’s victory over Italian forces in 1896, a pivotal moment in the country’s history and a symbol of national pride.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,በራማዳን ወቅት ኢትዮጵያውያን በ Dates፣ sambusa፣ சூፕ እና ፍructስ በመብላት ይፈቱ። በተጨማሪም በዒድ አል-ፊትሪ እና ዒድ አል-አዳሂ ደርዶ በዶሮ വാት፣ మాంసం వంటకాలు మరియు స్వీట్లు తింటారు.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,በኢድ አል-ፍጥር በኢትዮጵያ ሰዎች ይበላሉ ዶሮ ዎት፣肉类菜肴和甜点።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"During Eid al-Adha, Ethiopians celebrate with a feast! The most important part is *doro wat*, a spicy chicken stew, along with lots of meat dishes and sweets. A key tradition is slaughtering a sheep or ox and sharing the meat with family and friends. It’s a really special occasion filled with delicious food and community.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,ኢትዮጵያውያን አዲስ አመትን ለመዝናናት በአካባቢው ቤተክ Churches እና ቤተሰባቸው ጋር ይ Celebrating می‌کنند። በተጨማሪም Enkutatash (እንቁጣጣሽ) በአካባቢው ይ Celebrating ሚያደርጋሉ ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,በአድیس አበባ በሚገኙ ስታዲየ እና ሜስኬል ስክዌ어 ውስጥ ለዒድ በዓል ኢትዮጵያዊያን ሙስሊሞች በጅምላ ያድሩ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-16,Work life,በኢትዮጵያ የሳምንቱ መጨረሻ ቀን ቅዳሜ እና እሁድ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-17,Work life,በአብዛኛውም የ gobiernos ቢሮዎች ሁኔታ 8:30 утра ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-18,Work life,በአብዛኛውም የ gobiernos oficinaዎች ሁኔታ 18:00 አካባቢ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-20,Work life,"በኢትዮጵያ፣ የ gobiernos እና የ ባንክ ሥራዎች በጣም አስተማማኝነት ያላቸው ናቸው። በተጨማሪም ዶክተሮች በጣም ተ 존ባustible profesión ናቸው። ብዙ mujeres በተ特别是 በ Nursing, Teaching እና Banking ውስጥ ይነቃቃሉ፣ जबकि ወንዶች Engineering, Medicine እና Business ላይ ትኩረት ያደርጋሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-24,Work life,Addis Ababa.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-25,Work life,"አviation, particularmente Ethiopian Airlines, along with banking and the telecoms sector, are the industries that generally offer the highest salaries in Ethiopia.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-26,Work life,Ethiopian Airlines is Ethiopia’s most famous state-owned company.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-31,Food,"Doro wat (ዶሮ ወጥ) is undoubtedly the most famous and iconic dish in Ethiopia. It’s a spicy chicken stew with boiled eggs and berbere, and it’s a staple that represents Ethiopian cuisine to the world.",1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-32,Food,"በኢትዮጵያ ሰዎች ለእለታዊ ቁርስ የሚመገቡት በሦስት ምግቦች ነው: ከ desayuno (ቁርስ), ከመቀመያ (መካከለኛ ምግብ), እና ከመጨረሻም ከመግilación (መጨረሻ ምግብ). ብዙውን ጊዜ፣ በሰኞ ቀን ቤተሰብ reunión (family meal) ይካሄዳል፣ ነገር ግን በየቀኑ በስchool, work, and farm ውስጥ diferentes ምግቦች ይመገባሉ፣ incluyendo injera with shiro, misir wat, or beyaynetu.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-33,Food,"በእርግጥ ነው! ኢትዮጵያውያን ብዙውን ጊዜ ምግብ ለመመገብ የሚበልጡ ጊዜዎች የሚከተሉት ናቸው: ከጧት 7:00 እስከ 8:00 утра ለ desayuno, ከቀኑ 12:30 እስከ 13:00 ለ Lunch, እና ከ Evening 19:00 እስከ 20:00 ለ Dinner.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-34,Food,"In Ethiopian cuisine, injera is absolutely essential. It’s the foundation of almost every meal, used as both the plate and the utensil to scoop up the flavorful stews and dishes we serve.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-36,Food,Doro wat with injera is the typical festive meal Ethiopians prepare for celebrations.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-37,Food,"በኢትዮጵያ በሚመጡ ጎብኚዎች በተለምዶ ሙዝ፣ ብርቱካን፣ మాంగో, avocado እና papaya ይ ይሰጣሉ.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-38,Food,"በኢትዮጵያ፣ በተለምዶ ለበጎ አድራጎት ምግብ ሲሰጣቸው፣ ብዙውን ጊዜ ዳቦ (bread), ኢንጀራ (injera) እና ኮሎ (roasted barley with chickpeas and peanuts) ይሰጣሉ፣ በተጨማሪም በዒድ ወቅት మాంసం ይሰጣሉ።",1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-39,Food,Shiro and pasta are the cheapest quick meals.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-43,Food,በኢትዮጵያ፣ ከሻይ ጋር ብዙውን ጊዜ ደረሽ፣ ኮሎ (ሮስተድ ባርሌይ) ወይም ቢስcuits እን吃ríamos።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ne-ar-44,Food,"በኢትዮጵያ፣ ቡና ከሚበሉት ነገሮች መካከል አ Sometimes, they’ll enjoy popcorn (fendisha) or roasted barley (kolo), and occasionally bread (dabo). It’s a really common and enjoyable part of the coffee experience here!",1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-02,Food,"Doro wat (ዶሮ ወጥ), a spicy chicken stew with boiled eggs and berbere, is considered the national dish.",1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-04,Food,"Doro wat is incredibly famous in Ethiopia. It’s a spicy chicken stew with boiled eggs, and it’s considered the national dish!",1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-08,Food,"በጾም ወቅት፣ ኦርቶዶክስ ክርስቲያኖች በተለይ শሮ, மிሰር ወት, ክክ አልቻ, ጎመን, አትክልት እና በበይኔቱ የሚበሉ ምግብ ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-15,Food,በኢትዮጵያ ሴቶች ሲወልዱ በተለዋጭ የሚዘጋጀው ምግብ፣ “ገንፎ” የሚል ጥቅጥቅ ያለ ቡናማ ወይም ಗೋጣማ ገንፎ ነው። ይህ ገንፎ በበርቤር እና ቅመም ጋር ይዘጋጀናል። በተጨማሪም አጥሚት (thin barley-oat drink) እና በግ እርሾም ይሰጣሉ፣ ይህም ለ embarazada ሴቶች እና ለ recién nacido niños በጣም አስፈላጊ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-27,Sport,Tirunesh Dibaba.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-34,Education,በጣም ብዙ የመጀመሪያ ደረጃ ተማሪዎች ወደ ቤታቸው ወይም ወደ ቤተክብarios ይዘጋጃሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-41,Education,በኢትዮጵያ በ Grade 12 ላይ ተማሪዎች የመጀመሪያውን ብሔራዊ ፈተና የሚወስዱት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-53,Work life,በኢትዮጵያ፣ ለቡና/ሻይ ኢንዱስትሪ በስፋት ታውቃል የኢትዮጵያ ክልል የይርጋቼffe (Gedeo) ነው። ይህ ክልል ለቡናው ከፍተኛ ጥራት ያላቸው ቡናዎች ለሚ生产ው በዓለም ታውቋል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-54,Work life,በኢትዮጵያ ኦሮሚያ ክልል በእንስሳት እርባታ ኢንዱስትሪ በስፋት ይታወቃል፡፡ በኢትዮጵያ አብዛኛው የእንስሳት እርባታ የሚደረግው ክልል ኦሮሚያ ነው፣ በተለይም በዋናነት በ牛፣ በገመል እና በሌሎች የእንስሳት especies ላይ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-59,Work life,በበርሃማ አካባቢ የሚኖሩ ሰዎች ዋና ሥራ በራሳቸው እርሻ ውስጥ በ牛 (oxen) በመሰብሰብ የሚገኝ እርሻ ውስጥ በ牛 (oxen) በመሰብሰብ ነው፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-60,Work life,በኢትዮጵያ ለመጓጓዣነት የሚጠቀሙ እንስሶች በዋናነት ላሞች ናቸው። እነዚህ ላሞች በ montañas ውስጥ የሚኖሩ ናቸው። በ agricultura ላይም ከፍተኛ አስተዋፅዖ ያ دارند።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-72,Family,በኢትዮጵያ ለልጆች ለመነበብ በአዝናኝነቱ በጣም ታዋቂው መጽሐፍ “አያሌት” ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-73,Family,"""Tsehai Loves Learning"" በጣም ታዋቂ የዩቲዩብ ቻናል ነው።""",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-74,Family,"EBS TV’s talk show, “Seifu on EBS,” is incredibly popular here. It’s a really engaging way for Ethiopians to connect and discuss important issues.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-77,Holidays/Celebration/Leisure,"Timket is arguably Ethiopia’s most famous religious festival. It’s the celebration of the Epiphany, where the tabot (replicas of the Ark of the Covenant and crosses) are paraded and a re-enactment of Christ’s baptism takes place, particularly in Gondar.",1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-81,Holidays/Celebration/Leisure,Tir.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-am-83,Holidays/Celebration/Leisure,"በኢትዮጵያ በጣም ታዋቂ የሙዚቃ መሣሪያዎች ክራር (ሊሪ), ማሰንቆ (አንድ-አውር አሻማ), ዋሽንት (ፍላውት),ኬበሮ (መሳሪያ ጫት) እና በ Engaging ናቸው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-01,Food,"ትፍት (Teff) ነው።
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-02,Food,Doro wat (ዶሮ ወጥ) is the most famous Ethiopian food. It’s a spicy chicken stew with boiled eggs and berbere spice.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-05,Food,"በኢትዮጵያ፣ እንግዶች ቤተሰቦችን ሲጎበኙ የሚቀርብላቸው በጣም የተለመደ መጠጥ ቡና (buna) ነው። በተ Specifically, it’s the traditional *tej* (honey wine) – it’s a really special drink served during hospitality.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-07,Food,በኢትዮጵያ በጣም የታወቀው ከአሳ የሚዘጋጅ ምግብ ኢንጀራ (እንጀራ) ነው። ኢንጀራ በአዋዜ፣ ዶሮ ወጥ እና ሌሎች ወጥ ዓይነቶችን ከበሰብሰል በኋላ ይዘጋጃል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-14,Food,በዝናባማ ወራት ጊዜ ኢትዮጵያውያን ብዙውን ጊዜ ሙቅ መጠጦችን፣ ቡና፣ ጥብስ እና የተለያዩ አይነት சூपहरን ይወዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-15,Food,በጣም ሞቅ ያለ ጊዜ፣ ሰዎች ብዙውን ጊዜ አምቦ ውሃ፣ ኮካ ኮላ፣ ፔፕሲ፣ ሚሪንዳ ወይም ፈንታን ይጠጣሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-20,Sport,በኢትዮጵያ በጣም ታዋቂ የቤት ውስጥ ስፖርት የሆነው ટેቢል ટેኒስ ነው። ብዙ jóvenes ( jóvenes) የሚጫወቱት፣特别是 በ escuelas ውስጥ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-29,Sport,ወንዶች በኢትዮጵያ በሙሉ እግር ኳስ ( fútbol) መመልከት ይወዳሉ፣特别是 inglés प्रीमियर ሊግን በጣም любят። በተጨማሪም፣ ኢትዮጵያዊው प्रीमियर ሊግን በጣም የሚወደው ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-30,Sport,እርግጥ ነው፣ ኢትዮጵያዊት ሴቶች ብዙውን ጊዜ እግር ኳስን ይመለከታሉ፣特别是 inglés ምርት ሊግን በጣም любят።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-58,Work life,"በኢትዮጵያ ሰዎች በየስራ ቦታቸው ለመጠጣት የሚወዱት እጅግ ታዋቂ መጠጥ ቡና (buna, ቡና) ነው።
+",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-64,Family,በኢትዮጵያ ሁሉም ቤተሰቦች በአንድ ላይ ለመሆን የሚነበበው በፋሲካ በአንድነት ነው። በፋሲካ በአብያተ ክ Churches እና በአንገት ላይ ይነበበው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-76,Holidays/Celebration/Leisure,በኢትዮጵያ በባህላዊ በዓላት ጊዜ ቤተሰቦች የተለያዩ ባህላዊ ጨዋታዎችን ይጫወታሉ። ለምሳሌ፣ በገና ወቅት ልጆች “ገና” ይጫወታሉ፣ በአርዌን Festive ወቅት ደግሞ “ፌስካ” (ኢስቴር) እና “ሜስኬል” የሚባሉ በዓላት ላይም የተለያዩ ጨዋታዎችን ይጫወታሉ። በተጨማሪም፣ በዓላት ጊዜ ልጆች “ኬሮም” እና “ቼከርስ” ጨዋታዎችንም ይጫወታሉ።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-80,Holidays/Celebration/Leisure,በባህላዊ በዓላት ላይ ኢትዮጵያውያን ሰዎች በሙሉ ነጭ አልባሳት ይለብሳሉ፣特别是 በአንቁጣጣሽ በዓል ላይ። ሴቶች የሃበሻኬሚስ እና ኔቴላን ይለበሱታ며፣ ወንዶችም ነጭ ባህላዊ உடለaduras ይለበሳሉ። በተጨማሪም በዓላት ላይ የሃበሻኬሚስን እና ኔቴላንን መጠቀም ትስስር ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-as-89,Holidays/Celebration/Leisure,"Absolutely! Let me tell you about the beautiful traditions we wear during our festivals here in Ethiopia. 
+
+During our most important celebrations, like Meskel and Timket, it’s customary for everyone – men, women, and children – to wear white. Women typically wear a white *habesha kemis* (a traditional dress) with a vibrant, colorful border, and a *netela* shawl. Men wear white suits. It’s a really special sight to see everyone dressed in white, especially around the huge bonfires at Meskel and the processions during Timket. It’s a way of showing respect and celebrating our faith and culture!",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-05,Food,"Tej, the honey wine, is most famous in the Harar region.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-11,Food,በክረምት ወራት በኢትዮጵያ በብዛት የሚበሉት ፍሬዎች አቮካዶ፣ మాంగో፣ ሙዝ እና ፓፓያ ናቸው። ራብያ ጊዜያቸውም በወቅቱ በጣም abundante ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-12,Food,Lake Tana is the region most known for its fish products in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-21,Sport,Bishoftu (Debre Zeit) is the most famous region in Ethiopia for sled racing.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-26,Sport,"Abebe Bikila is arguably the most famous martial artist from Ethiopia. He’s renowned for being the first African Olympic champion, winning the marathon barefoot in 1960.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-27,Sport,"በቅርidagi አስራዎቹ አመታት ውስጥ ኢትዮጵያ በስፖርት ትልቅ እድል የ Obtained በማለት በ长距离跑步 (ሩጫ) ውስጥ ከፍተኛ éxito አሳልፈዋል። በተለይም ኦሎምፒክ ሜዳሊያዎቹ mayoría በ10,000m, 5,000m እና ማራቶን ላይ ተሰነዘሩ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-39,Education,በጣም ብዙ ተማሪዎች በአብዛኛው አሜሪካን ይምረጡታል። ብዙዎቹ አሜሪካ ውስጥ በ医学 እና ingeniería የሚሰኙ የትምህርት ዓይነቶችን ይ học ላሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-49,Work life,5,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-60,Family,በአ时情况下፣ ልጆቹ በአಜ್ಜánicos እና በአጎያችን ይከታተላሉ። ብዙውን ጊዜ ሁለቱም ወላጆች በ trabajos ላይ ናቸው፣ ስለዚህ ልጆቹ በቤተሰብ አባላት ይከታተላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-69,Holidays/Celebration/Leisure,"ወንዶች ብዙውን ጊዜ ቡናማ መጠ Perfectly, men commonly drink beer, areke or whisky.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-70,Holidays/Celebration/Leisure,ሴቶች ብዙውን ጊዜ Tej (ጠጅ) ይወዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-az-73,Holidays/Celebration/Leisure,በጣም ብዙ ሰዎች ይሳተፋሉ፣ ብዙውን ጊዜ cientos (ብዙ cientos) የሚቆጠር ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-01,Food,በኢትዮጵያ ሰዎች ጥብስ ሲሰሩ በተለይ የ牛ና የልማም ሥጋ ይጠባላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-02,Food,በбычно ኢትዮጵያውያን ቁርስ ለመመጋገብ ሰዓት 19:00 (7:00 PM) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-04,Food,በምሽት ምግብ፣ በተለይም በከተሞች፣ ኢትዮጵያውያን ብዙውን ጊዜ ሳምቡሳ፣ ቾપ્ስ (ፍሪስ) እና ቡርገር ይመገባሉ። እነዚህም jóvenes-ዎች favoritos ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-05,Food,Doro wat is undoubtedly the most famous and beloved dish in Ethiopia. It’s a spicy chicken stew with boiled eggs and berbere spice – a truly unforgettable experience!,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-07,Food,በኢትዮጵያ ሰዎች ከጠንካራ መጠጥ ጋር በተለይ የሚወሰዱ ምግቦች፣ እንደ теj፣ tellа ወይም areке፣ обычно tibs (sautéed beef or lamb) እናtere siga (raw meat) ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-08,Food,በኢትዮጵያ ምግብ ለማብሰል በርበሬ (berbere) በጣም አስፈላጊ የሆነ ቅመም ነው። በተጨማሪም፣ niter kibbeh (የፀይጣጣሪ ዘይት) እና mitmita (ቀይ አጩ ቅመም) እንዲሁ በጣም አስፈላጊ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-09,Food,በቀዝቃዛ አየር ላይ ሰዎች ብዙውን ጊዜ የ горяም መጠጦችን እና የ Roasted corn (ቆዝፈት) ይበላሉ። በተጨማሪም የ Kolo ( Roasted barley) እና የ Fendisha (popcorn) እንዲሁ በጣም ተወዳጅ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-13,Food,St. George beer is the most popular and well-known alcoholic brand in Ethiopia.,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-14,Food,"When Ethiopians celebrate, you’ll often find them enjoying a hearty *genfo* – a thick barley or wheat porridge spiced with berbere and butter – alongside a comforting *shorba* soup, which can be vegetable or meat-based. It’s a truly delicious and traditional way to share a meal!",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-15,Food,በኢትዮጵያ ሰዎች ሱፐርማርኬቶች ውስጥ ከቆሎ፣ ዳቦ ቆሎ፣ ቡኒ፣ ቢስcuits፣ እና የተለያዩ አይነት ቾપ્ስ (ፈረንጮች) እና ስምባሳ favoritos ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-16,Sport,"""Atletu"" ነው። ይህ ፊልም አበበ ቢክላ ታሪክ рассказывает है।",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-17,Sport,በኢትዮጵያ ሰዎች ብዙ ለመሞከር የሚፈልጉት ስፖርት እግር ኳስ ( fútbol) ነው። እግር ኳስ በኢትዮጵያ በጣም ተወዳጅ ስፖርት ሲሆን ብዙ ሰዎች ይጫወታሉ እና ብዙ ሰዎችም ይከታ thụ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-18,Sport,"በኢትዮጵያ በቤት ወስጥ እና በሜዳ ላይ ከሚከናወኑ ውድድሮች ለመመልከት እጅግ ታዋቂዎቹ የትኞቹ ናቸው?
+
+በሜዳ ላይ የሚከናወኑ ውድድሮች፣特别是 ረዥም தூር ሩጫ (10,000m, 5,000m, እና ማራቶን) በጣም ታዋቂ ናቸው። ኢትዮጵያ በረዥም தூር ሩጫ ውስጥ ከፍተኛ logros አድርጓል እና ይህ እንቅስቃሴ በዓለም አቀፉ ደረጃ ከፍተኛ ትኩረት ያ 받고 ነው. በተጨማሪም እግር ኳስ ( fútbol) እንዲሁ በጣም ታዋቂ deporte ሲሆን በሜዳ እና በቤት ውስጥም ከፍተኛ ተቀባይነት አለው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-19,Sport,በኢትዮጵያ ከሚደረጉ ውድድሮች ለመታየት በጣም ተወዳጅ የሆነው የጂምናስቲክ ዝግጅት እግር ኳስ ( fútbol) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-23,Sport,በኢትዮጵያ በጣም ታዋቂው የጠረጴዛ ቴኒስ ተጫዋች ማነው የሚል ጥያቄ ቢቀርብዎት፣ እኔ እንደ ኢትዮጵያዊ ሰው መልስ скажу፦ የጠረጴዛ ቴኒስ በኢትዮጵያ በጣም ተወዳጅ deporte ስትሆን፣ በዛ ámbitos ውስጥ ብዙ ተጫዋቾች ቢኖሩም፣ በቅርቡ በዓለም አቀፉ ደረጃ ስታሳየን የነበሩት አሉ። ስለዚህ፣ በአሁኑ ጊዜ በጣም የታወቁት የጠረጴዛ ቴኒስ ተጫዋቾች አሉ፣ ነገር ግን በወቅታዊ እንቅስቃሴ ላይ ትኩረት በማድረግ መረጃዎችን ማግኘት ያስፈልጋል.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-26,Sport,"በኢትዮጵያ በክረምት ኦሊምፒክ ለመታየት በጣም ታዋቂ የሆነው የትኛው ዝግጅት ነው?
+
+በኢትዮጵያ በክረምት ኦሊምፒክ ለመታየት በጣም ታዋቂ የሆነው ዝግጅት ነው። በተለይም አሯሯramiento (ሩጫ) በተናባበሩ አድናወጫዎች፣特别是 10,000 ሜትር እና 5,000 ሜትር ላይ በብዙ አሸንፎች ምክንያት ታዋቂ ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-27,Sport,Abebe Bikila is arguably the most famous Ethiopian boxer.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-30,Sport,Abebe Bikila is the most famous Ethiopian athlete.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-31,Work life,ወላጆች ብዙውን ጊዜ ልጆቻቸው ለበለጠ успешና prestigioous የሥራ እድሎችን እንደሚፈልጉት ያመኛሉ። በተለይም ለበሽታ tratamiento የሚሰሩ ዶክተሮች ወይም ኢንጂነሮች ላይ ከፍተኛ ትኩረት ያደርጋሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-32,Work life,"በኢትዮጵያ በቢሮ ስራ ላይ በተለምዶ የሚጠቀሚ ሶፍትዌሮች ብዙ አይነት ናቸው። ብዙ empresas ( compañías) Microsoft Office ( Word, Excel, PowerPoint) ይጠቀማሉ፣ ነገር ግን በርካታ empresas ደግሞ Google Workspace (Docs, Sheets, Slides) መጠቀምን ይደራደራሉ። በተጨማሪም፣ የደንብ አውታረ መዋረድ (online banking) እና የ tài khoản አስተዳደር (account management) ሶፍትዌሮችን ይጠቀማሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-38,Work life,Addis Ababa.,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-39,Work life,Telegram. It’s incredibly popular here for everything from selling goods to sharing information – you’ll find a huge amount of business activity happening on it.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-44,Work life,በሙከራ ቅጥር ወቅት ለሠራተኛው ቢያንስ አንድ ወር ጊዜ ይሰጣሉ፣ ይህም ለሠራተኛው በሥራ ላይ ለመውաղት እና ለሠራተኞች መመሪያዎችን ለመረዳት suficiente ጊዜ ይሰጣል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-45,Work life,በኢትዮጵያ ወጣቶች፣ በተለይም ለሚኒዩኒቨርስቲ ተማሪዎች፣ ትutoring (ማስተማርነት) እና Ride-hailing (እንደ Feres ያሉ ነጋዴዎች) የሚሰሩ ስራዎችን ይመርጣሉ። በተጨማሪም፣ pequeños (ትንንሽ) የንግድ ሥራዎችን፣ እንደ Delala ያሉትን የቴክኖሎጂ ድርጅቶችን እና በፌስቡክ እና Telegram ያሉትን የመስመር ላይ መ vendidosን ይጀምራሉ.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-49,Family,Telegram is the most widely used messaging app in Ethiopia for communicating with family remotely.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-51,Family,"Bishoftu (Debre Zeit, Kuriftu resort) is a very popular choice for family and honeymoon trips in Ethiopia.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-54,Family,በኢትዮጵያ፣ ብዙውን ጊዜ በቤተሰብ መካከል የሚቀርብ ፍራፍሬ በዋናነት አቮካዶ፣ ታizability እና ሙዝ ነው። ብዙውን ጊዜ ምግብ በኋላ፣ በኮፌ ወይም ፍራፍሬ ይቀርባል።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-64,Education,በዩኒቨርሲቲ ደረጃ፣ በሳምንት አብ አምስት ሰዓታት ክፍለ ጊዜዎች እን học ነን። አንዳንድ ጊዜ አብ ስድስት ሰዓታትም ይደርሳል፣ ነገር ግን አብ አምስት ሰዓት አብ አምስት ቀን ይነሳል፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-66,Education,45.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-70,Education,"ሁሉም የዩኒቨርስቲ ተማሪዎች በጋራ የሚማሩ አስፈላጊ ኮርሶች የትኞቹ ናቸው?
+
+በጣም አስፈላጊ የሆነው የጋራ የኮርሶች መካከል የ Comunicación English (ጋራ አቀራረይ inglés), ತર્ક እና విమర్శనాత్మక ఆలోచన, ሂሣબ, ciudadanía እና ética ናቸው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-71,Education,50-60,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-72,Education,በኢትዮጵያ በሥራ ቅጥር በጣም ጥሩ የሆነው ዋና የትምህርት መስክ medicina (医药) ነው። ብዙ ሰዎች Doctors (医生) ለመሆን ይፈልቃሉ፣ እናም በሥልጠና እና በ empleo ውስጥ ከፍተኛ ቦታ አለው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-73,Education,በዩኒቨርስቲ ተማሪዎች መካከል በዝነኛነት የሚታወቁት ክለቦች አርሰናል፣ ማንችስተር ዩናይትድ እና ချელსી ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-74,Education,በጣም ብዙዎቹ የዩኒቨርስቲ ተማሪዎች በዩኒቨርስቲ dormitorios ውስጥ ይኖራሉ፤ እነዚህም በዩኒቨርሲቲ ምግብ ቤቶች ጋር ይነካን ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-75,Education,45,1,0.25
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-78,Holidays/Celebration/Leisure, ጡረተኞቹ ሴቶች ብዙውን ጊዜ በቤተክ Churches ውስጥ participación በማድረግ፣ በቤተክ Churches ውስጥ participación በማድረግ እና በቤተክ Churches ውስጥ participación በማድረግ ላይ ናቸው። በተጨማሪም በቤተክ Churches ውስጥ participación በማድረግ እና በቤተክ Churches ውስጥ participación በማድረግ ላይ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-79,Holidays/Celebration/Leisure, ጡረተኞቹ ወንዶች ብዙውን ጊዜ በካፌ ውስጥ ቡና ይጠጣሉ፣ ካርድ ወይምቼከር ይጫወታሉ እና ቤተክርስቲያኗን ይጎብኙ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-80,Holidays/Celebration/Leisure,በኢትዮጵያ ሰዎች በተለይ በቅዱሳን ቦታዎችን የሚጎበኙ ጊዜ፣ በነዚህ ሀይማኖታዊ በዓላት ነው፡ በገና (Christmas)፣ ኢየጲፋኒያ (Epiphany)፣ አርባcemic (Easter) እና ሜስኬል (Meskel)። እነዚህ በዓላት ጊዜ ቤተ ክ Churches እና መቅደሶች ላይ ከፍተኛ እንቅስቃሴ ይ Happens።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-81,Holidays/Celebration/Leisure,በኢትዮጵያ በቤተሰብ ውስጥ የሚስጥን ስጦታዎች መካከል ቡና፣ አትክልት መር፣ ሚትሜት፣ ጥበቃ እና ቴክ (술) ይገኙበታል፡፡ እነዚህ ስጦታዎች በቤተሰብ ውስጥ ልዩ ቦታ አላቸው እና በ ocasiones ሲሰጡ ይነገሩበታል፡፡,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-82,Holidays/Celebration/Leisure,በኢትዮጵያ የሰርግ ስነስርዓት ብዙውን ጊዜ ከည晚 ላይ ይጀመራል። 19:00 (7:00 PM),0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-83,Holidays/Celebration/Leisure,"Addis Ababa is the city that hosts the most significant festivals, particularly Meskel Square for Meskel and the National Theatre for theatre performances.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-84,Holidays/Celebration/Leisure,በኢትዮጵያ ሰርግ ስነስርዓት ላይ ልብስ ለመታደም በተለይ ነጭ ቀለም ነው የሚለብሱት። ,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ch-85,Holidays/Celebration/Leisure,በሀዘን ስነስርዓት ላይ ሰዎች የሚለብሱት የልብስ ቀለም ጥቁር ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-01,Food,በኢትዮጵያ ሲኒማ ውስጥ የሚመገቡት ምግብ ቀሪ፣ ቆሎ፣ ምድብ እና ሳምቡሳ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-02,Food,በኢትዮጵያ በጣም ጥራት ያለውና የታወቀ ጣዕም “dabo kolo” ነው። እነዚህ ትንሽ፣ በጣም ቅሩጡ የወፎች ኩኪሶች ናቸው። ብዙ ሰዎች እነዚህን በጣም ይወዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-04,Food,Marcus Samuelsson is the best-known chef of Ethiopian origin.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-05,Food,"በኢትዮጵያ ውስጥ በጣም ርካሽና ፈጣን የምግብ አማራጭ የshiro (ሽሮ, chickpea-flour stew) ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-07,Food,Doro Wat is the most famous and widely recognized food program/show in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-08,Food,St. George is the most popular chocolate brand in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-10,Food,"Ayib, a mild, crumblly fresh cottage cheese, is the most eaten type of ayib in Ethiopia.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-11,Food,"በኢትዮጵያ በጣም የተጠላ አትክልት ምንድን ነው?
+
+በኢትዮጵያ፣ አትክልት ምግቦች በተለምዶ በክልል እና በሃይማኖታዊ እምነት ላይ በመተሳሰረ መተግበራቸው ይለያያል። ነገር ግን፣ አትክልት ምግቦች በተለምዶ በሃይማኖታዊ እምነት ምክንያት ይተዋሉ። በኦርቶዶክስ ክርስቲያኖች እና ሙስልሞች መካከል፣ አትክልት ምግቦች በተ Particularly በተ특 biệt በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특별 በ특",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-12,Food,"In Ethiopia, you’ll find injera – a large, spongy flatbread made from fermented teff – is a staple you’ll almost always find on an Ethiopian table.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-17,Sport,በኢትዮጵያ፣ ስፖርት አድናቂዎች ብዙውን ጊዜ በየቀላሉ የሚበሉ ምግቦች መካከል ኢንተርናሽናል ቡድኖቹ (እንደ አርሰናል፣ ማንችስተር युናይትድ እናቼልሲ)ን ማየት እና መደገፍ በሚያሳዩ ጊዜ፣ እንዲሁም የኢትዮጵያ ፕሪሚየር ሊግን በሚመለከት፣ ቡና እና ኬባ ስባህተኞችን ይነክሳሉ። በተጨማሪም፣ በስፖርታዊ ስነን አውቀ አድናቆት በሚያሳዩ ጊዜ፣ የሰኞ እና የሰኞ ምግቦችም እንዲሁ ተወዳጅ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-18,Sport,በእግር ኳስ ጨዋታ ሲገኙ የስፖርት አድናቂዎች ብዙውን ጊዜ ቀሪ፣ ኮሎ፣ ምድማ እና ቀ Peanut ዎችን ይ吃 می‌کنند።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-19,Sport,Addis Ababa Stadium is the most well-known stadium in Ethiopia.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-23,Sport,Shabte Samuel.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-26,Sport,"""Atletu"" (2009) is the most famous sports film about Ethiopia. It tells the inspiring story of Abebe Bikila, a legendary long-distance runner.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-38,Work life,በኢትዮጵያ አ mayoría የሚሰሩ ሰዎች በ agricultura ውስጥ ናቸው፣ ነገር ግን የ Trabajo ህግ መሠረት አሥር ሰዓታት ወይም አራተኛ ቀን አልፎ በየአቀፍ ውስጥ አሥር ሰዓታት ድረስ ይሰሩ ይችላሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-41,Work life,ሞሐመድ አል አሙዲ ናቸው። በኢትዮጵያ ውስጥ በጣም ታዋቂ እና ስኬታማ የስራ ፈጣሪ он ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-47,Family,በኢትዮጵያ በቤቶች የኋላ ቦታ/ጓሮ ውስጥ ብዙውን ጊዜ የአትክልት ቦታ ይገኛል፤ በዚህ ቦታም የተለያዩ ፍ Vegetables፣ እንደ Enset (false banana)፣ ጎመን፣ ፍ Fruits፣ና በ veces ጭራሽ ቡና ይ creciendo ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-49,Family,በኢትዮጵያ ውስጥ እጅግ ዝነኛ የሆነው የቤተሰብ አባል የኢምፔራል ቤተሰብ ነው፣ በተ Specifically የሃይል ሴላሲ ቤተሰብ። እነዚህ ሰዎች በ siglos የሞኖቲክ ቤተሰብ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-50,Family,The most famous family in Ethiopia is the Imperial family of Emperor Haile Selassie (Solomonic dynasty).,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-55,Family,በኢትዮጵያ ኦርቶዶክስ ተዋህዶ ክርስትና በጣም ብዙ ሰዎች ያምንታል፤ በተለይም በጳውሎስ አያያዝ ምክንያት በሃገራችን በብዙ ቦታ ይህ ሃይማኖት ተ распростраጧል.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-56,Family,"English is the most widely spoken foreign language in Ethiopia, particularly among families.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-59,Family,በጣም ብዙ ኢትዮጵያዊያን ለቤተሰባቸው መድረስ የሚፈልጓቸው አገሮች አሜሪካ ናቸው። በተጨማሪም አረብ ሀገራት (ሳዑدی አረቢያ፣ ኢዩንቨኒ፣ ልበበ) እና ሌሎችም extranjኞችን ለመስራት ወደ ኢትዮጵያ ይጎብኙ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-68,Education,በኢትዮጵያ ትምህርት ቤቶች ውስጥ ለመጥፎ ባህሪ የሚዳርጉ ተግባራት ብዙ ናቸው፣ ነገር ግን በጣም comunes ናቸው። ዋናዎቹ የሚሆኑት፡- የሰፈራ ቦታን ለሌሎች መተንኮሳ፣ የትምህርት materiales መውደድ እና መ destruir፣ የ profesores እና አስተማሪዎች መ respeto አለመቀነስ፣ እንዲሁም የደማሚዎችን መተንኮሳ እና መጫወት ናቸው። እነዚህም ባህሪያት የትምህርት አካባቢን ለቀዘቀዝተኝነት እና ለተሳሳተ comportamiento ያደርጋሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-69,Education,"በኢትዮጵያ ውስጥ በሥነ ጽሑፍ ክፍል ውስጥ በብዛት የሚጠነቀቁ ጸሐፊዎች መካከል ሃዲስ ኣለማየሁ (ፍክሪ எஸ்கே மெகபீர்), ബെልአ ጊርማ (ኦሮማይ), ተሰግaye ገብ्रे-மெதின், கெபெதே மைக்கேல் እና አበế குበና ናቸው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-70,Education,8,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-72,Education,"በኢትዮጵያ ተማሪዎች ለጥናት በተለይ የሚጠቀሙበት የበይነ-መረብ የትምህርት መርጃ YouTube, Telegram study channels, እና Google ናቸው። እነዚህ plataformas ተማሪዎች በስፋት በመስመሩት የውበት-መረብ ትምህርት ላይ አብረውት ይነሳሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-75,Education,አንድ ሴሜስተር ለሚስት 8-10 ሳምንታት ይቆያል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-76,Holidays/Celebration/Leisure,"በኢትዮጵያ በዓል ወቅት በጣም የሚጨናነቅ አየር ማረፊያ የትኛው ነው?
+
+በዓል ወቅት አየር ማረፊያዎቹ በጣም ይጫኑራሉ፣ በተ特别是 enero- febrero ወራት። በሺዎች የሚቆጠር አዳኞች በአንድ ጊዜ ይጎበኙና ይረክናሉ፣ ይህም አየር ማረፊያዎቹ ከፍተኛ ጭነት ውስጥ ይገቡ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-79,Holidays/Celebration/Leisure,Addis Ababa ነው። ኢትዮጵያዊው አatrical አድስ አበበ ነው፣ በቲያትር ትወና በጣም ታዋቂ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-87,Holidays/Celebration/Leisure,Lalibela’s rock-hewn churches are undoubtedly Ethiopia’s most famous historical landmark.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-en-90,Holidays/Celebration/Leisure, Sheraton Addis is the most famous and well-regarded hotel brand in Ethiopia.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-05,Food,በኢትዮጵያ በጣም ታዋቂው ለቁርስ ተመራጭ የሆነው የፈጣን እና ተይዞ የሚኬድ ምግብ ምድነው “ቡና” ነው። ቡና ማለት በደን Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions Decisions,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-06,Food,Doro wat (ዶሮ ወጥ) is considered the most famous and national dish in Ethiopia. It’s a spicy chicken stew with boiled eggs and berbere spice.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-08,Food,በኢትዮጵያ በተለያዩ በዓሎች ላይ የሚጠጣ የአልኮል መጠጥ አይነት Tej (ጠጅ) ነው። Tej በሱሪት ስብሪ እና በዘር አትክልት የሚዘጋጀው የወೈನ್ አይነት ሲሆን በነበሩ እና በሴቶች መካከል ይለያል።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-13,Food,በኢትዮጵያ በጥዋት የተለመደ መጠጥ ቡና ነው። ቡና በኢትዮጵያ በጣም ተወዳጅ መጠጥ ነው።,1,0.4
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-15,Food,በኢትዮጵያ በጣም ታዋቂው ባህላዊ ጣፋጭ ምግብ ኢንጀራ (እንጀራ) እና ዶሮ ወጥ (Doro Wat) ነው። ኢንጀራ በሰማይጣ አይነት ምግብ ሲሆን በዋት (stew) ጋር ይረጀ می‌شود። ዶሮ ወጥ ደግሞ በበርቤረ (berbere) እና በቁላል ይዘጋጃል።,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-21,Sport,በኢትዮጵያ እግር ኳስ ( fútbol) በጣም ታዋቂ deporte ነው። ብዙ ሰዎች ይጫወታሉ፣ ይስራሉ። በተለይም jóvenes ( jóvenes) እና niños ( niños) እግር ኳስ ይወድቃሉ። በተጨማሪም እግር ኳስ በ escuelas ( escuelas) በጣም ታዋቂ ነው።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-24,Sport,በኢትዮጵያ ውስጥ በትራክና በመስክ ስፖርት ውስጥ እጅግ ታዋቂ የሆነው ስፖርት ሩጫ (athletics) ነው። ሩጫ፣特别是 ረዥnga ሩጫ፣ በኢትዮጵያ ውስጥ ሁለተኛ በጣም ተወዳጅ deporte ሲሆን በዓለም አቀፍ ደረጃም በጣም успешኛ ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-29,Sport,በኢትዮጵያ አቶկ አክስ (ሩጫ) እጅግ ታዋቂ ነው።,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-47,Work life,"6
+",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-58,Work life,ትምህርት ሰጪ ስራዎች ናቸው። በኢትዮጵያ ውስጥ አስተማሪዎች እና ነበልናዎች ብዙውን ጊዜ ዝቅተኛ ክፍያ получают።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-76,Holidays/Celebration/Leisure,በፋሲካ በአብዛኛው የሚቀርብ ምግብ “ታሪ” ነው። ይህ በሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ}=$ሰ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-82,Holidays/Celebration/Leisure,"በኢትዮጵያ በታላላቅ ሰዎች/አዋቂዎች መካከል እጅግ ታዋቂ የሆነ የሙዚቃ አይነት ምንድን ነው?
+
+በአዋቂዎች መካከል በጣም ታዋቂ የሆነ የሙዚቃ አይነት ኦርቶዶክስ ሃይማኖት relacionada ሙዚቃዎች እና clásico ዘፈቾች ናቸው። Tilahun Gessesse እና Mahmoud Ahmed ያሉ አርቲስቶችን ይ escuchaሉ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-88,Holidays/Celebration/Leisure,በቀብር ሥነ ሥርዓቶች ላይ የሚቀርብ መጠጥ Tej ነው፣ ይህም የહુሚው የወይን ነው። Tej በነበያት ሁሉ ይቀርበውበታል፤ ለዚህም ልዩ ትኩረት ይሰጣሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-gr-89,Holidays/Celebration/Leisure,በሰርግ ሥነ ሥርዓቶች ላይ በኢትዮጵያ የሚቀርብ መጠጥ Tej (ጠጅ) ነው። Tej ከበደማቀitectura የተሰራ የወይን መጠጥ ሲሆን በሰርግ ወቅት በበፍጥነት ይቀርበልለታል፡፡ በተጨማሪም Tell (ጠላ) እና Arake (አረኬ) እንዲሁ በሰርግ ወቅት ይቀርባሉ፡፡,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-07,Food,Ethiopian food is defined by injera with wat.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-08,Food,"በኢትዮጵያ ልጆች በተለይ የሚጠሉት ምግብ እና ሽማግሌዎች የሚወዱት ምንድነው?
+
+በኢትዮጵያ ልጆች በተለይ የሚጠሉት ምግብ የ sucesa (የተ Filled Pastry) እና የkolo (Roasted Barley with Chickpeas and Peanuts) ናቸው። በተጨማሪም ሽማግሌዎች ቡና፣ ቅመም እና хлеብ ይወዱታል።",,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-09,Food,"እኔ እንደ ኢትዮጵያዊ ሰው አ Reply እ می‌دهم:
+
+በኢትዮጵያ በተለምዶ የምግብ ማብሰሪያው herramienta በጣም አስፈላጊ የሆነው Ingera ነው። Ingera ሁል ጊዜ የምግብ መሳ preparada እና መሳ መሳ preparada ነው። በተጨማሪም መሳ መሳ preparada እና መሳ መሳ preparada ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-13,Food,"In Ethiopia, potatoes, cabbage, onions, carrots, tomatoes, and collard greens (gomén) are the most popular vegetables.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-19,Sport,"በኢትዮጵያ ለስፖርት እንቅስቃሴ የሚውል እንስሳው በ большую medida የ Horses ናቸው። በተለይም በ ""ጉግ"" ጨዋታ ውስጥ፣ በልances በመጠቀም የ Horses ዋና አጫውጪ እንስሳ ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ha-66,Family,"Addis Ababa Stadium is the most well-known stadium in Ethiopia, and it’s frequently used for large events including weddings, particularly during the busy wedding season from January through Timket.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-01,Food,Kaldi’s Coffee is by far the most well-known coffee shop brand in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-03,Food,"In foreign restaurants, Ethiopian food, particularly injera with wat, is very popular.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-33,Work life,ከማዕድን ቁፋሮ ጋር በብዛት የሚታወቀው ክልል ኦሮሚያ ነው። በተለይም Shackiso እና Lega Dembi áreas ውስጥ ከፍተኛ ቁፋሮ ይነሳል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-34,Work life,በኦጋಡೆን ተክል ውስጥ ነው፣ በተለይ ካሉብ እና ሂላላ ጋዝ ተከላዎች ጋር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-62,Education,Addis Ababa Institute of Technology በሚባለው ክፍል ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-63,Education,Addis Ababa Institute of Technology of Addis Ababa University.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-78,Holidays/Celebration/Leisure,"በኢትዮጵያ፣ ገንዘቡን ለመክፈል በጣም የተለመደው መንገድ efectivo ገንዘብ (cash) ነው። ነገር ግን፣ móvil money (Telebirr, CBE Birr) እና ባንክ transferencia እየጨመረಿವೆ.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-in-80,Holidays/Celebration/Leisure,Unity Park.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-01,Family,“Tsehai Loves Learning” የሚባል የEducational niños’s programa በጣም ተወዳጅ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-02,Family,"በኢትዮጵያ፣ ለነብሰጡሮች የሚሰጣቸው የቅድመ ወሊድ ትምህርት በተለምዶ ""O' Class"" የሚባለ ነው። ይህ ትምህርት ለስድስት ዓመቱ niños በዋና መሠረታዊ ትምህርት ቤት ውስጥ ከመግባት በፊት ነው። ብዙውን ጊዜ አንድ ዓመት የሚቆይ ሲሆን ለ niños በዋና መሠረታዊ ትምህርት ቤት ውስጥ ከመግባት በፊት አስፈላጊ መረጃዎችን ይሰጣል።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-03,Family,“Abebayehosh” ነው። ይህ ዘፈን በገና በአዲስ ዓመት ሲዘመር የሚወደው የሴቶች ዘፈን ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-04,Family,ወንድ ልጆች በኢትዮጵያ በዋናነት የኳሱ (ፈተሃት) እና የ汽车 juguetes ይጫወታሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-05,Family,ሴቶች ልጆች ብዙውን ጊዜ የ Skipping ropes እና የ Dolls ይጫወታሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-06,Family,The most popular folktale told to children in Ethiopia is “Abebayehosh”.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-07,Holidays/Celebration/Leisure,በኢትዮጵያ፣ ባሕላዊ ምልክት ለሐዘን መግለጫነት የሚውለው “داس” (dass) ነው። ይህ ደስ የሚባለው የሐዘን መግለጫ፣ በሟቹን ቤት delante ላይ ተከላ ይደረጋል፣ እና በሦስት días (lekso) የሚቀጥል ሲሆን በሃያተ አሥር días (40th day) የሚካሄድ የሟቹን መነዘር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-08,Work life,በጣም ብዙ ዩኒቨርስቲ ተማሪዎች በሰዓት ስራ ለመስራት ትutoring (ማ Enseñanza) በጣም ይፈልቃሉ። በተለይም በቤተክርስቲያናችን አስተሳማት መሰረት፣ ብዙ ተማሪዎች በሰዓት ለሌሎች ተማሪዎች መ Enseñanza ይሰጣሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-09,Work life,በኢትዮጵያ ኩባንያዎች ውስጥ የስራ ቡድን ግንባታ ሂደቶች ብዙውን ጊዜ በነባር ምቹ ሁኔታ ውስጥ ይከናወናሉ. ብዙውን ጊዜ ቡድኖች በቡሽ አያሮችን በመጠቀም ወይም በቢሾಫቱ ወይም አዳማ በሚገኝ የመዝናኛ ቦታዎች ላይ በመሄድ በነባር ይሰራሉ። በተጨማሪም ቡድኖች በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በነባር ምቹ ሁኔታ ውስጥ በመሆን፣ በ,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-ko-10,Work life,በኢትዮጵያ ብዙ ሰዎች ተጨማሪ ገቢ ለማግኘት ትutor በማድረግ፣ Ride ወይም Feres በማድረግ፣ Delala በመስመር ላይ ንግድ በማድረግ እና ትንሽ ንግድ በማ Conduct በማድረግ ላይ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-02,Food,ለቱሪስት፣ በኢትዮጵያ በጣም ዝነኛና የማይረሳ የሆነ ምግብ የቡና ነው። ቡና በኢትዮጵያ የ culturas ዋና አካል ነው። በቡና ወቅት የተለያዩ ምግብዎችን ይቀርባሉ፣ incluyendo injera (የሚታመቀ ጥብስ)፣ தம்போ (የሚታመቀ ጥብስ) እና የተለያዩ ምግቦች። ቡና ብቻ ሳይሆን ኢትዮጵያዊ ባህል እና tradicionesን ለመግለጹም ያገለግላል።,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-06,Food,Doro wat (ዶሮ ወጥ) is the most famous stew in Ethiopia.,1,0.6666666666666666
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-11,Food,"Injera! It’s absolutely essential to Ethiopian food – we use it for everything: as our plate, our spoon, and as the base for almost all our delicious stews and dishes like doro wat and key wat. You simply can’t experience Ethiopian cuisine without it.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-16,Sport,በኢትዮጵያ ውስጥ እጅግ ዝነኛ ባህልናዊ ስፖርት እግር ኳስ ( fútbol) ነው። በ escuelas፣ በ ማህበራዊ ámbitos እና በ hogares ውስጥ በሙሉ በዝነኝነት የሚጫወቱት እና የሚከታ thụት የሚ되는 deporte ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-20,Sport,እግር ኳስ ( fútbol) ነው። በባህር ዳር ላይ እግር ኳስ በጣም ታዋቂ ጫዋታ ነው፣特别是 ወሮች እና ልጆች መካከል።,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-45,Work life,በረመዳን ወር በኢትዮጵያ የስራ መርሐ ግብር አ cambiado ብዙ አይደለም። ብዙዎች ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚል ለዒሳ በረመዳን ለረጅም ጊዜ ይፆሙ ስለሚ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-47,Family,"1/6
+",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-49,Family,በአድیس አበባ ስታዲየም እና ሜስኬል ስክዌየር ላይ በአንድነት ለመጸለይ ቤተሰቦች ይሰበሰባሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-53,Family,በአባት ቀን (ወይም ወላጆች ቀን) አባቶች ብዙውን ጊዜ ቡና፣ azúcar፣ ፓስትሪ፣ ልብስ (እንደ ጋቢ ወይም ኔቴላ շልል) ወይም ገንዘብ ይቀበላሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-54,Family,በኢትዮጵያ፣ እናቶችን በልባችን ይናፍንዋለን። ብዙውን ጊዜ፣ ልጆች እናቶችን ለማሳ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ፣ ለነሱ ልጆች እናቶችን ለማ Celebrating ለማድረግ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-59,Family,3,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-65,Education,በኢትዮጵያ በመካከለኛ ደረጃ ት/ቤቶች 12 የትምህርት አይነቶች ይሰጣሉ.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-66,Education,"በጣም ብዙ actividades አሉ፣ ግን በጣም ታዋቂዎቹ የሆኑት Football (Soccer)፣ Clubs (જેમકે Mini-media, Drama, Environment, Red Cross) እና የAnnual School Day/Parents’ Day ናቸው። ዩኒቨርሲቲ ተማሪዎችም በተለየ መልኩ Religious Fellowships እና Clubs ላይ ትኩረት ያደርጋሉ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-74,Education,የሚመለከታቸው የዩኒቨርስቲዎች ትምህርት ክፍያ በቂራሽ ዓመት 150 ብር ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-76,Holidays/Celebration/Leisure,በኢትዮጵያ ፓርኮች ውስጥ ሰዎች ይጓዙራሉ፣ ይነቃቃሉ እና fotografías ይወስዱራሉ.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-78,Holidays/Celebration/Leisure,Addis International Film Festival.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-83,Holidays/Celebration/Leisure,በኢትዮጵያ በማህበራዊ ስብሰባዎች ላይ የታወቀ የካርድ ጨዋት Gebeta ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-85,Holidays/Celebration/Leisure,የሚኒአር አውራሉ በደቡብ አረቢያ ሀገራት፣特别是 ሳዑዲ አረቢያ እና የአረቢያ ህንድ (યુኤ ኤ) ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-pe-86,Holidays/Celebration/Leisure,The most famous skyscraper in Ethiopia is the Commercial Bank of Ethiopia headquarters.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-01,Food,"In Ethiopia, the soul of our food lies in injera. It’s a large, spongy flatbread made from fermented teff, and we eat it with *wat* – a flavorful stew. It’s the foundation of almost every meal, and we enjoy it with many different wats like doro wat (spicy chicken stew) or shiro.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-04,Food,ኮፌ እና ዘርፍዎቿ (જેમ કે ሰሰામ፣ ቀይሣ፣ እና ሌሎችም) በብዛት ወደ ውጭ አገር ይላካሉ.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-05,Food,በኢትዮጵያ በጣም ታዋቂ ጣፋጮች አሉ። ከነዚህም መካከል፣ “ቆሎ” (roasted barley with chickpeas and peanuts) በጣም ተወዳጅ ነው። በተጨማሪም “دቦ ቆሎ” (small crunchy fried dough bites)፣ ፓፖሪ፣ ሳምቡሳ (lentil- or meat-filled pastry)፣ ቢስcuits፣ እና የተለያዩ የስምሶት አይነት ጣፋጮች ናቸው። በተጨማሪም “ሃላዋ” (sesame/peanut sweet) እና የስምሶት አይነት ጣፋጮችም ብዙ людей የሚወዱ ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-15,Sport,በኢትዮጵያ እጅግ ታዋቂው ስፖርት መጠጥ ቡና ነው። ቡና በኢትዮጵያ በጣም ታድናigable ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-27,Education,"በኢትዮጵያ mayoría of people complete primary school, and many in cities finish secondary school. It’s a really important step for children’s futures, and we’re working hard to make sure everyone has the chance to learn.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-37,Education,በጣም ብዙ ተማሪዎች በ estadounidenses፣ በቻይንኛ፣ በህንድ ወይም በአ europeos አ países ውስጥ በ medicina ወይም በ ingeniería የሚ học ላሉት ተማሪዎች ናቸው። ብዙዎቹም በ estadounidenses ውስጥ በ medicina ወይም በ ingeniería የሚ học ላሉት ተማሪዎች ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-60,Family,금요일 (Friday).,1,0.6
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-65,Family,Adwa Victory Day (2 March) is the closest national celebration in Ethiopia. It’s marked with parades and patriotic songs at Menelik II Square in Addis Ababa.,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-68,Family,"ቡና (buna, ቡና) ነው። ቡና ኢትዮጵያ ውስጥ በጣም ታዋቂ መጠጥ ነው። በተለምዶ በሦስት ደረጃ ይዘጋጃል: አቦል፣ ቶና እና በረካ።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-76,Holidays/Celebration/Leisure,Menelik II Square.,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-spme-78,Holidays/Celebration/Leisure,"""Melkam Lidet""",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-01,Food,"በ escuelas ፊት ለፊት የሚሸጡ አማራጮች incluyen kolo (roasted barley with chickpeas and peanuts), biscuits, sambusa, and candy.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-09,Food,በኢትዮጵያ ለምግብ ማብሰል የሚጠቀምበት ዘይት በዋሉት ሰፊ ዘይት፣ ፓም ስብ እና ኑግ/ነግስ ስብ ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-10,Food,በኢትዮጵያ በእርግዝና ያሉ ሴቶች በተደጋጋሚ የሚጠቀሙት ምግብ በአ주 ዋናው የገንፎ (genfo) እና በአትሚት (atmit) ነው። እነዚህም በሰማይ ጸንት እና በርበሬ የተዋሃሩ ጥቅላማذج አትክልት ዱቄት እና በብረሌ እና በሰሜን አትክልት የተሰራ ፈሳሽ ናቸው።,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-15,Food,በኢትዮጵያ ቡና (buna) በጣም ታዋቂ ባህላዊ መጠጥ ነው። ቡና በኢትዮጵያ አርቃitectura ውስጥ ራእዩን ያሳያል። በኢትዮጵያ ቡና በውበት ይዘጋጃል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-17,Sport,በኢትዮጵያ ፓርኮች ውስጥ በጣም የሚገኙ ስፖርት ተቋማት የሆኑት የኳስ (فوتبል) ሜዳ፣ የቮሊቦል እና የብስበልት (ባስኬት‌ቦል) መርችዎች ናቸው። እነዚህም ብዙውን ጊዜ በ escuelas ውስጥ ይገኝበታል፤ በተጨማሪም በ parques ውስጥም አንዳንድ ጊዜ ይገኝበታል.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-21,Sport,በፓርኮች ውስጥ ሰዎች ይጎተራሉ፣ ይነቃቃሉ፣ fotografías ይወስዱታል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-24,Sport,"በኢትዮጵያ ወላጆች እና ልጆች በጋራ በተለይ የሚጫወቱ ስፖርቶች እግር ኳስ ( fútbol) ነው። እግር ኳስ በጣም ተወዳጅ deporte ሲሆን ወላጆችም ልጆችም በጋራ ይጫወታሉ። በተጨማሪም በጋራ የሚጫወቱ ሌሎች juegos አሉ፣ incluyendo gebeta, carrom, checkers, card games and dominoes.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-28,Sport,"Green, yellow, and red.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-33,Education,በኢትዮጵያ በትምህርት ቤት መምህራን ብዙውን ጊዜ በነጭ ቀበል እና በነጭ እሳት (white coat) ይ vestirባቸዋል። በተጨማሪም በነጭ እሳት (white shoes) ወይም በነጭ እሳት (sneakers) ይ vestirባቸዋል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-34,Education,"በኢትዮጵያ ትምህርት ቤቶች ውስጥ ሙዚቃን የሚወዱ እና ተወዳጅ የሆኑት እንቅስቃሴዎች መካከል Singing (ዘፈን) እና School Bands (ትምህርት ቤት ቡድኖች) ናቸው። በተጨማሪም የTradition Instruments (பாரம்பரியமான கருவிகள்) ማለትም Krar, Masenqo, Washint እና Kebero በመጠቀም ሙዚቃን ይጫወታሉ።",1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-42,Education,በኢትዮጵያ ትምህርት ቤቶች ውስጥ ምንም አይነት ሃይማኖት በትምህርት መልክ አይሰጣቸውም። ይልቁንም ላይ በሰነፍነት የሚሰጣቸው የሰነፍidad ትምህርት እና የéticas ትምህርት ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-45,Education,1 июня.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-50,Work life,በራሪ አካባቢዎች ሰዎች ዋና ሙያቸው በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በነዚህም ውስጥ ይካካሉ፡ በ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-51,Work life,በባህር ዳርቻ አካባቢ የሚኖሩ ሰዎች ዋና ስራቸው በዋና ደርвенት ውስጥ ጸንificadorነት እና ጨባustible ጨዋustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨባustible ጨ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-57,Work life,በኢትዮጵያ በጣም የሚረቡ እንስሳት አብዱላህ፣ የበሬ፣ ዶማ እና ጬንчики ናቸው። እነዚህም በኢትዮጵያ በብዙ ቦታዎች የሚገኝ የባህል እንስራ ናቸው።,1,0.25
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-58,Work life,"በኢትዮጵያ በአብዛኛው ለእርሻ ስራ የሚያገለግሉ እንስሳት በነጭ montañas እና በ산 áreas የሚኖሩ ናቸው። በነጭ montañas እና በ산 áreas ሰዎች በእርሻ ውስጥ teff, barley, and wheat ይ trồngና በነጭ montañas እና በ산 áreas ሰዎች በእርሻ ውስጥ oxen ይ ተጠቀምና በነጭ montañas እና በ산 áreas ሰዎች በእርሻ ውስጥ oxen ይ ተጠቀምና በነጭ montañas እና በ산 áreas ሰዎች በእርሻ ውስጥ oxen ይ ተጠቀምና።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-59,Work life,በፀሐይ ሙቀት ራሳቸውን ለመከላከል ኢትዮጵያዊ ገበሬዎች ከፀሐይ ራሳቸውን ለመከላከል የፀሐይ ሸሚዝ እና የኔቴላ ጋቢ ይለብሳሉ.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-60,Work life,እርሻ ሠራተኞች ብዙውን ጊዜ ኢንጀራ፣ ሽሮ (ચિકpea-flour stew) ወይም ሚસર વત (lentils) ይ吃ကြ છે. በተጨማሪ કૉሎ (ቆሎ) પણ ખાતા હોય છે.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-71,Family,በልደታቸው ቀን ወላጆቼ ለልጆቼ የሚሰጣቸው ስጦታዎች ብዙውን ጊዜ ቡና፣ azúcar፣ ፓስታ እና ልብስ ናቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-75,Family,በኢትዮጵያ አብዛኛው ቤተሰቦች mayoría የቶୟोटा ቫይትዝ (Vitz) እና ኮረሏ (Corolla) መኪኖች ያሏቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-77,Holidays/Celebration/Leisure,በኢትዮጵያ ለልጆች ለኢድ ባዕል አዲስ ልብስ፣ ገንዘብ እና juguetes ይሰጣሉ፡፡,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-81,Holidays/Celebration/Leisure,በሰርጋቸው ቀን ወንድ ሙሽራዎች በተለይ የባህል አረፋቸውን የሚያወጁ አልባሳት ያ穿着ታል። በተ Specifically፣ የባህል አረፋቸው የሆነውን “ሃበሻ ኬሚስ” (habesha kemis) ያ穿着ታል። በተጨማሪም የካፔ (cape) እና ሌሎች የባህል አረፋቸውን የሚያወጁ አረፋቶችን ያ穿着ታል።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-82,Holidays/Celebration/Leisure,በሰርጋቸው ቀን ኢትዮጵያዊ ሴት ሙሽራዎች በተለምዶ ነጭ ቀለም ያላቸው ልብስቶችን ይለበሱታል። ይህ ልብስ ብዙውን ጊዜ ነጭ “ሄባሻኬሚስ” (habesha kemis) የሚባል የ衣料 አይነት ነው። በተጨማሪም ነጩ “ኔቴላ” (netela) ጃኬት እና ነጭ የ衣料 ክረበት (tibeb) ይለበሳታሉ። እነዚህን ልብስቶች ከማንኛውም የ금속 joyería እና የ头bands ጋር ይሸላصهሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-83,Holidays/Celebration/Leisure,በሰርግ ቀን ላይ፣ በኢትዮጵያ በሰፊው የሚዘጋጀው ምግብ የዶሮ ዋት (Doro Wat)፣ አትክልት (Tibs)፣ ራህሎች (Kitfo) እና አትክልት (Tibs) ነው። በተጨማሪም የtej (ዘበዴት) እና የtella (ቤር) ይቀርባሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-86,Holidays/Celebration/Leisure,Grand (Menelik) Palace and Parliament are the most famous government buildings in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,New-su-88,Holidays/Celebration/Leisure,"ወጣቶች በእጅጉ የሚወዱት ሙዚቃ Ethiopian pop, hip-hop እና artistas እንዲህ ያሉ Teddy Afro ነው።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-02,Education,በመካከለኛ ትምህርት ቤት የሚ học estudiantes የሚ học 40-45 ደቂቃዎች የሚ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ የ,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-03,Education,በአብዛኛው፣ ኢትዮጵያውያን ሰዎች በ18-19 ዓመታት አካባቢ ወደ ዩኒቨርስቲ ይሄዳሉ። ብዙዎቹም 22-23 ዓመታት አካባቢ ዩኒቨርስቲቸውን ያጠናሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-06,Education,አምስት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-09,Education,በሳምንት አምስት ቀን ት/ቤት ይሄዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-11,Education,5,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-12,Education,Addis Ababa University (AAU).,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-13,Education,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-15,Education,13,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-19,Work life,5,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-20,Work life,18-22።,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-21,Work life,60,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-31,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች ገና በአል ሲያከብሩ፣ በ7 enero ቀን ነው የሚከበሩት። በዚያ ቀን ሁሉም ቤተክርስቲያኖች ነበታቸው ያ穿着， niños juegan el juego de la vara de Gena, y familias comen doro wat con ingera. También van muchos peregrinos a Lalibela para celebrar Gena.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-37,Holidays/Celebration/Leisure,"በኢትዮጵያ ሰዎች ፍቅርን እና ሮማንስን የሚያከብሩበት ዓመት ውስጥ የቀኑ ስም ""Enkutatash"" ነው። 
+
+It’s Valentine’s Day, celebrated with red roses, chocolates, and red clothing.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ni-en-40,Holidays/Celebration/Leisure,በኢትዮጵያ ብዙ አይነት የገና ሙዚቃዎች ታዋቂ ናቸው፣ ነገር ግን “Melkam Lidet” በጣም ታዋቂ ነው። ይህ canción በተ Specifically በ Birthday የሚተካ ሲሆን በ Birthday ላይ የሚዘሙት canción ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-04,Education,"7, 8",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-05,Education,1.   septiembre,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-06,Education,11 सितंबर/ ጥቅምት 11.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-11,Education,08:00,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-20,Family,1 июня.,,
+gemma3-4b,Ethiopia,Amharic,pers-3,Nu-in-40,Work life,አዲስ አበባ ኢትዮጵያዊው ሰው እንደሚለው፣ ለሥራ ፈላጊዎች ዋናው መድረሻ ነው። አዲስ አበባ በኢትዮጵያ የ comercialesና የ tài financiera መሃል ነው። ብዙ ሰዎች ወደсюда ይሔረራሉ፤ ከእነዚህም መካከል በቴክኖሎጂ ዘርፍ ያሉ ሰዎችና አርጀናሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-1,Food,Kaldi’s Coffee and Tomoca are the most popular fast-food chains here in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-13,Food,በኢትዮጵያ ምግብ በጣም የሚከፋፈለው በነዚህ አይነት ምግቦች ነው፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነዚህ አይነት ምግቦች፡ በነ,1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-16,Sport,Saint George (Kidus Giorgis) is by far the most popular and successful football club in Ethiopia.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-22,Sport,Addis Ababa University.,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-31,Family,በኢትዮጵያ ቤተሰብ ተወዳጅ የቤት እንስሳ Dogs ናቸው። ብዙውን ጊዜ እነዚህ Dogs የ保护员 হিসেবে ይጠናቃሉ።,1,0.8
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-32,Family,"""EBS TV’s talk show, ‘Seifu on EBS,’ is incredibly popular. You’ll also often find families enjoying dubbed foreign drama series, particularly on Kana TV.”",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-37,Family,"Gebeta, a mancala board game, is the most popular family board game in Ethiopia.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-6,Food,በኢትዮጵያ በጣም የታወቁናወዛigable የምግብ አይነት ደሮ ወጥ ነው። ደሮ ወጥ በስፋት የሚዘጋጀ፣ በበርቤር ጨህች አ Spicy የሆነ የ鸡肉 ስውት ነው። በበቀል የሚበብው እና በበቀል የሚበብው በ鸡蛋 ጋር ይዘጋጀ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-7,Food,በኢትዮጵያ ብዙ አይነት መክሰስ ምግቦች አሉ፣ ግን በጣም ተወዳጅ የሆነችዉት “ቆሎ” ነዉ። ቆሎዉ በምርጥ እና በቸርት መልክ የሚዘጋጀዉ ነዉ። በተጨማሪም ዳቦ ቆሎ፣ ስምባሳ፣ ቢስcuits፣ የ Roasted Corn እናም የተለያዩ አይነት ፍructs ይነድናሉ። በተለይም jóvenes ሰዎች пицца እና በርገር favoritos ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Sa-en-9,Food,በባህር ዳር ላይ ያሉ ሰዎች ብዙውን ጊዜ የሰለጠሰ ምግብ ይ吃ሉ፣ እንደ ሳምቡሳ፣ ቡግላ፣ እና የተለያዩ አይነት የ肉 ምናባሎች። በተጨማሪም፣ የሰለጠሰ የbread ይ吃ሉ፣ ብዙውን ጊዜ ከfirfir ወይም ከሌሎች የ肉 ምናባሎች ጋር።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-10,Family,28-30,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-11,Family,20,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-13,Family,አምስት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-17,Sport,ኦሊምፒክ ጨዋታዎች ውስጥ ኢትዮጵያ በረክ (ሩጫ) ስፖርት በጣም ታዋቂ ነው፤ በተ特别是 ረጅም தூር ረክ ውስጥ በጣም успешኛ ነን።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-21,Sport,ልጆች በኢትዮጵያ በተለምዶ መንገድ፣ ክፍለ ሜዳዎች እና በትምህርት ቤቶች ውስጥ የእግር ኳስ ይጫወታሉ። በተጨማሪም አንዳንድ ቤተሰቦች አንድ ላይ ይጫወታሉ።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-22,Sport,በኢትዮጵያ ሴቶች mayoría የሚጠቀሙበት የዕለት ተዕለት እንቅስቃሴ chạy (ሩጫ) ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-23,Sport,"በኢትዮጵያ ውስጥ ወንዶች መካከል በተመሳሳይ የሚደረግ ትርጉም እንደሚኖረው አውታረ መስመር ምንድን ነው?
+
+በኢትዮጵያ ውስጥ ወንዶች መካከል በተመሳሳይ የሚደረግ ትርጉም እንደሚኖረው አውታረ መስመር የፍላ}$, የኳስ (特别是 fútbol) እና የሰለጠነ እንቅስቃሴዎች ናቸው። ብዙ ወንዶች ሜስኬል ስክዌር፣ጃን ሜዳ ወይም ኢንቶቶ ላይ በማራመድ እና በመስጂድ ውስጥ በመጫወት ይሳተствуют።",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-25,Sport,Sheger Derby ከጊዮርጊስ ከቡና ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-29,Sport,አ chạyል ስፖርት እጅግ የሚከፍል ነው፣ በተ特别是 internacionales Races የሚ obtenidos ሽልማዳዎች ምክንያት።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-30,Sport,EBS TV’s talk show “Seifu on EBS” was a very popular choice for watching television in Ethiopia.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,"በኢትዮጵያ የአመቱ ጥቅምት 11 ቀን ነው። ይህ ቀን የ신 Year (Enkutatash) ነው, ይህም በኢትዮጵያ አዲስ አመት መጀመሪያ ነው።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,The yellow Adey Abeba flower is the most common symbol of the Ethiopian New Year!,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,በኢትዮጵያ በአዲስ አመት እለት፣ ሰዎች ዶሮ ወጥ (Doro Wat) ይበላሉ፣ ይህም በበርቤ (Berbere) የተደረገ አ Spicy የ鸡 ስቶቭ ነው። በተጨማሪም በዶሮ ወጥ ውስጥ የሚጨምሩ የboiled eggs ይበላሉ።,1,0.6
+gemma3-4b,Ethiopia,Amharic,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,"During the long nights of Ramadan and the Eid festivals, Ethiopians traditionally break their fasts and celebrate with *doro wat* – a spicy chicken stew – served with *injera*, a spongy flatbread. It’s a truly special and flavorful meal enjoyed with family and friends.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-01,Sport,"በኢትዮጵያ በክረምት ወቅት ሩጫ (长距离跑步) በጣም ታዋቂ deporte ነው። ብዙ ኢትዮጵያዊያን በሩጫ ውስጥ በጣም успеш ናቸው፣特别是 10,000 ሜትር፣ 5,000 ሜትር እና మారோን ላይ።",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-03,Sport,በኢትዮጵያ የፍุตબોል ሊግ፣ በተለይም የእንግሊዝ እግር ኳስ ሊግ በጣም ታዋቂ ነው፤ ብዙ ሰዎች በእግር ኳስ ውስጥ entusiasmo አላቸው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-05,Sport,"ለ mujeres, በጣም ተወዳጅ ስፖርት ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳጅ deporte ቡድኖች የ существуют, लेकिन በጣም ተወዳ",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-09,Sport,በኢትዮጵያ እግር ኳስ ( fútbol) በጣም ታዋቂ deporte ነው። ብዙ ሰዎች ይጫወታሉ፣ ይስራሉ።,1,0.2
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-11,Sport,"Abebe Bikila is arguably the most famous Ethiopian athlete. He was the first African Olympic champion, winning the 1960 marathon barefoot, a truly remarkable achievement!",1,0.4
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-12,Sport,"Ethiopia is incredibly successful in athletics, particularly long-distance running. Our nation passionately supports our athletes, and we’ve consistently earned most of our Olympic gold medals in events like the 10,000m, 5,000m, and marathon.",1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-15,Sport,በኢትዮጵያ በክረምት የተወደደ ስፖርት እግር ኳስ ( fútbol) ነው። እግር ኳስ በኢትዮጵያ በጣም ተወዳጅ ስፖርት ሲሆን በሁሉምEdad grupos እና በሴቶች መካከልም ይጫወታል። በተጨማሪም በክረምት ወቅት የሚጫወቱ ሌሎች deportesም አሉ፣ ነገር ግን እግር ኳስ ግን በጣም ተወዳጅ ስፖርት ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-19,Work life,"በኢትዮጵያ በዋናነት በኮffe አ生产 ውስጥ የታወቀችው ክልል የቅርቡ Sidama ነው። በተጨማሪም Yirgacheffe (Gedeo), Jimma, Kaffa እና Harar ክልሎችም በኮffe አ生产 ውስጥ ትልቅ ሚና desempeñan.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-21,Work life,"በኢትዮጵያ ለሠራተኞች ተለይቶ የሚቀርብ እና እጅግ ዋና የሆነ ተጨማሪ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣ ለሠራተኞቻችን የሚቀርብ በጣም አስፈላጊ የሆነ አበል ምንድነው?
+
+በአ本情况下፣",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-22,Work life,The most catastrophic period for Ethiopia’s economy was the 1983-1985 famine under the Derg regime.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-24,Work life,Addis Ababa is the main hub for tech workers and their activities.,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-27,Work life,"Agriculture is undeniably the most vital industry in Ethiopia. It’s the backbone of our economy, employing the vast majority of our people, and our coffee is renowned worldwide – a source of immense pride and income for our nation.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-35,Family,በኢትዮጵያ በቤተሰብ አባላት መካከል ብዙውን ጊዜ እራት ላይ ይነሳሉ፣ በተ特别是 በሰንክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክ,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-36,Family,በሳምንት መጨረሻ ቤተሰብ ከልጅ ጋር ለመስራት ብዙውን ጊዜ ወደ ፓርኮች እና ስፍራዎች እንходим፣ ለምሳሌ ዩኒટી ፓርክ፣ ኤንટોቶ ፓርክ ወይም ፍ્રેንድሽፕ ፓርክ። በተጨማሪም ቤተሰብ ወደ Church ለመጎብኘት እና ለተባሉ አባላት እና እማችሞችን ለመደ Visit ማድረግም ይ常见 ነው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-37,Family,12,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-38,Family,ፋሲካ (እሑድ በዓል) በአስፈላጊ በዓል ቤተሰብ reunión የሚከበርበት ዋና በዓል ነው።,1,1.0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-39,Family,"Gebeta, a mancala board game, is a very popular family game in Ethiopia.",,
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-41,Family,28 እና 25.,1,0.5
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-43,Family,በጣም ብዙ ቤተሰቦች አንድም የመኪና ባለቤት የሌለው። ብዙውን ጊዜ በባጃጅ ወይም በብስጭት የሚጓዙት ናቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-44,Family,"በሳምንቱ መጨረሻ ኢትዮጵያውያን ብዙውን ጊዜ ዶሮ ወጥ (Doro Wat) ይ吃 می‌کنند።  It’s a very special and flavorful dish, perfect for sharing with family and celebrating the end of the week.",1,0.3333333333333333
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-45,Family,በሳምንቱ ምሽት ቤተሰቦቼ ጋር በቤት ውስጥ ቡና እንጠጣለን፣ ምግብ እን吃ተዋለን፣ እና ቲቪ እንсмотрим።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-48,Education,A+ and A (4.0 GPA) are the highest grades in Ethiopian schools and universities.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-49,Education,"The Grade 12 exam, also known as the Ethiopian Secondary School Leaving Certificate Examination, is the most crucial test for high school students in Ethiopia.",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-51,Education,Mathematics and English are considered the most important subjects.,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-53,Education,በኢትዮጵያ ት/ቤቶች ውስጥ ታዋቂው ከመደበኛ ትምህርት ውጪ ማኅበራዊ ክስተት ምናልባት የ Fútbol (Soccer) ነው። በበኩሌዎች፣ በኋላ እና በ உடற்பயிற்சி ሰአት ይጫወታል። ብዙ ት/ቤቶችም የ Fútbol ሜዳ እና ሌሎች የ deportes መ Facilities አሏቸው።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Th-en-58,Education,"በዩኒቨርስቲ መ进入 በፊት የሂሳብ ርዕስዎ Matemática ነው. 
+
+(Mathematics)",0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Tmp-ar-01,Education,ዩኒቨርስቲ ተማሪዎች ለማጠቃላያ ፈተናቸው ለማጥናት በተለይ በዩኒቨርሲቲ ካምፓስ ቤተክتاب ውስጥ ይሄዳሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Tmp-ar-02,Education,በኢትዮጵያ ወደ ዩኒቨርስቲ ለመሄድ ሰዎች ብዙውን ጊዜ ሚኒብስ እና አብሳና ሹል ያሉ общественного ማ Transporte ይጠቀማሉ። በተጨማሪም፣ ብዙ ዩኒቨርስቲ ተማሪዎች ወደ ዩኒቨርስቲዎች ለመጓዝ በሹል ይጓዛሉ።,0,0
+gemma3-4b,Ethiopia,Amharic,pers-3,Tmp-ar-04,Education,"After school, Ethiopian students usually do their homework, play football, and help out around the house. It’s a really active and busy time for them!",1,1.0

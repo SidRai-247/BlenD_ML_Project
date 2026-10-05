@@ -1,0 +1,502 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+mistral-7b,Ethiopia,English,inst-4,Al-en-01,Food, Kolo or biscuits,0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-02,Food, Tibs (sautéed beef or lamb),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-04,Food, Banana (ሙዝ),0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-06,Food, Injera with shiro (ሽሮ),0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-08,Food," Pizza, burgers, chips (French fries), sambusa, and egg sandwiches.",0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-09,Food, Sambusa or Popcorn,0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-16,Education,4,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Al-en-17,Education, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-18,Education," The information provided does not specify that elementary students receive private education for a specific subject in Ethiopia. However, it is mentioned that mathematics, English and physics are the most tutored subjects in private tutoring, which usually happens at home. So, it can be inferred that these three subjects might be the ones receiving private education, but not necessarily for elementary students.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-19,Education, English,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-21,Education, Mathematics,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-32,Holidays/Celebration/Leisure, Doro wat,0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-33,Holidays/Celebration/Leisure, There is no tradition of celebrating Halloween in Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,Al-en-34,Holidays/Celebration/Leisure," People wear traditional white clothes, go door to door singing ""Abebayehosh"", families slaughter a chicken or sheep for doro wat and go to church.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-35,Holidays/Celebration/Leisure," People attend all-night church services, dress in white netela shawls, boys play the genna stick game, and families eat doro wat with injera on Christmas (Genna) in Ethiopia. Many pilgrims go to Lalibela for Genna.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-36,Holidays/Celebration/Leisure," There is no information provided about Halloween in Ethiopia. Therefore, I cannot definitively say what food is associated with Halloween in Ethiopia.",,
+mistral-7b,Ethiopia,English,inst-4,Al-en-37,Holidays/Celebration/Leisure, Doro wat with injera,0,0
+mistral-7b,Ethiopia,English,inst-4,Al-en-38,Holidays/Celebration/Leisure, Red roses and chocolates are associated with Valentine's Day in Ethiopian cities.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-39,Holidays/Celebration/Leisure," Cake and ""Happy Birthday"" song (Melkam Lidet)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-40,Holidays/Celebration/Leisure," Unity Park, Entoto Park, Friendship Park or play areas in malls (e.g. Edna Mall) are popular outdoor places for families with children in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Al-en-43,Holidays/Celebration/Leisure, Coffee ceremony together,,
+mistral-7b,Ethiopia,English,inst-4,An-ar-02,Education, University cafeteria (or campus),1,1.0
+mistral-7b,Ethiopia,English,inst-4,An-ar-03,Education,6,0,0
+mistral-7b,Ethiopia,English,inst-4,An-ar-08,Education,6-7,1,1.0
+mistral-7b,Ethiopia,English,inst-4,An-ar-09,Education,3,0,0
+mistral-7b,Ethiopia,English,inst-4,An-ar-34,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,An-ar-35,Sport, The information provided does not specify who the most popular sport commentator in Ethiopia is.,0,0
+mistral-7b,Ethiopia,English,inst-4,An-ar-36,Sport, Saint George (Kidus Giorgis),1,1.0
+mistral-7b,Ethiopia,English,inst-4,An-ar-43,Sport," Football houses, cafés, bars, homes, and small paid TV viewing rooms.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-05,Food,3,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-06,Food," Lunch (or midday meal) is considered the most important meal in Ethiopia, as it is often the largest and most communal meal of the day.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-08,Food, Teff,0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-09,Food," Cake, baklava, halawa (sesame/peanut sweet), candy, and fruit are popular desserts in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-11,Food, Sunday,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-14,Food," Coffee (buna, ቡና)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-19,Holidays/Celebration/Leisure," Soft drinks, alcoholic drinks like tej, tella, areke, whisky, or beer.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,11 (Enkutatash) or 9 (Mesir/New Year),0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-29,Holidays/Celebration/Leisure," There is no specific tradition for New Year's Eve in Ethiopia as their New Year, Enkutatash, is celebrated on 11 September. The festivities and preparations are typically done on the day of the New Year itself.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-38,Family," The typical type of house for a family in Ethiopian cities is a condominium apartment or compound house (gibi), while in rural areas it is the round thatched hut (tukul).",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-41,Family, With their children and family (in households with multiple generations).,0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-42,Family,120,1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-43,Family,3,0,0
+mistral-7b,Ethiopia,English,inst-4,Ca-sp-45,Family, Lake resorts,0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-05,Sport," Table tennis, basketball, volleyball, billiards (pool), taekwondo, karate, athletics (running)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-06,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-07,Sport, The information provided does not mention a famous Ethiopian basketball player.,,
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-08,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-09,Sport, Volleyball and running/athletics,0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-11,Sport,"10,000 m or Marathon",0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-15,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-16,Family,4.6 (Based on information from the 2016 Ethiopia Demographic and Health Survey),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-18,Family,3-4,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-31,Education,6,0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-32,Education,6,0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-33,Education,7,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-38,Education,"4 (for most undergraduate programs), 5 (for engineering), 6 (for medicine)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-40,Education,12:30 (assuming the morning shift for younger elementary school students),0,0
+mistral-7b,Ethiopia,English,inst-4,Gu-ch-41,Education,1,0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-02,Work life, Sunday,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-03,Work life, Addis Ababa,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-07,Work life, MIDROC Ethiopia,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-08,Work life,48,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-09,Work life," Injera, raw meat, tibs with beer.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-14,Work life, Coffee,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-15,Work life,1.0,0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-16,Family, At her own mother's home. (This is based on tradition as per information [1]),0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-19,Family," The information provided does not specify a flower for Parents' Day in Ethiopia. Therefore, it cannot be determined from the given background information.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-22,Family, Clothes for the mother,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-24,Family, Football (soccer),0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-25,Family," Fasika (Easter), Genna (Christmas), Meskel, Enkutatash (New Year), Eid, Timket, Adwa Victory Day (2 March), Patriots' Victory Day (5 May), Downfall of the Derg (28 May) and Enkutatash (11 September).",,
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-26,Family," Finishing university, getting a job, and marriage",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-27,Family," Coffee, sugar, bread, clothing (such as a gabi or netela shawl), or money.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-28,Family," The first day that people celebrate after a child is born in Ethiopia is on the child's birthday, which can vary depending on when the child is born throughout the year. However, it is often noted that the first birthday is the most celebrated.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-29,Family, The first birthday is celebrated the most grandly in Ethiopia's society.,0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-31,Education," Middle and high school students in Ethiopia usually study for exams at home, libraries (school, university and public), campus library or dorm.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-33,Education, They usually go home.,1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-34,Education, Most elementary school students walk to school.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-35,Education, Private tutoring,0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-36,Education," Mathematics, English, or Physics (through private tutoring) is most commonly attended by middle or high school students in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-37,Education, School uniforms with ordinary shoes or sneakers.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-38,Education, Medicine,1,0.75
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-39,Education, Singing or no musical instrument (as per point [1]).,0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-40,Education," Chat, play, and eat snacks.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-41,Education, Ordinary shoes or sneakers,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-42,Education," Mathematics, English, and aptitude subjects (natural- or social-science depending on stream)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-44,Education," The information provided does not specify a city or region with the highest academic fervor in Ethiopia. Therefore, I cannot provide an accurate answer based on the given background information.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ji-ko-45,Education," Traditional clothing and accessories (such as cross necklaces, gold or silver jewellery, and headbands) are often worn by attendees at university festivals in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-01,Sport, Long-distance running (ሩጫ),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-02,Sport, Taekwondo or Karate,0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-09,Sport," Billiards (Pool) and Taekwondo are considered to be popular among the young men of the upper class in Ethiopia, according to the provided information.",0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-13,Sport, There is no information provided about the most popular water sport in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-14,Sport, The information provided does not mention any mental sports specifically popular in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-18,Work life,13,0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-19,Work life, Oromia and Amhara,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-21,Work life,12:30,0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-31,Education,15:30-16:00,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-32,Education, Football (soccer),0,0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-36,Education,8-10,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-37,Education,8-10,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-39,Education,7,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jo-sp-43,Education,2,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-01,Food, Clay griddle (mitad) and clay pot (jebena).,0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-04,Food," Coca-Cola, Pepsi, Mirinda, Fanta, Sprite, and Ambo are popular soft drinks in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-06,Food, Tej (ጠጅ),1,0.75
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-07,Food,19:00 - 20:00 = 1.0 hours (rounded to one decimal place),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-09,Food,19:00-20:00,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-12,Food," People from Ethiopia like various soups such as lentil soup, vegetable soup, meat/bone broth (shorba), pasta soup, and doro wat (spicy chicken stew with boiled eggs and berbere).",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-13,Food," Sambusa, chips (French fries), burgers, pizza, shawarma, ful, egg sandwiches, kolo, dabo kolo, popcorn, roasted corn (yebekolo tibs), peanuts, and sambusa are popular street foods in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-15,Food," People from Ethiopia do not typically consume seafood, as Ethiopia is landlocked.",0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-16,Holidays/Celebration/Leisure, Meskel (መስቀል),0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-28,Holidays/Celebration/Leisure," Long-distance bus (e.g. Selam Bus, Sky Bus)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-30,Holidays/Celebration/Leisure, Demera bonfire (for Meskel) and yellow Meskel daisies (Adey Abeba).,0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-37,Sport, Athletics (Running) and Football,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-38,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-41,Holidays/Celebration/Leisure," Meeting friends at cafés, shopping, social media, watching athletics and football, playing volleyball or running.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-42,Holidays/Celebration/Leisure, Watch football or meet in cafés.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-46,Work life,1.0,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-48,Work life," Injera with shiro, misir wat, or beyaynetu are common lunches during working days in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-50,Work life,30-60,0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-51,Work life, Minibus taxi,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-54,Work life,3,0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-56,Work life,60,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-57,Work life,60,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-58,Work life, Doctors,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-60,Work life,8 or 16 (depending on whether you consider the full 24-hour day or just the working hours),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-61,Work life, Nursing or Teaching,0,0
+mistral-7b,Ethiopia,English,inst-4,Jod-ch-62,Work life, Engineering or Medicine,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-17,Education, High school (secondary education),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-24,Education," Amharic and a regional language (e.g. Afaan Oromo, Tigrinya)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-30,Education, Saturday and Sunday,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-32,Food, Doro wat with injera is typically prepared for guests in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-34,Food, Coffee (buna) or Tea (shai),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-36,Food, Italy,0,0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-39,Food," Injera rolls with firfir or dulet, sambusa, kolo, fruit, and soft drinks.",,
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-40,Food," There is no specific food from Ethiopia that is universally considered disgusting. The foods mentioned, such as injera, doro wat, shiro, key wat, misir wat, tibs, kitfo, genfo, atmit, chicken soup, kinche, eggs, coffee beans, berbere, mitmita spice, honey and tej, are all traditional Ethiopian dishes that are well-known and appreciated in their own right. However, individual taste preferences may vary among different cultures and regions.",,
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-43,Food, Dabo,0,0
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-51,Work life,17:00,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Ki-pe-53,Work life,08:30,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-01,Holidays/Celebration/Leisure," Timket, which is celebrated over about three days (Ketera eve, Timket, and St. Michael's day).",0,0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-02,Holidays/Celebration/Leisure, There is no Independence Day in Ethiopia as it was never colonized. The closest national celebrations are Adwa Victory Day (2 March) and Patriots' Victory Day (5 May).,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-04,Holidays/Celebration/Leisure, Mourning tent (dass),,
+mistral-7b,Ethiopia,English,inst-4,Kik-in-05,Holidays/Celebration/Leisure," The pregnancy celebration or ceremony is not specifically mentioned in the provided background information to be held at a particular time. However, it's worth noting that the busiest wedding season in Ethiopia runs from January through March, which could potentially include celebrations related to pregnancies as well.",0,0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-06,Holidays/Celebration/Leisure, Elders (shimagile) asking the bride's family for marriage.,0,0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-07,Holidays/Celebration/Leisure, A drawing of flowers or money/bread.,1,0.5
+mistral-7b,Ethiopia,English,inst-4,Kik-in-08,Holidays/Celebration/Leisure," Cleaning homes, buying food supplies, and preparing spices and dates for iftar.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-10,Holidays/Celebration/Leisure, The rock-hewn churches of Lalibela or Axum (St Mary of Zion) are the most popular tourist attractions for foreign visitors in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-11,Holidays/Celebration/Leisure, Lalibela and Axum (St Mary of Zion),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-15,Holidays/Celebration/Leisure, School uniforms (not traditional white cotton clothing),1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Kik-in-16,Food, Coffee (or tea),1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Kik-in-17,Food, Dates,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-24,Food, French fries (chips) or rice,0,0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-31,Sport, Taekwondo or Karate are the most practised martial arts in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-34,Sport," Football (soccer) and occasionally table tennis, basketball, volleyball, billiards (pool), taekwondo, karate, and other sports are broadcasted on national television in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-35,Sport," Table tennis, basketball, volleyball, billiards (pool), taekwondo, karate, card games, dominoes, and carrom (kerem) were popular sports among people from Ethiopia during the COVID-19 pandemic.",0,0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-36,Sport, Sewnet Bishaw,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-37,Sport, Saint George vs Ethiopian Coffee (Sheger Derby),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Kik-in-38,Sport, Saint George vs Ethiopian Coffee (or Kidus Giorgis vs Ethiopia Bunna),,
+mistral-7b,Ethiopia,English,inst-4,Kik-in-40,Sport, The information provided does not mention any famous male badminton players from Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,Kik-in-41,Sport, The information provided does not mention any famous female badminton players from Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,Kik-in-44,Sport, Athletics,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,Kik-in-45,Sport," Football field, volleyball court, basketball court.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-02,Food, Coffee (buna),0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-04,Food, Genfo or chicken soup,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-05,Food," Nourishing foods such as genfo or chicken soup are typically given after childbirth in Ethiopia, but they are not considered delivery food in the modern sense. Modern delivery food options in Ethiopian cities include sambusa, pizza, burgers, and shawarma.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-07,Food, Beef,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-08,Food, Mango,1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Na-ko-09,Food, Injera,1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Na-ko-11,Food," Popcorn, kolo, peanuts, sambusa, beer or soft drinks.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-15,Food, Injera,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-16,Sport, Mengistu Worku,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-17,Sport, Football (soccer) and Basketball,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-18,Sport, Volleyball,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-19,Sport, The information provided does not specify a particular volleyball player as being the most popular in Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,Na-ko-20,Sport, Athletics (or Track and Field),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-22,Sport, Ethiopia's biggest rival in soccer matches is Ethiopian Coffee (Ethiopia Bunna).,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-23,Sport, Football (soccer) academies are attended the most by children in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-24,Sport, Kolo or popcorn are commonly eaten foods in sports stadiums while watching games in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-25,Sport," Football, Athletics (running), Volleyball, Basketball",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-26,Sport," Walking and jogging, going to the gym, and playing football.",1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Na-ko-28,Sport, There is no information provided about a popular winter sports player from Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-29,Sport, There is no information provided about the most famous swimmer in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-30,Sport, The information provided does not mention any e-sports games being popular in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-33,Holidays/Celebration/Leisure, Doro Wat (chicken stew),,
+mistral-7b,Ethiopia,English,inst-4,Na-ko-37,Holidays/Celebration/Leisure," Bishoftu (Debre Zeit, Kuriftu resort), Hawassa, Bahir Dar (Lake Tana) are among the popular domestic vacation spots for people from Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-38,Holidays/Celebration/Leisure," Gifts (telosh) from the groom to the bride, such as clothes and jewellery.",0,0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-39,Holidays/Celebration/Leisure, Money or household items,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3 (for the immediate mourning period) + 40 (for the memorial on the 40th day) = 43,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-41,Holidays/Celebration/Leisure," Bread (injera) or food, coffee or money.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-42,Holidays/Celebration/Leisure," Bread (dabo), injera, and food are commonly brought to funerals in Ethiopia.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Na-ko-43,Holidays/Celebration/Leisure," People in Ethiopia wear traditional white clothes, go to church, and often slaughter a chicken or sheep for doro wat on the morning of their Lunar New Year, Enkutatash.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-44,Holidays/Celebration/Leisure," The information provided does not specify when Ethiopia experiences its most severe nationwide traffic congestion. However, it can be inferred that such a situation might occur during national holidays like Adwa Victory Day (2 March), Patriots' Victory Day (5 May), Downfall of the Derg (28 May), Enkutatash (11 September), or during Timket celebrations over about three days.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Na-ko-45,Holidays/Celebration/Leisure," Bishoftu (Debre Zeit, Kuriftu resort) or Hawassa are popular honeymoon destinations in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-05,Holidays/Celebration/Leisure," Adwa Victory Day (2 March) or Enkutatash (11 September), depending on the perspective of the response.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-06,Holidays/Celebration/Leisure," Dates, sambusa, soup, fruit.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-09,Holidays/Celebration/Leisure," Doro wat, meat dishes, sweets, and fruit.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-10,Holidays/Celebration/Leisure," Doro wat, meat dishes, sweets, and a sheep or ox (slaughtered during Eid al-Adha) are eaten.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-11,Holidays/Celebration/Leisure," People from Ethiopia celebrate their New Year, Enkutatash, at home with their families.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-14,Holidays/Celebration/Leisure, At home and public places like stadiums and Meskel Square.,1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-16,Work life, Saturday and Sunday,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-17,Work life,08:30,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-18,Work life,17:30,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-20,Work life, Government jobs and bank jobs are considered the most secure in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-24,Work life, Addis Ababa,0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-25,Work life, Aviation (Ethiopian Airlines),0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-26,Work life, Ethiopian Airlines,0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-31,Food, Doro wat (ዶሮ ወጥ),0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-32,Food," Firfir/fitfit, chechebsa, genfo, kinche, fatira, ful, or bread with tea or coffee.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-33,Food,12:30,1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-34,Food, Injera and berbere (chili spice mix) are typically indispensable in meals in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-36,Food, Doro wat,0,0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-37,Food," Mango or Avocado (or both) are commonly offered to tourists/visitors in Ethiopia, as they are popular fruits in the country and often used in local dishes.",1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-38,Food," Dabo (bread), injera, and kolo are foods that people usually offer as charity in Ethiopia.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-39,Food, Shiro or pasta are the cheapest quick meals in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-43,Food, Bread (dabo) or dabo kolo or biscuits.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ne-ar-44,Food," Popcorn (fendisha), kolo (roasted barley), bread (dabo) or tea.",1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-am-02,Food, Doro wat (ዶሮ ወጥ),0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-04,Food, Awaze (berbere paste) or mitmita (hot birdseye-chili powder),0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-08,Food," Vegan food (shiro, misir wat, kik alicha, gomen, atkilt, beyaynetu)",1,0.2
+mistral-7b,Ethiopia,English,inst-4,New-am-15,Food, Genfo and Atmit,0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-27,Sport, Tirunesh Dibaba,0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-34,Education," At home or in libraries (school, university and public libraries).",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-am-41,Education,8th Grade (Grade 8),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-am-53,Work life," Sidama, Yirgacheffe (Gedeo), Jimma, Kaffa, Harar",0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-54,Work life," Oromia and the lowlands of Borana, Somali, and Afar are known for their livestock industry.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-am-59,Work life, Pastoralism,0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-60,Work life, Horse (from information [2]),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-am-72,Family, The information provided does not mention any specific comic book that is popular among children in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-73,Family," ""Tsehai Loves Learning"" (assuming it has a dedicated YouTube channel)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-74,Family, Seifu on EBS (EBS TV's talk show),0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-77,Holidays/Celebration/Leisure," Meskel (መስቀል, Finding of the True Cross)",1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-am-81,Holidays/Celebration/Leisure,1,0,0
+mistral-7b,Ethiopia,English,inst-4,New-am-83,Holidays/Celebration/Leisure, Krar,0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-01,Food," Teff, maize, wheat, sorghum, barley, or coffee (the country's main crops) are all agricultural products produced in Ethiopia. However, if you are looking for a single answer, then ""Teff"" would be the simplest response.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-02,Food, Injera,0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-05,Food, Coffee (buna),0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-07,Food, The information provided does not specify a popular dish cooked with fish in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-14,Food," Hot drinks (coffee, tea), roasted corn, kolo, genfo and soup.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-15,Food," Cold water, soft drinks, Ambo water and fresh juices.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-20,Sport," Table tennis, basketball, volleyball, billiards (pool) or taekwondo/karate (both are martial arts but can be considered as sports). However, it's important to note that table tennis, basketball, and volleyball are more commonly played indoors.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-as-29,Sport, Football (soccer),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-30,Sport, Athletics (Running) and Football,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-58,Work life," Tea (shai, ሻይ)",1,0.75
+mistral-7b,Ethiopia,English,inst-4,New-as-64,Family, Fasika (Easter) and Meskel are among the biggest family gatherings in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-76,Holidays/Celebration/Leisure," Families in Ethiopia play traditional games such as gebeta, genna (hockey-like game), gugs, and donga (stick fighting) during their traditional holidays.",,
+mistral-7b,Ethiopia,English,inst-4,New-as-80,Holidays/Celebration/Leisure," People from Ethiopia wear traditional white cotton clothing during their festivals. Women wear the habesha kemis with colorful embroidered borders (tibeb) and a netela shawl, while men wear white traditional suits.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-as-89,Holidays/Celebration/Leisure," Cross necklaces, gold or silver jewellery, headbands.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-az-05,Food," Harar (for traditional alcoholic drinks) or Kaffa/Gondar (for commercial beer, with Dashen brewed in Gondar).",0,0
+mistral-7b,Ethiopia,English,inst-4,New-az-11,Food, Mango and Avocado,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-az-12,Food, There is no seafood region in Ethiopia as it is landlocked.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-az-21,Sport, There is no information provided that suggests Ethiopia has a popular skiing destination.,,
+mistral-7b,Ethiopia,English,inst-4,New-az-26,Sport," Taekwondo or Karate players are the most practised among Ethiopians, but no specific individual is mentioned as the most popular martial arts player in the provided information.",,
+mistral-7b,Ethiopia,English,inst-4,New-az-27,Sport," Football (soccer) or Basketball, as they are popular at schools and among young people. However, it's important to note that athletics (running), volleyball, table tennis, and billiards have also maintained their popularity. The fastest-growing sport might encompass various activities due to the increasing interest in sports overall.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-az-39,Education, United States,0,0
+mistral-7b,Ethiopia,English,inst-4,New-az-49,Work life,1 or 2,0,0
+mistral-7b,Ethiopia,English,inst-4,New-az-60,Family," Grandparents, relatives or a housemaid (nanny)",1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,New-az-69,Holidays/Celebration/Leisure, Beer or Areke,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-az-70,Holidays/Celebration/Leisure, Tej,0,0
+mistral-7b,Ethiopia,English,inst-4,New-az-73,Holidays/Celebration/Leisure, Several hundred,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-01,Food, Grilled or sautéed beef or lamb (tibs),1,0.25
+mistral-7b,Ethiopia,English,inst-4,New-ch-02,Food,7:00-8:00,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-04,Food," Kolo, popcorn, roasted corn (yebekolo tibs), peanuts, chips.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-05,Food, Doro wat,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-07,Food," Tibs (sautéed beef or lamb), kitfo, raw meat (tere siga), kolo, peanuts or chips.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-08,Food, Berbere,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-09,Food," Hot drinks (coffee, tea), roasted corn, kolo, genfo and soup.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-13,Food," St. George (the oldest, Addis Ababa)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-14,Food, Genfo (thick barley or wheat porridge with spiced butter and berbere) and atmit (thin barley-oat drink).,1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-ch-15,Food," Pasta, bread, biscuits, chips (French fries), pizza, and packaged snacks like popcorn, peanuts, and candies.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-16,Sport," ""Endurance"" (1999)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-17,Sport," The information provided does not mention any extreme sports. Therefore, it is not possible to determine what extreme sport people generally wish to try the most in Ethiopia based on the given background information.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-18,Sport,"10,000 m, 5,000 m or marathon",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-19,Sport," Gymnastics events are not among the most popular sports to watch in Ethiopia, as indicated by the provided background information.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-23,Sport, The information provided does not specify a famous Ethiopian table tennis player.,,
+mistral-7b,Ethiopia,English,inst-4,New-ch-26,Sport," The information provided does not mention any participation of Ethiopia in the Winter Olympics. Therefore, it cannot be determined which event is the most popular to watch in the Winter Olympics in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-27,Sport, The information provided does not mention any famous Ethiopian boxers.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-30,Sport, Haile Gebrselassie,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-31,Work life, Doctor or Engineer,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-32,Work life, The information provided does not specify the office software used in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-38,Work life," Addis Ababa, Dire Dawa, Modjo (via the Addis Ababa-Djibouti corridor), Hawassa, Bole Lemi (Addis Ababa), Dukem (Eastern Industrial Zone), Adama, and Kombolcha.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-39,Work life, Telegram and Facebook,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-44,Work life,60 working days,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-45,Work life," Young people in Ethiopia typically choose to start businesses in sectors such as cafés, trading, tech start-ups, online shops, and tutoring.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-49,Family, Phone calls and Telegram are the most common ways for family members to communicate remotely in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-51,Family," Hotels or resorts (in lake resorts such as Bishoftu, Hawassa, Bahir Dar, Lake Langano, Sodere hot springs and Arba Minch)",1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,New-ch-54,Family, Banana (ሙዝ),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-64,Education,"24 (Assuming that each class period is approximately 45 minutes and there are 6 days a week, excluding weekends).",1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-ch-66,Education,0 (Public high schools in Ethiopia are free),0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-70,Education," Communicative English, Logic and Critical Thinking, Mathematics, Civics and Moral Education, General Psychology, Anthropology, Geography of Ethiopia and the Horn, History of Ethiopia and the Horn, Physical Fitness and Entrepreneurship.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-71,Education,50-60,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-72,Education, Engineering or Computer Science,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-73,Education, Football (soccer) clubs are most popular among university students in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-74,Education, University students in Ethiopia typically live in campus dormitories or rented rooms.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-75,Education,40-45,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-78,Holidays/Celebration/Leisure," Coffee ceremonies, visiting neighbours and attending church associations",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-79,Holidays/Celebration/Leisure," Chat over coffee, play cards or checkers, go to church.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-80,Holidays/Celebration/Leisure," Fasika (Easter), Meskel, Timket",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-81,Holidays/Celebration/Leisure," Household items, such as clothing (like gabi or netela shawl) or money.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-82,Holidays/Celebration/Leisure," The specific timing for Ethiopian weddings is not provided in the background information. However, it's common for ceremonies to take place during the day, as many traditional events often occur during the light hours.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ch-83,Holidays/Celebration/Leisure, Addis Ababa,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-84,Holidays/Celebration/Leisure, White or traditional white clothing,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ch-85,Holidays/Celebration/Leisure, Black,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-01,Food, Popcorn,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-02,Food, Not provided (The information does not specify the flavor of chips or crisps in Ethiopia.),0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-04,Food, Marcus Samuelsson,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-05,Food, Shiro,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-07,Food, The information provided does not specify the most popular cooking shows in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-08,Food, The information provided does not mention a popular chocolate brand in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-10,Food, Ayib,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-11,Food," The information provided does not state which vegetable is the most disliked in Ethiopia, so it cannot be determined from this data.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-12,Food, Bread and pasta (macaroni) are common wheat-based foods found in food courts in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-17,Sport, Cheers or chants (verbal) and flags or banners (physical).,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-18,Sport," Popcorn, kolo, peanuts, sambusa, beer or soft drinks.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-19,Sport, Addis Ababa Stadium,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-23,Sport, The information provided does not mention any Paralympians from Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,New-en-26,Sport," The information provided does not specify a ""best recognized sporting chant"" in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-38,Work life," Tech start-ups, online shops, tutoring, cafés, and ride-hailing services (Ride, Feres) are known for more flexible working hours in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-41,Work life, Mohammed Al Amoudi,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-47,Family," Enset (false banana), vegetables such as gomen, fruit trees, chickens, and sometimes a coffee plant.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-49,Family, Solomonic dynasty,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-50,Family," Tesfaye, Mohammed, Getachew, Alemu, Abebe are common names in Ethiopia, but Ethiopians do not have family surnames as you might be familiar with in Western cultures. Therefore, there is no most common ""family name"" in the traditional sense.",,
+mistral-7b,Ethiopia,English,inst-4,New-en-55,Family, Christian,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-56,Family, English,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-59,Family, The United States,0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-68,Education," In Ethiopia, consequences for bad behavior in schools can include detention, suspension, expulsion, community service, or counseling, depending on the severity of the misconduct.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-69,Education," Haddis Alemayehu, Bealu Girma, Tsegaye Gabre-Medhin, Kebede Michael, and Abe Gubegna",1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-en-70,Education,2,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-72,Education," YouTube, Telegram study channels, and Google.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-75,Education,"20 (Assuming each semester has approximately 15 weeks of teaching, considering that there are two semesters per year and the school year lasts for about 30 weeks.)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-76,Holidays/Celebration/Leisure," I'm sorry for any confusion, but the question does not specify which airport is being referred to. However, considering the information provided about the busy wedding season in Ethiopia, it would be reasonable to infer that airports serving major cities where these weddings take place might experience increased traffic during this period. Without specific data, I can't definitively say which airport is the busiest during the holiday season in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-79,Holidays/Celebration/Leisure, Addis Ababa (or Centre),0,0
+mistral-7b,Ethiopia,English,inst-4,New-en-87,Holidays/Celebration/Leisure, The rock-hewn churches of Lalibela or Axum (St Mary of Zion),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-en-90,Holidays/Celebration/Leisure," Sheraton (or alternatively, Hilton)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-gr-05,Food, Firfir/fitfit or genfo are typical grab-and-go breakfast options in Ethiopia.,1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-gr-06,Food, Pizza and burgers,0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-08,Food, Tej (ጠጅ),0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-13,Food," Tea (shai, ሻይ)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-gr-15,Food," Cake or baklava are not traditional Ethiopian desserts. The traditional desserts include halawa (sesame/peanut sweet), candy, and dabo kolo.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-21,Sport, Table tennis,,
+mistral-7b,Ethiopia,English,inst-4,New-gr-24,Sport,"10,000 m, 5,000 m and marathon (long-distance running)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-gr-29,Sport,"10,000 m, 5,000 m and marathon (Athletics)",1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-gr-47,Work life,45 (Assuming the break starts at 12:30 and lasts for about an hour),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-gr-58,Work life, Teachers,0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-76,Holidays/Celebration/Leisure," It is not specified in the provided information that there is a particular food served only during Easter in Ethiopia. However, it is known that during Orthodox Christian celebrations, injera (a type of flatbread) is commonly used to scoop various dishes. So, while not specific to Easter, injera is a significant part of Ethiopian Orthodox Christian celebratory meals.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-82,Holidays/Celebration/Leisure, Traditional and Orthodox religious music,0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-88,Holidays/Celebration/Leisure, Tej (ጠጅ),0,0
+mistral-7b,Ethiopia,English,inst-4,New-gr-89,Holidays/Celebration/Leisure," Tej (ጠጅ), tella (ጠላ) or beer (beer ቤክ) are drinks usually offered at weddings in Ethiopia.",1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-ha-07,Food, Coffee,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ha-08,Food, Coffee (Buna),,
+mistral-7b,Ethiopia,English,inst-4,New-ha-09,Food, Mitad (clay griddle),0,0
+mistral-7b,Ethiopia,English,inst-4,New-ha-13,Food, Potatoes,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ha-19,Sport, Horse (from information [1] - gugs),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ha-66,Family," Addis Ababa Stadium (not directly provided, but it's the most well-known stadium in Ethiopia and can be used as a venue for weddings)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-in-01,Food, Kaldi's Coffee or Tomoca (information [1]),0,0
+mistral-7b,Ethiopia,English,inst-4,New-in-03,Food, Injera with wat,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-in-33,Work life, Oromia or Benishangul-Gumuz,1,0.3333333333333333
+mistral-7b,Ethiopia,English,inst-4,New-in-34,Work life, The Ogaden basin of the Somali Region.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-in-62,Education," Addis Ababa University (specifically, the Addis Ababa Institute of Technology)",0,0
+mistral-7b,Ethiopia,English,inst-4,New-in-63,Education, Addis Ababa University's College of Health Sciences (Black Lion/Tikur Anbessa Hospital),1,0.25
+mistral-7b,Ethiopia,English,inst-4,New-in-78,Holidays/Celebration/Leisure, Cash,0,0
+mistral-7b,Ethiopia,English,inst-4,New-in-80,Holidays/Celebration/Leisure," There is no information provided about a theme park in Ethiopia, so I cannot give an exact answer based on the provided background information.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-01,Family, Tsehai Loves Learning,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-02,Family, The information provided does not mention anything about prenatal education activities for pregnant women in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-03,Family," ""Abebayehosh""",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-04,Family, Boys in Ethiopia play with balls (football) and toy cars.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-ko-05,Family, Dolls,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-06,Family," The information provided does not specify the most popular folk tale in Ethiopia, but it mentions that Ethiopian children grow up with oral folk tales (teret).",0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-07,Holidays/Celebration/Leisure, Mourning tent (dass),0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-08,Work life, In cafés or as tutors.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-ko-09,Work life," Team-building activities in companies based in Ethiopia often involve meals of injera, raw meat and tibs with beer, and trips to resorts in Bishoftu or Adama.",,
+mistral-7b,Ethiopia,English,inst-4,New-ko-10,Work life," Tutoring, ride-hailing driving (Ride, Feres), brokerage (delala) and small trade.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-pe-02,Food, Coffee beans,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-06,Food, Doro wat,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-11,Food, Berbere,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-16,Sport," The information provided does not mention a traditional sport from Ethiopia. Therefore, I cannot provide an accurate answer based on the given data.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-20,Sport," Beach Volleyball or Football (Soccer) could be played on the beach in Ethiopia, as both are popular sports there. However, beach volleyball is more commonly associated with sandy areas.",,
+mistral-7b,Ethiopia,English,inst-4,New-pe-45,Work life,"8:30 to 12:30 and 13:30 to 17:30 (2:30-11:30 in Ethiopian local time), Monday to Friday; however, Muslim workers may shorten breaks to leave earlier for iftar.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-47,Family,06/01,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-49,Family, Churches (for Christian families) or Mosques (for Muslim families).,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-pe-53,Family," Clothing or money, according to the provided information.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-54,Family, Clothes and money are traditionally given to mothers on Mother's Day (or Parents' Day) in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-59,Family,2,1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-pe-65,Education,3 (Based on information [1] and [2]),0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-66,Education,"1) Sports (Football, Athletics, Volleyball)
+2) Club activities (mini-media, drama, environment, Red Cross)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-pe-74,Education," The information provided does not specify an average annual tuition fee for public universities in Ethiopia, as it states that students pay back their costs (tuition, food, and dormitory) through tax deductions after graduation.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-76,Holidays/Celebration/Leisure, Picnicking,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-78,Holidays/Celebration/Leisure, The Addis International Film Festival,0,0
+mistral-7b,Ethiopia,English,inst-4,New-pe-83,Holidays/Celebration/Leisure," Gebeta (a mancala board game is also popular, but card games are specifically mentioned as being played during social gatherings)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-pe-85,Holidays/Celebration/Leisure, Dubai (or other Middle East countries),1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-pe-86,Holidays/Celebration/Leisure, The Commercial Bank of Ethiopia headquarters (it's the tallest tower in Ethiopia).,0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-01,Food, The information provided does not mention any edible insect commonly consumed in Ethiopia.,,
+mistral-7b,Ethiopia,English,inst-4,New-spme-04,Food, Coffee,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-spme-05,Food," Cake, baklava, halawa, candy and dabo kolo.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-15,Sport, The information provided does not mention a specific sports drink as being the most popular in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-27,Education, It is not possible to determine the average education level for people in Ethiopia with the provided information as it does not specify the number of students or population.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-37,Education, Medicine or Engineering,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-spme-60,Family, Sunday,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-spme-65,Family, Ethiopia does not have an Independence Day as it was never colonized.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-68,Family, Soft drinks or cold water are commonly consumed by children in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-spme-76,Holidays/Celebration/Leisure," There is no Independence Day in Ethiopia as it was never colonized. However, popular festivals include Meskel (27 September) celebrated at Meskel Square in Addis Ababa and Timket (19 January) celebrated in Gondar.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-spme-78,Holidays/Celebration/Leisure," ""Happy Birthday"" (Melkam Lidet)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-01,Food," Kolo, biscuits, candy, and sambusa",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-09,Food," Vegetable oil (sunflower, palm or nug/niger-seed oil) and niter kibbeh butter.",1,0.6666666666666666
+mistral-7b,Ethiopia,English,inst-4,New-su-10,Food," Milk, eggs, fruits, and vegetables are encouraged for pregnant women in Ethiopia.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-su-15,Food, Coffee (buna),0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-17,Sport," Volleyball and basketball courts, as well as football fields.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-21,Sport," Seniors in parks in Ethiopia commonly walk, picnic, and take photos.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-24,Sport," Football (soccer) and traditional games like gebeta, carrom, checkers, card games, dominoes, and genna (at Christmas).",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-28,Sport," Green, Yellow, Red",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-33,Education, Formal attire or a white coat (gown) in class.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-34,Education," School bands or traditional instruments (krar, masenqo, washint and kebero) are the most popular extracurricular activities related to music in Ethiopian schools.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,New-su-42,Education, Civics and ethical education is mainly taught in schools in Ethiopia. No specific religion is taught.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-45,Education,06/01 (June 1st),,
+mistral-7b,Ethiopia,English,inst-4,New-su-50,Work life, Farming,0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-51,Work life," There are no coastal areas in Ethiopia, so there are no people who primarily work as fishermen or fishers in coastal areas.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-57,Work life, Cattle,1,0.75
+mistral-7b,Ethiopia,English,inst-4,New-su-58,Work life," Cattle, oxen",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-59,Work life, Straw hats and cotton gabi (gabi is a type of shawl) or netela shawls.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-60,Work life, Farmers in Ethiopia usually eat injera with shiro or kitta bread with shiro.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-71,Family," Clothes, toys or money",1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-75,Family, Most families in Ethiopia generally do not own a car.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-77,Holidays/Celebration/Leisure, New clothes and money,1,1.0
+mistral-7b,Ethiopia,English,inst-4,New-su-81,Holidays/Celebration/Leisure, Grooms usually wear a suit or traditional habesha clothes with a cape in Ethiopian weddings.,1,0.2
+mistral-7b,Ethiopia,English,inst-4,New-su-82,Holidays/Celebration/Leisure, White wedding dress or white habesha kemis,0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-83,Holidays/Celebration/Leisure," Doro wat, raw meat (tere siga), kitfo, tibs, and injera are foods usually served at weddings in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-86,Holidays/Celebration/Leisure, The Grand (Menelik) Palace is the most famous government building in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,New-su-88,Holidays/Celebration/Leisure, Ethiopian pop,0,0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-02,Education,15:30-16:00,0,0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-03,Education,18-19,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-06,Education,7,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-09,Education,5,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-11,Education,2,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-12,Education, Addis Ababa University,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-13,Education,22-23,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-15,Education,13,0,0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-17,Work life,48,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-19,Work life,5,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-20,Work life,18-22,1,0.5
+mistral-7b,Ethiopia,English,inst-4,Ni-en-21,Work life,18,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-31,Holidays/Celebration/Leisure, Doro wat with injera,0,0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-37,Holidays/Celebration/Leisure, Valentine's Day (in Ethiopian cities),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ni-en-40,Holidays/Celebration/Leisure," The information provided does not specify a Christmas song that is particularly popular in Ethiopia. However, it's common to sing ""Happy Birthday"" (Melkam Lidet) on birthdays in Ethiopian cities.",0,0
+mistral-7b,Ethiopia,English,inst-4,Nu-in-04,Education,2,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Nu-in-05,Education,9,0,0
+mistral-7b,Ethiopia,English,inst-4,Nu-in-06,Education,"09/10 (Enkutatash, which is also the Ethiopian New Year, is often considered as a day to honor teachers.)",0,0
+mistral-7b,Ethiopia,English,inst-4,Nu-in-11,Education,08:00,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Nu-in-20,Family,06/01,,
+mistral-7b,Ethiopia,English,inst-4,Nu-in-40,Work life, Addis Ababa,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-1,Food," Kaldi's Coffee or Tomoca (local coffee shop chains) are more common in Ethiopia, as international fast-food chains are rare.",0,0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-13,Food, Kitfo,0,0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-16,Sport, Saint George,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-22,Sport," The information provided does not specify a university as being particularly famous for its sports team. However, it's important to note that Addis Ababa University and Jimma University are among the top universities in Ethiopia.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Sa-en-31,Family, Dogs,1,0.8
+mistral-7b,Ethiopia,English,inst-4,Sa-en-32,Family, Seifu on EBS (EBS TV's talk show),0,0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-37,Family, Gebeta (a mancala board game),,
+mistral-7b,Ethiopia,English,inst-4,Sa-en-6,Food, Sambusa,0,0
+mistral-7b,Ethiopia,English,inst-4,Sa-en-7,Food," Kolo, dabo kolo, popcorn, sambusa, biscuits, roasted corn (yebekolo tibs), peanuts and chips.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Sa-en-9,Food," Injera rolls with firfir or dulet, sambusa, kolo, fruit, and soft drinks are some foods that Ethiopians might take for picnics or trips, but there is no specific mention of what they eat at the beach in the provided information.",1,0.25
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-10,Family,28-30,0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-11,Family,17.1 (based on information [3]),0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-13,Family,6-8,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-17,Sport,"10,000 m, 5,000 m and marathon (Athletics or Long-distance running)",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-21,Sport," Children usually play soccer in streets, open fields, and school grounds in Ethiopia.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-22,Sport, Running/athletics or walking,0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-23,Sport," Men in Ethiopia commonly engage in jogging, walking, going to the gym, playing football, or practicing martial arts such as taekwondo and karate.",0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-25,Sport, Saint George vs Ethiopian Coffee (Sheger Derby),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-29,Sport, Athletics,0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-30,Sport, Seifu on EBS (EBS TV's talk show),0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,19 January (Timket) or Ketera eve (the night before Timket),0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-37,Holidays/Celebration/Leisure, Adey Abeba flower (yellow),0,0
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-42,Holidays/Celebration/Leisure, Doro wat and injera (spicy chicken stew with boiled eggs and sourdough flatbread) are traditionally eaten on the Ethiopian New Year's Eve.,1,0.6
+mistral-7b,Ethiopia,English,inst-4,Ta-pe-45,Holidays/Celebration/Leisure, Doro wat (chicken stew) with injera is typically eaten during the celebration of the longest night of the year in Ethiopia.,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-01,Sport, Athletics (Long-distance running),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-03,Sport, Ethiopian Premier League,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-05,Sport," The concept of a ""most popular women's sports team"" might not be as straightforward in Ethiopia due to the focus on individual athletes rather than teams, especially in athletics where Ethiopia excels. However, if we consider team sports, the Ethiopian Women's National Basketball Team could be considered the most popular women's sports team in Ethiopia.",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Th-en-09,Sport, Ethiopian Premier League,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-11,Sport, Haile Gebrselassie,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-12,Sport, Athletics,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-15,Sport," There is no information provided about winter sports in Ethiopia, so I cannot give an exact answer based on the provided background information. However, as there is no mention of winter sports in Ethiopia, it's safe to assume that winter sports are not popular in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-19,Work life," Hawassa, Bole Lemi (Addis Ababa), Dukem (Eastern Industrial Zone), Adama, Kombolcha",1,0.5
+mistral-7b,Ethiopia,English,inst-4,Th-en-21,Work life, Transport service (staff buses),0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-22,Work life,1983-1985,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-24,Work life, Addis Ababa,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-27,Work life, Agriculture,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-35,Family, Dinner,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-36,Family, Going to parks or having picnics on weekends is a popular family activity with children in Ethiopia.,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-37,Family,25,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-38,Family, Fasika (Easter),1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-39,Family, Gebeta (a mancala board game),,
+mistral-7b,Ethiopia,English,inst-4,Th-en-41,Family,25,1,0.5
+mistral-7b,Ethiopia,English,inst-4,Th-en-43,Family,0,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-44,Family," Doro wat (ዶሮ ወጥ), a spicy chicken stew with boiled eggs and berbere, is considered the national dish of Ethiopia. However, it's important to note that the food preferences can vary greatly among families in Ethiopia. Therefore, while Doro wat could be a popular choice for some families, other families might prefer different dishes such as shiro (chickpea-flour stew), misir wat (lentils), tibs or kitfo on weekends.",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Th-en-45,Family, A coffee ceremony together,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-48,Education,4.0 GPA (A+/A),0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-49,Education, Ethiopian Secondary School Leaving Certificate Examination (university entrance exam),1,0.5
+mistral-7b,Ethiopia,English,inst-4,Th-en-51,Education, Mathematics,0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-53,Education," Clubs (mini-media, drama, environment, Red Cross) are popular extracurricular social events at schools in Ethiopia.",0,0
+mistral-7b,Ethiopia,English,inst-4,Th-en-58,Education," The most advanced math subject learned before university in Ethiopia is not explicitly stated in the provided information, but it can be inferred that students have been exposed to mathematics up to their Grade 12 education.",0,0
+mistral-7b,Ethiopia,English,inst-4,Tmp-ar-01,Education, University campus library or dormitories,1,1.0
+mistral-7b,Ethiopia,English,inst-4,Tmp-ar-02,Education," City bus (Anbessa, Sheger) or Addis Ababa light rail",1,1.0
+mistral-7b,Ethiopia,English,inst-4,Tmp-ar-04,Education," After school, elementary students in Ethiopia typically do homework, play football, help with household chores.",1,1.0

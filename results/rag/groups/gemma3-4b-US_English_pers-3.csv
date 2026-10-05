@@ -1,0 +1,539 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,US,English,pers-3,Al-en-01,Food,Fruit snacks.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-02,Food,Barbecue.,0,0
+gemma3-4b,US,English,pers-3,Al-en-04,Food,Apples.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-06,Food,Pizza.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-08,Food,Chips and sugary drinks.,0,0
+gemma3-4b,US,English,pers-3,Al-en-09,Food,Corn dogs.,0,0
+gemma3-4b,US,English,pers-3,Al-en-16,Education,4,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-17,Education,Soccer.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-18,Education,History.,0,0
+gemma3-4b,US,English,pers-3,Al-en-19,Education,Spanish.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-21,Education,Mathematics.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-32,Holidays/Celebration/Leisure,Turkey.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-33,Holidays/Celebration/Leisure,Trick-or-treating.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-34,Holidays/Celebration/Leisure,They eat a big meal with family and friends.,0,0
+gemma3-4b,US,English,pers-3,Al-en-35,Holidays/Celebration/Leisure,"Spend time with family, exchange gifts, and often decorate with a Christmas tree.",1,1.0
+gemma3-4b,US,English,pers-3,Al-en-36,Holidays/Celebration/Leisure,Pumpkin pie.,1,0.25
+gemma3-4b,US,English,pers-3,Al-en-37,Holidays/Celebration/Leisure,Turkey and ham.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Al-en-38,Holidays/Celebration/Leisure,Chocolate.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-39,Holidays/Celebration/Leisure,Cake.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-40,Holidays/Celebration/Leisure,Parks.,1,1.0
+gemma3-4b,US,English,pers-3,Al-en-43,Holidays/Celebration/Leisure,Watching movies.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,An-ar-02,Education,Cafeterias and food trucks.,1,1.0
+gemma3-4b,US,English,pers-3,An-ar-03,Education,"5
+",1,1.0
+gemma3-4b,US,English,pers-3,An-ar-08,Education,"8
+",1,0.5
+gemma3-4b,US,English,pers-3,An-ar-09,Education,2,1,1.0
+gemma3-4b,US,English,pers-3,An-ar-34,Sport,Basketball,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,An-ar-35,Sport,Joe Rogan.,,
+gemma3-4b,US,English,pers-3,An-ar-36,Sport,The New England Patriots.,0,0
+gemma3-4b,US,English,pers-3,An-ar-43,Sport,Living rooms.,0,0
+gemma3-4b,US,English,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-06,Food,Dinner.,1,0.5
+gemma3-4b,US,English,pers-3,Ca-sp-08,Food,Potatoes.,0,0
+gemma3-4b,US,English,pers-3,Ca-sp-09,Food,Pie.,1,0.2
+gemma3-4b,US,English,pers-3,Ca-sp-11,Food,Sunday.,1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-14,Food,Coffee.,1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,Vodka.,0,0
+gemma3-4b,US,English,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,12,1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,Watching the ball drop in Times Square.,1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-38,Family,A single-family home.,0,0
+gemma3-4b,US,English,pers-3,Ca-sp-41,Family,With their children.,0,0
+gemma3-4b,US,English,pers-3,Ca-sp-42,Family,"12
+",1,1.0
+gemma3-4b,US,English,pers-3,Ca-sp-43,Family,"12
+",1,0.5
+gemma3-4b,US,English,pers-3,Ca-sp-45,Family,Theme parks.,0,0
+gemma3-4b,US,English,pers-3,Gu-ch-05,Sport,Golf.,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-06,Sport,Baseball.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Gu-ch-07,Sport,Michael Jordan,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-08,Sport,Youth soccer.,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-09,Sport,Basketball.,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-11,Sport,Swimming,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-15,Sport,Football.,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-16,Family,"2.5
+",1,0.2
+gemma3-4b,US,English,pers-3,Gu-ch-18,Family,2.  1,1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-31,Education,"12
+",0,0
+gemma3-4b,US,English,pers-3,Gu-ch-32,Education,"12
+",1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-33,Education,12,0,0
+gemma3-4b,US,English,pers-3,Gu-ch-38,Education,"4
+",1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-40,Education,"15:00
+",1,1.0
+gemma3-4b,US,English,pers-3,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-02,Work life,Friday.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-03,Work life,New York City.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-07,Work life,Apple.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-09,Work life,Pizza and snacks.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-14,Work life,Baseball,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-15,Work life,"1.5
+",1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-16,Family,At home.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-19,Family,Lilies,,
+gemma3-4b,US,English,pers-3,Ji-ko-22,Family,Student loan debt.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-24,Family,Parks.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-25,Family,"Christmas, Kwanzaa.",0,0
+gemma3-4b,US,English,pers-3,Ji-ko-26,Family,16 and 18.,1,0.5
+gemma3-4b,US,English,pers-3,Ji-ko-27,Family,"A small, homemade treat.",0,0
+gemma3-4b,US,English,pers-3,Ji-ko-28,Family,July 4th.,,
+gemma3-4b,US,English,pers-3,Ji-ko-29,Family,Christmas.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-31,Education,In public schools.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-33,Education,Homework.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Ji-ko-34,Education,They recite the Pledge of Allegiance.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-35,Education,Catholic private schools.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-36,Education,Public high school.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-37,Education,Jeans and t-shirts.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-38,Education,Neuroscience.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-39,Education,Piano,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Ji-ko-40,Education,"Take spring-break trips to Washington, D.C.",0,0
+gemma3-4b,US,English,pers-3,Ji-ko-41,Education,Sneakers.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-42,Education,Math and English.,1,1.0
+gemma3-4b,US,English,pers-3,Ji-ko-44,Education,New York City’s Lower East Side.,0,0
+gemma3-4b,US,English,pers-3,Ji-ko-45,Education,Seeing friends and celebrating with music and events.,,
+gemma3-4b,US,English,pers-3,Jo-sp-01,Sport,Football,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Jo-sp-02,Sport,Wrestling.,1,0.5
+gemma3-4b,US,English,pers-3,Jo-sp-09,Sport,Golf and baseball.,1,1.0
+gemma3-4b,US,English,pers-3,Jo-sp-13,Sport,Swimming.,1,1.0
+gemma3-4b,US,English,pers-3,Jo-sp-14,Sport,Baseball,0,0
+gemma3-4b,US,English,pers-3,Jo-sp-18,Work life,"7
+",0,0
+gemma3-4b,US,English,pers-3,Jo-sp-19,Work life,The Midwest.,1,1.0
+gemma3-4b,US,English,pers-3,Jo-sp-21,Work life,"12:00
+",1,1.0
+gemma3-4b,US,English,pers-3,Jo-sp-31,Education,"15:30
+",1,0.5
+gemma3-4b,US,English,pers-3,Jo-sp-32,Education,Karate.,0,0
+gemma3-4b,US,English,pers-3,Jo-sp-36,Education,"10
+",1,1.0
+gemma3-4b,US,English,pers-3,Jo-sp-37,Education,"10
+",1,0.5
+gemma3-4b,US,English,pers-3,Jo-sp-39,Education,6,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Jo-sp-43,Education,"3
+",1,0.25
+gemma3-4b,US,English,pers-3,Jod-ch-01,Food,Forks and knives.,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-04,Food,Cola.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-06,Food,Whiskey.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Jod-ch-07,Food,"2.1
+",1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-09,Food,"18:00
+",1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-12,Food,Mac and cheese.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-13,Food,Hot dogs and pretzels.,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-15,Food,"Shrimp, crab, and salmon.",1,0.75
+gemma3-4b,US,English,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,The Macy’s Thanksgiving Day Parade.,,
+gemma3-4b,US,English,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,Driving.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,Blue corn.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-37,Sport,Baseball.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Jod-ch-38,Sport,Baseball.,1,0.4
+gemma3-4b,US,English,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,Camping.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,Camping.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-46,Work life,"45.0
+",0,0
+gemma3-4b,US,English,pers-3,Jod-ch-48,Work life,Sandwiches.,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-50,Work life,"25
+",0,0
+gemma3-4b,US,English,pers-3,Jod-ch-51,Work life,Car.,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-54,Work life,10,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-56,Work life,"65
+",1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-57,Work life,"65
+",1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-58,Work life,Doctor.,1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-60,Work life,"8.1
+",1,1.0
+gemma3-4b,US,English,pers-3,Jod-ch-61,Work life,Healthcare.,0,0
+gemma3-4b,US,English,pers-3,Jod-ch-62,Work life,Software developer.,0,0
+gemma3-4b,US,English,pers-3,Ki-pe-17,Education,"Typically, 12-18 years.",0,0
+gemma3-4b,US,English,pers-3,Ki-pe-24,Education,Spanish.,1,1.0
+gemma3-4b,US,English,pers-3,Ki-pe-30,Education,Saturday and Sunday.,1,1.0
+gemma3-4b,US,English,pers-3,Ki-pe-32,Food,"A large, celebratory meal.",0,0
+gemma3-4b,US,English,pers-3,Ki-pe-34,Food,Coffee.,1,1.0
+gemma3-4b,US,English,pers-3,Ki-pe-36,Food,Mexico.,1,1.0
+gemma3-4b,US,English,pers-3,Ki-pe-39,Food,Hot dogs and potato salad.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Ki-pe-40,Food,Liver and onions.,0,0
+gemma3-4b,US,English,pers-3,Ki-pe-43,Food,Pizza.,0,0
+gemma3-4b,US,English,pers-3,Ki-pe-51,Work life,"05:00
+",0,0
+gemma3-4b,US,English,pers-3,Ki-pe-53,Work life,"09:00
+",1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Kik-in-01,Holidays/Celebration/Leisure,Thanksgiving.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Kik-in-02,Holidays/Celebration/Leisure,Barbecues and fireworks.,1,1.0
+gemma3-4b,US,English,pers-3,Kik-in-04,Holidays/Celebration/Leisure,An American flag.,,
+gemma3-4b,US,English,pers-3,Kik-in-05,Holidays/Celebration/Leisure,After Christmas.,0,0
+gemma3-4b,US,English,pers-3,Kik-in-06,Holidays/Celebration/Leisure,A bridal shower.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Kik-in-07,Holidays/Celebration/Leisure,Red envelopes with money.,,
+gemma3-4b,US,English,pers-3,Kik-in-08,Holidays/Celebration/Leisure,None.,,
+gemma3-4b,US,English,pers-3,Kik-in-10,Holidays/Celebration/Leisure,The Smithsonian museums.,0,0
+gemma3-4b,US,English,pers-3,Kik-in-11,Holidays/Celebration/Leisure,Cathedral Basilica of Saints Peter and Paul.,0,0
+gemma3-4b,US,English,pers-3,Kik-in-15,Holidays/Celebration/Leisure,A dark-colored dress or suit.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Kik-in-16,Food,Hot toddy.,0,0
+gemma3-4b,US,English,pers-3,Kik-in-17,Food,Watermelon.,,
+gemma3-4b,US,English,pers-3,Kik-in-24,Food,French fries.,1,1.0
+gemma3-4b,US,English,pers-3,Kik-in-31,Sport,Boxing.,0,0
+gemma3-4b,US,English,pers-3,Kik-in-34,Sport,"Baseball, American football, and basketball.",1,1.0
+gemma3-4b,US,English,pers-3,Kik-in-35,Sport,Football and basketball.,1,0.5
+gemma3-4b,US,English,pers-3,Kik-in-36,Sport,Gregg Berhalter,,
+gemma3-4b,US,English,pers-3,Kik-in-37,Sport,Seattle Sounders vs. Portland Timbers.,,
+gemma3-4b,US,English,pers-3,Kik-in-38,Sport,Seattle Sounders vs. Portland Timbers.,,
+gemma3-4b,US,English,pers-3,Kik-in-40,Sport,Garry Wood.,,
+gemma3-4b,US,English,pers-3,Kik-in-41,Sport,Gail Pratt.,,
+gemma3-4b,US,English,pers-3,Kik-in-44,Sport,American football.,1,1.0
+gemma3-4b,US,English,pers-3,Kik-in-45,Sport,"Fields for football, baseball, and track.",1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-02,Food,Coffee.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-04,Food,Eggs.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-05,Food,Takeout and delivery apps.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-07,Food,Chicken.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Na-ko-08,Food,Apples.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-09,Food,Mashed potatoes.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-11,Food,Hot dogs and beer.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-15,Food,Barbecue.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-16,Sport,Christian Pulisic,1,0.5
+gemma3-4b,US,English,pers-3,Na-ko-17,Sport,Basketball.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Na-ko-18,Sport,Basketball.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Na-ko-19,Sport,Jordan Smith,0,0
+gemma3-4b,US,English,pers-3,Na-ko-20,Sport,Baseball.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-22,Sport,Mexico.,,
+gemma3-4b,US,English,pers-3,Na-ko-23,Sport,Soccer academies.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Na-ko-24,Sport,Hot dogs.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-25,Sport,Relay races and kickball.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-26,Sport,Baseball.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Na-ko-28,Sport,Bobby Orr,0,0
+gemma3-4b,US,English,pers-3,Na-ko-29,Sport,Michael Phelps.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-30,Sport,League of Legends,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-33,Holidays/Celebration/Leisure,Dumplings.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-37,Holidays/Celebration/Leisure,The beach.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-38,Holidays/Celebration/Leisure,Cash.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-39,Holidays/Celebration/Leisure,A wedding gift.,1,1.0
+gemma3-4b,US,English,pers-3,Na-ko-40,Holidays/Celebration/Leisure,7,0,0
+gemma3-4b,US,English,pers-3,Na-ko-41,Holidays/Celebration/Leisure,A casserole.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-42,Holidays/Celebration/Leisure,Pot roast.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-43,Holidays/Celebration/Leisure,Eat a butter lamb.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-44,Holidays/Celebration/Leisure,July 4th.,0,0
+gemma3-4b,US,English,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Hawaii,1,0.5
+gemma3-4b,US,English,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Independence Day.,1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,Nothing specifically.,,
+gemma3-4b,US,English,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,"I don’t celebrate Eid ul Fitr, so I don’t eat anything specific for it.",,
+gemma3-4b,US,English,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,Roast lamb.,,
+gemma3-4b,US,English,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,Home.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,At mosques and community centers.,,
+gemma3-4b,US,English,pers-3,Ne-ar-16,Work life,Saturday and Sunday.,1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-17,Work life,"09:00
+",1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-18,Work life,"18:00
+",1,0.2
+gemma3-4b,US,English,pers-3,Ne-ar-20,Work life,"A full-time job with good benefits, typically in a stable industry like healthcare, technology, or finance.",0,0
+gemma3-4b,US,English,pers-3,Ne-ar-24,Work life,New York City.,1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-25,Work life,Technology.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-26,Work life,Apple.,1,0.5
+gemma3-4b,US,English,pers-3,Ne-ar-31,Food,Pizza.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Ne-ar-32,Food,"Eggs, toast, and cereal.",1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-33,Food,"12:30
+",0,0
+gemma3-4b,US,English,pers-3,Ne-ar-34,Food,A shared meal.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-36,Food,Thanksgiving dinner.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-37,Food,Apples.,1,1.0
+gemma3-4b,US,English,pers-3,Ne-ar-38,Food,Bread.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-39,Food,A basic hamburger.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-43,Food,Cookies.,0,0
+gemma3-4b,US,English,pers-3,Ne-ar-44,Food,Coffee is a central social ritual.,0,0
+gemma3-4b,US,English,pers-3,New-am-02,Food,Barbecue.,,
+gemma3-4b,US,English,pers-3,New-am-04,Food,Ranch.,1,1.0
+gemma3-4b,US,English,pers-3,New-am-08,Food,Fish.,1,1.0
+gemma3-4b,US,English,pers-3,New-am-15,Food,Sweet potato pie.,,
+gemma3-4b,US,English,pers-3,New-am-27,Sport,Serena Williams.,1,1.0
+gemma3-4b,US,English,pers-3,New-am-34,Education,At home.,1,1.0
+gemma3-4b,US,English,pers-3,New-am-41,Education,Eighth grade.,0,0
+gemma3-4b,US,English,pers-3,New-am-53,Work life,Pacific Northwest,1,1.0
+gemma3-4b,US,English,pers-3,New-am-54,Work life,Utah.,0,0
+gemma3-4b,US,English,pers-3,New-am-59,Work life,Agriculture.,,
+gemma3-4b,US,English,pers-3,New-am-60,Work life,Horses.,1,1.0
+gemma3-4b,US,English,pers-3,New-am-72,Family,Marvel.,1,0.5
+gemma3-4b,US,English,pers-3,New-am-73,Family,Ryan’s World.,0,0
+gemma3-4b,US,English,pers-3,New-am-74,Family,The Late Show with Stephen Colbert.,0,0
+gemma3-4b,US,English,pers-3,New-am-77,Holidays/Celebration/Leisure,Christmas,1,1.0
+gemma3-4b,US,English,pers-3,New-am-81,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,US,English,pers-3,New-am-83,Holidays/Celebration/Leisure,Guitar,1,1.0
+gemma3-4b,US,English,pers-3,New-as-01,Food,Corn.,1,1.0
+gemma3-4b,US,English,pers-3,New-as-02,Food,Pizza.,0,0
+gemma3-4b,US,English,pers-3,New-as-05,Food,Soda.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,New-as-07,Food,Fried fish.,0,0
+gemma3-4b,US,English,pers-3,New-as-14,Food,Comfort food.,0,0
+gemma3-4b,US,English,pers-3,New-as-15,Food,Iced tea.,1,0.5
+gemma3-4b,US,English,pers-3,New-as-20,Sport,Basketball,1,1.0
+gemma3-4b,US,English,pers-3,New-as-29,Sport,Football.,1,1.0
+gemma3-4b,US,English,pers-3,New-as-30,Sport,NASCAR.,0,0
+gemma3-4b,US,English,pers-3,New-as-58,Work life,Picon Punch.,0,0
+gemma3-4b,US,English,pers-3,New-as-64,Family,Christmas.,1,0.5
+gemma3-4b,US,English,pers-3,New-as-76,Holidays/Celebration/Leisure,Playing cards and board games.,1,1.0
+gemma3-4b,US,English,pers-3,New-as-80,Holidays/Celebration/Leisure,"It varies greatly, reflecting the country’s diverse cultural heritage.",0,0
+gemma3-4b,US,English,pers-3,New-as-89,Holidays/Celebration/Leisure,Spam muskie hats.,,
+gemma3-4b,US,English,pers-3,New-az-05,Food,California.,0,0
+gemma3-4b,US,English,pers-3,New-az-11,Food,Watermelon.,1,1.0
+gemma3-4b,US,English,pers-3,New-az-12,Food,New England,1,1.0
+gemma3-4b,US,English,pers-3,New-az-21,Sport,Colorado.,1,1.0
+gemma3-4b,US,English,pers-3,New-az-26,Sport,Royce Gracie.,,
+gemma3-4b,US,English,pers-3,New-az-27,Sport,Soccer.,1,1.0
+gemma3-4b,US,English,pers-3,New-az-39,Education,United Kingdom,1,1.0
+gemma3-4b,US,English,pers-3,New-az-49,Work life,"2
+",1,1.0
+gemma3-4b,US,English,pers-3,New-az-60,Family,Daycare.,1,1.0
+gemma3-4b,US,English,pers-3,New-az-69,Holidays/Celebration/Leisure,Beer.,1,1.0
+gemma3-4b,US,English,pers-3,New-az-70,Holidays/Celebration/Leisure,It’s complicated.,0,0
+gemma3-4b,US,English,pers-3,New-az-73,Holidays/Celebration/Leisure,80,0,0
+gemma3-4b,US,English,pers-3,New-ch-01,Food,Barbecue ribs.,0,0
+gemma3-4b,US,English,pers-3,New-ch-02,Food,07:30,1,0.5
+gemma3-4b,US,English,pers-3,New-ch-04,Food,Pizza and ice cream.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-05,Food,Buffalo wings.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-07,Food,Whiskey and cherries.,0,0
+gemma3-4b,US,English,pers-3,New-ch-08,Food,Salt.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-09,Food,"Comfort foods like maple syrup, chili, and hearty stews.",1,0.25
+gemma3-4b,US,English,pers-3,New-ch-13,Food,Budweiser,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-14,Food,Chicken noodle soup.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-15,Food,"Bread, milk, and frozen dinners.",0,0
+gemma3-4b,US,English,pers-3,New-ch-16,Sport,Raging Bull.,0,0
+gemma3-4b,US,English,pers-3,New-ch-17,Sport,Skydiving.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-18,Sport,Track and field.,0,0
+gemma3-4b,US,English,pers-3,New-ch-19,Sport,Men’s artistic gymnastics.,0,0
+gemma3-4b,US,English,pers-3,New-ch-23,Sport,John Nunn,,
+gemma3-4b,US,English,pers-3,New-ch-26,Sport,Ice hockey.,0,0
+gemma3-4b,US,English,pers-3,New-ch-27,Sport,Muhammad Ali,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-30,Sport,Usain Bolt.,,
+gemma3-4b,US,English,pers-3,New-ch-31,Work life,"A stable, comfortable career.",0,0
+gemma3-4b,US,English,pers-3,New-ch-32,Work life,Microsoft Office.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-38,Work life,New York and Los Angeles.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-39,Work life,Amazon.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-44,Work life,Typically 90 days.,0,0
+gemma3-4b,US,English,pers-3,New-ch-45,Work life,Technology and e-commerce.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-49,Family,Text messaging.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,New-ch-51,Family,Hotels.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-54,Family,Apple pie.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-64,Education,20,0,0
+gemma3-4b,US,English,pers-3,New-ch-66,Education,1,0,0
+gemma3-4b,US,English,pers-3,New-ch-70,Education,English and math.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-71,Education,35,0,0
+gemma3-4b,US,English,pers-3,New-ch-72,Education,Computer science.,0,0
+gemma3-4b,US,English,pers-3,New-ch-73,Education,Sports clubs.,0,0
+gemma3-4b,US,English,pers-3,New-ch-74,Education,Dorms and apartments.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-75,Education,45,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-78,Holidays/Celebration/Leisure,"Gardening, bridge, and volunteering.",0,0
+gemma3-4b,US,English,pers-3,New-ch-79,Holidays/Celebration/Leisure,"Fishing, hunting, and golf.",1,1.0
+gemma3-4b,US,English,pers-3,New-ch-80,Holidays/Celebration/Leisure,"Christmas, Easter, Diwali, Chinese New Year, Yom Kippur.",1,1.0
+gemma3-4b,US,English,pers-3,New-ch-81,Holidays/Celebration/Leisure,A plant.,0,0
+gemma3-4b,US,English,pers-3,New-ch-82,Holidays/Celebration/Leisure,"15:00
+",0,0
+gemma3-4b,US,English,pers-3,New-ch-83,Holidays/Celebration/Leisure,New Orleans,0,0
+gemma3-4b,US,English,pers-3,New-ch-84,Holidays/Celebration/Leisure,Black.,1,1.0
+gemma3-4b,US,English,pers-3,New-ch-85,Holidays/Celebration/Leisure,Black.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-01,Food,Popcorn.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-02,Food,Barbecue.,0,0
+gemma3-4b,US,English,pers-3,New-en-04,Food,Guy Fieri,0,0
+gemma3-4b,US,English,pers-3,New-en-05,Food,Fried chicken.,1,0.5
+gemma3-4b,US,English,pers-3,New-en-07,Food,Chopped and Guy’s Grocery Games.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-08,Food,Hershey's,1,1.0
+gemma3-4b,US,English,pers-3,New-en-10,Food,Mozzarella.,0,0
+gemma3-4b,US,English,pers-3,New-en-11,Food,Beets.,0,0
+gemma3-4b,US,English,pers-3,New-en-12,Food,Fast food.,0,0
+gemma3-4b,US,English,pers-3,New-en-17,Sport,Yelling and waving flags.,0,0
+gemma3-4b,US,English,pers-3,New-en-18,Sport,Souvenir programs and baseball cards.,0,0
+gemma3-4b,US,English,pers-3,New-en-19,Sport,Yankee Stadium.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-23,Sport,Josh Sundquist,,
+gemma3-4b,US,English,pers-3,New-en-26,Sport,"""Go, Yankees!""",0,0
+gemma3-4b,US,English,pers-3,New-en-38,Work life,Creative and tech industries.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-41,Work life,Elon Musk,0,0
+gemma3-4b,US,English,pers-3,New-en-47,Family,Vegetables.,1,0.5
+gemma3-4b,US,English,pers-3,New-en-49,Family,The Kennedys.,0,0
+gemma3-4b,US,English,pers-3,New-en-50,Family,Smith.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-55,Family,Christianity.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-56,Family,Spanish.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-59,Family,Canada.,1,1.0
+gemma3-4b,US,English,pers-3,New-en-68,Education,"Loss of privileges, detention, suspension, and in severe cases, expulsion.",1,1.0
+gemma3-4b,US,English,pers-3,New-en-69,Education,Shakespeare and American poets like Walt Whitman.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,New-en-70,Education,18,0,0
+gemma3-4b,US,English,pers-3,New-en-72,Education,Google.,0,0
+gemma3-4b,US,English,pers-3,New-en-75,Education,15,1,1.0
+gemma3-4b,US,English,pers-3,New-en-76,Holidays/Celebration/Leisure,Hartsfield-Jackson Atlanta International Airport,1,1.0
+gemma3-4b,US,English,pers-3,New-en-79,Holidays/Celebration/Leisure,New England.,0,0
+gemma3-4b,US,English,pers-3,New-en-87,Holidays/Celebration/Leisure,The Statue of Liberty.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,New-en-90,Holidays/Celebration/Leisure,Marriott.,1,0.5
+gemma3-4b,US,English,pers-3,New-gr-05,Food,Coffee and a pastry.,0,0
+gemma3-4b,US,English,pers-3,New-gr-06,Food,Pizza.,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-08,Food,Picon Punch.,0,0
+gemma3-4b,US,English,pers-3,New-gr-13,Food,Coffee.,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-15,Food,Apple pie.,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-21,Sport,Tennis,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-24,Sport,American football.,0,0
+gemma3-4b,US,English,pers-3,New-gr-29,Sport,The Super Bowl.,0,0
+gemma3-4b,US,English,pers-3,New-gr-47,Work life,15,1,0.5
+gemma3-4b,US,English,pers-3,New-gr-58,Work life,Customer service representative.,0,0
+gemma3-4b,US,English,pers-3,New-gr-76,Holidays/Celebration/Leisure,Ham.,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-82,Holidays/Celebration/Leisure,Big band.,0,0
+gemma3-4b,US,English,pers-3,New-gr-88,Holidays/Celebration/Leisure,Sweet tea.,1,1.0
+gemma3-4b,US,English,pers-3,New-gr-89,Holidays/Celebration/Leisure,Sparkling cider.,0,0
+gemma3-4b,US,English,pers-3,New-ha-07,Food,Barbecue.,0,0
+gemma3-4b,US,English,pers-3,New-ha-08,Food,Green bean casserole.,0,0
+gemma3-4b,US,English,pers-3,New-ha-09,Food,A fork.,0,0
+gemma3-4b,US,English,pers-3,New-ha-13,Food,Potatoes.,1,1.0
+gemma3-4b,US,English,pers-3,New-ha-19,Sport,Horse,1,1.0
+gemma3-4b,US,English,pers-3,New-ha-66,Family,Banquet halls.,0,0
+gemma3-4b,US,English,pers-3,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,US,English,pers-3,New-in-03,Food,Picon Punch and kosher dairy.,0,0
+gemma3-4b,US,English,pers-3,New-in-33,Work life,Pennsylvania.,0,0
+gemma3-4b,US,English,pers-3,New-in-34,Work life,Texas.,1,1.0
+gemma3-4b,US,English,pers-3,New-in-62,Education,Massachusetts Institute of Technology.,1,1.0
+gemma3-4b,US,English,pers-3,New-in-63,Education,Harvard University.,1,1.0
+gemma3-4b,US,English,pers-3,New-in-78,Holidays/Celebration/Leisure,Credit and debit cards.,1,1.0
+gemma3-4b,US,English,pers-3,New-in-80,Holidays/Celebration/Leisure,Walt Disney World.,1,1.0
+gemma3-4b,US,English,pers-3,New-ko-01,Family,Bluey.,1,0.5
+gemma3-4b,US,English,pers-3,New-ko-02,Family,Prenatal yoga classes.,0,0
+gemma3-4b,US,English,pers-3,New-ko-03,Family,"""Twinkle, Twinkle Little Star.""",1,1.0
+gemma3-4b,US,English,pers-3,New-ko-04,Family,Video games.,1,1.0
+gemma3-4b,US,English,pers-3,New-ko-05,Family,Barbie dolls.,1,1.0
+gemma3-4b,US,English,pers-3,New-ko-06,Family,Cinderella.,0,0
+gemma3-4b,US,English,pers-3,New-ko-07,Holidays/Celebration/Leisure,Flowers.,1,1.0
+gemma3-4b,US,English,pers-3,New-ko-08,Work life,Restaurants.,1,1.0
+gemma3-4b,US,English,pers-3,New-ko-09,Work life,Problem-solving exercises.,0,0
+gemma3-4b,US,English,pers-3,New-ko-10,Work life,Freelance work and gig economy jobs.,0,0
+gemma3-4b,US,English,pers-3,New-pe-02,Food,Baseball cards.,0,0
+gemma3-4b,US,English,pers-3,New-pe-06,Food,Chili,1,0.5
+gemma3-4b,US,English,pers-3,New-pe-11,Food,Chili powder.,0,0
+gemma3-4b,US,English,pers-3,New-pe-16,Sport,American football.,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-20,Sport,Volleyball.,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-45,Work life,Flexible.,,
+gemma3-4b,US,English,pers-3,New-pe-47,Family,"05/03
+",,
+gemma3-4b,US,English,pers-3,New-pe-49,Family,Churches and synagogues.,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-53,Family,"Cards and gifts like tools, clothing, or experiences.",1,1.0
+gemma3-4b,US,English,pers-3,New-pe-54,Family,Flowers and cards.,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-59,Family,2-3,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-65,Education,10,0,0
+gemma3-4b,US,English,pers-3,New-pe-66,Education,Sports.,1,1.0
+gemma3-4b,US,English,pers-3,New-pe-74,Education,"Around $30,000.",1,1.0
+gemma3-4b,US,English,pers-3,New-pe-76,Holidays/Celebration/Leisure,Camping.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,New-pe-78,Holidays/Celebration/Leisure,Cannes Film Festival.,0,0
+gemma3-4b,US,English,pers-3,New-pe-83,Holidays/Celebration/Leisure,Cards Against Humanity.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,New-pe-85,Holidays/Celebration/Leisure,Canada,0,0
+gemma3-4b,US,English,pers-3,New-pe-86,Holidays/Celebration/Leisure,Kransekake.,0,0
+gemma3-4b,US,English,pers-3,New-spme-01,Food,Grasshoppers.,,
+gemma3-4b,US,English,pers-3,New-spme-04,Food,Soybeans.,1,1.0
+gemma3-4b,US,English,pers-3,New-spme-05,Food,Apple pie and pumpkin pie.,0,0
+gemma3-4b,US,English,pers-3,New-spme-15,Sport,Gatorade,1,1.0
+gemma3-4b,US,English,pers-3,New-spme-27,Education,"It’s complicated, but generally, a bachelor’s degree or higher is becoming more common.",0,0
+gemma3-4b,US,English,pers-3,New-spme-37,Education,Business.,1,0.5
+gemma3-4b,US,English,pers-3,New-spme-60,Family,Sunday,1,1.0
+gemma3-4b,US,English,pers-3,New-spme-65,Family,Barbecues and fireworks.,1,1.0
+gemma3-4b,US,English,pers-3,New-spme-68,Family,Soda.,1,1.0
+gemma3-4b,US,English,pers-3,New-spme-76,Holidays/Celebration/Leisure,"Washington, D.C.",1,1.0
+gemma3-4b,US,English,pers-3,New-spme-78,Holidays/Celebration/Leisure,Happy Birthday.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-01,Food,Cookies and candy.,,
+gemma3-4b,US,English,pers-3,New-su-09,Food,Vegetable oil.,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,New-su-10,Food,Applesauce.,0,0
+gemma3-4b,US,English,pers-3,New-su-15,Food,Sparkling cider.,0,0
+gemma3-4b,US,English,pers-3,New-su-17,Sport,Baseball fields and basketball courts.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-21,Sport,Sitting on benches and watching people.,1,0.2
+gemma3-4b,US,English,pers-3,New-su-24,Sport,Basketball.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-28,Sport,Red,,
+gemma3-4b,US,English,pers-3,New-su-33,Education,Business casual.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-34,Education,School bands.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-42,Education,None.,,
+gemma3-4b,US,English,pers-3,New-su-45,Education,"09/18
+",,
+gemma3-4b,US,English,pers-3,New-su-50,Work life,Lawn care.,0,0
+gemma3-4b,US,English,pers-3,New-su-51,Work life,Fishing.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-57,Work life,Cattle.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-58,Work life,Cows.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-59,Work life,Wide-brimmed hats and long-sleeved shirts.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-60,Work life,Turkey and stuffing.,,
+gemma3-4b,US,English,pers-3,New-su-71,Family,Toys and money.,,
+gemma3-4b,US,English,pers-3,New-su-75,Family,A large SUV.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-77,Holidays/Celebration/Leisure,Eid gifts.,,
+gemma3-4b,US,English,pers-3,New-su-81,Holidays/Celebration/Leisure,"A dark suit, often navy or charcoal gray.",1,1.0
+gemma3-4b,US,English,pers-3,New-su-82,Holidays/Celebration/Leisure,A white gown.,0,0
+gemma3-4b,US,English,pers-3,New-su-83,Holidays/Celebration/Leisure,Cake.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-86,Holidays/Celebration/Leisure,The White House.,1,1.0
+gemma3-4b,US,English,pers-3,New-su-88,Holidays/Celebration/Leisure,Hip-hop.,1,0.5
+gemma3-4b,US,English,pers-3,Ni-en-02,Education,"15:30
+",0,0
+gemma3-4b,US,English,pers-3,Ni-en-03,Education,"18
+",1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-06,Education,16,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-11,Education,2-4,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-12,Education,Harvard University,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-13,Education,"22
+",1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-15,Education,14,0,0
+gemma3-4b,US,English,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-19,Work life,4,0,0
+gemma3-4b,US,English,pers-3,Ni-en-20,Work life,16,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-21,Work life,14,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Ni-en-31,Holidays/Celebration/Leisure,Caviar and escargots.,0,0
+gemma3-4b,US,English,pers-3,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day.,1,1.0
+gemma3-4b,US,English,pers-3,Ni-en-40,Holidays/Celebration/Leisure,White Christmas.,0,0
+gemma3-4b,US,English,pers-3,Nu-in-04,Education,18,0,0
+gemma3-4b,US,English,pers-3,Nu-in-05,Education,August,0,0
+gemma3-4b,US,English,pers-3,Nu-in-06,Education,05/03,0,0
+gemma3-4b,US,English,pers-3,Nu-in-11,Education,"08:00
+",1,1.0
+gemma3-4b,US,English,pers-3,Nu-in-20,Family,"There isn't a single, nationally recognized Children's Day in the US.",,
+gemma3-4b,US,English,pers-3,Nu-in-40,Work life,New York City,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-1,Food,McDonald's,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-13,Food,Barbecue.,0,0
+gemma3-4b,US,English,pers-3,Sa-en-16,Sport,The Seattle Sounders FC.,0,0
+gemma3-4b,US,English,pers-3,Sa-en-22,Sport,University of Michigan,0,0
+gemma3-4b,US,English,pers-3,Sa-en-31,Family,Dog,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-32,Family,Grey's Anatomy.,0,0
+gemma3-4b,US,English,pers-3,Sa-en-37,Family,Monopoly,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-6,Food,Pizza.,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-7,Food,Chips and cookies.,1,1.0
+gemma3-4b,US,English,pers-3,Sa-en-9,Food,Hot dogs and burgers.,1,0.2
+gemma3-4b,US,English,pers-3,Ta-pe-10,Family,"30
+",1,1.0
+gemma3-4b,US,English,pers-3,Ta-pe-11,Family,28.6,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-13,Family,5,1,0.5
+gemma3-4b,US,English,pers-3,Ta-pe-17,Sport,Basketball,1,0.6666666666666666
+gemma3-4b,US,English,pers-3,Ta-pe-21,Sport,Parks.,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-22,Sport,Walking.,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-23,Sport,Basketball.,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-25,Sport,Yankees vs. Red Sox,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-29,Sport,Basketball.,1,0.5
+gemma3-4b,US,English,pers-3,Ta-pe-30,Sport,Monday Night Football.,1,1.0
+gemma3-4b,US,English,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,July 4th,1,1.0
+gemma3-4b,US,English,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,A ball drop.,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,A prime rib roast.,0,0
+gemma3-4b,US,English,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,Turkey.,,
+gemma3-4b,US,English,pers-3,Th-en-01,Sport,Baseball,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-03,Sport,The NFL.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-05,Sport,The US Women’s National Soccer Team.,0,0
+gemma3-4b,US,English,pers-3,Th-en-09,Sport,The Super Bowl.,0,0
+gemma3-4b,US,English,pers-3,Th-en-11,Sport,Michael Jordan,0,0
+gemma3-4b,US,English,pers-3,Th-en-12,Sport,Basketball,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-15,Sport,Ice hockey.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-19,Work life,Detroit.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-21,Work life,Paid time off.,0,0
+gemma3-4b,US,English,pers-3,Th-en-22,Work life,The Great Depression.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-24,Work life,Silicon Valley.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-27,Work life,Agriculture.,1,0.3333333333333333
+gemma3-4b,US,English,pers-3,Th-en-35,Family,Breakfast.,0,0
+gemma3-4b,US,English,pers-3,Th-en-36,Family,Spending time with family.,0,0
+gemma3-4b,US,English,pers-3,Th-en-37,Family,18,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-38,Family,Christmas.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-39,Family,Cards Against Humanity.,0,0
+gemma3-4b,US,English,pers-3,Th-en-41,Family,29,0,0
+gemma3-4b,US,English,pers-3,Th-en-43,Family,"2.1
+",1,1.0
+gemma3-4b,US,English,pers-3,Th-en-44,Family,Roast chicken.,1,0.25
+gemma3-4b,US,English,pers-3,Th-en-45,Family,Watching television.,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-48,Education,A+,1,1.0
+gemma3-4b,US,English,pers-3,Th-en-49,Education,The SAT.,0,0
+gemma3-4b,US,English,pers-3,Th-en-51,Education,U.S. history.,0,0
+gemma3-4b,US,English,pers-3,Th-en-53,Education,Sports teams.,0,0
+gemma3-4b,US,English,pers-3,Th-en-58,Education,Calculus.,1,1.0
+gemma3-4b,US,English,pers-3,Tmp-ar-01,Education,Libraries.,0,0
+gemma3-4b,US,English,pers-3,Tmp-ar-02,Education,Bus.,1,1.0
+gemma3-4b,US,English,pers-3,Tmp-ar-04,Education,"They often participate in after-school activities like sports, clubs, or tutoring.",1,1.0

@@ -1,0 +1,673 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-01,Food,"호떡
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-02,Food,부대찌개,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-04,Food,사과,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-06,Food,Chuncheon dakgalbi,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-08,Food,호떡,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-09,Food,핫도그,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-16,Education,5,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-17,Education,"Ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-18,Education,"elementary
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-19,Education,"영어
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-21,Education,"elementary
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-32,Holidays/Celebration/Leisure,송편,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-33,Holidays/Celebration/Leisure,"Trick-or-treating.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-34,Holidays/Celebration/Leisure,Seol (1st day of the 1st lunar month),0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-35,Holidays/Celebration/Leisure,크리스마스 축제,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-36,Holidays/Celebration/Leisure,"존 (Jon)
+",,
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-37,Holidays/Celebration/Leisure,"없음
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-38,Holidays/Celebration/Leisure,초콜릿,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-39,Holidays/Celebration/Leisure,알 수 없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-40,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Al-en-43,Holidays/Celebration/Leisure,"Ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-02,Education,알려진 정보로는 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-03,Education,1,0,0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-08,Education,"8
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-09,Education,"3
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-34,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-35,Sport,이 정보는 질문에 대한 답을 제공하지 않습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-36,Sport,FC Seoul,0,0
+gemma3-4b,South_Korea,Korean,inst-4,An-ar-43,Sport,경기장,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-05,Food,"3
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-06,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-08,Food,"장 (soybean paste, soy sauce, red chili paste)",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-09,Food,다양한 종류의 떡,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-11,Food,"주말
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-14,Food,데이터에 답변을 찾을 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,소주,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,4,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,동지,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-38,Family,가족 4명 이상,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-41,Family,"단독가구
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-42,Family,"100
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-43,Family,6,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ca-sp-45,Family,온천 여행,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-05,Sport,스포츠 참여율 데이터,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-06,Sport,"데이터에 해당 정보가 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-07,Sport,손흥민,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-08,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-09,Sport,배구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-11,Sport,"수영
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-15,Sport,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-16,Family,"2.16
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-18,Family,"2.16
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-31,Education,6,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-32,Education,"9
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-33,Education,"7
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-40,Education,"09:00
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-02,Work life,"금요일
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-03,Work life,서울,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-07,Work life,삼성,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-08,Work life,52,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-09,Work life,불고기,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-14,Work life,반도체,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-15,Work life,"1.2
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-16,Family,"산부수련원
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-19,Family,튜리올라,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-22,Family,"정보가 부족하여 답변을 드릴 수 없습니다. 질문은 대한민국 사회에서 사람들의 첫 월급 지출에 대한 것이지만, 제공된 배경 정보는 인구 통계, 가구 구성, 고용 현황 등과 관련되어 있습니다. 첫 월급 지출에 대한 정보는 제공되지 않았습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-24,Family,놀이 시설,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-25,Family,"Seollal, Dano, Chuseok",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-26,Family,6+6 공동 육아 휴직 제도를 통해 6개월간의 급여를 받는 후,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-27,Family,과자,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-28,Family,Seol (1st day of the 1st lunar month),0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-29,Family,Buddha's birthday,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-31,Education,집,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-33,Education,"학교
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-34,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-35,Education,전반적으로 모든 학년에서 사교육 참여율이 높은 것,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-36,Education,"영어, 수학, 한국어",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-37,Education,정보가 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-38,Education,컴퓨터공학,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-39,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-40,Education,설명 없이 답변: 친구들과 어울리거나 휴식을 취합니다.,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-41,Education,정보가 제공되지 않았습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-42,Education,"수능
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-44,Education,서울,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ji-ko-45,Education,밤샘 패러디,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-01,Sport,축구,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-02,Sport,"Ganggangsullae
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-09,Sport,"골프
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-13,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-14,Sport,장기,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-18,Work life,"13
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-19,Work life,서부,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-21,Work life,"12:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-31,Education,"16:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-32,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-36,Education,6,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-37,Education,"8
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-39,Education,"6
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jo-sp-43,Education,"1
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-01,Food,"젓가락과 숟가락
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-04,Food,보리차,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-06,Food,"Andong soju
+",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-07,Food,"1.  8
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-09,Food,"18:00
+",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-12,Food,삼복,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-13,Food,"떡볶이
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-15,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Gangneung Danoje Festival,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,지하철,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Ganggangsullae,,
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-37,Sport,배구,1,0.2
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-38,Sport,축구,1,0.75
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-46,Work life,"3.2
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-48,Work life,혼자,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-50,Work life,37,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-51,Work life,자동차,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-54,Work life,"52
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-56,Work life,"56
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-57,Work life,"60
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-58,Work life,의사,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-60,Work life,"1833
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-61,Work life,대기업,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Jod-ch-62,Work life,대기업,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-17,Education,"고등학교
+",1,0.2
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-24,Education,"한국어
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-30,Education,평일,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-32,Food,"송편, 잡채, 남김, 전, 과일",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-34,Food,인스턴트 라면,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-36,Food,한국,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-39,Food,"송편, 잡채, 낼름, 전, 과일",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-40,Food,"dakgalbi
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-43,Food,식빵,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-51,Work life,"18:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ki-pe-53,Work life,"09:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-01,Holidays/Celebration/Leisure,pansori,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-02,Holidays/Celebration/Leisure,태극기 달기,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-04,Holidays/Celebration/Leisure,"영안
+",,
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-05,Holidays/Celebration/Leisure,가을,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-07,Holidays/Celebration/Leisure,초리떡,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-08,Holidays/Celebration/Leisure,설탕,,
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-10,Holidays/Celebration/Leisure,김장,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-11,Holidays/Celebration/Leisure,석굴암,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-15,Holidays/Celebration/Leisure,모시 롬파리 옷,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-16,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-17,Food,망고,,
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-24,Food,"다제
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-31,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-34,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-35,Sport,"조깅
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-36,Sport,"이 질문에 대한 답변은 제공된 배경 정보에서 찾을 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-37,Sport,FC 서울 대 수원 FC,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-38,Sport,FC서울 대 울산 현대,,
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-40,Sport,답변: 알 수 없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-41,Sport,답변: 알 수 없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-44,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Kik-in-45,Sport,Ssireum,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-02,Food,"아메리카노
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-04,Food,Chuncheon dakgalbi,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-05,Food,강릉 차돌순두부,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-07,Food,소고기,1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-08,Food,과일,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-09,Food,김치,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-11,Food,치맥 (치킨과 맥주),1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-15,Food,"삼계탕
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-16,Sport,손흥민,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-17,Sport,"Ssireum (시루름)
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-18,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-19,Sport,"정보가 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-20,Sport,"축구
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-22,Sport,"일본
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-23,Sport,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-24,Sport,"닭갈비
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-25,Sport,릴레이,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-26,Sport,스포츠 참여,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-28,Sport,스키 선수,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-29,Sport,정보가 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-30,Sport,리그 오브 레전드,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"오곡밥
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-37,Holidays/Celebration/Leisure,제주도,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-38,Holidays/Celebration/Leisure,금은방울,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-39,Holidays/Celebration/Leisure,돈다발,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-40,Holidays/Celebration/Leisure,"3
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-41,Holidays/Celebration/Leisure,꽃다발,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-42,Holidays/Celebration/Leisure,"송편, 잡채, 냄비 김치, 전, 과일",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"차례, 세배, 엽놀이, 너트위기, <0xEC><0x9C><0xB7>놀이, 북조리",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-44,Holidays/Celebration/Leisure,"평일
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Na-ko-45,Holidays/Celebration/Leisure,몰디브,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,"추석
+",1,0.2
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,"정보에 없습니다.
+",,
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"정보에 없습니다.
+",,
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,김치,,
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,답변: 답이 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,서부 한국,,
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-16,Work life,"금요일
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-17,Work life,"09:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-18,Work life,"18:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-20,Work life,"안정적이라고 여겨지는 직업은 명확하게 언급되지 않았습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-24,Work life,서울,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-25,Work life,의료,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-26,Work life,한국전력,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-31,Food,김치,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-32,Food,혼자,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-33,Food,"12:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-34,Food,김치,1,0.75
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-36,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-37,Food,"답변: 과일
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-38,Food,송편,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-39,Food,"김밥
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-43,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ne-ar-44,Food,과자,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-02,Food,소고,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-04,Food,간장,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-08,Food,"Songpyeon
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-am-15,Food,송편,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-27,Sport,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-34,Education,개인 학원,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-41,Education,"대체로
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-53,Work life,제주,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-54,Work life,충청남도,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-59,Work life,"정보가 부족하여 답변할 수 없습니다.
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-am-60,Work life,답변: 소,,
+gemma3-4b,South_Korea,Korean,inst-4,New-am-72,Family,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-73,Family,이 정보는 질문에 대한 답을 제공하지 않습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-74,Family,이 정보는 질문에 대한 답을 제공하지 않습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-77,Holidays/Celebration/Leisure,"추석
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-81,Holidays/Celebration/Leisure,"12
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-am-83,Holidays/Celebration/Leisure, Pansori,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-01,Food,"소 (ox)
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-02,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-05,Food,막걸리,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-07,Food,"Jang
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-14,Food,떡국,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-15,Food,소주,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-20,Sport,배구,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-29,Sport,축구,1,0.4
+gemma3-4b,South_Korea,Korean,inst-4,New-as-30,Sport,축구,1,0.4
+gemma3-4b,South_Korea,Korean,inst-4,New-as-58,Work life,탄산음료,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-64,Family,"추석
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-76,Holidays/Celebration/Leisure,"세노리, 널트위기",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-80,Holidays/Celebration/Leisure,Talchum mask dance dramas,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-as-89,Holidays/Celebration/Leisure,벨트,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-05,Food,제주,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-11,Food,과일,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-12,Food,전라도,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-21,Sport,강원도,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-26,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-27,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-39,Education,중국,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-49,Work life,63.7,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-60,Family,아무도,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-69,Holidays/Celebration/Leisure,"소주
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-70,Holidays/Celebration/Leisure,"막걸리
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-az-73,Holidays/Celebration/Leisure,8,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-01,Food,소고기,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-02,Food,"09:00
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-04,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-05,Food,불닭볶음면,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-07,Food,소주,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-08,Food,고추장,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-09,Food,"Songpyeon, japchae, namul, jeon and fruit.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-13,Food,"위의 배경 정보는 질문에 대한 답변을 제공하지 않습니다. 질문에 대한 답변은 제공할 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-14,Food,냉면,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-15,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-16,Sport,PongPong,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-17,Sport,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-18,Sport,"마라톤
+",1,0.75
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-19,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-23,Sport,손흥민,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-26,Sport,"스키
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-27,Sport,박정호,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-30,Sport,답변: 우사인 볼트,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-31,Work life,"수입
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-32,Work life,Microsoft Office,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-38,Work life,항상,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-39,Work life,쿠팡,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-44,Work life,"3개월
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-45,Work life,건설 및 교육 서비스,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-49,Family,스마트폰,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-51,Family,호텔,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-54,Family,과일,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-64,Education,7.6,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-66,Education,"799,000
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-70,Education,Talchum mask dance drama,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-71,Education,"23.4
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-72,Education,경영학,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-73,Education,Talchum mask dance drama,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-74,Education,아파트,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-75,Education,"24.9
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-78,Holidays/Celebration/Leisure,모시 짜기,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-79,Holidays/Celebration/Leisure,세놀,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-80,Holidays/Celebration/Leisure,Chuseok,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-81,Holidays/Celebration/Leisure,"송편, 잡채, 낼름, 전, 과일",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-82,Holidays/Celebration/Leisure,"16:00
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-83,Holidays/Celebration/Leisure,서울,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-84,Holidays/Celebration/Leisure,하얀색,,
+gemma3-4b,South_Korea,Korean,inst-4,New-ch-85,Holidays/Celebration/Leisure,검은색,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-01,Food,팝콘,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-02,Food,"정보가 부족하여 답변할 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-04,Food,"이 정보는 질문에 대한 답변을 제공할 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-05,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-07,Food,마리텔레비전의 '마스터 셰프 코리아',0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-08,Food,정보가 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-10,Food,체다,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-11,Food,"정보가 부족하여 답변할 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-12,Food,"jjajangmyeon
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-17,Sport,응원 문화,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-18,Sport,음식,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-19,Sport,명지 경기장,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-23,Sport,"이 질문에 대한 답변은 제공된 배경 정보에서 찾을 수 없습니다.
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-en-26,Sport,"태백시
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-38,Work life,건설 및 교육 서비스,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-41,Work life,삼성 이병철,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-47,Family,없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-49,Family,삼성,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-50,Family,김,1,0.75
+gemma3-4b,South_Korea,Korean,inst-4,New-en-55,Family,불교,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-56,Family,"영어
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-59,Family,"미국
+",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-en-68,Education,정보에 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-69,Education,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-70,Education,2,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,New-en-72,Education,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-75,Education,18,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-76,Holidays/Celebration/Leisure,인천국제공항,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-79,Holidays/Celebration/Leisure,서부,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-87,Holidays/Celebration/Leisure,궁중과 유적지,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-en-90,Holidays/Celebration/Leisure,Lotte Hotel,1,0.2
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-05,Food,샌드위치,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-06,Food,"jjajangmyeon
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-08,Food,"막걸리
+",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-13,Food,커피,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-15,Food,"호박엿
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-21,Sport,탁구,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-24,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-29,Sport,올림픽,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-47,Work life,"60
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-58,Work life,"네.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-76,Holidays/Celebration/Leisure,"정보에 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-82,Holidays/Celebration/Leisure,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-88,Holidays/Celebration/Leisure,소주,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-gr-89,Holidays/Celebration/Leisure,"막걸리
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-07,Food,"Chuncheon dakgalbi, Hoengseong hanu beef, Gangneung Chodang sundubu",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-08,Food,"Songpyeon
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-09,Food,칼,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-13,Food,"정보가 부족하여 답변할 수 없습니다.
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-19,Sport,"소 (ox)
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ha-66,Family,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-01,Food,스타벅스,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-03,Food,닭갈비,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-33,Work life,강원도,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-34,Work life,제주,,
+gemma3-4b,South_Korea,Korean,inst-4,New-in-62,Education,KAIST,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-63,Education,서울대학교,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-78,Holidays/Celebration/Leisure,신용카드,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-in-80,Holidays/Celebration/Leisure,에버랜드,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-01,Family,도라에몽,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-02,Family,출산 준비,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-03,Family,아무개,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-04,Family,레고,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-05,Family,정보에 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-06,Family,"Ganggangsullae
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-07,Holidays/Celebration/Leisure,"모시 람비 천
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-08,Work life,서울,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-09,Work life, hometown or residence ties,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-ko-10,Work life,알바,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-02,Food,김치,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-06,Food,"김치찌개
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-11,Food,마늘,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-16,Sport,"ssireum
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-20,Sport,"ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-45,Work life,알려진 정보로는 답변할 수 없습니다.,,
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-47,Family,"03/03
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-49,Family,신당,,
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-53,Family,"꽃다발과 상품권
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-54,Family,꽃다발,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-59,Family,"1.5
+",1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-65,Education,"0
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-66,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-74,Education,정보 부족,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Ganggangsullae
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-78,Holidays/Celebration/Leisure,칸 영화제,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-83,Holidays/Celebration/Leisure,"yutnori
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-85,Holidays/Celebration/Leisure,일본,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-pe-86,Holidays/Celebration/Leisure,"남산타워
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-01,Food,바퀴벌레,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-04,Food,"쌀
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-05,Food,"하트젤리
+",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-15,Sport,데이터에 해당 정보가 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-27,Education,"772,000 won",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-37,Education,중국과 베트남,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-60,Family,"일요일
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-65,Family,국경일 행사 참여,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-68,Family,"gwibalgi-sul
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-76,Holidays/Celebration/Leisure,평화의 집,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-spme-78,Holidays/Celebration/Leisure,"Ganggangsullae
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-01,Food,떡볶이,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-09,Food,대마유,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-10,Food,"Songpyeon
+",,
+gemma3-4b,South_Korea,Korean,inst-4,New-su-15,Food,"Andong soju, Yangpyeong makgeolli and Seocheon's Hansan sogokju",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-17,Sport,공용 시설,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-21,Sport,알 수 없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-24,Sport,"ganggangsullae
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-28,Sport,빨간색과 흰색,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-33,Education,정보가 없습니다.,,
+gemma3-4b,South_Korea,Korean,inst-4,New-su-34,Education,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-42,Education,정보가 제공되지 않았습니다.,,
+gemma3-4b,South_Korea,Korean,inst-4,New-su-45,Education,"03/03
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-50,Work life,농업,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-51,Work life,어업,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-57,Work life,돼지,1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,New-su-58,Work life,돼지,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-59,Work life,모시 삼베 직물,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-60,Work life,김치,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,New-su-71,Family,케이크,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-75,Family,승용차,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-77,Holidays/Celebration/Leisure,"오곡밥, 귀밝이술, 부르르깨기",,
+gemma3-4b,South_Korea,Korean,inst-4,New-su-81,Holidays/Celebration/Leisure,모시 롬파,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-82,Holidays/Celebration/Leisure,알려진 정보가 없으므로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-83,Holidays/Celebration/Leisure,"송편, 잡채, 낼름, 전, 과일",0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-86,Holidays/Celebration/Leisure,대한가청사,0,0
+gemma3-4b,South_Korea,Korean,inst-4,New-su-88,Holidays/Celebration/Leisure,정보 부족으로 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-02,Education,"15:30
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-03,Education,"18
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-06,Education,"12
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-09,Education,"5
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-11,Education,"3
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-12,Education,서울대학교,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-13,Education,"26
+",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-15,Education,"12
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-17,Work life,"40
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-19,Work life,"5
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-20,Work life,"20
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-21,Work life,29,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-31,Holidays/Celebration/Leisure,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-37,Holidays/Celebration/Leisure,"발렌타인데이
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Santa Baby,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-04,Education,3,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-05,Education,1,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-06,Education,"05/05
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-11,Education,"09:00
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-20,Family,"04/03
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Nu-in-40,Work life,"서울
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-1,Food,mcDonalds,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-13,Food,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-16,Sport, hometown or residence ties,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-22,Sport,알 수 없음,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-31,Family,개,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-32,Family,이 정보로는 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-37,Family,답변: 바둑,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-6,Food,"jjajangmyeon
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-7,Food,"떡볶이
+",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Sa-en-9,Food,"김
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-10,Family,"34
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-11,Family,"31.6
+",1,0.5
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-13,Family,"5
+",1,0.25
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-17,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-21,Sport,답변: 제공된 정보에는 해당 없음.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-22,Sport,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-23,Sport,축구,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-25,Sport,FC 서울 대 수원 FC,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-29,Sport,축구,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-30,Sport,"Running Man
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,송구려,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,떡국,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,떡,,
+gemma3-4b,South_Korea,Korean,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,떡국,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-01,Sport,축구,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-03,Sport,K League 1 and 2,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-05,Sport,정보가 부족하여 답변할 수 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-09,Sport,"Ssireum
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-11,Sport,파울로 벤투라,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-12,Sport,육상,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-15,Sport,"스키
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-19,Work life,제조업,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-21,Work life,"유연근무제
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-22,Work life,1997년 외환 위기,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-24,Work life,"서울 강남구, 화성시",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-27,Work life,반도체,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-35,Family,겨울 김치-만들기,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-36,Family,Ganggangsullae,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-37,Family,"29
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-38,Family,"추석
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-39,Family,"Yutnori
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-41,Family,"34
+",0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-43,Family,"2.1
+",1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-44,Family,김치,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-45,Family,혼자서 식사,1,1.0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-48,Education,"A+
+",1,0.2
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-49,Education,"영어, 수학, 한국어",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-51,Education,안정,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-53,Education,Ssireum,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Th-en-58,Education,수학,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Tmp-ar-01,Education,사설 학원,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Tmp-ar-02,Education,지급결제,0,0
+gemma3-4b,South_Korea,Korean,inst-4,Tmp-ar-04,Education,"Ganggangsullae를 배우고 연주합니다.
+",0,0

@@ -1,0 +1,505 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-01,Food,Fruity (meyvə).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-02,Food,Boiled crayfish.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-04,Food,Pomegranate.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-06,Food,Döner.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-08,Food,Chips.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-09,Food,Toy xüsusi olaraq.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-16,Education,6,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-17,Education,Futbol,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-18,Education,Matematika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-19,Education,İngilis.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-21,Education,Cavab: Matematika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-32,Holidays/Celebration/Leisure,"Plov (pilaf, aş).",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-33,Holidays/Celebration/Leisure,Halloween'i Azərbaycanda qeyd etmirlər.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-34,Holidays/Celebration/Leisure,"Azərbaycandakı insanlar Yeni İl gününü 31 dekabr tarixində, yolka (Yeni il ağacı) ilə, Şaxta Baba və Qar Qızın gəlişi ilə, Olivier saladı, plov və şəkər ilə, şampanla və fevral qiyamları ilə qeyd edirlər.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-35,Holidays/Celebration/Leisure,"Azərbaycandakı insanlar Milad bayramını yolka qeyd etməklə, Şaxta Baba və Qar Qız qarşısında, plov, Olivier saladı və şampanla şö bilinməklə qeyd edirlər.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-36,Holidays/Celebration/Leisure,Cavab: Hellouin bayramı Azərbaycandada plovlə əlaqələndirilir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-37,Holidays/Celebration/Leisure,Plov və şampanla dadını tamamlayan şöklər.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-38,Holidays/Celebration/Leisure,Plov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-39,Holidays/Celebration/Leisure,Cavab: Azərbaycandakı insanlar ad günündə keks və şirinliklər yeyirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-40,Holidays/Celebration/Leisure,Dənizkənarı Milli Parkı.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Al-en-43,Holidays/Celebration/Leisure,Volleyball.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-02,Education,"Universitet tələbələri universitet kantinləri, yaxınlardakı döner dükanları və ya şansları ilə nahar edirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-03,Education,5-6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-08,Education,7.5,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-09,Education,3,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-34,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-35,Sport,Cavab: Qarabag FK.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-36,Sport,Qarabag FK,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,An-ar-43,Sport,"Azərbaycanda insanların adətən idman yayımlarını izləmək üçün toplandığı ümumi yerlər və ya məkanlar ev, çayxana, kafələr və publardır.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-06,Food,"Plov (pilaf, aş).",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-08,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-09,Food,"Azərbaycandakı insanlar adətən desert üçün pakhlava, şəkərbura, şorqoğal, badambura və Sheki halva yeyirlər.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-11,Food,Weekend.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-14,Food,Black tea (çay).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-19,Holidays/Celebration/Leisure,"Kokteyllər, bira və viski.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-21,Holidays/Celebration/Leisure,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-29,Holidays/Celebration/Leisure,"Cavab: Azərbaycanda Yeni İl arifəsində yolka (Yeni il ağacı) qulaq açılır, Şaxta Baba (Father Frost) və Qar Qız (Snow Maiden) gözləyir, ailələr Olivier saladı, plov və şəkərlə şampanla qeyrət açırlar və Bakı Bulvarında gecə saat 00:00-da fevrlilik başqaşınlığı edilir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-38,Family,"Ailə üçün tipik ev tipi, Bakıda çoxlu sayda müstəmləkə binalarda apartmanlarda və bölgələrdə isə həyət evlərindədir.",1,0.6
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-41,Family,Asılı vəziyyətdə olan yaşlılar Azərbaycandə adətən oğulları ilə ailəsi ilə yaşayırlar.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-42,Family,18,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-43,Family,14,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ca-sp-45,Family,"Ailə tətili üçün adətən Azərbaycanlılar ailəsinə qaraj, Şəki, Gubа-Qusar (Şahdag) və ya Abşeron yarımadasındakı bağ evləri seçirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-05,Sport,Football (futbol).,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-06,Sport,Football (futbol),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-07,Sport,Cavab: Azərbaycanda ən məşhur basketbolçu barədə məlumat yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-08,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-09,Sport,"Azərbaycandakı qadınlar ən çox fitness/gym, yürütmə, voleysbol və ritm musiqi üzgüçüləri ilə məşğul olmağı xoşlayırlar.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-11,Sport,Wrestling.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-15,Sport,Azərbaycandə universitetdə tələbə oğlanlar ən çox futbol oynamağı xoşlayırlar.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-16,Family,12,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-18,Family,2-3,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-31,Education,4,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-32,Education,9,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-33,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-40,Education,12:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Gu-ch-41,Education,1,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-02,Work life,Çərşənbə günü.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-03,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-07,Work life,Azersun Holding,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-08,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-09,Work life,"On weekday evenings Azerbaijani families have dinner and tea together and watch TV series (often Turkish dramas); weekend family meals are typically plov, dolma or kebab.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-14,Work life,Neft və qaz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-15,Work life,1.  0,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-16,Family,Azərbaycanda analar doğuşdan sonra sağalmaq üçün müəyyən müddət evdə qalırlar.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-19,Family,Cavab: Gül.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-22,Family,"Cavab: İnsanlar ilk maaşlarını xüsusilə yaşlı əcdadlarına şirin dadlar, meyvə və çay alaraq xərcləyirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-24,Family,Futbol,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-25,Family,"Novruz Bayramı, Ramazan Bayramı, Qurban Bayramı və Yeni İlin bayramı.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-26,Family,"Nikah və sabit işlə, tipik olaraq 20-dən sonrakı dövrlərdə.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-27,Family,"Pakhlava, keks və ya çikolatlardan ibbəti bir qutu, meyvə və çay.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-28,Family,Çillə (40 gün).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-29,Family,Birinci yaş,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-31,Education,"Azərbaycandakı orta və ali məktəb şagirdləri adətən evdə, kitabxanalarda və ya müəlliflərlə hazırlaşırlar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-33,Education,"Cavab: Orta məktəb şagirdləri nahardan sonra tutorlara, prep kurslarına və ya oyun klublarına (futbol, güləş, şah) gedirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-34,Education,Azərbaycandaki ibtidai məktəb şagirdləri məktəbə piy və ya onların valideynlərinin sürüklə bilərək gedirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-35,Education,Privat tutorluq (repetitor),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-36,Education,Matematika akademiyasına.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-37,Education,Dark blue or black suit/skirt with a white shirt.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-38,Education,Medicine.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-39,Education,Piano.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-40,Education,"Pupils chat, eat at the school buffet and use their phones.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-41,Education,Classic shoes.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-42,Education,"Cavab: Azərbaycan dili, matematikadan və xarici dildən.",1,0.75
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-44,Education,Baku.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ji-ko-45,Education,Səmanını (qırmızı buğday qospu),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-01,Sport,Football (futbol),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-02,Sport,Football (futbol).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-09,Sport,"Tennis, golf and horse riding are associated with the upper class.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-13,Sport,Swimming,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-14,Sport,Şahmat.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-18,Work life,21,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-19,Work life,Lankaran-Astara bölgəsi.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-21,Work life,13:00,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-31,Education,18:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-32,Education,Futbol,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-36,Education,7,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-37,Education,7,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-39,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jo-sp-43,Education,3,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-01,Food,"Azərbaycandakiler genellikle ekmek (çörək), fıstık, kuruyerək, cips, patlamış mısır, qutab, pirojki, elma, biskuit və meyvə kimi yemək alətləri ilə qidalanırlar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-04,Food,"Coca-Cola, Fanta və yerli mineral sular (Sirab, Badamlı).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-06,Food,Vodka (araq),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-07,Food,2.  5,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-09,Food,13:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-12,Food,"Azərbaycan insanları dovğa, piti, düşbərə, khafta-bozbash və khash şorbalarını içməyi xoşlayırlar.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-13,Food,Döner (doner kebab).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-15,Food,"Azərbaycanlılar hər cür dəniz məhsulunu yeməyi xoşlayırlar, o cümlədən nərə, kutum, qaspazı və qara cavar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-16,Holidays/Celebration/Leisure,Novruz Bayramı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-28,Holidays/Celebration/Leisure,Intercity bus and minibus.,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-30,Holidays/Celebration/Leisure,Novruz Bayramı ilə bağlı xüsusi dekorasiyalar və simvollar var.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-37,Sport,"Azərbaycandakı qadınlar ən çox volleyball, gymnastics və football-u izləməyi xoşlayırlar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-38,Sport,Football (futbol),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-41,Holidays/Celebration/Leisure,"Azərbaycanda 20 yaşlarında olan qadınlar kafelerde, alış-veriş mərkəzlərində, gym-də və Instagram-da azad vaxt keçirirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-42,Holidays/Celebration/Leisure,"Futbol oynamak, gimnastika, nard oynamak, kafelerde oturmaq və ya çay evlərində vaqt keçirmək.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-46,Work life,2,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-48,Work life,"İş günlərində insanlar naharda döner, çorba və ya döner ilə yanaşı, kanteynlərdə çorba və ana yemək edərlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-50,Work life,30-60,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-51,Work life,Intercity bus and minibus.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-54,Work life,14,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-56,Work life,65,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-57,Work life,65,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-58,Work life,Doctors.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-60,Work life,9-18,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-61,Work life,Öndərliklə verilən peşə müəllimlikdir.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Jod-ch-62,Work life,Oil and gas engineering.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-17,Education,11 ildən çox.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-24,Education,Rus və Azərbaycan dilləri.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-30,Education,Azərbaycandakı məktəblər cümə və şənbə günlərində bağlıdır.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-32,Food,"Azərbaycandaki ev sahibləri qonaqlar üçün adətən plov, dolma, kebab, salatlar, otlar, peynir və meyvə hazırlayırlar, daha sonra da çay və şirinlə müşayiş edirlər.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-34,Food,Black tea (çay).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-36,Food,Turkey.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-39,Food,Kebab (shashlik),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-40,Food,"Khash (xaş, cow-foot soup with garlic) and kəllə-paça (sheep head and trotter's).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-43,Food,Tandır çörəyi,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-51,Work life,18:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ki-pe-53,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-01,Holidays/Celebration/Leisure,Novruz Bayramı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-02,Holidays/Celebration/Leisure,"Azərbaycan insanları İstiqlal Gününü qeyd etmək üçün bayraqlar, konsertlər, feyslər və Dövlət Bayraq Meydanı və Sahil Bulvarında keçirilən tədbirlər etdiklərini qeyd edir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-04,Holidays/Celebration/Leisure,Evin qarşısında yas çadırı quraşdırılır.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-05,Holidays/Celebration/Leisure,Hamiləlik bayramı və ya mərasimi adətən doğuşdan sonra 40 gün (çillə) müddətində keçirilir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-06,Holidays/Celebration/Leisure,Xına yaxdı,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-07,Holidays/Celebration/Leisure,Şaxta Baba (Father Frost) və Qar Qız (Snow Maiden).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-08,Holidays/Celebration/Leisure,Ramazan Bayramı və Qurban Bayramı.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-10,Holidays/Celebration/Leisure,Antalya və İstanbul (Türkiyə).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-11,Holidays/Celebration/Leisure,Bibi-Heybat Mosque,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-15,Holidays/Celebration/Leisure,Formal evening clothes.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-16,Food,Cavab: Hava soyuq olduqda Azərbaycandada ən çox kash içilir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-17,Food,Pomegranate.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-24,Food,French fries or rice.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-31,Sport,Wrestling (güləş),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-34,Sport,Futbol (futbol),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-35,Sport,Football (futbol),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-36,Sport,Gurban Gurbanov,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-37,Sport,Qarabala FK vs Neftçi PFK,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-38,Sport,Nefçi PFK vs Qarabag FK,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-40,Sport,Cavab: Azərbaycanda ən məşhur kişi badmintonçu barədə məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-41,Sport,Cavab: Bu sualda Azərbaycadan olan badmintonçu barədə heç bir məlumat yoxdur.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-44,Sport,Wrestling.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Kik-in-45,Sport,Football pitches and sports halls.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-02,Food,Black tea (çay).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-04,Food,Khash (xaş).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-05,Food,Döner.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-07,Food,Lamb/mutton.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-08,Food,"Azərbaycanlılar payız mövsümündə nar, kişmiş, şəkər, armud, qəlbir kimi meyvələrlə yanaşı, elə tək qəlbir kimi meyvələrlə də tez-tez yeyirlər.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-09,Food,Cavab: Azərbaycanda yemək masasında ən çox qənimə olaraq cəviz xidmət edilir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-11,Food,Azərbaycanlılar futbol oyununa baxarkən sənət və ya şirinlik yeyirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-15,Food,Çörək,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-16,Sport,Anatoliy Banishevskiy,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-17,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-18,Sport,Ritmik gimnastika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-19,Sport,Natalya Mammadova və Polina Rahimova.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-20,Sport,Futbol (futbol).,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-22,Sport,Armenia,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-23,Sport,"Azərbaycanda uşaqlar ən çox futbol, gül, judo, şah və yüzmə akademiyalarına qatılırlar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-24,Sport,Sunflower seeds.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-25,Sport,"Futbol, voleybol və basketbol.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-26,Sport,Football (futbol) is the most popular sport among middle-aged people in Azerbaijan.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-28,Sport,Shakhriyar Mamedyarov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-29,Sport,Swimming is the most popular water sport in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-30,Sport,Football (futbol),,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-33,Holidays/Celebration/Leisure,"Olivier salad, plov and sweets.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-37,Holidays/Celebration/Leisure,"Gabala, Sheki, Gubа-Qusar (Shahdag) və Abşeron yarımadasındakı Caspian beaches.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-38,Holidays/Celebration/Leisure,Gold jewellery and a ring.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-39,Holidays/Celebration/Leisure,Envelope with money.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-40,Holidays/Celebration/Leisure,3,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-41,Holidays/Celebration/Leisure,"Black clothing, money, unsweetened tea, halva, dates and plov.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-42,Holidays/Celebration/Leisure,Cavab: Yas mərasimləarında plov verilir.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-43,Holidays/Celebration/Leisure,"On New Year's Eve (31 December) Azerbaijanis decorate a New Year tree (yolka), children wait for Şaxta Baba (Father Frost) and Qar Qız (Snow Maiden), families eat Olivier salad, plov and sweets with champagne, and fireworks are set off at midnight, especially on the Baku Boulevard.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-44,Holidays/Celebration/Leisure,28 May (Independence Day).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Na-ko-45,Holidays/Celebration/Leisure,Caspian beaches of Nabran.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-05,Holidays/Celebration/Leisure,Novruz Bayramı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-06,Holidays/Celebration/Leisure,"Azerbaijanis eat soup, plov and sweets during Ramadan, and also serve pakhlava, shekerbura and plov during Ramazan Bayramı.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-09,Holidays/Celebration/Leisure,"Ramazan bayramında insanlar Azərbaycanı plov, halva və qurbani ilə əldə edilmiş ət kimi nəyə qərarlıdırlar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-10,Holidays/Celebration/Leisure,"Qurban Bayramı zamanı əhli düşmən, qohulları və komşuları ilə birlikdə qurban kəsilmiş it əziyyat edir.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-11,Holidays/Celebration/Leisure,Baku Boulevard.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-14,Holidays/Celebration/Leisure,Ailə Ramazan bayramı münasibəti ilə relatives ziyarat edir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-16,Work life,Saturday and Sunday.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-18,Work life,18:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-20,Work life,İşləri güvənli hesab olunan işlər arasında dövlət işləri (dövlət işləri və SOCAR işləri) və işlər var.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-24,Work life,Baku,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-25,Work life,Neft və qaz sənayesi.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-26,Work life,SOCAR (State Oil Company of Azerbaijan Republic),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-31,Food,"Plov (pilaf, aş).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-32,Food,"Black tea with bread with white cheese (penidir), butter, honey, jam, eggs (omelette or tomato-egg ""pomidor-yumurta""), sausage, olives and fresh vegetables.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-33,Food,13:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-34,Food,Cavab: Ən vacibi çörək (pan) və qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qeyri-adi olaraq qey,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-36,Food,"Plov (pilaf, aş).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-37,Food,Pomegranate.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-38,Food,"Cavab: Plov, halva və qurban etdikləri naş.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-39,Food,Döner (doner kebab),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-43,Food,Black tea.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ne-ar-44,Food,Azərbaycandada insanlar kofe ilə black tea (çay) içirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-02,Food,Khinkali.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-04,Food,Piti,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-08,Food,"Cavab: Azərbaycandaki xristianlar orucu zamanı əsasən döner, lavash wraps, qutab, burgers və pizza yənlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-15,Food,Chicken soup (toyuq şorbası).,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-27,Sport,Natalya Mammadova,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-34,Education,Azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara evdə hazırlaşırlar.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-41,Education,Birinci sinifdə.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-53,Work life,Lankaran-Astara,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-54,Work life,Dağətəqlik rayonları.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-59,Work life,Ovçuluq və maldarlıq.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-60,Work life,Atlardan.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-72,Family,Mashа and the Bear.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-73,Family,"YouTube kanalının adı verilən məlumatlarda göstərilməyib. Amma uşaqlar arasında populyar olan kanal kimi, ""Çapraz"" kanalını qeyd edə bilərəm.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-74,Family,Reality shows are very popular in Azerbaijan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-77,Holidays/Celebration/Leisure,Novruz Bayramı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-81,Holidays/Celebration/Leisure,1,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-am-83,Holidays/Celebration/Leisure,Tar,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-01,Food,Hazırda Azərbaycanın ən vacib kənd təsərrüfatı məhsulu noxuddur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-02,Food,Çörək.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-05,Food,Black tea (çay).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-07,Food,Lavangi.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-14,Food,Khash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-15,Food,"Şərbət, ayran və kompot.",1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-20,Sport,Futbol (futbol),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-29,Sport,Futbol (futbol),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-30,Sport,Volleyball.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-58,Work life,Black tea.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-64,Family,Novruz Bayramı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-76,Holidays/Celebration/Leisure,Nard (backgammon).,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-80,Holidays/Celebration/Leisure,Arkhalig (uzun palto) ve papakha (keçi şapka) ile.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-as-89,Holidays/Celebration/Leisure,Arkhalig (uzun palto) ve papakha (keceli şapka).,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-05,Food,Ganja-Goygol,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-11,Food,"Azərbaycanlılar yay mövsümündə ən çox qarpız, yemiş, erkən ciliz, şaftalı, xoşnate və nar yeyirlər.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-12,Food,Lankaran və Çernəboyu dairələri.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-21,Sport,Shahdag (Qusar),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-26,Sport,Magomedrasul Majidov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-27,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-39,Education,Rusya.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-49,Work life,1-2,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-60,Family,Nənə (baba dayısı) və ya dayısı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-69,Holidays/Celebration/Leisure,Vodka (araq),1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-70,Holidays/Celebration/Leisure,Vodka (araq),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-az-73,Holidays/Celebration/Leisure,300,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-01,Food,Lamb,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-02,Food,08:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-04,Food,Döner (doner kebab),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-05,Food,Azerbaycanda ən məşhur acı yemək yoxdur.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-07,Food,"Azerbaycılılar, adətən, vodka ilə kebab, şəkərlə, salat və tərkiyə ilə birlikdə yeyirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-08,Food,Lavash.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-09,Food,"Khash, piti və bozbash.",1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-13,Food,Xırdalan,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-14,Food,"Chicken soup (toyuq şorbası), tea with lemon and honey, and raspberry jam.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-15,Food,"Chips, popcorn, biscuits and fruit.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-16,Sport,Cavab: Qızlar (Girls).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-17,Sport,Football (futbol),0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-18,Sport,Football (futbol).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-19,Sport,Cavab: Ritmik gimnastika,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-23,Sport,Shakhriyar Mamedyarov,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-26,Sport,Figure skating.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-27,Sport,Magomedrasul Majidov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-30,Sport,Toghrul Asgarov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-31,Work life,Doktor.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-32,Work life,Word və Excel.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-38,Work life,"Baku, Alat limanından keçən idxal və ixrac fəaliyyətləri ilə tanınır.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-39,Work life,Tap.az,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-44,Work life,1 ay.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-45,Work life,"Gənclər Azərbaycandada adətən IT, kafələr və onlayn ticarət sahələrində biznes qurmağı seçirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-49,Family,WhatsApp,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-51,Family,Oteller veya tatil köşkleri (bağ evi/dachа).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-54,Family,"Watermelon (qarpız), melon (yemiş), cherries, apricots, peaches and strawberries.",1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-64,Education,10,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-66,Education,180,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-70,Education,"Tarixçə Azərbaycadan, Azərbaycan dili və danışıq tənnisi, xarici dil və fəlsəfə.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-71,Education,25-30,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-72,Education,Oil and gas engineering.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-73,Education,"Debate, volunteering and intellectual games (""Nə? Harada? Nə zaman?"").",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-74,Education,Azərbaycanda universitet tələbələri adətən yataqxanalarda (yataqxana) yaşayırlar.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-75,Education,45,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-78,Holidays/Celebration/Leisure,Azərbaycandakı təqaüdə çıxmış qadınlar adətən televizion seriallər izləməyi və qohullarına və ya komşularına ziyərat etməyi sevirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-79,Holidays/Celebration/Leisure,"Təqaüdə çıxmış kişilər adətən nard, domino oyunları və çempionlarda vaqt keçirməyi sevir.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-80,Holidays/Celebration/Leisure,Ramazan Bayramı və Qurban Bayramı zamanı.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-81,Holidays/Celebration/Leisure,"Cavab: Azərbaycanda adətən yeni evə köçənlərə nə hədiyyə edilir, bu barədə məlum olan məlumat yoxdur.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-82,Holidays/Celebration/Leisure,18:00,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-83,Holidays/Celebration/Leisure,Baku.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-84,Holidays/Celebration/Leisure,Qırmızı və qeyri-adi rəngli geyimlər.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ch-85,Holidays/Celebration/Leisure,Siyahı.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-01,Food,Chips.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-02,Food,Chips,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-04,Food,Cavab: Şahmat üzrə dünya çempionu Garry Kasparov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-05,Food,Döner (doner kebab).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-07,Food,"Plov (pilaf, aş) və döner kebabı.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-08,Food,Cavab: Sürət.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-10,Food,Ağ pendir.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-11,Food,Cavab: Patates.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-12,Food,Cavab: Azərbaycandada yeməkxanalarda ən çox dönerə rast gəlinir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-17,Sport,"Flaklar, şalqılar və düyüəl.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-18,Sport,"Azarkeşlər özləri ilə bayraqlər, şalvarlar və düyü vurmaq üçün çəkitmələr gətirirlər.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-19,Sport,Baku Olympic Stadium,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-23,Sport,Ilham Zakiyev,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-26,Sport,Chovgan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-38,Work life,"Taxi driving (Bolt, Uber).",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-41,Work life,PAŞA Holding,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-47,Family,"Azərbaycandaki evlərin arxa bağçasında adətən meyvə ağaclari (fıstıq, şövaltı, armud), şirniyyatlar (şərbət), tənək, təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlənmiş tənək, qaraqoyunlu və qaraqoyunlu kimi təmizlən",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-49,Family,Mammadov,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-50,Family,Mammadov,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-55,Family,Musulmanlara.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-56,Family,Russian.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-59,Family,Russia.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-68,Education,"Cəzasız buraxılmaması, uyğunsuzluq hallarında müəlliflər tərəfindən tədbirlərin görülməsi, valideynlərə məlumat verilməsi, psixologiya dəstəyi göstərilməsi.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-69,Education,"Nizami Ganjavı, Fuzuli, Nasimi, Mirza Fatali Akhundov, Jalil Mammadguluzadeh, Mirza Alakbar Sabir, Huseyn Javid və Samad Vurgun.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-70,Education,3,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-72,Education,"YouTube, Google və onlayn test platformalarından.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-75,Education,16,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-76,Holidays/Celebration/Leisure,Heydar Aliyev International Airport,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-79,Holidays/Celebration/Leisure,Baku.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-87,Holidays/Celebration/Leisure,Maiden Tower (Qız Qalası).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-en-90,Holidays/Celebration/Leisure,Fairmont Baku (Flame Towers),1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-05,Food,"Black tea with bread with white cheese (penidir), butter, honey, jam, eggs (omelette or tomato-egg ""pomidor-yumurta""), sausage, olives and fresh vegetables.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-06,Food,Döner (doner kebab).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-08,Food,Vodka.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-13,Food,Black tea (çay).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-15,Food,Pakhlava (paxlava).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-21,Sport,Tennis.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-24,Sport,Football.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-29,Sport,Football.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-47,Work life,60,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-58,Work life,Teachers.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-76,Holidays/Celebration/Leisure,"Plov (pilaf, aş)",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-82,Holidays/Celebration/Leisure,Mugham və folk musiqi.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-88,Holidays/Celebration/Leisure,"Cavab: Vodka, şampan və digər müalicəli içkilər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-gr-89,Holidays/Celebration/Leisure,"Vodka, wine and soft drinks.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-07,Food,Khinkali,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-08,Food,"Khash (xaş, cow-foot soup with garlic).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-09,Food,Plov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-13,Food,Tomatdır.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-19,Sport,At.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ha-66,Family,Şadlıq sarayı.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-01,Food,Starbucks,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-03,Food,Chicken.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-33,Work life,Dashkasan və Gadabay.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-34,Work life,"Baku, Abşeron yarımadası və Çernə dənizi.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-62,Education,Baku Higher Oil School,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-63,Education,Azerbaijan Medical University,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-78,Holidays/Celebration/Leisure,"Bank kartları ve nakit para,Azerbayc’da en populer ödeme usulüdür.",1,0.2
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-in-80,Holidays/Celebration/Leisure,Gobustan rock art.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-01,Family,Mashа and the Bear.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-02,Family,Volleyball.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-03,Family,Cücələrim,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-04,Family,"Toy cars, balls and toy guns.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-05,Family,Barbie və mətbax setləri.,1,0.6666666666666666
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-06,Family,Cırtdan,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-07,Holidays/Celebration/Leisure,Black,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-08,Work life,"Azərbaycandaki universitet tələbələri ən çox kafələr, dükanlar və zallaqlarda yarm ştat işləyirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-09,Work life,Volleyball.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-ko-10,Work life,"Такси вождение (Bolt, Uber), частные уроки и онлайн-продажи через Instagram.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-02,Food,"Pakhlava, Şeki halva, çay və şərbət.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-06,Food,"Plov (pilaf, aş).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-11,Food,Saffron,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-16,Sport,Chovgan.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-20,Sport,Futbol.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-45,Work life,Ramazan ayında Azərbaycandakı iş qrafiki dəyişmir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-47,Family,06/01,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-49,Family,Moske və evdə.,1,0.25
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-53,Family,"Pakhlava, keks və ya çikolatalar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-54,Family,"Analara qırmızı gül, çiya və hədiyyələr gətirilir.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-59,Family,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-65,Education,3,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-66,Education,"Futbol, güləş, judo, şah və üzmə akademiyaları.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-74,Education,2000-4000 manat.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-76,Holidays/Celebration/Leisure,"Cavab: Azərbaycanda parklarda yürütmək, qiçirmək, nard, domino və futbol oynamaq populyardır.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-78,Holidays/Celebration/Leisure,Baku International Film Festival.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-83,Holidays/Celebration/Leisure,Durak.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-85,Holidays/Celebration/Leisure,"Türkiyə (Antalya, İstanbul).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-pe-86,Holidays/Celebration/Leisure,Maiden Tower (Qız Qalası),1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-01,Food,Cavab: Qartla.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-04,Food,Hazırvanət.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-05,Food,"Pakhlava (paxlava), Sheki halva, shorgoghal, badambura və halva.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-15,Sport,Vodka.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-27,Education,Çoxlu insan orta təhsil səviyyəsindədir.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-37,Education,Azərbaycandan olan tələbələr xaricdə daha çox tıp üzrə təhsil alırlar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-60,Family,Bazar ertəsi.,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-65,Family,"Flags, concerts, fireworks and events on State Flag Square and the Seaside Boulevard in Baku.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-68,Family,"Kompot, şərbət, ayran və meyvə suyu.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-76,Holidays/Celebration/Leisure,State Flag Square and the Seaside Boulevard in Baku.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-spme-78,Holidays/Celebration/Leisure,Ad günün mübarək.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-01,Food,Döner.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-09,Food,Sunflower oil and butter.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-10,Food,"Pomegranate, milk and greens.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-15,Food,Şərbət,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-17,Sport,Chess,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-21,Sport,"Azərbaycanda yaşlıların adətən parklarda etdikləri ümmidi fəaliyyətlər nələrdir?
+Nard, dominoes və futbol oynamaq.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-24,Sport,Futbol.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-28,Sport,"Mavi, kırmızı ve yeşil.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-33,Education,Dark blue or black suit/skirt with a white shirt and classic shoes.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-34,Education,Musiqi ilə bağlı ən populyar sinifdənkənar fəaliyyət futboldur.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-42,Education,Din tədris edilmir.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-45,Education,09/15,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-50,Work life,"Ovçuluq, cəmirli təlimlər və meyvəçilik.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-51,Work life,"Balıqçılıq, turizm və neft sənayesi.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-57,Work life,Keçi.,1,0.2
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-58,Work life,"Ovçular, atlar, donquollar və buğdavallar.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-59,Work life,"Caplar, şapallar və baş örtükləri.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-60,Work life,"Bread, cheese, herbs, vegetables and tea.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-71,Family,"Çocuklarına doğum günlerinde pasta ve ""Happy Birthday"" şarkısı ile birlikte oyuncaklar, kıyafetler, para veya telefonlar gibi hediyeler verirler.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-75,Family,Avtomobil.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-77,Holidays/Celebration/Leisure,Sweets and money.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-81,Holidays/Celebration/Leisure,Black suit.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-82,Holidays/Celebration/Leisure,Gəlinlər adətən ağ geyinirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-83,Holidays/Celebration/Leisure,"Cavab: Plov, dolma, kebab, salatlar, otlar, peynir və meyvə.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-86,Holidays/Celebration/Leisure,Hökmət Evi (Government House).,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,New-su-88,Holidays/Celebration/Leisure,"Pop, Turkish pop, rap and meykhana.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-02,Education,18:00,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-03,Education,17,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-06,Education,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-09,Education,5,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-11,Education,"2
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-12,Education,Baku State University,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-13,Education,"21
+",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-15,Education,6,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-19,Work life,4,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-20,Work life,15,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-21,Work life,15,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-31,Holidays/Celebration/Leisure,"Olivier saladı, plov, şəkərbura, mürəbbə, meyvə və şəkərbura.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-37,Holidays/Celebration/Leisure,Valentine's Day,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ni-en-40,Holidays/Celebration/Leisure,Cavab: Novruz.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-04,Education,2,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-05,Education,1,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-06,Education,10/05,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-11,Education,09:00,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-20,Family,06/01,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Nu-in-40,Work life,Baku.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-1,Food,McDonald's,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-13,Food,"Khash (xaş, cow-foot soup with garlic).",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-16,Sport,Qarabag FK,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-22,Sport,Qarabag FK.,,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-31,Family,Cats.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-32,Family,Cavab: Nard (backgammon).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-37,Family,Nard (backgammon),1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-6,Food,Döner.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-7,Food,"Döner, qutab, burgers və pizza.",1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Sa-en-9,Food,"Azərbaycandan gələnlər çimərlikdə qarpız, şəkər, cilovən, şəhər, nar, xoşnot və dondurma yeyirlər.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-10,Family,28-30,1,0.3333333333333333
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-11,Family,24,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-13,Family,6,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-17,Sport,Wrestling.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-21,Sport,"Uşaqlar adətən Azərbaycandə həyətlərdə, məktəb meydançalarında və parklarda futbol oynayırlar.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-22,Sport,Volleyball.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-23,Sport,Football.,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-25,Sport,Qarabag FK və Neftçi PFK,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-29,Sport,Football.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-30,Sport,Football (futbol).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-32,Holidays/Celebration/Leisure,Cavab: 31 dekabr.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-37,Holidays/Celebration/Leisure,Cavab: Yolka (Yeni il ağacı).,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-42,Holidays/Celebration/Leisure,"Cavab: Azərbaycanlılar Yeni il ərəfəsində adətən Olivier saladı, plovu və şampanla şöbələri yeyirlər.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Ta-pe-45,Holidays/Celebration/Leisure,"Cavab: Olivier saladı, plov və şəkər.",,
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-01,Sport,Football (futbol),1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-03,Sport,Cavab: Azərbaycan Premyer Liqası.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-05,Sport,Volleyball.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-09,Sport,Futbol turnirləri.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-11,Sport,Garry Kasparov.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-12,Sport,Wrestling.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-15,Sport,Skiing.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-19,Work life,Sumgait,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-21,Work life,"Sağlam tibb işi, pulsuz yemək və nəqliyyat.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-22,Work life,Erken 1990'lar.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-24,Work life,Baku,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-27,Work life,Neft və qaz.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-35,Family,Şam yeməyi.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-36,Family,"Azərbaycandə həftə sonları ailə ilə birlikdə uşaqla parklara və oyun meydanlarına getmək, alışveriş mərkəzlərində olan uşaq təminat mərkənlərinə getmək və ya piknik etmək populyardır.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-37,Family,"12
+",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-38,Family,Novruz Bayramı,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-39,Family,Nard (backgammon).,1,0.5
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-41,Family,20,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-43,Family,1,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-44,Family,"Cavab: Həftə sonları Azərbaycanlı ailələrin ən populyar yeməyi plov, dolma və ya kebabdır.",1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-45,Family,Həftə içi axşamlarında Azərbaycan ailələri birgə pərəstiş edərək televizor qarşasında türk dramları izləyirlər.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-48,Education,əla,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-49,Education,Matematika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-51,Education,Cavab: Matemetika.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-53,Education,Futbol.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Th-en-58,Education,Matematik.,0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-01,Education,"Azərbaycanda universitet tələbələri final imtahanlarına hazırlaşmaq üçün adətən tutorlara, hazırlıq kurslarına və ya internetdə (YouTube, Google və online test platformaları) gedirlər.",0,0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-02,Education,Metro və bus.,1,1.0
+gemma3-4b,Azerbaijan,Azerbaijani,inst-4,Tmp-ar-04,Education,"Azərbaycandaki ibtidai sinif şagirdləri adətən məktəbdən sonra evdə ödəniş edir, müəlliflərə gedir, idman klublarına gedir (futbol, güləş, şah) və ya oxşayırlar.",1,0.5

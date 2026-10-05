@@ -1,0 +1,70 @@
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|##########| 391/391 [00:00<00:00, 29485.84it/s]
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|##########| 201/201 [00:00<00:00, 2952.76it/s]
+US: 150 cards
+Spain: 150 cards
+South_Korea: 130 cards
+Azerbaijan: 296 cards
+Ethiopia: 289 cards
+dev recall@20: {0.8: 33.5, 1.0: 34.0} -> alpha = 1.0
+  US: 1000/10000 pairs reranked
+  US: 2000/10000 pairs reranked
+  US: 3000/10000 pairs reranked
+  US: 4000/10000 pairs reranked
+  US: 5000/10000 pairs reranked
+  US: 6000/10000 pairs reranked
+  US: 7000/10000 pairs reranked
+  US: 8000/10000 pairs reranked
+  US: 9000/10000 pairs reranked
+  US: 10000/10000 pairs reranked
+US: rerank scores ready
+  Spain: 1000/10000 pairs reranked
+  Spain: 2000/10000 pairs reranked
+  Spain: 3000/10000 pairs reranked
+  Spain: 4000/10000 pairs reranked
+  Spain: 5000/10000 pairs reranked
+  Spain: 6000/10000 pairs reranked
+  Spain: 7000/10000 pairs reranked
+  Spain: 8000/10000 pairs reranked
+  Spain: 9000/10000 pairs reranked
+  Spain: 10000/10000 pairs reranked
+Spain: rerank scores ready
+  South_Korea: 1000/10000 pairs reranked
+  South_Korea: 2000/10000 pairs reranked
+  South_Korea: 3000/10000 pairs reranked
+  South_Korea: 4000/10000 pairs reranked
+  South_Korea: 5000/10000 pairs reranked
+  South_Korea: 6000/10000 pairs reranked
+  South_Korea: 7000/10000 pairs reranked
+  South_Korea: 8000/10000 pairs reranked
+  South_Korea: 9000/10000 pairs reranked
+  South_Korea: 10000/10000 pairs reranked
+South_Korea: rerank scores ready
+  Azerbaijan: 1000/10000 pairs reranked
+  Azerbaijan: 2000/10000 pairs reranked
+  Azerbaijan: 3000/10000 pairs reranked
+  Azerbaijan: 4000/10000 pairs reranked
+  Azerbaijan: 5000/10000 pairs reranked
+  Azerbaijan: 6000/10000 pairs reranked
+  Azerbaijan: 7000/10000 pairs reranked
+  Azerbaijan: 8000/10000 pairs reranked
+  Azerbaijan: 9000/10000 pairs reranked
+  Azerbaijan: 10000/10000 pairs reranked
+Azerbaijan: rerank scores ready
+  Ethiopia: 1000/10000 pairs reranked
+  Ethiopia: 2000/10000 pairs reranked
+  Ethiopia: 3000/10000 pairs reranked
+  Ethiopia: 4000/10000 pairs reranked
+  Ethiopia: 5000/10000 pairs reranked
+  Ethiopia: 6000/10000 pairs reranked
+  Ethiopia: 7000/10000 pairs reranked
+  Ethiopia: 8000/10000 pairs reranked
+  Ethiopia: 9000/10000 pairs reranked
+  Ethiopia: 10000/10000 pairs reranked
+Ethiopia: rerank scores ready
+dev F0.5 by tau: {np.float64(0.05): 0.107, np.float64(0.1): 0.11, np.float64(0.15): 0.112, np.float64(0.2): 0.12, np.float64(0.25): 0.12, np.float64(0.3): 0.116, np.float64(0.35): 0.117, np.float64(0.4): 0.122, np.float64(0.45): 0.129, np.float64(0.5): 0.124, np.float64(0.55): 0.122, np.float64(0.6): 0.112, np.float64(0.65): 0.106, np.float64(0.7): 0.105, np.float64(0.75): 0.097, np.float64(0.8): 0.089, np.float64(0.85): 0.087, np.float64(0.9): 0.084, np.float64(0.95): 0.068} -> tau = 0.45
+US           questions with context=  6.9%  answer-hit=  1.5%  (n=461)
+Spain        questions with context= 43.5%  answer-hit=  8.7%  (n=469)
+South_Korea  questions with context= 43.2%  answer-hit=  5.5%  (n=475)
+Azerbaijan   questions with context= 99.8%  answer-hit= 64.6%  (n=469)
+Ethiopia     questions with context= 99.8%  answer-hit= 58.9%  (n=472)
+-> C:\Users\Siddharth\OneDrive\Desktop\BlenD_ML_Project\results\retrieval\v2_rerank_top3.jsonl

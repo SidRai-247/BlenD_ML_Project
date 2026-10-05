@@ -1,0 +1,514 @@
+model,country,language,prompt_no,ID,topic,response,score,weight
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-01,Food,쌀과 옥수수 가루로 만든 찹쌀떡입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-02,Food,치킨입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-04,Food,사과입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-06,Food,"김치찌개, 불고기, 밥, 국수입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-08,Food,과자입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-09,Food,떡볶이.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-16,Education,5,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-17,Education,축구,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-18,Education,초등학생들은 주로 수학과 영어 과목에 대해 사교육을 받습니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-19,Education,영어,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-21,Education,수능(Suneung)입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-32,Holidays/Celebration/Leisure,"송편, 전, 잡채, 불고기, 갈비찜 등입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-33,Holidays/Celebration/Leisure,코스튬을 입고 친구들과 함께 파티를 즐깁니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-34,Holidays/Celebration/Leisure,세배와 떡국을 먹습니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-35,Holidays/Celebration/Leisure,"크리스마스는 전통적인 종교적인 의미보다는 사회적 축제로 기념합니다. 가족과 친구들과 함께 즐기는 식사, 선물 교환, 크리스마스 파티 등이 일반적이며, 다양한 크리스마스 장식과 조명으로 도시를 화려하게 꾸미는 모습도 볼 수 있습니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-36,Holidays/Celebration/Leisure,할로윈 관련 음식은 없습니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-37,Holidays/Celebration/Leisure,크리스마스에는 특별한 전통 음식은 없습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-38,Holidays/Celebration/Leisure,초콜릿과 화이트 초콜릿.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-39,Holidays/Celebration/Leisure,케이크와 케이크를 먹습니다.,1,0.4
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-40,Holidays/Celebration/Leisure,광장(광원)입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Al-en-43,Holidays/Celebration/Leisure,Watching television and playing video games.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-02,Education,학교 식당과 편의점입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-03,Education,"5월
+",0,0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-08,Education,"8
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-09,Education,"5
+",0,0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-34,Sport,축구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-35,Sport,김성중입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-36,Sport,FC Seoul.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,An-ar-43,Sport,TV 시청실 또는 스포츠 바.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-05,Food,3,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-06,Food,김치입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-08,Food,쌀과 김치입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-09,Food,"떡, 과일, 빙수, 케이크, 아이스크림.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-11,Food,주말.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-14,Food,매실차입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-19,Holidays/Celebration/Leisure,소주와 맥주입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-21,Holidays/Celebration/Leisure,7,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-29,Holidays/Celebration/Leisure,"We have Seollal, which is the Korean New Year. It’s a very important time for families to come together, eat traditional foods like tteokguk (rice cake soup), and perform ancestral rites.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-38,Family,아파트입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-41,Family,주로 대도시와 그 주변 지역에 거주합니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-42,Family,16,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-43,Family,10,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ca-sp-45,Family,We often take family vacations to beautiful mountains and coastal areas.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-05,Sport,배구,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-06,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-07,Sport,박찬호,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-08,Sport,축구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-09,Sport,축구,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-11,Sport,수영입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-15,Sport,축구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-16,Family,2.16,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-18,Family,2. 1,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-31,Education,6,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-32,Education,9,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-33,Education,6,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-38,Education,4,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-40,Education,15:30,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Gu-ch-41,Education,7,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-02,Work life,금요일,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-03,Work life,서울입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-07,Work life,삼성전자입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-08,Work life,52,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-09,Work life,고기를 많이 먹습니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-14,Work life,반도체,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-15,Work life,"1, 5",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-16,Family,산모는 회복을 위해 병원 신생아실에 머뭅니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-19,Family,백합,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-22,Family,"저축, 신용카드, 그리고 가족에게 선물하는 경우가 많습니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-24,Family,키즈파크(Kids Park),0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-25,Family,Chuseok and Seollal.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-26,Family,"보통 20대 후반에서 30대 초반에 경제적으로 독립하고, 30대 중반에 결혼과 출산을 통해 사회적으로 완전히 독립하는 경우가 많습니다.",1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-27,Family,현금입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-28,Family,"The first full moon of the new year, Jeongwol Daeboreum, is celebrated with traditions like ogokbap (five-grain rice), gwibalgi-sul (ear-brightening liquor), and bureom-kkaegi (craking nuts).",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-29,Family,18번째,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-31,Education,대부분 집에서 공부합니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-33,Education,"집에 가서 숙제를 하거나, 친구들과 함께 시간을 보내거나, 취미 활동을 합니다.",1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-34,Education,대부분의 초등학생들은 학교 주변의 버스나 지하철을 이용합니다.,1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-35,Education,"수학, 영어, 그리고 논리력 증진을 위한 과외가 가장 흔합니다.",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-36,Education,"수능(Suneung) 시험을 위한 수학, 영어, 국어 학원을 가장 많이 다닙니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-37,Education,"대부분의 한국 중고등학생들은 편안하고 활동하기 편한 옷을 입고 등교합니다. 청바지, 티셔츠, 스니커즈가 가장 흔한 복장입니다. 최근에는 캐주얼한 스타일을 선호하는 경향이 있습니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-38,Education,컴퓨터공학.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-39,Education,가강강수러(Ganggangsullae)입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-40,Education,"간단한 간식을 먹거나 친구들과 이야기하고, 때로는 간단한 게임을 합니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-41,Education,검정색 샌들입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-42,Education,수능.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-44,Education,수원.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ji-ko-45,Education,"밴드 공연과 다양한 부스, 그리고 친구들과 함께 즐기는 밤.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-01,Sport,축구입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-02,Sport,배구,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-09,Sport,"골프
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-13,Sport,Vaterpolo.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-14,Sport,바둑입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-18,Work life,20,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-19,Work life,경상도,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-21,Work life,12:30,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-31,Education,16:30,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-32,Education,"축구, 달리기, 그리고 체조입니다.",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-36,Education,6,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-37,Education,8,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-39,Education,6,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jo-sp-43,Education,2,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-01,Food,We commonly use chopsticks and a spoon.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-04,Food,"막걸리, 보리차, 수정과, 그리고 따뜻한 인삼차입니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-06,Food,Makgeolli.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-07,Food,"2.1
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-09,Food,18:00,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-12,Food,"김치, 비빔밥, 불고기, 떡볶이, 삼겹살.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-13,Food,떡볶이 (Tteokbokki) and hotteok are very popular street foods.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-15,Food,"We Koreans really love seafood! From fresh grilled mackerel and octopus to hearty seafood stews like kimchi jjigae (kimchi stew) and haemul pajeon (seafood pancake), we have a huge variety of dishes featuring the ocean.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-16,Holidays/Celebration/Leisure,설치기 (Chuseok) is the largest festival in Korea.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-28,Holidays/Celebration/Leisure,KTX(고속철도),1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-30,Holidays/Celebration/Leisure,달맞이,,
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-37,Sport,배구,1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-38,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-41,Holidays/Celebration/Leisure,"Many 20-year-old Korean women enjoy spending time with friends, going to cafes and restaurants, shopping, and attending K-pop concerts or music festivals.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-42,Holidays/Celebration/Leisure,"풋살, 노래방, 술, 게임.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-46,Work life,1.5,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-48,Work life,김치찌개와 밥입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-50,Work life,"60
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-51,Work life,대중교통입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-54,Work life,10,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-56,Work life,50,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-57,Work life,58,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-58,Work life,선생님.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-60,Work life,1874,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-61,Work life,"Many Korean women prefer careers in fields like education, healthcare, and office administration.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Jod-ch-62,Work life,안정적인 직업과 높은 수입을 추구하는 것이 일반적입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-17,Education,대부분의 한국 학생들은 고등학교까지 교육을 받습니다.,1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-24,Education,저는 한국어입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-30,Education,주말.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-32,Food,보통 밥상에 김치와 다양한 반찬을 준비합니다. 찌개나 국도 함께 준비하면 더욱 좋습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-34,Food,막걸리 또는 약과차.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-36,Food,저는 일본 음식이 가장 인기가 많다고 생각합니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-39,Food,"We typically prepare songpyeon, japchae, namul, jeon, and fruit for family picnics.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-40,Food,Kimchi.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-43,Food,송편입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-51,Work life,18:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ki-pe-53,Work life,09:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-01,Holidays/Celebration/Leisure,설치기 날입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-02,Holidays/Celebration/Leisure,국경일 기념식 참석 및 태극기 게양.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-04,Holidays/Celebration/Leisure,영정.,,
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-05,Holidays/Celebration/Leisure,"Generally, baby showers in South Korea are held around one month before the expected due date.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-06,Holidays/Celebration/Leisure,신혼여행.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-07,Holidays/Celebration/Leisure,세뱃돈과 세뱃돈 봉투를 줍니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-08,Holidays/Celebration/Leisure,"예복을 새로 맞추고, 가족들과 함께 특별한 음식을 만들어 먹습니다.",,
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-10,Holidays/Celebration/Leisure,서울과 부산입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-11,Holidays/Celebration/Leisure,석가탄불교당.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-15,Holidays/Celebration/Leisure,블랙 정장을 입습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-16,Food,따뜻한 배추차입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-17,Food,망고,,
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-24,Food,감자튀김입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-31,Sport,씨레움(ssireum)입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-34,Sport,축구와 야구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-35,Sport,축구.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-36,Sport,파레알루,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-37,Sport,FC 서울 대 울산 현대,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-38,Sport,FC서울 대 울산 현대,,
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-40,Sport,리처드 감호.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-41,Sport,손흥연,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-44,Sport,태권도,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Kik-in-45,Sport,축구장,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-02,Food,Latte.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-04,Food,계란찜과 된장찌개입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-05,Food,치킨입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-07,Food,돼지고기를 가장 많이 소비합니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-08,Food,"밤, 배, 사과, 복숭아입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-09,Food,김치입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-11,Food,떡볶이와 맥주!,1,0.75
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-15,Food,불고기,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-16,Sport,손흥민 선수입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-17,Sport,축구.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-18,Sport,발레.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-19,Sport,박상우,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-20,Sport,축구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-22,Sport,일본.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-23,Sport,축구,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-24,Sport,치킨입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-25,Sport,학교 운동회에서 가장 흔하게 하는 경기는 ‘ssireum’입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-26,Sport,야구,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-28,Sport,김민재 선수입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-29,Sport,박태환입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-30,Sport,League of Legends.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-33,Holidays/Celebration/Leisure,We eat tteokguk (rice cake soup) for Seollal.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-37,Holidays/Celebration/Leisure,Jeonju.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-38,Holidays/Celebration/Leisure,현피 (혼인신앙) 입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-39,Holidays/Celebration/Leisure,현금 또는 상품권.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-40,Holidays/Celebration/Leisure,"5
+",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-41,Holidays/Celebration/Leisure,"검은색 정장, 흰색 넥타이, 흰색 장갑, 그리고 꽃 (주로 흰색 또는 검은색)",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-42,Holidays/Celebration/Leisure,"쌀, 떡, 과일",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-43,Holidays/Celebration/Leisure,"We celebrate Jeongwol Daeboreum, the first full moon of the new year, with special prayers for household peace and a good harvest. It’s a time for family and tradition.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-44,Holidays/Celebration/Leisure,금요일.,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,Na-ko-45,Holidays/Celebration/Leisure,Jeju Island.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-05,Holidays/Celebration/Leisure,Chuseok.,1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-06,Holidays/Celebration/Leisure,"We don’t typically eat anything special during Ramadan. As Muslims, we fast from dawn until sunset, so we don’t eat or drink during that time. We usually have a meal before sunrise and another after sunset.",,
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-09,Holidays/Celebration/Leisure,떡국과 팥죽입니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-10,Holidays/Celebration/Leisure,"밥, 김치, 찌개, 국수, 떡.",,
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-11,Holidays/Celebration/Leisure,"새해 첫날, 가족과 함께 설날에 지정된 전통 명소인 왕곡마을이나, 고인돌 무덤, 또는 전통적인 사찰을 방문합니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-14,Holidays/Celebration/Leisure,설치물에 모여요.,,
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-16,Work life,토요일과 일요일,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-17,Work life,09:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-18,Work life,18:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-20,Work life,"공무원, 의사, 간호사, 변호사, 대학교 교수입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-24,Work life,서울입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-25,Work life,반도체 산업.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-26,Work life,한국전력.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-31,Food,김치입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-32,Food,김치찌개와 밥.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-33,Food,12:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-34,Food,김치입니다.,1,0.75
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-36,Food,"불고기, 비빔밥, 떡볶이, 삼겹살.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-37,Food,I would highly recommend trying our persimmons (Hwajeon) and Korean pears (Baeju) – they are incredibly delicious and a very traditional treat!,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-38,Food,Songpyeon.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-39,Food,치킨입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-43,Food,김치!,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ne-ar-44,Food,"설탕, 참기름, 꿀, 빵 또는 케이크.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-02,Food,김치입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,New-am-04,Food,물론입니다. 가장 인기 있는 찍어 먹는 소스는 치즈 소스입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-08,Food,떡,,
+gemma3-4b,South_Korea,Korean,pers-3,New-am-15,Food,보신탕.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-27,Sport,손흥민 선수입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-34,Education,대부분의 초등학생들은 집에서 또는 사설 학원(과외)에서 시험 준비를 합니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-41,Education,고등학교.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-53,Work life,제주도,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-am-54,Work life,전라남도.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-59,Work life,없습니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-am-60,Work life,인력분업.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-am-72,Family,뽀뽀몬.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-73,Family,피지컬리미트,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-74,Family,Running.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-77,Holidays/Celebration/Leisure,설치기.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-81,Holidays/Celebration/Leisure,5,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-am-83,Holidays/Celebration/Leisure,가야금입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-01,Food,"쌀, 고추, 배추, 참외, 사과입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-02,Food,김치입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-05,Food,소주입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-as-07,Food,회를 가장 많이 먹습니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-14,Food,저는 비 오는 날에 따뜻한 김치찌개와 밥을 먹습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-15,Food,콩까스!,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-20,Sport,배구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-29,Sport,축구와 야구를 정말 좋아합니다. 특히 월드컵과 올림픽에서 한국 대표팀의 활약에 열광합니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-30,Sport,대한민국의 여성들은 씨레움(ssireum)을 보는 것을 좋아합니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-58,Work life,커피,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-64,Family,Chuseok.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-76,Holidays/Celebration/Leisure,네놀과 <0xEC><0x9C><0xB7>놀이가 있습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-80,Holidays/Celebration/Leisure,"We wear hanbok, traditional Korean clothing, during our traditional festivals.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-as-89,Holidays/Celebration/Leisure,우리는 전통 축제에서 옥 (요)를 착용합니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-05,Food,Andong.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-11,Food,망고입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-12,Food,Jeju Island and Busan.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-21,Sport,태백산.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-26,Sport,태극권입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-27,Sport,배구,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-39,Education,미국입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-49,Work life,3,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-60,Family,아이들을 돌보는 것은 가족 구성원 모두의 책임입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-69,Holidays/Celebration/Leisure,소주입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-az-70,Holidays/Celebration/Leisure,소주입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,New-az-73,Holidays/Celebration/Leisure,80,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-01,Food,"소고기, 돼지고기, 닭고기입니다.",1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-02,Food,07:00,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-04,Food,"저는 보통 밤늦게 떡볶이, 라면, 치킨을 먹습니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-05,Food,불닭볶음면입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-07,Food,"저는 깻잎과 함께 밥을 먹고, 잣을 먹으며, 지역 특산주를 즐겨 마십니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-08,Food,간장입니다.,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-09,Food,"따뜻한 찌개, 국, 탕을 주로 먹습니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-13,Food,소주입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-14,Food,"저는 따뜻한 닭탕을 먹습니다. 푹 끓인 닭고기는 몸을 따뜻하게 하고, 찹쌀 죽과 함께 먹으면 속이 편안해집니다. 푹 끓인 닭고기는 몸을 따뜻하게 하고, 찹쌀 죽과 함께 먹으면 속이 편안해집니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-15,Food,I would typically buy ramyeon (instant noodles) and kimchi jjigae (kimchi stew) from the supermarket.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-16,Sport,승리(2017),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-17,Sport,스키.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-18,Sport,마라톤입니다.,1,0.75
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-19,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-23,Sport,리 차원우,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-26,Sport,스키와 스노보드 경기를요.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-27,Sport,박태준입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-30,Sport,손흥민 선수입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-31,Work life,"의료, 공학, 법률.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-32,Work life,"Microsoft Office (Word, Excel, PowerPoint)가 가장 널리 사용됩니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-38,Work life,인천과 부산입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-39,Work life,쿠팡.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-44,Work life,3개월,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-45,Work life,"IT, 뷰티, 식품, 콘텐츠.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-49,Family,카카오톡(KakaoTalk)입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-51,Family,"호텔이나 펜션이 가장 흔합니다.
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-54,Family,과일은 보통 사과와 배입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-64,Education,16,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-66,Education,"500,000",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-70,Education,국문학입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-71,Education,23.4,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-72,Education,컴퓨터공학.,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-73,Education,학원 동아리가 가장 인기 있습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-74,Education,"기숙사, 쉐어하우스, 또는 혼자 아파트.",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-75,Education,25.6,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-78,Holidays/Celebration/Leisure,"Many retired Korean women enjoy spending time with friends, visiting traditional markets, and pursuing hobbies like calligraphy or cooking.",1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-79,Holidays/Celebration/Leisure,"골프, 봉사활동, 그리고 가족과의 시간입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-80,Holidays/Celebration/Leisure,설치명절 중 추석(단오)에 주로 종교 시설을 방문합니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-81,Holidays/Celebration/Leisure,현금과 상품권.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-82,Holidays/Celebration/Leisure,14:00,,
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-83,Holidays/Celebration/Leisure,Gangneung.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-84,Holidays/Celebration/Leisure,흰색,,
+gemma3-4b,South_Korea,Korean,pers-3,New-ch-85,Holidays/Celebration/Leisure,검은색,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-01,Food,팝콘과 라면입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-02,Food,치즈입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-04,Food,박준성의 셰프입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-05,Food,Bibimbap.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-07,Food,MasterChef Korea.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-08,Food,Hershey's.,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-en-10,Food,체다 치즈입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-en-11,Food,배추김치,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-12,Food,김치찌개입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-17,Sport,싸부작싸부작(싸부작),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-18,Sport,I would bring a bottle of soju and some snacks!,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-en-19,Sport,명지 경기장,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-23,Sport,박태준입니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-en-26,Sport,"""Go, Korea, Go!""",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-38,Work life,"IT, 디자인, 광고, 그리고 콘텐츠 제작 산업에서 근무 시간이 유연한 경우가 많습니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-41,Work life,삼성 이병철 회장,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-47,Family,정원.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-49,Family,박씨입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-50,Family,김,1,0.75
+gemma3-4b,South_Korea,Korean,pers-3,New-en-55,Family,불교입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-56,Family,영어입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-59,Family,캐나다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-68,Education,징계를 받습니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-69,Education,"김훈, 박경리, 신경숙입니다.",1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-en-70,Education,2,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-en-72,Education,"Naver, Kakao, Daum.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-75,Education,18,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-76,Holidays/Celebration/Leisure,인천국제공항,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-79,Holidays/Celebration/Leisure,전주.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-87,Holidays/Celebration/Leisure,경복궁.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-en-90,Holidays/Celebration/Leisure,신라.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-05,Food,김밥,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-06,Food,떡볶이 (Tteokbokki) is incredibly popular with young people in Korea.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-08,Food,소주입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-13,Food,커피,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-15,Food,떡 (Tteok) – Korean rice cakes.,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-21,Sport,배드민턴입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-24,Sport,Ssireum.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-29,Sport,축구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-47,Work life,"30
+",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-58,Work life,네.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-76,Holidays/Celebration/Leisure,Japchae.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-82,Holidays/Celebration/Leisure,트로트입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-88,Holidays/Celebration/Leisure,소주입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-gr-89,Holidays/Celebration/Leisure,소주와 맥주입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-07,Food,"김치, 강원도 닭갈비, 홍성한우, 강릉 초당순두부, 평창 표고버섯, 그리고 장(간장, 된장, 고추장)을 포함한 다양한 한국 음식들을 전 세계에서 맛볼 수 있습니다.",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-08,Food,매운 떡볶이,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-09,Food,날카로운 칼,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-13,Food,김치입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-19,Sport,소 (ox),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ha-66,Family,호수입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-01,Food,스타벅스입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-03,Food,김치입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-33,Work life,충청남도 서북부 지역입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-34,Work life,"대부분의 석유는 남해안, 특히 목포와 여수 지역에서 생산됩니다.",,
+gemma3-4b,South_Korea,Korean,pers-3,New-in-62,Education,KAIST,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-63,Education,서울대학교 의과대학,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-78,Holidays/Celebration/Leisure,신용카드와 모바일 결제입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-in-80,Holidays/Celebration/Leisure,에버랜드.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-01,Family,"기다리세요.
+
+겨울왕국입니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-02,Family,"Many Korean expectant mothers focus on listening to traditional Korean music, like *sanjo* or *pansori*, and practicing gentle exercises like stretching and meditation to prepare for childbirth.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-03,Family,곰 세 마리,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-04,Family,레고.,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-05,Family,인형입니다. (An doll.),1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-06,Family,The most popular traditional Korean folktale told to children is “Janghwa and the Moon Rabbit” (장화와 달토끼).,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-07,Holidays/Celebration/Leisure,백중(白중),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-08,Work life,편의점입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-09,Work life,팀워크를 위한 떡 먹기 챌린지입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-ko-10,Work life,"Many people in Korea do part-time jobs to supplement their income, but the most common is working in the service industry – often as waiters, bartenders, or shop assistants.",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-02,Food,김치입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-06,Food,김치찌개,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-11,Food,고추장입니다.,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-16,Sport,Ssireum.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-20,Sport,해변에서 가장 인기 있는 스포츠는 수영입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-45,Work life,"일반적으로 라마단 기간 동안 대한민국에서의 근무 시간은 변동이 없습니다. 40시간의 기본 근무 시간 외에 추가적인 시간 외 근무가 가능하지만, 이슬람력의 라마단 기간 동안 특별한 근무 시간 조정은 없습니다.",,
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-47,Family,03/03,,
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-49,Family,"종교관에 따라 다르지만, 주로 집이나 집 근처의 집에서 기도합니다.",,
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-53,Family,꽃다발과 함께 돈과 현금입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-54,Family,"카네이션과 함께, 자녀들이 정성껏 준비한 식사나 선물, 그리고 감사 편지를 받습니다.",1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-59,Family,5,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-65,Education,13,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-66,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-74,Education,Approximately ₩7.3 million.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-76,Holidays/Celebration/Leisure,Walking and relaxing in parks is very popular.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-78,Holidays/Celebration/Leisure,칸 영화제.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-83,Holidays/Celebration/Leisure,섯다(섯다),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-85,Holidays/Celebration/Leisure,일본.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-pe-86,Holidays/Celebration/Leisure,남산타워,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-01,Food,바퀴벌레,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-04,Food,딸기,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-05,Food,Honey deware우 (Honey deware우) is incredibly popular.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-15,Sport,탄산수입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-27,Education,대략 13.3년입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-37,Education,대한민국 학생들이 해외에서 가장 많이 공부하는 분야는 컴퓨터 공학입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-60,Family,일요일.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-65,Family,애국심을 고취하는 국경일 행사 참여와 태극기 게양입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-68,Family,Milk is the most popular drink among Korean children.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-76,Holidays/Celebration/Leisure,국립현충원.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-spme-78,Holidays/Celebration/Leisure,아미고 (친구),0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-01,Food,"떡볶이, 붕어빵, 호떡, 어묵, 뽑기 등.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-09,Food,대부분의 경우 식용유입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-10,Food,견과류와 육류 위주의 음식입니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-su-15,Food,Makgeolli.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-17,Sport,"축구장, 농구 코트, 테니스 코트, 배드민턴 코트, 풋살 경기장, 산책로, 자전거 도로 등이 있습니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-21,Sport,"걷기, 앉아서 휴식을 취하고, 친구들과 이야기하기, 그리고 때로는 간단한 보드 게임을 하는 것입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-24,Sport,축구.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-28,Sport,빨간색과 흰색입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-33,Education,"검은색 정장, 흰색 블라우스 또는 셔츠, 검은색 로퍼입니다.",,
+gemma3-4b,South_Korea,Korean,pers-3,New-su-34,Education,Ganggangsullae.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-42,Education,불교입니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-su-45,Education,03/03,0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-50,Work life,농업과 어업입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-51,Work life,"어망, 어선 관리, 어선 건조, 해산물 가공 등 어업 관련 직업입니다.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-57,Work life,닭입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,New-su-58,Work life,소와 돼지입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-59,Work life,갓(갓)과 챙(챙)을 쓴 챙(챙) 모자.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-60,Work life,김치찌개와 밥.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-71,Family,"케이크와 작은 선물, 그리고 가족들과 함께 축하하는 것을 중요하게 생각합니다.",0,0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-75,Family,자동차입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-77,Holidays/Celebration/Leisure,달걀을 줍니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,New-su-81,Holidays/Celebration/Leisure,한복입니다.,1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,New-su-82,Holidays/Celebration/Leisure,한복입니다.,1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-su-83,Holidays/Celebration/Leisure,"결혼식에서는 떡, 잡채, 불고기, 전, 갈비 등 다양한 음식이 제공됩니다. 특히 떡은 신부가 행복하게 살기를 기원하는 의미를 담고 있으며, 잡채는 잔치 음식의 대표적인 메뉴입니다.",1,0.3333333333333333
+gemma3-4b,South_Korea,Korean,pers-3,New-su-86,Holidays/Celebration/Leisure,청와대,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,New-su-88,Holidays/Celebration/Leisure,K-pop.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-02,Education,16:30,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-03,Education,18,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-06,Education,16,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-09,Education,5,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-11,Education,3,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-12,Education,서울대학교,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-13,Education,24,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-15,Education,13,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-17,Work life,40,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-19,Work life,40,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-20,Work life,22,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-21,Work life,18,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-31,Holidays/Celebration/Leisure,We traditionally eat galbijjim (braised short ribs) on Christmas.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-37,Holidays/Celebration/Leisure,발렌타인데이와 화이트데이,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ni-en-40,Holidays/Celebration/Leisure,Jingle Bells.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-04,Education,2,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-05,Education,3,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-06,Education,05/05,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-11,Education,08:50,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-20,Family,05/05,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Nu-in-40,Work life,서울.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-1,Food,맥도날드.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-13,Food,고추장.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-16,Sport,손흥민 선수와 황 선수 선수가 속한 포항 스틸러스입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-22,Sport,연세대학교.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-31,Family,강아지입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-32,Family,K-dramas are incredibly popular right now.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-37,Family,바둑,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-6,Food,김밥입니다.,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-7,Food,떡볶이 (Tteokbokki),1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Sa-en-9,Food,물회.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-10,Family,34,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-11,Family,31.6,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-13,Family,5,1,0.25
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-17,Sport,축구입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-21,Sport,"학교 운동장과 공원, 그리고 지역 축구 클럽에서요.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-22,Sport,요가를 많이 합니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-23,Sport,축구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-25,Sport,두리안 대 fc서울,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-29,Sport,축구(피구),0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-30,Sport,프로야구가 가장 인기 있는 스포츠 관련 TV 프로그램입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-32,Holidays/Celebration/Leisure,추석과 설날.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-37,Holidays/Celebration/Leisure,직두류.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-42,Holidays/Celebration/Leisure,떡국을 먹습니다.,,
+gemma3-4b,South_Korea,Korean,pers-3,Ta-pe-45,Holidays/Celebration/Leisure,떡국,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-01,Sport,축구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-03,Sport,K-League (K리그) is the most popular professional sports league in South Korea.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-05,Sport,The Hwancha Eagles.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-09,Sport,프로야구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-11,Sport,손흥민 선수입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-12,Sport,배구입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-15,Sport,겨울 스포츠 중 가장 인기 있는 것은 스키입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-19,Work life,글로벌시티.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-21,Work life,연금저축.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-22,Work life,1997년 외환 위기.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-24,Work life,대구.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-27,Work life,반도체입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-35,Family,저녁 식사 시간에요.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-36,Family,Visiting a theme park like Lotte World or Everland is very popular with families on weekends.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-37,Family,"25
+",1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-38,Family,Chuseok.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-39,Family,Ssireum.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-41,Family,33,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-43,Family,"8
+",0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-44,Family,삼겹살입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-45,Family,"We often eat dinner together as a family, usually around 6 or 7 pm. It’s a really important time to connect and talk about our day.",1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-48,Education,A. 평균 (Average),1,0.2
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-49,Education,수능입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-51,Education,시험입니다.,0,0
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-53,Education,학교 축제입니다.,1,0.5
+gemma3-4b,South_Korea,Korean,pers-3,Th-en-58,Education,Calculus.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Tmp-ar-01,Education,집 또는 스터디룸.,1,0.6666666666666666
+gemma3-4b,South_Korea,Korean,pers-3,Tmp-ar-02,Education,지하철입니다.,1,1.0
+gemma3-4b,South_Korea,Korean,pers-3,Tmp-ar-04,Education,"학원, 과외, 또는 친구들과 함께 놀이터나 공원에서 시간을 보냅니다.",1,1.0
