@@ -1,0 +1,48 @@
+# BLEnD + Region-Aware RAG -- everything needed to run the whole project on ONE machine.
+# Tested with Python 3.12.0. Versions are the ones actually used in the experiments.
+#
+# Install:  python -m venv venv && venv\Scripts\activate   (Linux/macOS: source venv/bin/activate)
+#           pip install -r requirements.txt
+#           (torch: CPU build is enough; for a GPU build see https://pytorch.org)
+#
+# NOTE: we originally used two environments (scorer: numpy 1.26 / pandas 2.2; retrieval: numpy 2.x).
+# spaCy 3.7.4 needs numpy < 2, so a single environment pins numpy 1.26.4. If pip reports a conflict,
+# use two virtual environments (scorer packages vs retrieval packages), as we did.
+
+# ---------------- core / data ----------------
+numpy==1.26.4
+pandas==2.2.3
+requests==2.34.2                # LLM runner -> Ollama HTTP API
+
+# ---------------- retrieval (RAG v1 + v2) ----------------
+torch==2.14.1                   # CPU build used (torch==2.14.1+cpu)
+sentence-transformers==6.1.0    # bge-m3 embeddings + MiniLM cross-encoder reranker
+transformers==5.18.0
+huggingface_hub==1.33.0         # model downloads
+rank-bm25==0.2.2                # BM25Okapi (RAG v1 hybrid)
+scikit-learn==1.9.1             # English stop-word list for BM25
+
+# ---------------- official BLEnD scorer (soft exact match) ----------------
+spacy==3.7.4                    # English lemmatiser
+thinc==8.2.5
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+konlpy==0.6.0                   # Korean (Okt), needs Java
+JPype1==1.7.1
+pyspark==3.5.3                  # Spanish + Amharic lemmatisers (Spark NLP), needs Java 11
+spark-nlp==5.5.3
+py4j==0.10.9.7
+
+# ---------------- non-pip requirements (install separately) ----------------
+# Java 11 (JDK)                 - for Spark NLP and konlpy; set JAVA_HOME
+#                                  (on Windows Spark also needs HADOOP_HOME/winutils; we used WSL for es/am)
+# Ollama >= 0.6                  - https://ollama.com ; then:
+#     ollama pull gemma3:4b
+#     ollama pull mistral        # Mistral-7B-Instruct v0.3
+#     ollama pull qwen2.5:3b
+#   GPU with >= 8-12 GB VRAM recommended (we used an RTX 3060 12 GB)
+# Hugging Face models: point the env vars at the model id (auto-download) or a local copy:
+#     set BLEND_EMBEDDER=BAAI/bge-m3
+#     set BLEND_RERANKER=cross-encoder/ms-marco-MiniLM-L12-v2
+# Azerbaijani stemmer (not on PyPI): clone the Azerbaijani NLP stemmer (https://github.com/aznlp)
+#   and set BLEND_AZ_STEMMER to its folder
+# BLEnD repository (questions, prompts, annotations, evaluation/exact_match.py) in ./BLEnD
