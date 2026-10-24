@@ -36,46 +36,65 @@
     Spain        AUC 0.552  RAG kept 12.8%
     US           AUC 0.771  RAG kept 10.1%
 
+[cv_full] features: ['r_max', 'r_mean', 'r_min', 'r_gap', 'n_cards', 'base_agree', 'base_in_cards', 'rag_in_cards', 'changed', 'rag_base_overlap', 'base_len', 'rag_len', 'is_english', 'judge_yes', 'model', 'prompt_no', 'topic']
+  inner-CV choices: {'gbm': 5}; thresholds {'min': 0.3, '50%': 0.35, 'max': 0.35}
+  AUC 0.824; RAG kept for 67.0% of rows; help kept 86.5%, hurt kept 40.5%
+    Azerbaijan   AUC 0.736  RAG kept 88.8%
+    Ethiopia     AUC 0.750  RAG kept 87.6%
+    South_Korea  AUC 0.622  RAG kept 20.1%
+    Spain        AUC 0.644  RAG kept 18.0%
+    US           AUC 0.738  RAG kept 16.7%
+
+[loco_full] features: ['r_max', 'r_mean', 'r_min', 'r_gap', 'n_cards', 'base_agree', 'base_in_cards', 'rag_in_cards', 'changed', 'rag_base_overlap', 'base_len', 'rag_len', 'is_english', 'judge_yes', 'model', 'prompt_no', 'topic']
+  inner-CV choices: {'gbm': 25}; thresholds {'min': 0.3, '50%': 0.35, 'max': 0.45}
+  AUC 0.813; RAG kept for 65.0% of rows; help kept 84.3%, hurt kept 40.1%
+    Azerbaijan   AUC 0.710  RAG kept 85.6%
+    Ethiopia     AUC 0.725  RAG kept 86.1%
+    South_Korea  AUC 0.607  RAG kept 21.2%
+    Spain        AUC 0.594  RAG kept 14.5%
+    US           AUC 0.800  RAG kept 14.1%
+
 SEM-B (%), mean of 3 models, avg of inst-4/pers-3:
 
-                               baseline  rag_v2  v3_cv_retrieval  v3_loco_retrieval  v3_cv_no_judge  v3_loco_no_judge  oracle_gate
-country           language                                                                                                        
-US                English          74.9    73.2             74.8               74.9            74.9              74.9         75.2
-Spain             Spanish          56.3    50.0             55.5               54.9            55.6              55.2         60.5
-                  English          50.8    44.5             50.7               50.3            50.5              50.3         55.4
-South_Korea       Korean           48.0    43.7             46.9               47.5            47.4              47.5         52.9
-                  English          47.7    42.3             47.1               46.8            47.1              47.1         51.4
-Azerbaijan        Azerbaijani      23.6    53.3             52.8               52.0            52.5              52.1         58.3
-                  English          47.5    65.4             65.4               64.8            65.8              65.2         74.6
-Ethiopia          Amharic           7.9    28.0             27.6               27.0            27.8              27.4         30.9
-                  English          34.1    48.0             47.2               47.7            47.9              47.7         56.4
-High-resource avg                  55.5    50.7             55.0               54.9            55.1              55.0         59.1
-Low-resource avg                   28.3    48.7             48.2               47.9            48.5              48.1         55.0
-All 9 avg                          43.4    49.8             52.0               51.8            52.2              52.0         57.3
+                               baseline  rag_v2  v3_cv_retrieval  v3_loco_retrieval  v3_cv_no_judge  v3_loco_no_judge  v3_cv_full  v3_loco_full  oracle_gate
+country           language                                                                                                                                  
+US                English          74.9    73.2             74.8               74.9            74.9              74.9        75.0          75.0         75.2
+Spain             Spanish          56.3    50.0             55.5               54.9            55.6              55.2        55.7          55.6         60.5
+                  English          50.8    44.5             50.7               50.3            50.5              50.3        50.5          50.1         55.4
+South_Korea       Korean           48.0    43.7             46.9               47.5            47.4              47.5        47.6          47.4         52.9
+                  English          47.7    42.3             47.1               46.8            47.1              47.1        47.3          47.3         51.4
+Azerbaijan        Azerbaijani      23.6    53.3             52.8               52.0            52.5              52.1        52.6          52.1         58.3
+                  English          47.5    65.4             65.4               64.8            65.8              65.2        65.9          65.7         74.6
+Ethiopia          Amharic           7.9    28.0             27.6               27.0            27.8              27.4        28.1          27.6         30.9
+                  English          34.1    48.0             47.2               47.7            47.9              47.7        48.9          48.4         56.4
+High-resource avg                  55.5    50.7             55.0               54.9            55.1              55.0        55.2          55.1         59.1
+Low-resource avg                   28.3    48.7             48.2               47.9            48.5              48.1        48.9          48.4         55.0
+All 9 avg                          43.4    49.8             52.0               51.8            52.2              52.0        52.4          52.1         57.3
 
 Logistic-regression weights (positive -> use the RAG answer):
 
-cat__topic_Sport                          -0.451
-num__base_in_cards                        -0.309
+cat__topic_Sport                          -0.384
+num__base_in_cards                        -0.330
 num__r_gap                                -0.297
-num__is_english                           -0.244
-cat__model_mistral-7b                     -0.183
-num__base_agree                           -0.176
-cat__prompt_no_inst-4                     -0.136
-num__rag_base_overlap                     -0.118
-cat__topic_Food                           -0.064
-num__r_max                                -0.048
+num__is_english                           -0.215
+num__base_agree                           -0.175
+cat__model_mistral-7b                     -0.165
+cat__topic_Food                           -0.141
+num__rag_base_overlap                     -0.137
+cat__prompt_no_inst-4                     -0.133
+num__r_mean                               -0.065
 num__changed                               0.000
-cat__topic_Education                       0.092
-cat__topic_Work life                       0.111
-cat__model_gemma3-4b                       0.116
-num__base_len                              0.127
-num__r_mean                                0.146
-cat__model_qwen2.5-3b                      0.152
-num__rag_len                               0.165
-cat__topic_Family                          0.176
-cat__prompt_no_pers-3                      0.220
-cat__topic_Holidays/Celebration/Leisure    0.221
-num__rag_in_cards                          0.306
-num__r_min                                 0.323
-num__n_cards                               0.399
+num__r_max                                 0.025
+cat__topic_Work life                       0.079
+cat__topic_Education                       0.089
+cat__model_gemma3-4b                       0.117
+num__base_len                              0.125
+cat__model_qwen2.5-3b                      0.141
+cat__topic_Family                          0.180
+num__rag_len                               0.185
+cat__prompt_no_pers-3                      0.225
+cat__topic_Holidays/Celebration/Leisure    0.270
+num__rag_in_cards                          0.284
+num__n_cards                               0.336
+num__r_min                                 0.369
+num__judge_yes                             0.384

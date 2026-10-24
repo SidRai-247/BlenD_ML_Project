@@ -38,11 +38,12 @@ high-resource countries, (c) a prompt that tells the model to fall back on its o
 mean 28.3$\rightarrow$48.7), loses 1--11 points on high-resource countries (old KB), and shrinks the
 high--low resource gap from 27.2 to 2.0 points. Finally, \emph{RAG v3} learns the gate: a small
 classifier (gradient-boosted trees, chosen over logistic regression by inner cross-validation) decides
-per answer whether to keep the RAG or the baseline answer, from retrieval and answer-behaviour
-features. Evaluated with template-grouped cross-fitting, so no question is scored by a gate that saw
-it, v3 recovers almost all of the high-resource loss (50.7$\rightarrow$55.1, baseline 55.5), keeps the
-low-resource gain (48.5) and raises the 9-setting mean to 52.2 (baseline 43.4, v2 49.8); a
-leave-one-country-out evaluation gives 52.0.
+per answer whether to keep the RAG or the baseline answer, from retrieval, answer-behaviour and
+LLM-judge features (a local Mistral-7B rates whether the cards state the answer). Evaluated with
+template-grouped cross-fitting, so no question is scored by a gate that saw it, v3 recovers almost
+all of the high-resource loss (50.7$\rightarrow$55.2, baseline 55.5), slightly improves the
+low-resource gain (48.9) and raises the 9-setting mean to 52.4 (baseline 43.4, v2 49.8); a
+leave-one-country-out evaluation gives 52.1.
 \end{abstract}
 
 %=====================================================================
@@ -641,6 +642,10 @@ follow SKR/CRAG: a small supervised gate trained on \emph{outcome} labels.
 \item \textbf{Problem: training on the same countries we test on.} The gate matters most for US,
 Spain and South Korea, so they cannot simply be the training set. We use \emph{cross-fitting}: every
 answer is scored by a gate that never saw its question (Section~\ref{sec:protocol}).
+\item \textbf{First gate, then a judge.} A gate on retrieval and answer-behaviour features already
+recovered most of the loss, but could hardly separate good from bad cards \emph{within} Spain and South
+Korea. We therefore added an LLM judge that answers the narrower question ``do these cards state the
+answer?'' and used its probability as one more feature.
 \end{enumerate}
 
 \subsection{Task, features and labels}
@@ -668,9 +673,18 @@ Behaviour & \texttt{base\_agree}: baseline \texttt{inst-4} and \texttt{pers-3} a
 occur in the cards or their local-language keywords; \texttt{changed}: cards changed the answer;
 \texttt{rag\_base\_overlap}; \texttt{base\_len}, \texttt{rag\_len} (words) \\
 Context & model, prompt (\texttt{inst-4}/\texttt{pers-3}), English vs local language, topic (6) \\
+Judge & \texttt{judge\_yes}: $P(\text{YES})$ from Mistral-7B (Ollama, run locally, greedy, read
+from the first token's log-probabilities) for ``Do the background notes explicitly state an answer to
+this question (not just mention the topic)?''. Input: the English question and the cards only; one
+call per question with cards (1{,}454 calls, shared by all models, languages and prompts) \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+\noindent\textbf{What the judge says.} It finds the answer in only 6--7\% of the card sets for the
+US, Spain and South Korea, but in 43--47\% for Azerbaijan and Ethiopia (share with
+$P(\text{YES})>0.5$). This independently confirms the diagnosis of Table~\ref{tab:hitsplit}: KB v1
+cards are on topic but rarely contain the everyday answer.
 
 \subsection{Training protocol (no question is scored by a gate that saw it)}
 \label{sec:protocol}
@@ -687,27 +701,28 @@ four countries \emph{and} only on other templates. This simulates adding a new c
 gradient-boosted trees (\texttt{HistGradientBoosting}, depth 3, 200 iterations, balanced classes),
 chosen by AUC, and the probability threshold $t \in \{0.30, 0.35, \ldots, 0.70\}$ that maximises the
 number of answers gained over the baseline. The RAG answer is used iff $P(\text{help}) > t$.
-\item Gradient boosting was selected in every outer fold (5/5 and 25/25); the chosen thresholds were
-0.30--0.40 (median 0.35) for cross-fitting and 0.30--0.55 for LOCO.
+\item Three feature sets are compared: retrieval only; + behaviour; + behaviour + judge (all).
+\item Gradient boosting was selected in every outer fold of every setup (5/5 and 25/25); with all
+features the chosen thresholds were 0.30--0.35 for cross-fitting and 0.30--0.45 for LOCO.
 \end{itemize}
 
 \begin{table}[h]
 \centering
-\caption{Gate quality: out-of-fold ROC-AUC for predicting help vs hurt, with retrieval features only
-and with all features, overall and within each country.}
+\caption{Gate quality: out-of-fold ROC-AUC for predicting help vs hurt, overall and within each
+country, for the three feature sets (R = retrieval, +B = + behaviour, +J = + behaviour + judge).}
 \label{tab:auc}
 \small
-\begin{tabular}{l|cc|cc}
+\begin{tabular}{l|ccc|ccc}
 \toprule
- & \multicolumn{2}{c|}{Grouped 5-fold} & \multicolumn{2}{c}{Leave-one-country-out} \\
- & Retrieval only & All features & Retrieval only & All features \\
+ & \multicolumn{3}{c|}{Grouped 5-fold} & \multicolumn{3}{c}{Leave-one-country-out} \\
+ & R & +B & +J & R & +B & +J \\
 \midrule
-All rows    & 0.797 & \textbf{0.822} & 0.790 & \textbf{0.813} \\
-US          & 0.584 & 0.751 & 0.639 & 0.771 \\
-Spain       & 0.584 & 0.609 & 0.546 & 0.552 \\
-South Korea & 0.574 & 0.596 & 0.555 & 0.598 \\
-Azerbaijan  & 0.686 & 0.744 & 0.671 & 0.722 \\
-Ethiopia    & 0.682 & 0.746 & 0.656 & 0.717 \\
+All rows    & 0.797 & 0.822 & \textbf{0.824} & 0.790 & 0.813 & 0.813 \\
+US          & 0.584 & 0.751 & 0.738 & 0.639 & 0.771 & \textbf{0.800} \\
+Spain       & 0.584 & 0.609 & \textbf{0.644} & 0.546 & 0.552 & \textbf{0.594} \\
+South Korea & 0.574 & 0.596 & \textbf{0.622} & 0.555 & 0.598 & \textbf{0.607} \\
+Azerbaijan  & 0.686 & 0.744 & 0.736 & 0.671 & 0.722 & 0.710 \\
+Ethiopia    & 0.682 & 0.746 & 0.750 & 0.656 & 0.717 & 0.725 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -716,16 +731,18 @@ Ethiopia    & 0.682 & 0.746 & 0.656 & 0.717 \\
 Logistic-regression weights on standardised features (fitted on all decisive rows, for
 interpretation only) give a readable picture of the decision; positive means ``use the RAG answer'':
 \begin{itemize}
-\item \textbf{Trust the cards} when there are more of them (\texttt{n\_cards} +0.40), even the weakest
-is relevant (\texttt{r\_min} +0.32), and the RAG answer is taken from them (\texttt{rag\_in\_cards}
-+0.31). This is the profile of KB v2 cards.
+\item \textbf{The judge is the strongest single signal} (\texttt{judge\_yes} +0.38): if an LLM says
+the cards state the answer, use the RAG answer.
+\item \textbf{Trust the cards} when even the weakest is relevant (\texttt{r\_min} +0.37), there are
+more of them (\texttt{n\_cards} +0.34) and the RAG answer is taken from them (\texttt{rag\_in\_cards}
++0.28). This is the profile of KB v2 cards.
 \item \textbf{Keep the baseline} when the baseline answer already appears in the cards
-(\texttt{base\_in\_cards} $-$0.31: the cards add nothing), when one card dominates the others
+(\texttt{base\_in\_cards} $-$0.33: the cards add nothing), when one card dominates the others
 (\texttt{r\_gap} $-$0.30), when the model is self-consistent without cards (\texttt{base\_agree}
-$-$0.18), and for sport questions ($-$0.45).
-\item \textbf{By model}, Mistral-7B, the strongest model, benefits least from cards ($-$0.18) and
-Qwen2.5-3B, the weakest, most (+0.15): a model-level version of the ``retrieve only when the model
-does not know'' idea. English questions benefit less than local-language ones ($-$0.24), consistent
+$-$0.18), and for sport questions ($-$0.38).
+\item \textbf{By model}, Mistral-7B, the strongest model, benefits least from cards ($-$0.17) and
+Qwen2.5-3B, the weakest, most (+0.14): a model-level version of the ``retrieve only when the model
+does not know'' idea. English questions benefit less than local-language ones ($-$0.22), consistent
 with BLEnD's finding that models know more about low-resource cultures in English.
 \end{itemize}
 
@@ -733,8 +750,9 @@ with BLEnD's finding that models know more about low-resource cultures in Englis
 
 \begin{table}[h]
 \centering
-\caption{Baseline (B), RAG v2 and RAG v3 (learned gate, grouped 5-fold cross-fitting) per model, SEM-B \%
-(mean of \texttt{inst-4} and \texttt{pers-3}), and the 3-model mean change versus the baseline.}
+\caption{Baseline (B), RAG v2 and RAG v3 (learned gate with all features incl.\ the judge, grouped
+5-fold cross-fitting) per model, SEM-B \% (mean of \texttt{inst-4} and \texttt{pers-3}), and the
+3-model mean change versus the baseline.}
 \label{tab:v3}
 \small
 \setlength{\tabcolsep}{4pt}
@@ -743,18 +761,18 @@ with BLEnD's finding that models know more about low-resource cultures in Englis
  & & \multicolumn{3}{c|}{Gemma3-4B} & \multicolumn{3}{c|}{Mistral-7B} & \multicolumn{3}{c|}{Qwen2.5-3B} & \multicolumn{2}{c}{Mean $\Delta$} \\
 Country & Lang. & B & v2 & v3 & B & v2 & v3 & B & v2 & v3 & v2 & v3 \\
 \midrule
-US          & en & 72.1 & 70.8 & 72.0 & 84.9 & 83.4 & 84.9 & 67.8 & 65.4 & 67.9 & $-$1.7 & \textbf{0.0} \\
-Spain       & es & 58.8 & 53.4 & 58.4 & 61.3 & 56.0 & 60.3 & 48.6 & 40.5 & 48.0 & $-$6.3 & \textbf{$-$0.7} \\
-            & en & 41.2 & 40.0 & 41.9 & 65.6 & 58.5 & 64.9 & 45.7 & 34.9 & 44.8 & $-$6.4 & \textbf{$-$0.3} \\
-South Korea & ko & 54.3 & 48.4 & 53.6 & 47.9 & 45.5 & 48.0 & 41.9 & 37.3 & 40.5 & $-$4.3 & \textbf{$-$0.6} \\
-            & en & 43.7 & 39.8 & 42.7 & 60.6 & 55.8 & 60.5 & 38.7 & 31.4 & 38.1 & $-$5.4 & \textbf{$-$0.6} \\
+US          & en & 72.1 & 70.8 & 72.2 & 84.9 & 83.4 & 84.9 & 67.8 & 65.4 & 67.8 & $-$1.7 & \textbf{0.0} \\
+Spain       & es & 58.8 & 53.4 & 58.4 & 61.3 & 56.0 & 60.8 & 48.6 & 40.5 & 47.8 & $-$6.3 & \textbf{$-$0.6} \\
+            & en & 41.2 & 40.0 & 41.4 & 65.6 & 58.5 & 65.4 & 45.7 & 34.9 & 44.7 & $-$6.4 & \textbf{$-$0.4} \\
+South Korea & ko & 54.3 & 48.4 & 53.5 & 47.9 & 45.5 & 48.3 & 41.9 & 37.3 & 41.1 & $-$4.3 & \textbf{$-$0.4} \\
+            & en & 43.7 & 39.8 & 42.8 & 60.6 & 55.8 & 60.1 & 38.7 & 31.4 & 38.9 & $-$5.4 & \textbf{$-$0.4} \\
 \midrule
-Azerbaijan  & az & 29.4 & 56.1 & 55.7 & 27.7 & 53.3 & 52.9 & 13.6 & 50.5 & 49.0 & +29.7 & +28.9 \\
-            & en & 45.7 & 63.6 & 63.4 & 59.8 & 71.4 & 71.5 & 37.1 & 61.2 & 62.6 & +17.9 & +18.3 \\
-Ethiopia    & am & 14.4 & 40.7 & 40.8 & 3.7  & 17.2 & 16.8 & 5.6  & 26.2 & 25.6 & +20.1 & +19.9 \\
-            & en & 30.6 & 46.5 & 46.5 & 46.3 & 54.9 & 55.1 & 25.5 & 42.7 & 42.2 & +13.9 & +13.8 \\
+Azerbaijan  & az & 29.4 & 56.1 & 55.8 & 27.7 & 53.3 & 52.9 & 13.6 & 50.5 & 49.3 & +29.7 & +29.0 \\
+            & en & 45.7 & 63.6 & 64.0 & 59.8 & 71.4 & 71.5 & 37.1 & 61.2 & 62.3 & +17.9 & \textbf{+18.4} \\
+Ethiopia    & am & 14.4 & 40.7 & 41.4 & 3.7  & 17.2 & 16.9 & 5.6  & 26.2 & 25.8 & +20.1 & \textbf{+20.2} \\
+            & en & 30.6 & 46.5 & 47.8 & 46.3 & 54.9 & 55.4 & 25.5 & 42.7 & 43.5 & +13.9 & \textbf{+14.8} \\
 \midrule
-\multicolumn{2}{l|}{All 9 settings} & 43.4 & 51.0 & \textbf{52.8} & 50.9 & 55.1 & \textbf{57.2} & 36.1 & 43.3 & \textbf{46.5} & +6.4 & \textbf{+8.8} \\
+\multicolumn{2}{l|}{All 9 settings} & 43.4 & 51.0 & \textbf{53.0} & 50.9 & 55.1 & \textbf{57.4} & 36.1 & 43.3 & \textbf{46.8} & +6.4 & \textbf{+9.0} \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -762,7 +780,7 @@ Ethiopia    & am & 14.4 & 40.7 & 40.8 & 3.7  & 17.2 & 16.8 & 5.6  & 26.2 & 25.6 
 \begin{table}[h]
 \centering
 \caption{Summary over all systems (3-model means, SEM-B \%). v3 rows are out-of-sample; the perfect
-gate is an upper bound that uses the gold labels.}
+gate is an upper bound that uses the gold labels. LOCO = leave-one-country-out.}
 \label{tab:v3sum}
 \begin{tabular}{l|ccc|c}
 \toprule
@@ -771,9 +789,11 @@ System & High-resource & Low-resource & All 9 & Gap \\
 Baseline                              & 55.5 & 28.3 & 43.4 & 27.2 \\
 RAG v1                                & 39.9 & 21.2 & 31.6 & 18.7 \\
 RAG v2                                & 50.7 & \textbf{48.7} & 49.8 & 2.0 \\
-RAG v3, retrieval features only (5-fold) & 55.0 & 48.2 & 52.0 & 6.8 \\
-\textbf{RAG v3, all features (5-fold)} & \textbf{55.1} & 48.5 & \textbf{52.2} & 6.6 \\
-RAG v3, all features (leave-one-country-out) & 55.0 & 48.1 & 52.0 & 6.9 \\
+v3: retrieval (5-fold) & 55.0 & 48.2 & 52.0 & 6.8 \\
+v3: + behaviour (5-fold) & 55.1 & 48.5 & 52.2 & 6.6 \\
+\textbf{v3: + behaviour + judge (5-fold)} & \textbf{55.2} & \textbf{48.9} & \textbf{52.4} & 6.3 \\
+v3: + behaviour (LOCO) & 55.0 & 48.1 & 52.0 & 6.9 \\
+v3: + behaviour + judge (LOCO) & 55.1 & 48.4 & 52.1 & 6.7 \\
 \midrule
 Perfect gate (upper bound)            & 59.1 & 55.0 & 57.3 & 4.1 \\
 \bottomrule
@@ -783,19 +803,21 @@ Perfect gate (upper bound)            & 59.1 & 55.0 & 57.3 & 4.1 \\
 \subsection{Findings}
 \begin{enumerate}
 \item \textbf{The learned gate removes almost all of v2's high-resource loss} (high-resource mean
-50.7$\rightarrow$55.1, baseline 55.5) while keeping nearly all of the low-resource gain
-(48.7$\rightarrow$48.5). The 9-setting mean improves from 49.8 (v2) to \textbf{52.2}, i.e.\ +8.8 points
+50.7$\rightarrow$55.2, baseline 55.5) and even slightly improves the low-resource result
+(48.7$\rightarrow$48.9). The 9-setting mean improves from 49.8 (v2) to \textbf{52.4}, i.e.\ +9.0 points
 over the baseline, and every model improves over v2 (Table~\ref{tab:v3}).
-\item \textbf{It transfers to unseen countries.} Leave-one-country-out loses only 0.2 points (52.0),
+\item \textbf{It transfers to unseen countries.} Leave-one-country-out loses only 0.3 points (52.1),
 so the gate is not memorising country identity.
-\item \textbf{Of the 5{,}419 decisive answers}, the gate avoided 1{,}139 of the 1{,}899 harmful
-switches at the cost of 541 of the 3{,}520 helpful ones; it keeps the baseline answer for 34\% of the
+\item \textbf{Of the 5{,}419 decisive answers}, the gate avoided 1{,}129 of the 1{,}899 harmful
+switches at the cost of 476 of the 3{,}520 helpful ones; it keeps the baseline answer for 33\% of the
 answers that received cards.
-\item \textbf{Where it is weak.} Within Spain and South Korea the AUC is only 0.55--0.61: the gate
-mostly learns ``these cards look like KB v1, keep the baseline'' rather than telling good KB v1 cards
-from bad ones. As a result Spain and South Korea remain 0.3--0.7 points below the baseline, and the gap
-widens again to 6.6 points because the high-resource side recovers. The perfect gate (57.3) shows
-another 5 points of headroom.
+\item \textbf{The judge helps where it was meant to, but modestly.} It is the strongest single feature
+and raises the within-country AUC for Spain (0.61$\rightarrow$0.64) and South Korea
+(0.60$\rightarrow$0.62), yet adds only +0.2 points to the 9-setting mean (+0.1 under
+leave-one-country-out). Most of the gain comes from the retrieval and behaviour features.
+\item \textbf{Where it is still weak.} Within Spain and South Korea the AUC stays near 0.6, so these
+settings remain 0.4--0.6 points below the baseline, and the gap widens again to 6.3 points because the
+high-resource side recovers. The perfect gate (57.3) shows another 5 points of headroom.
 \end{enumerate}
 
 \subsection{Limitations of RAG v3}
@@ -803,7 +825,10 @@ another 5 points of headroom.
 \item The labels come from BLEnD's gold answers. Cross-fitting keeps every reported number
 out-of-sample, but the gate is still tuned to this benchmark and these three models.
 \item It selects between two existing answers, so at inference time it needs both the baseline and the
-RAG answer (two LLM calls for questions with cards).
+RAG answer plus one judge call (three LLM calls for questions with cards). On a laptop CPU the judge took
+about 12\,s per question.
+\item The judge is a 7B model reading English cards; its probabilities are very confident (81\% are below 0.05 or
+above 0.95), which limits how finely the gate can use them.
 \item The behaviour features are lexical (word overlap) and work less well for Amharic, whose answers
 rarely share words with English cards.
 \end{itemize}
@@ -811,10 +836,6 @@ rarely share words with English cards.
 %=====================================================================
 \section{Next Steps}
 \begin{enumerate}
-\item \textbf{LLM answer-check judge as a gate feature} (in progress): an LLM (Mistral-7B, run locally)
-reads the English question and the cards and gives $P(\text{YES})$ for ``do these notes explicitly
-state the answer?'' (the CRAG retrieval-evaluator idea). It targets the weak within-country
-discrimination for Spain and South Korea.
 \item \textbf{Leave-own-cards-out run:} re-run Azerbaijan and Ethiopia with each question's own KB v2
 cards removed, to measure accuracy (not only coverage) on effectively unseen questions.
 \item \textbf{Oracle-KB upper bound:} RAG with cards built from the BLEnD answers, run separately and
@@ -827,7 +848,7 @@ questions, compared against the oracle English query.
 \end{enumerate}
 
 \paragraph{Reproducibility.} The code (\texttt{rag\_pipeline/}), the KBs, all prompts sent, all model
-responses (baseline, RAG v1, RAG v2) and per-question scores are in the project repository
+responses (baseline, RAG v1, RAG v2), the gate features, judge outputs and predictions (RAG v3) and per-question scores are in the project repository
 (\url{https://github.com/SidRai-247/BlenD_ML_Project}).
 
 \end{document}

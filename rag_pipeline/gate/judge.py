@@ -70,7 +70,7 @@ def main():
                 "model": args.model, "prompt": prompt, "stream": False, "logprobs": True, "top_logprobs": 10,
                 "options": {"temperature": 0, "num_predict": 1}}).json()
             p, how = p_yes(resp)
-            f.write(json.dumps({"country": r["country"], "qid": r["qid"], "p_yes": round(p, 4), "how": how,
+            f.write(json.dumps({"country": r["country"], "qid": r["qid"], "p_yes": round(p, 6), "how": how,
                                 "raw": resp["response"], "model": args.model}, ensure_ascii=False) + "\n")
             f.flush()
             if i % 50 == 0 or i == len(todo):
